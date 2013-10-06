@@ -12,7 +12,7 @@ formatos = {
         'R' : 'Acordes',
         'K' : 'Piano',
         'T' : 'Tablatura para guitarra',
-        'H' : 'Armónica',
+        'H' : u'Armónica',
         'B' : 'Bajo'
         }
 
@@ -27,10 +27,11 @@ def get_artists():
     único del artista"""
 
     artistas = []
+    slugs = [] # Para que no se repitan si aparecen dos veves
 
     #Obtengo el menú con las iniciales de los artistas
     pq = get_pq('/tabs/')
-    for link in pq('#a_menu td a')[:2]:
+    for link in pq('#a_menu td a'):
         link = P(link)
         url = link.attr('href')
         letra = link.text()
@@ -42,8 +43,8 @@ def get_artists():
             link = P(link)
             texto = link.text()
             url_pag = link.attr('href')
-            if verbose: print '\tExplorando la página', texto
-            pq_pagina = get_pq(urljoin(HOST, url), url_pag)
+            #if verbose: print '\tExplorando la página', texto
+            pq_pagina = get_pq(url_pag, urljoin(HOST, url))
             #Obtengo los artistas de esa página
             for artista in pq_pagina('#i_main li a'):
                 artista = P(artista)
@@ -51,14 +52,16 @@ def get_artists():
                 nombre = ' '.join(nombre.split()[2:]) # Elimino el Canciones de
                 id_artista = artista.attr('href')
                 id_artista = id_artista[1:-1] # Le saco las /
-                artistas.append((nombre, id_artista))
+                if not id_artista in slugs:
+                    artistas.append((nombre, id_artista))
+                slugs.append(id_artista)
 
     return artistas
 
 
 def get_canciones(artista):
     """ Devuelve un diccionario con listas con diferentes versiones para
-    cada canción y otro para el slug correspondiente a cada canción """
+    cada canción y otro para el título correspondiente a cada slug """
 
     canciones = dict()
     slugs = dict()
@@ -69,8 +72,8 @@ def get_canciones(artista):
         slug = cancion.attr('href')
         titulo = cancion.text()
         titulo = ' '.join(titulo.split()[:-1])
-        slugs[titulo] = slug
-        if verbose: print 'Cargando canción', titulo
+        slugs[slug] = titulo
+        if verbose: print '\tCargando canción', titulo
         pq_versiones = get_pq(artista + '/' + slug)
 
         #Busco el PHP que tiene los matadatos de las versiones
@@ -105,10 +108,10 @@ def get_canciones(artista):
             version = dict(
                     version_id = version_id,
                     slug = slug_version,
-                    formato = formatos.get(formato, formato),
+                    formato = formato,
                     puntaje = puntaje,
                     votos = votos,
-                    letra = letra)
+                    contenido = letra)
             versiones.append(version)
 
         canciones[slug] = versiones
