@@ -38,9 +38,10 @@ for slug,nombre in notdownloaded.fetchall():
     for slug_cancion, versiones in canciones.items(): # La clave es el slug
         cur.execute('INSERT INTO cancion VALUES (?,?,?)', (slug, slug_cancion,
             slugs[slug_cancion]))
+        rowid = cur.lastrowid
         for version in versiones:
             cur.execute('INSERT INTO version VALUES (?,?,?,?,?,?)', 
-                    (slug_cancion, version['version_id'], version['formato'],
+                    (rowid, version['version_id'], version['formato'],
                     version['puntaje'], version['votos'], version['contenido']))
     cur.execute('UPDATE artista SET descargado=1 WHERE slug=?', [slug])
     con.commit()
