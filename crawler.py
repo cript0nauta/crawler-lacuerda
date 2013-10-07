@@ -59,6 +59,8 @@ def get_artists():
     return artistas
 
 
+rt = spidermonkey.Runtime()
+cx = rt.new_context()
 def get_canciones(artista):
     """ Devuelve un diccionario con listas con diferentes versiones para
     cada canción y otro para el título correspondiente a cada slug """
@@ -87,8 +89,7 @@ def get_canciones(artista):
         #Ejecuto el javascript del cal.php
         cal_url = urljoin(HOST, cal_url)
         cal = requests.get(cal_url).text
-        rt = spidermonkey.Runtime()
-        cx = rt.new_context()
+        cal = cal[cal.find('trcal'):] # A veces el JS tiene warnings de PHP
         cx.execute(cal)
         metadata = list(cx.execute('trcal'))
 
@@ -101,6 +102,9 @@ def get_canciones(artista):
             if version_id != 1:
                 slug_version += '-' + str(version_id)
             metadata_version = metadata[version_id]
+            if not metadata_version: # Hay algunos errores 404 que debo ignorar
+                print 'Canción inexistente. Ignorando'
+                continue
             formato, puntaje, votos = metadata_version
             url_letra = urljoin(HOST, '/'.join(['TXT', artista, 
                 slug_version+'.txt']))
