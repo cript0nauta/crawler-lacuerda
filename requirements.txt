@@ -1,0 +1,6 @@
+cssselect==0.8
+lxml==3.2.3
+pyquery==1.2.5
+python-spidermonkey==0.0.10
+requests==2.0.0
+wsgiref==0.1.2
