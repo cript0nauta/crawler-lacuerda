@@ -4,6 +4,7 @@ import requests
 import spidermonkey
 from urlparse import urljoin
 from pyquery import PyQuery as P
+import time
 
 HOST = 'http://acordes.lacuerda.net/'
 verbose = True
@@ -20,7 +21,12 @@ def get_pq(path, base=HOST):
     """ Retorna un objeto PyQuery a partir de un path a la página de
     lacuerda. El argumento opcional base indica la URL a la que se le
     agrega el path"""
-    return P(requests.get(urljoin(base, path)).text)
+    try:
+        return P(requests.get(urljoin(base, path)).text)
+    except requests.exceptions.ConnectionError:
+        print 'Conexión rehusada. Reintentando en 20 segundos'
+        time.sleep(20)
+        return P(requests.get(urljoin(base, path)).text)
 
 def get_artists():
     """ Devuelve una lista con tuplas de Nombre e identificador 
@@ -88,7 +94,12 @@ def get_canciones(artista):
 
         #Ejecuto el javascript del cal.php
         cal_url = urljoin(HOST, cal_url)
-        cal = requests.get(cal_url).text
+        try:
+            cal = requests.get(cal_url).text
+        except requests.exceptions.ConnectionError:
+            print 'Error de conexión. Reintentando en 20 segundos'
+            time.sleep(20)
+            cal = requests.get(cal_url).text
         cal = cal[cal.find('trcal'):] # A veces el JS tiene warnings de PHP
         cx.execute(cal)
         metadata = list(cx.execute('trcal'))
@@ -108,7 +119,12 @@ def get_canciones(artista):
             formato, puntaje, votos = metadata_version
             url_letra = urljoin(HOST, '/'.join(['TXT', artista, 
                 slug_version+'.txt']))
-            letra = requests.get(url_letra).text
+            try:
+                letra = requests.get(url_letra).text
+            except requests.exceptions.ConnectionError:
+                print 'Error de conexión. Reintentando en 20 segundos'
+                time.sleep(20)
+                letra = requests.get(url_letra).text
             version = dict(
                     version_id = version_id,
                     slug = slug_version,
