@@ -2,3 +2,5 @@
 .*.sw?
 *~
 db.db
+sitio/db.json
+
