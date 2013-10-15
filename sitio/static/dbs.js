@@ -22,8 +22,8 @@ $(function(){
             {
                 slug_artista = key;
                 artista = artistas[slug_artista];
-                slug_cancion = value[i].slug;
-                titulo = value[i].titulo;
+                slug_cancion = value[i].s;
+                titulo = value[i].t;
                 descripcion = 'Autor: ' + artista;
                 url = '/' + slug_artista + '/' + slug_cancion;
                 add_db(url, titulo, descripcion, ['cancion']);
