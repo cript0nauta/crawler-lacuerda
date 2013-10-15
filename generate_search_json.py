@@ -33,8 +33,8 @@ q = """ SELECT
 for slug_artista, slug_cancion, titulo in cur.execute(q):
     anterior = canciones.get(slug_artista, []) # Conservo la lista si existe
     anterior.append(dict(
-        slug = slug_cancion,
-        titulo = titulo
+        s = slug_cancion,
+        t = titulo
         ))
     canciones[slug_artista] = anterior
 
