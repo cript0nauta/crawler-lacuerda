@@ -1,0 +1,10 @@
+{% extends "index.html" %}
+
+{% block body %}
+    <h1>{{ nombre }}</h1>
+    <ul>
+        {% for cancion in canciones %}
+        <li><a href="/artistas/{{ slug }}/{{ cancion.slug }}.html">{{ cancion.titulo }}</a></li>
+        {% endfor %}
+    </ul>
+{% endblock %}
