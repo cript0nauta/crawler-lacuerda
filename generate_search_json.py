@@ -4,6 +4,7 @@ import os
 import sqlite3
 import argparse
 import json
+from progressbar import ProgressBar
 
 default_out = os.path.join(os.path.dirname(__file__), 'sitio/db.json')
 default_db = os.path.join(os.path.dirname(__file__), 'db.db')
@@ -25,18 +26,23 @@ for slug, nombre in cur.execute(q):
     artistas[slug] = nombre
 
 canciones = dict()
+total_canciones = cur.execute('SELECT count(*) FROM cancion').fetchone()[0]
 q = """ SELECT
+            rowid,
             slug_artista,
             slug,
             titulo
         FROM cancion """
-for slug_artista, slug_cancion, titulo in cur.execute(q):
+pbar = ProgressBar(maxval = total_canciones).start()
+for rowid, slug_artista, slug_cancion, titulo in cur.execute(q):
     anterior = canciones.get(slug_artista, []) # Conservo la lista si existe
     anterior.append(dict(
         s = slug_cancion,
         t = titulo
         ))
     canciones[slug_artista] = anterior
+    pbar.update(rowid)
+pbar.finish()
 
 f = open(args.output, 'w')
 f.write(json.dumps(dict(
