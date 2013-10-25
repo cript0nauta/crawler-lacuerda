@@ -19,6 +19,7 @@ parser.add_argument('-o', '--output', default = default_out, help = 'Directorio 
 args = parser.parse_args()
 
 con = sqlite3.connect(args.db_file)
+con.row_factory = sqlite3.Row # Puedo ver los resultados de consultas como dict
 cur = con.cursor()
 
 # Creo el db.json para el buscador client-side
@@ -83,4 +84,83 @@ for slug, nombre in pbar(cur.execute(q).fetchall()):
     f.write(render.encode('utf8'))
     f.close()
 
+pbar = ProgressBar()
+pbar.widgets.insert(0, 'Generando HTMLs para las canciones ... ')
+q = """
+    select
+        c.rowid,
+        a.slug as slug_artista,
+        a.nombre as artista,
+        c.slug as slug_cancion,
+        titulo as titulo_cancion
+    from cancion as c
+    join artista as a on
+        slug_artista = a.slug
+"""
+template_cancion = env.get_template('cancion.html')
+for c in pbar(cur.execute(q).fetchall()):
+     versiones = []
+     q_ = """
+        select
+            version,
+            formato as id_formato,
+            f.descripcion as formato,
+            puntaje,
+            votos
+        from version
+        join formato as f on
+            formato = f.id
+        where id_cancion=?
+        """
+     for v in cur.execute(q_, [c['rowid']]):
+         versiones.append(dict(
+             version = v['version'],
+             formato = v['formato'],
+             puntaje = v['puntaje'],
+             votos   = v['votos'],
+             ))
 
+     render = template_cancion.render(slug_artista = c['slug_artista'],
+             nombre_artista = c['artista'],
+             slug_cancion = c['slug_cancion'],
+             versiones = versiones             
+             )
+
+     f = open(os.path.join(args.output, 'artistas', c['slug_artista'], 
+         c['slug_cancion'] + '.html'), 'w')
+     f.write(render.encode('utf8'))
+     f.close()
+     pbar.update(c['rowid'])
+
+
+template_version = env.get_template('version.html')
+total_versiones = cur.execute('SELECT count(*) FROM version').fetchone()[0]
+pbar = ProgressBar(maxval = total_versiones)
+pbar.widgets.insert(0, 'Generando HTMLs para las versiones ... ')
+q = """
+select
+	a.slug as slug_artista,
+	a.nombre as artista,
+	c.slug as slug_cancion,
+	c.titulo,
+	version,
+	formato as id_formato,
+	f.descripcion as formato,
+	puntaje,
+	votos,
+    contenido,
+	(c.slug || '-' || version || '.html') as filename
+from version
+join cancion as c on
+	c.rowid = id_cancion
+join artista as a on
+	c.slug_artista = a.slug
+join formato as f on
+	formato = f.id
+"""
+for version in pbar(cur.execute(q)):
+    render = template_version.render(**version)
+    f = open(os.path.join(args.output, 'artistas', version['slug_artista'],
+        version['filename']), 'w')
+    f.write(render.encode('utf8'))
+    f.close()
