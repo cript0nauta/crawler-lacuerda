@@ -14,7 +14,8 @@ formatos = {
         'K' : 'Piano',
         'T' : 'Tablatura para guitarra',
         'H' : u'Armónica',
-        'B' : 'Bajo'
+        'B' : 'Bajo',
+        'D' : u'Batería'
         }
 
 def get_pq(path, base=HOST):
