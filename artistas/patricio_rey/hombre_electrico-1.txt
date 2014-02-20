@@ -1,0 +1,256 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Patricio Rey y sus Redonditos de Ricota                  |
+| CANCION: HOMBRE ELECTRICO                                         |
+| AUTOR:   Beilinson - Solari                                       |
+| ALBUM:   Inedito                                                  |
++------------------------------------------------------TAB-redo0351-+
+| TRANS:   emanuel                                                  |
+=====================================================================
+
+Intro:
+Guitarra:              /Riff 1/
+           RE       DO          RE            RE          DO
+E|-10-10-------|-8-8-----|-10-10-------|-10-10-------|-8-8------||
+B|-------10----|-----8---|-------10----|-------10----|-----8----||
+G|----------11-|-------9-|----------11-|----------11-|-------9--||
+D|-------------|---------|-------------|-------------|----------||
+A|-------------|---------|-------------|-------------|----------||
+E|-------------|---------|-------------|-------------|----------||
+
+Saxo:                  /Riff 1/
+           RE       DO          RE            RE          DO
+E|-10-10-------|-8-8-----|-10-10-------|-10-10-------|-8-8------||
+B|-------10----|-----8---|-------10----|-------10----|-----8----||
+G|----------11-|-------9-|----------11-|----------11-|-------9--||
+D|-------------|---------|-------------|-------------|----------||
+A|-------------|---------|-------------|-------------|----------||
+E|-------------|---------|-------------|-------------|----------||
+
+-DESPUES-
+
+Guitarra:              /Riff 2/
+           RE       DO           SOLm             LAm
+E|----5-----5--|---3----3-|-----3-----3---|------5------5---||
+B|----5-----5--|---3----3-|-----3-----3---|------5------5---||
+G|--x-7---x-7--|-x-5--x-5-|-----4-----4---|------6------6---||
+D|--x-7---x-7--|-x-5--x-5-|---x-5---x-5---|---x--7---x--7---||
+A|--x-5---x-5--|-x-3--x-3-|---x-5---x-5---|---x--7---x--7---||
+E|-------------|----------|---x-3---x-3---|---x--5---x--5---||
+
+Saxo:                  /Riff 2/
+           RE       DO           SOLm             LAm
+E|-10-10-------|-8-8------|---------------|------------------||
+B|-------10----|-----8----|-8-6---8-6---8-|-10-8---10-8---10-||
+G|----------11-|-------9--|-----7-----7---|------9------9----||
+D|-------------|----------|---------------|------------------||
+A|-------------|----------|---------------|------------------||
+E|-------------|----------|---------------|------------------||
+
+
+1er VERSO:
+---------
+
+D            C
+  Soy un perdido eléctrico,
+D        C                  (con Riff 1)
+  el universo eléctrico,
+D          C
+  un multitudinario,
+Gm            Am            (con Riff 2)
+  perdido y sin identidad.
+
+
+2do VERSO: (igual que en el primero)
+---------
+
+D            C
+  Cuido mi tubo túnel
+D        C                   (CON Riff 1)
+  con DDT galáctico
+D          C
+  y aunque parezca un crimen,
+Gm             Am              (CON Riff 2)
+  el monstruo no me sigue más.
+
+
+1er ESTRIBILLO:
+--------------
+
+Guitarra:
+    SIm    SOLm      LAm       SIm      SIm    SOLm       Fill 1
+E|-------|---3----3|---5---5|---7---7|---7---7|-3--|---------------------|
+B|-7--(7)|---3----3|---5---5|---7---7|---7---7|-3--|-------------3-------|
+G|-8--(8)|---4----4|---6---6|---8---8|---8---8|-4-x|-------(5)-5---5-----|
+D|-9--(9)|-x-5--x-5|-x-7-x-7|-x-9-x-9|-x-9-x-9|-5-x|-4-3-4-----------5-4-|
+A|-9--(9)|-x-5--x-5|-x-7-x-7|-x-9-x-9|-x-9-x-9|-5-x|---------------------|
+E|-7--(7)|-x-3--x-3|-x-5-x-5|-x-7-x-7|-x-7-x-7|-3--|---------------------|
+
+  Bm     Gm       Am    Bm                                      Fill 2
+  yo soy, yo soy nadie                            E|---------------------|
+  Bm               Gm  Fill 1                     B|-------------6-------|
+                yo soy.                           G|-------(8)-8---8-----|
+  Bm     Gm       Am   Bm                         D|-7-6-7-----------7-6-|
+  yo soy, yo soy nadie                            A|---------------------|
+  Bm               Gm  Fill 1+Fill 2              E|---------------------|
+                yo soy.
+
+Guitarra:  (solo)
+E|-----------------------(5)------------------------------------||
+B|----------(5)-------------------------------------------------||
+G|-7b-7b-7b-----7b-7-5-7------me-falta-todo-el-solo!!!----------||
+D|--------------------------------------------------------------||
+A|--------------------------------------------------------------||
+E|--------------------------------------------------------------||
+
+
+2do ESTRIBILLO: (igual que en el primero)
+--------------
+
+  Bm     Gm       Am   Bm
+  yo soy, yo soy nadie
+  Bm               Gm  Fill 1
+                yo soy.
+  Bm     Gm       Am   Bm
+  yo soy, yo soy nadie
+  Bm               Gm  Fill 1+Fill 2
+                yo soy.
+
+
+3er VERSO: (igual que en el primero)
+---------
+
+D           C
+  Y así prosigue el juego,
+D           C               (con Riff 1)
+  boda de los aliados,
+D             C
+  abuelitos perversos
+Gm           Am             (con Riff 2)
+  timbeandose la eternidad.
+
+
+4to VERSO: (igual que en el primero)
+---------
+
+D            C
+  Soy un perdido eléctrico,
+D        C                  (con Riff 1)
+  el universo eléctrico,
+D          C
+  un multitudinario,
+Gm           Am             (con Riff 2)
+  perdido y sin identidad.
+
+
+3er ESTRIBILLO: (igual que en el primero)
+--------------
+
+  Bm     Gm       Am   Bm
+  yo soy, yo soy nadie
+  Bm               Gm  Fill 1
+                yo soy.
+  Bm     Gm       Am   Bm
+  yo soy, yo soy nadie
+  Bm               Gm  Fill 1+Fill 2
+                yo soy.
+
+Guitarra:   (solo 2)
+E|--------------------------------------||
+B|--------------------------------------||
+G|--Exactamente-igual-al-solo-1---------||
+D|--------------------------------------||
+A|--------------------------------------||
+E|--------------------------------------||
+
+
+4to ESTRIBILLO: (igual que en el primero)
+--------------
+
+  Bm     Gm       Am   Bm
+  yo soy, yo soy nadie
+  Bm               Gm  Fill 1
+                yo soy.
+  Bm     Gm       Am   Bm
+  yo soy, yo soy nadie
+  Bm               Gm  Fill 1+Fill 2
+                yo soy.
+
+
+5to VERSO: (igual que en el primero)
+---------
+
+D            C
+  Soy un perdido eléctrico,
+D        C                  (con Riff 1)
+  el universo eléctrico,
+D          C
+  un multitudinario,
+Gm           Am             (con Riff 2)
+  perdido y sin identidad.
+
+
+6to VERSO: (igual que en el primero)
+---------
+
+D            C
+  Cuido mi tubo túnel
+D        C                   (CON rIFF 1)
+  con DDT galáctico
+D          C
+  y aunque parezca un crimen,
+Gm            Am               (CON Riff 2)
+  el monstruo no me sigue más.
+
+
+5to ESTRIBILLO: (igual que en el primero)
+--------------
+
+  Bm     Gm       Am   Bm
+  yo soy, yo soy nadie
+  Bm               Gm  Fill 1
+                yo soy.
+  Bm     Gm       Am   Bm
+  yo soy, yo soy nadie
+  Bm               Gm  Fill 1
+                yo soy.
+
+
+IMPROVISACION DEL "INDIO":
+-------------------------
+
+Guitarra:
+      SIm        SOLm     LAm
+E|---7-7---7-7-|---3-3-|---5-5-|----||
+B|---7-7---7-7-|---3-3-|---5-5-|----||
+G|---8-8---8-8-|---4-4-|---6-6-|-X8-||
+D|-x-9-9-x-9-9-|-x-5-5-|-x-7-7-|----||
+A|-x-9---x-9---|-x-5---|-x-7---|----||
+E|-x-7---x-7---|-x-3---|-x-5---|----||
+
+
+SOLO DE SAXO:
+------------
+
+Guitarra:
+                                          SIm     SOLm  LAm   RE (PALANCA)
+E|----------|---------|---------|----|---7----7-|-(3)-|-(5)-|-(5)~~~-||
+B|----------|---------|---------|----|---7----7-|-(3)-|-(5)-|-(5)~~~-||
+G|----SIm---|---SOLm--|---LAm---|-X3-|---8----8-|-(4)-|-(6)-|-(7)~~~-||
+D|--(IGUAL)-|-(IGUAL)-|-(IGUAL)-|----|-x-9--x-9-|-(5)-|-(7)-|-(7)~~~-||
+A|----------|---------|---------|----|-x-9--x-9-|-(5)-|-(7)-|-(5)~~~-||
+E|----------|---------|---------|----|-x-7--x-7-|-(3)-|-(5)-|--------||
+
+
+Bueno...en este tema los fills 1 y2 estan mas o menos ya que no se
+escucha muy bien esta version del tema que tengo,bueno saludos..
+AGUANTE LOS REDON2!!!!!!!!!!!!
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

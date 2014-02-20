@@ -1,0 +1,192 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: UN MISIL EN MI PLACARD (UNPLUGGED)                       |
+| AUTOR:   Gustavo cerati                                           |
+| ALBUM:   Confort y musica para volar (mtv unplugged) (199)        |
++------------------------------------------------------ACO-soda0812-+
+| TRANS:   Wallie                                                   |
+=====================================================================
+
+|                                                                   |
+| Web:     http://www.myspace.com/mrwallie                          |
+|          http://www.myspace.com/cvervos                           |
+|                                                                   |
+|Fuentes: Video Unplugged, cada acorde y su nombre                  |
+|         fue verificado en D`Accord Personal Guitarist Software,   |
+|         sitio web http://www.daccordmusic.com/eng/                |
+|                                                                   |
+| Notas:  Las Notas numeradas en la transcripccion son              |
+|         para hacer receña o aclaracion de algun punto,            |
+|         al final estara dicha notacion.                           |
+|                                                                   |
+|                          * &lt;--(Nota:1)                            |
+|                                                                   |
+|                                                                   |
++-------------------------------------------------------------------+
+|                                                                   |
+|                    Afinacion Regular: E                           |
+|                         E B G D A E                               |
+|                                                                   |
++-------------------------------------------------------------------+
+| |F#m4/7  Em7  *F#m4/7  *Em  **Em7  Bm  A(add9)  Esus4(13)  G6  Fm#|
+|e|  0      0      0       0    0     7     0       0         0   2 |
+|B|  0      0      0       0    3     7     0       0         0   2 |
+|G|  9      7      6       4    0     7     6       6         4   2 |
+|D|  7      5      7       5    2     9     7       7         5   4 |
+|A|  9      7      9       7    2     9     7       7         5   4 |
+|E|  x      x      x       x    0     7     5       x         3   2 |
++-------------------------------------------------------------------+
+| |Dsus9                                                            |
+|e|  0                                                              |
+|B|  3                                                              |
+|G|  2                                                              |
+|D|  0                                                              |
+|A|  x                                                              |
+|E|  x                                                              |
+=====================================================================
+
+
+
+Intro
+(00:00)
+F#m4/7     Em7     *F#m4/7     *Em (x3) &lt;--(Nota:2)
+
+F#m4/7     Em7      Bm          Em  &lt;--(Nota:3)
+
+
+
+
+
+(00:40)
+F#m4/7    Em7              *F#m4/7   *Em
+    Refugiados sobre el divan
+
+F#m4/7    Em7              *F#m4/7   *Em
+    Agitados por nuestras formas
+
+F#m4/7             Em7                    *F#m4/7     *Em
+Algo ocurrio, una extraña sensacion, un presentimiento
+
+F#m4/7              Em7            Bm          Em &lt;--(Nota: 3.2)
+Tuve que dejar de hacer el amor en el momento
+
+
+
+(01:20)
+F#m4/7      Em7    *F#m4/7    *Em
+    Fui en busca de un abrigo
+
+F#m4/7   Em7  *F#m4/7    *Em
+    Encendi un cigarrillo
+
+
+
+
+(01:39)
+         A(add9)   G6             Fm     G6
+Y ahi lo vi, un misil en mi placard, en mi placard
+
+
+     A(add9)                 G6           Bm      Em
+Un modelo para armar, pero nunca para desarmar
+
+
+
+
+(2:01)
+Solo &lt;--(Nota:4)
+
+    F#m4/7         Em7             *F#m4/7
+e|-----------------------------------------
+B|-----------------------------------------
+G|-----------------------------------------
+D|---------2---4--------2---4--9-9/7-7-----
+A|--2/4-4---4-----2/4-4---4----------------
+E|-----------------------------------------
+
+
+                     *Em         F#m4/7                   Bm       Em
+
+e|------------------------------------------------7--------7--
+B|-----------------------------------7-10----7-10---10-----7--
+G|-9--11-10-9/7---7-9/11-11-11-11--9-------9---------------7--
+D|-------------9--------9--9--9-------------------------------
+A|------------------------------------------------------------
+E|------------------------------------------------------------
+
+
+
+
+
+
+(02:20)
+F#m4/7    Em7       *F#m4/7   *Em
+    Te mire tristemente
+
+F#m4/7          Em7         *F#m4/7   *Em
+   No hay mas tiempo que perder
+
+
+(02:39)
+        A(add9)   G6            Fm      G6
+Estaba ahi, un misil en mi placard, en mi placard
+
+     A(add9)                G6         Bm      Em
+Un modelo para armar, pero nunca para desarmar
+
+
+
+(03:00)
+  F#m4/7     Esus4(13)  *Em (x4)
+
+(03:18)
+
+         F#m4/7     Esus4(13)  *Em
+Aqui tambien
+
+     F#m4/7     Esus4(13)  *Em
+o creias que estabas lejos
+
+    F#m4/7     Esus4(13)  *Em
+tambien
+
+     F#m4/7     Esus4(13)  *Em
+o creias que estabas lejos
+
+
+Outro
+(03:39)
+Dsus9     **Em7 (x7)
+
+(03:13)
+Dsus9     **Em7     Em &lt;--(Nota:3.3)
+
+
+
+  Nota 1: * la estrella es para aclarar que es
+          una variacion del acorde al que se hace referencia.
+
+  Nota 2: esta parte simboliza el numero veces que se
+          repetira la linea señalada.
+
+  Nota 3: Este Em la guitarra hace un silencio, el bajo y
+          la bateria hacen el corte en la cansion,
+          pero si no tienes un bajo y bateria que te acompañen
+          no estaria mal ejecutarlo.
+    (3.2) Sigue estando hay el mismo silencio, acorde de Em.
+    (3.3) Y terminamos en silencio o con el Em.
+
+  Nota 4: El solo suena bien pero estoi seguro de que alguien
+          lo puede sacar mejor,
+          asi que si lo tienes bien por favor haserme
+          la aclaracion via email Gracias.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

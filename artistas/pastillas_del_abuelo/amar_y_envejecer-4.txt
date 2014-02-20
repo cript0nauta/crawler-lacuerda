@@ -1,0 +1,112 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Las Pastillas del Abuelo                                 |
+| CANCION: AMAR Y ENVEJECER                                         |
+| AUTOR:   Las Pastillas del Abuelo                                 |
+| ALBUM:   Las Pastillas del Abuelo (2006)                          |
++------------------------------------------------------TAB-pdab0514-+
+| TRANS:   Santiago                                                 |
+=====================================================================
+
+Les dejo una única estrofa, que es la que se toca con el Riff,
+pero no dejo los acordes del resto de la letra de la canción
+ya que ya los han subido a la página.
+
+Solo de guitarra
+Base: (Am - Fmaj7/9  Dm  G) x4
+
+e|--------------------------------15b-15--|
+B|---------10-13-10~--15brp13-------------|
+G|----9-12--------------------------------|
+D|-12-------------------------------------|
+A|----------------------------------------|
+E|----------------------------------------|
+
+e|-15p12-14p12----12----------------------------------------------
+B|-------------15----15-12-15p12h14p12----15-----15-15----15-15---
+G|-------------------------------------14----14b-------14b--------
+D|----------------------------------------------------------------
+A|----------------------------------------------------------------
+E|----------------------------------------------------------------
+
+e|----------------------|
+B|----------------------|
+G|-14br-12----12-14-----|
+D|---------14-------14--|
+A|----------------------|
+E|----------------------|
+
+e|----------------------------------------------------------|
+B|------------------------------13-------------------12-----|
+G|-------------12-14b-14b-14p12----14p12-14-------14----14--|
+D|-------12-14---------------------------------12-----------|
+A|-12-14------------------------------------14--------------|
+E|----------------------------------------------------------|
+
+e|------------------------------|
+B|------------------------------|
+G|-7brp5---5---------5-5h7-5-5--|
+D|-------7---7---5-7------------|
+A|-------------7----------------|
+E|------------------------------|
+
+e|----5-------------------------5-8-5---8s10-10---|
+B|------8-5---------------8-5-8-------8-----------|
+G|-7b-------7-7p5---5-7-7-------------------------|
+D|----------------7-------------------------------|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+e|-------------------------------|
+B|-----------------------15------|
+G|-12-14-14--12-14-12-14b---14*--|
+D|-------------------------------|
+A|-------------------------------|
+E|-------------------------------|
+
+e|-------8-7--------------------------------|
+B|-----8-----8---8-8------------------------|
+G|-7-9---------9-----9p7-9p7---7------------|
+D|---------------------------9---9-9-9-7-9--|
+A|------------------------------------------|
+E|------------------------------------------|
+
+Después del solo, se toca 4 veces el Riff,
+y engancha con esta estrofa
+                                         ___
+  ¿Qué esperás? Mostrame todas las cartas,  |
+  a cara de perro no sé jugar.              |__ única estrofa
+  Me endulzás, el ego siendo sincera,       |     con Riff
+  dale un poco y te va a pedir más.      ___|
+
+Riff (con wha wha)
+
+e|-8-5--------------|
+B|-----8------------|
+G|-------7p5---5h7--|
+D|-----------7------|
+A|------------------|
+E|------------------|
+
+Notación:
+
+- h: hammer on o ligado ascendente. 5h7
+- p: pull off o ligado descendente. 7p5
+- b: bending, o estirar la cuerda. 14b - 7b
+Todos los bendings en esta canción son "Full".
+En los bendings full, siempre la cuerda estirada tiene que sonar como
+si la estuviéramos tocando dos trastes más adelante. 14b (16) - 7b (9)
+- r: release o bajar la cuerda (que fue antes estirada) . 14br
+- brp: bending + release + pull off. 7brp5 Se estira la cuerda en
+el traste 7 hasta que suene como en el 9, luego se baja la cuerda
+hasta que suene como el 7, y luego, ligado descendente con el 5.
+- *: armónico
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

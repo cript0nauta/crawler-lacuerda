@@ -1,0 +1,303 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Luis Alberto Spinetta                                    |
+| CANCION: CANTATA DE PUENTES AMARILLOS                             |
+| AUTOR:   B)                                                       |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------ACO-spin0311-+
+| TRANS:   Martín                                                   |
+=====================================================================
+
+Después de algunos años hago la corrección sobre mi popia transcripción
+
+Intro
+
+e-------------------     ------------------/
+b-------------------     ------------------/
+g-------------------  X3 ------------------/
+d-------------------     ------------------/
+a------------9-11-9-     ---12-11-9--12-11-/
+E----9-10-12--------     ------------------/
+
+-------------------/      ------------------/
+-------------------/      ------------------/
+-------------------/   X3 ------------------/
+-----------9-11-9v-/      ---12-11-9--12-11v/
+---9-11-12---------/      ------------------/
+-------------------/      ------------------/
+
+--------------------9---/      ------------------9----
+--------------10h9v-(9)-/      ---10h9-----------10---
+---------9-11-----------/   X3 --------11h9------11---
+---11-12----------------/      -------------12v--12---
+------------------------/      -----------------------
+------------------------/      -----------------------
+
+---0--9---9---/
+---5--10--9---/
+---6--11--10--/
+---7--12--11--/
+---0------11--/
+----------9---/
+
+
+Acordes:
+
+A         x-0-2-2-2-0
+A(5to)    5-7-7-6-5-5
+A*        x-0-11-9-10-9
+Amaj7     x-0-2-1-2-0
+Am        x-0-2-2-1-0
+Am7/G     3-0-2-2-1-0
+
+Bb        x-1-3-3-3-1
+Bb(6t0)   6-8-8-7-6-6
+Bbsus2/F  1-1-3-3-1-1
+Bb11      x-1-0-3-3-0
+Bdim      x-2-3-2-3-x
+B5/F#     2-2-4-4-x-x
+Bsus4     x-2-4-4-0-0
+B7/9      x-2-1-2-2-x
+Bm        x-2-4-4-3-2
+Bm(7mo)   7-9-9-7-7-7
+Bm7       x-2-4-2-3-2
+
+C         x-3-2-0-1-0
+C/B       x-2-2-0-1-0
+Cdim      x-3-4-3-4-x
+C5        x-3-5-5-x-x
+C11#      x-3-2-4-3-2
+C#7/#9    x-4-3-4-5-0
+C#m       x-4-6-6-5-4
+
+D/F#      2-0-0-2-3-2
+D5        x-5-7-7-x-x
+D7        x-x-0-2-1-2
+DMaj7/F#  2-x-0-2-2-2
+D7sus4    x-x-0-2-1-3
+Dsus2/Bb  6-5-7-7-5-5
+
+E         0-2-2-1-0-0
+E5        x-7-9-9-x-x
+
+F         1-3-3-2-1-1
+Fmaj7     1-3-3-2-1-0
+FMaj7/A   x-0-3-2-1-0
+F#        2-4-4-3-2-2
+F#m       2-4-4-2-2-2
+F#m(2)    x-x-4-2-2-x
+
+G         3-2-0-0-3-3
+G6/9      3-2-0-0-5-5
+Gm/Bb     x-1-0-0-3-3
+Gm7       3-5-5-3-6-3
+Gdim(Bb   x-1-x-3-2-3
+G#dim     x-x-6-4-3-x
+
+
+Riff's:
+
+Riff 1
+1-------------
+2--5--5-----5-
+3--6--7-----6-
+4--4--4-----4-
+5--0--0--7--0-
+6-------------
+
+Riff 2
+1--3-----------------3--
+2--0--0h1------------0--
+3--0--0----0h2p0-----0--
+4--0--0-----------2--0--
+5--2--2-----------------
+6--3--3-----------------
+
+Riff 3
+1-----------------------9--7-----------------------------
+2-----------------6--7--9--7--------------------------5--
+3--6--7--6--6-----4--4--7--6--6--7--6--6--4-----------4--
+4--4--4--4-----7--0--0--------4--4--4--0-----7--4-----3--    X2
+5--0--0--0--------------------0--0--0--------------4-(4)-
+6--------------------------------------------------------
+
+1-------------------
+2-------0-----------
+3-------2-----------
+4-------1---2--2/4--  A - Amaj7 - Bm7 - C#7/9#
+5--1/2-(2)----------
+6--1/2-(2)----------
+
+Riff 4
+e|---2----4-----5-5-|
+B|-5-2--6-4--8--5-5-|
+G|-4-2--5-4--7--5-3-|
+D|-3-4--4-6--6--4---|  (Cortesia de Juan)
+A|-4-4--5-6--7----4-|
+E|---2----4---------|
+
+Riff 5
+1---------------------------10--9 /7-----12--
+2--6------------6h8p6/5--6--11--10/8-----12--
+3--5------5--7--------------10--9 /7-----12--
+4--7--7-------------------------------0-(0)--  X 4
+5--0-(0)-(0)---------------------------------
+6--------------------------------------------
+
+
+         A               D
+ah, ah ah ah... ahahah ah ahah
+       E5     D5   C5
+Todo camino puede andar
+C5   B5/F#  Bbsus2/F
+Todo puede andar...
+
+Riff 1
+Con esta sangre alrededor
+no sé que puedo yo mirar
+D7 - D7/Csus4 - D7 - D7/Csus4
+ la sangre ríe idiota
+           G - G6/9 - G
+como esta canción
+         Bb11
+¿y ante quien?
+
+D                        Bb(6to)  A*
+Ensucien sus manos como siem-----pre
+Relojes se pudren en sus mentes
+
+D/F#
+Ya!
+Cdim  Bdim  G (Riff 2)
+y en  el    mar
+Cdim  Bdim  G (Riff 2)
+nau---fra---gó
+Cdim  Bdim  G               C
+u-----na   balsa que nunca zarpó
+C   C/B Am  (Am-Am7/G)
+mar a---quí,
+Am  Am7/G  D/F#
+mar a------llá
+
+En un momento vas a ver
+que ya es la hora de volver
+pero trayendo a casa todo aquél fulgor
+¿y para quién?
+
+Las almas repudian todo encierro
+                        Gm/Bb
+las cruces dejaron de llover
+
+
+F#m
+     sube al taxi, nena
+
+G#dim    F#m(2)   C#7/#9
+los  hombres te miran
+             DMaj7/F#
+te quieren tomar
+
+ojo el ramo, nena
+las flores se caen, tenes que parar
+
+B7/9                    E              DMaj7/F#
+  Ví las sonrisas muriendo en el carrousell
+  Vi tantos monos, nidos, platos de café
+  E           DMaj7/F#   C#7/#9
+  platos de café, ah
+
+Riff 3
+
+Guarda el hilo, nena
+guarden bien tus manos
+esta libertad
+ya no poses, nena
+todo eso es en vano
+como no dormir
+
+Aunque me fuercen yo nunca voy a decir
+que todo tiempo por pasado fue mejor
+mañana es mejor
+
+Riff 4
+
+Bm                         Gdim/Bb  A           Bb        Bm
+Ah... ah ah ah ah ah ah ah ah...  ah ah ah ah, ah ah ah ah  (X2)
+Bm                         E      F            F#
+Ah... ah ah ah ah ah ah ah ah...  ah ah ah ah, ah ah ah ah  (X2)
+
+Bm     Bm  A   FMaj7/A
+Aaaaah bam bam bam
+
+
+Bm(7mo) - G(3ro) - FMaj7 - G(3ro) (X2)
+
+Aquellas sombras del camino azul
+¿dónde están? Bm(7mo) - A(5to) (X2)
+
+yo las comparo con cipreses que ví
+sólo en sueños
+
+y las muñecas tan sangrantes
+están de llorar Bm(7mo) - G(3ro) - FMaj7 - G(3ro)
+
+A               C
+yo te amo tanto que
+    C#m             C
+no puedo despertarme sin amar
+y te amo tanto que no puedo
+despertarme sin amar
+
+A               C
+y te amo tanto que
+    C#m             C         C#m-C (X2)
+no puedo despertarme sin amar
+
+
+Bm                         Gdim/Bb  A           Bb        Bm
+Ah... ah ah ah ah ah ah ah ah...  ah ah ah ah, ah ah ah ah  (X2)
+Bm                         E      F            F#
+Ah... ah ah ah ah ah ah ah ah...  ah ah ah ah, ah ah ah ah  (X2)
+
+Bm     Bm  A   FMaj7/A  Bb(6to)
+Aaaaah bam bam bam      bam
+
+
+Riff 5
+
+Bsus4    C11#
+  ¡No! nunca la abandones ¡no!
+  Puentes amarillos,
+  Mira el pájaro,
+  se muere en su jaula
+
+Riff 5
+
+Bsus4    C11#
+  ¡No! nunca la abandones
+  Puentes amarillos
+  se muere en su jaula
+  Mira el pájaro
+  Puentes amarillos,
+
+Dsus2/Bb
+Hoy
+Gm7    Bb(6to)
+te amo ya
+  Am7      F#  Bb(6to)
+y ya es mañanaaaa
+
+Riff 5
+
+Mañana
+Mañana
+Mañana
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,98 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Fito Paez                                                |
+| CANCION: CRIMENES PERFECTOS                                       |
+| AUTOR:   Andrés Calamaro                                          |
+| ALBUM:   ¡calamaro Querido! (2006)                                |
++------------------------------------------------------ACO-fito1662-+
+| TRANS:   Víctor                                                   |
+=====================================================================
+
+INTRO: E     E
+
+
+ A                Einv
+Sentiste alguna vez
+     F#m   F#m/E
+lo que es  tener
+D    Dsus2    E
+  el corazon roto
+A                      Einv       F#m       F#m/E
+Sentiste a los asuntos         pendientes volver,
+D           Bm      Esus4   E
+  hasta volverte muy loco
+
+
+D                         E
+Si resulta que si, si podrás entender,
+        A                F#m
+lo que me pasa a mi esta noche
+     D                   E               A          F#m
+Ella no va a volver y la pena me empieza a crecer, adentro.
+      D               E            Asus4-A   Asus2-Aadd9
+La moneda cayó por el lado de la soledad...
+
+
+A              Einv      F#m      F#m/E  D-A-Bm      E
+Todo lo que termina   termina mal,        ...poco a poco;
+   A       Einv    F#m        F#m/E    D       Dsus2       E
+Y si no termina se contamina mal,        y eso se cubre de polvo
+
+
+D                        E                    A     F#m
+Me parece que soy de la quinta que vio el mundial `78
+      D                 E                 A - Em F#m
+Me toco crecer viendo a mi alrededor paranoia y dolor
+D                      E            A          F#m      REsus2  Esus4
+La moneda cayó por el lado de la soledad, otra vez otra vez.
+
+E/G#    D/F#           Bm           E
+No me lastimes con tus "crímenes perfectos",
+ E/G#       D/F#       Bm            E
+Mientras la gente "indiferente" sé de cuenta.
+
+ Dm7        G7       Cmaj7                 E
+De vez en cuando solamente sale afuera la peor manera.
+
+
+D                         E
+Si resulta que si, si podrás entender,
+        A                F#m
+lo que me pasa a mi esta noche
+     D                   E               A          F#m
+Ella no va a volver y la pena me empieza a crecer, adentro
+      D               E             A          F#m
+La moneda cayó por el lado de la soledad y el dolor.
+
+      D               E           Amaj7sus2   F#m
+La moneda cayó por el lado de la soledad.
+
+      D               E             A          F#m
+La moneda cayó por el lado de la soledad, otra vez.
+
+      D               E             Asus2 Asus4
+La moneda cayó por el lado de la soledad
+   Esus4               E             A
+La moneda cayó por el lado de la soledad.
+
+
+
+    Einv:  0x2450 ó 0x2453
+    F#m/e: 044333
+    Dsus2: x00230
+    Esus4: 022200
+    Asus4: x02230
+    Asus2: x02200
+    Aadd9: x02420
+     E/g#: 422100
+     D/f#: 200232
+Amaj7sus2: x02100
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

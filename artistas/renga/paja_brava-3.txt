@@ -1,0 +1,183 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: la Renga                                                 |
+| CANCION: PAJA BRAVA                                               |
+| AUTOR:   -?-                                                      |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------BAT-reng0373-+
+| TRANS:   Andres                                                   |
+=====================================================================
+
+Para quienes no saben la cancion ahi les va la letra:
+
+1er verso
+En la tierra crece hierva buena
+Con la lluvia y el rayo del sol
+Pasadizo para el otro patio
+Punto rojo, casita de Dios
+
+1er estribillo
+El beleño y la belladona
+Amanita y la mandrágora
+Florecitas de mi tierra santa
+Viajecito para el mas allá
+
+2do verso
+Masca coca que ya estamos alto
+Cáñamo bueno pa´ la tristeza
+Mescalito ya viene a buscarte
+Venadito, peyote y maíz
+
+2do estribillo
+El cornezuelo y la ayaguasca
+El tornaloco y la salvia
+El San Pedro de los cuatros vietos
+El virola y el floripondio
+
+Bien esa es la canción...
+Ahora Lo que tenemos que tocar:
+
+C=CRASH 
+H=HI-HAT 
+R=REDOBLANTE 
+T1=TOM 1
+T2=TOM 2 
+T3=TOM 3 (DE PISO) 
+B=BOMBO
+F=FLAM
+
+LA CANCION EMPIEZA CON LOS ACORDES DE GUITARRA Y METE DOS GOLPES DE HI-HAT.
+INTRO CON EL REDO:
+
+R|00-0-00-|
+
+  PARTE 1:      PARTE 2:          
+ C|-------------|--------------|
+ H|X-X-X-X-X-X-X|X-X-X-X-X-X-X-|
+ R|------0-----0|---0--0-----0-|
+T1|-------------|--------------|
+T2|-------------|--------------|
+T3|-------------|--------------|
+ B|-----0-----0-|-----0-----0--|
+
+HACE 3 VECES PARTE 1
+DESPUES HACE ESTO PARA PASAR DE
+LA PARTE 1 A LA PARTE 2.
+
+H|X-X-X-X-X-X-X-X-|
+R|------0--0--00--|
+B|-----0--------0-|
+CUANDO DICE ...'PASADIZO PARA EL OTRO PATIO...'
+HACE ESTO:
+H|-X-X-X-X-X-|
+R|----0--00--|
+B|-----0---0-|
+ 
+ENTRADA AL ESTRIBILLO
+R|00-0-00|=ES IGUAL QUE LA DEL PRINCIPIO...
+
+1ER ESTRIBILLO:
+C|X-------------X-------------X-------------X----------------X-------|
+H|-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X--------X-X-X--|
+R|---0----0--0-----0----0--0-----0----0--0-----0-----0-000000---0--- | 
+B|0----0--------0----0--------0----0--------0----0-----------0-------|
+
+ 
+C|---------X-------------X-X---------------X--------------X-|
+H|X-X-X-X-X-X-X-X-X-X-X-X---X-X-X-X-X-X-X-X-X-X-X-X-X-X-X---|
+R|------0-----0----0--0-------0----0--0-------0----0--0-00--|
+B|0--------0----0--------0-0----0----------0----0---------0-|
+
+DESPUES SE REPITE:
+*1 VEZ PARTE 2
+*2 VECES PARTE 1
+*DESPUES ESTO:
+C|----------------X-|
+H|-X-X-X-X-X-X-X-X--|
+R|-------0--0--0-F--|
+B|------0-----------|
+
+TODO EL VERSO CON LA PARTE 2*
+
+*=EN ESTA PARTE DOS PONE ALGUNOS GOLPES DE REDOBLANTE MAS, 
+PERO SE PUEDE HACER IGUAL QUE LA OTRA PORQUE SUENA BIEN.TAMBIEN 
+CUANDO EMPIEZA CADA FRASE ME UN CRASH!... 
+
+LA PARTE QUE DICE ...'PA´LA TRISTEZA...' HACE ASI:
+
+C|------------|
+H|X-X-X-X-X-X-|
+R|---0--00-0--|
+B|----0---0---|
+
+ENTRADA AL ESTRIBILLO:
+
+C |---------|
+H |-X-X-X-X-|
+R |-00-0----|
+T3|------F--|
+
+EN EL SEGUNDO ESTRIBILLO DESPUES DE DECIR ...'Y LA SALVIA'... HACE ESTO
+
+ C|---------|   ESE FLAM LO HACE CON EL TOM 3
+ H|-X-X-X-X-|
+ R|--0--0---|
+T3|------F--|
+ B|---------|
+
+AL FINAL DE ESTE ESTRIBILLO HACE ESTO:
+
+C|-----------|
+H|-X-X-------|
+R|--0-000000-|
+B|-----------|
+
+DESPUES CUANDO TERMINA EL ESTRIBILLO HACES 4 VECES LA PARTE 1.
+
+VIENE LA PARTE HECHA CON BAJO, SAZO Y PERCUSIÓN
+ENTRA LA BATA ASI:
+C|-----------|
+H|-----------|
+R|-00-0-0000-|
+B|-----------|
+
+SIGUE ASI:
+C|-------X-|
+H|X-X-X-X--|
+R|---0--0--|
+B|0--------|
+  
+EN EL MEDIO DE HACE ESTO:
+C|-------------|
+H|X-X----------|
+R|----0-000000-|
+B|0------------|
+
+DESPUES HACES UNOS PUNTEOS DE GUITARRA
+QUE TERMINAN CON UN GOLPE DE BONBO Y UNO
+DE HI-HAT.OTRO TERMINA CON TRES GOLPES
+EL ULTIMO CON PLATILLOS.
+
+DESPUES VIENE EL SOLO DE BATERIA DONDE 'CHIZZO' EMPIEZA A CANTAR.
+ESTE NO ES EL VERDADERO SOLO (NO LO PUEDO HACER PORQUE NO TENGO 
+TANTOS TOM COMO LA BATERIA DE 'TANQUE'...)ESTE LO HICE YO, 
+BUSQUENLE UN RITMO ESCUCHANDOEL VERDADERO Y VAN A VER QUE SUENA BIEN.
+
+T1|--00---0----F-0-|  ESE FLAM LO HACES CON EL TOM 1
+T2|-0--0---00----0-|
+T3|0----0----------| 
+ENTRA AL ESTRIBILLO ASI:
+
+R|00-0-00-|
+DESPUES SE TOCA COMO EN EL ESTRIBILLO.
+
+LO ULTIMO: 4 VECES LA FORMA 1
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

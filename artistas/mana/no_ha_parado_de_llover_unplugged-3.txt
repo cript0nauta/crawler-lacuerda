@@ -1,0 +1,216 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Maná                                                     |
+| CANCION: NO HA PARADO DE LLOVER (UNPLUGGED)                       |
+| AUTOR:   Alex - Fher                                              |
+| ALBUM:   MTV Unplugged (1999)                                     |
++------------------------------------------------------ACO-mana0493-+
+| TRANS:   Carlos                                                   |
+=====================================================================
+
+NO HA PARADO DE LLOVER (UNPLUGGED)- MANÁ
+
+ACORDES
+(s/c) = sin cejillo
+
+ACORDES A UTILIZAR
+
+D9 = RE9                  con cejillo
+
+E -------------         ---5------------
+B ---3---------         ---5------------
+G ---2---------         ---7------------
+D -------------         ---7------------
+A -------------         ---5------------ 
+E -------------         ---5------------
+
+A9 = LA9
+
+E -------------
+B -------------
+G ---2---------
+D ---2---------
+A -------------
+E -------------
+
+G6 = SOL9
+
+E -------------
+B ---3---------
+G -------------
+D -------------
+A ---2---------
+E ---3---------
+
+
+Bm7mj = Sim7mj (Si menor con séptima mayor)
+
+E -------------
+B ---3---------
+G ---2---------
+D -------------
+A ---2---------
+E -------------
+
+
+
+
+D9 G6 D9 A Bm G D A   --> BIS
+
+
+ D9            A9  Bm
+Desde que te perdí
+             G6           D9  A9  Bm
+La luz se ha puesto muy mojada
+       G6         D   A
+Mirada triste está nublada
+         Bm          G        D9
+Y en mis ojos no ha parado de llover
+
+D9 G6 D9 A
+
+
+(Ahora acordes con cejillos para darle más fuerza al rasgueo)
+
+D9          A
+Sólo ya sin ti
+Bm        G           D9  A Bm
+Me tienes como un perro herido
+            G              D9 A
+Me tienes como un ave sin su nido
+          Bm        G         D9(s/c) G6 D9 A <-- todas sin cejillo
+Me tienes sólo como aDna sin su mar
+
+
+
+Bm         G              A
+Quién detendrá la lluvia en mí
+F#m     Bm G         D9         A
+Oh no no    se me ha inundado el corazón
+Bm         G             A
+Quién detendrá la lluvia en mí
+F#m   G(s/c)               A(s/c)
+Oh mi amor, sólo tú puedes pararla
+
+---------------------------------------
+CORO: (Acordes sin cejillos)
+
+D9       G6  D9
+Sigue lloviendo
+            A9          Bm
+Le sigue lloviendo al corazón
+G         D            A
+Dime qué diablos voy a hacer
+D9        G6    D9      
+Sigue lloviendo
+              A9         Bm
+Le sigue lloviendo al corazón
+G
+Oh no no
+          D           A        D9
+Y en mis ojos no ha parado de llover
+----------------------------------------
+(Ahora acordes con cejillo)
+
+D9        A
+No te compDndo
+      Bm        G
+No entiendo que pasó
+D9        A
+Si te di todo
+Bm           G
+Quizá te di demás
+  D9       A
+Dime que faltó 
+  Bm       G
+Dime que sobró
+  D9       A
+Dime que pasó
+           Bm
+Pero dime algo
+G              D9(s/c)
+Pues me estoy muriendo
+
+
+D9 G6 D9 A
+
+Bm         G              A
+Quién detendrá la lluvia en mí
+F#m     Bm G         D9         A
+Oh no no    se me ha inundado el corazón
+Bm         G             A
+Quién detendrá la lluvia en mí
+F#m   G(s/c)               A(s/c)
+Oh mi amor, sólo tú puedes pararla
+---------------------------------------
+CORO: (Acordes sin cejillos)
+
+D9       G6  D9
+Sigue lloviendo
+            A9          Bm
+Le sigue lloviendo al corazón
+G         D            A
+Dime qué diablos voy a hacer
+D9        G6    D9      
+Sigue lloviendo
+              A9         Bm
+Le sigue lloviendo al corazón
+G
+Oh no no
+          D           A        D9
+Y en mis ojos no ha parado de llover
+----------------------------------------
+(Primera guitarra hace el arpegio correspondiente y lo Repite 4 veces.
+ Con acordes, este arpegio se puede reemplazar con los siguientes: D9 A9 Bm7mj G6)
+
+--------------------------------
+Luego: (esto se Dpite 4 veces)
+
+ D9
+Sigue lloviendo
+ A9
+Sigue lloviendo
+ Bm
+Sigue lloviendo
+ G6      D9 A9 Bm G6
+Sigue el corazón
+--------------------------------
+
+No para de llover
+
+--------------------------------
+(Y luego esto se Repite 4 veces)
+
+D9 A Bm G
+No para de llover
+--------------------------------
+
+(Y para finalizar)
+
+D9 G6 D9 A9 Bm G D A
+
+
+
+
+
+Bueno, y esos serían los acordes según mi oído. También tengo las tablaturas
+con los arpegios y punteillos que se deben tocar mientras esta guitarra hace los acordes.
+Claro que, saber cuándo tienen que hacerlos, es problema de ustedes y de su coordinación si
+piensan tocarlo con dos guitarras.
+
+(No soy como otros que garantizan que su transcripción es 100% segura, pero si les digo
+que suena bastante bien, no sé a ustedes)
+
+ Ah, y escuchen bien la canción y traten de tocarla al mismo tiempo con una guitarra bien
+ afinada por supuesto.
+
+Chao.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

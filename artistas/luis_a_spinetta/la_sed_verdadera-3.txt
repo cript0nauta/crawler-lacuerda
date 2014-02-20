@@ -1,0 +1,99 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Luis Alberto Spinetta                                    |
+| CANCION: LA SED VERDADERA                                         |
+| AUTOR:   Luis Alberto Spinetta                                    |
+| ALBUM:   MTV Unplugged                                            |
++------------------------------------------------------TAB-spin0413-+
+| TRANS:   Roberto                                                  |
+=====================================================================
+
+Hola, bueno...
+así es como la toco yo, espero que esté bien...
+
+
+D13                   C13        D13  E13
+  Sé muy bien que has oído hablar de  mí
+            Bm - Am - Gm - Dmaj7
+  y hoy nos ve   mos     a     quí,
+          Am7                  C#m11/G#
+  pero la paz en mí nunca la encontrarás,
+           Am7                      C#m11/G#
+  si no es en vos, en mí nunca la encontrarás.
+
+D13               C13          D13   E13
+  Por tu living o fuera de allí no estás
+           Bm - Am - Gm - Dmaj7
+  pero hay o    tro  que es   tá
+          Am7       C#m11/G#
+  y yo no soy, yo sólo te hablo desde aquí,
+       Am7                  C#m11/G#
+  él debe ser la música que nunca hiciste.
+  F#m7             Fmaj7/#5     F#m7
+  Viste la piel, creíste en todo lo que te di
+     Dm/maj7*   Em7* - F#m7* - E   Dmaj7*          Am7/9
+  y nada      salió    de      vos, ah, mira el fuego...
+
+      E4/6/9                D
+  Las luces que saltan a lo lejos
+       E4/6/9            D
+  no esperan que vayas a apagarlas jamás...
+
+
+Final:
+
+e.------10-----------------10----------
+B.10-12-10-12-10-12--10-12-10-12-10----
+G.11-11-11-11-11-11--11-11-11-11-11-11-
+D.12-12-12-12-12-12--12-12-12-12-12-12-
+A.-------------------------------------
+E.-------------------------------------
+
+e.0--0--0--0-------------------------------------------------------|
+B.0--0--0--0----------------------------------------10-10-10-10-10-|
+G.0--0--0--0----------------------------------------11-11-11-11-11-|
+D.10-10-10-10--9-12-12^-9-12-12^-9-12-12^-9-12-12^--12-12-12-12-12-|
+A.-----------------------------------------------------------------|
+E.-----------------------------------------------------------------|
+
+
+Acordes:
+
+     D13: x57777
+     C13: x35555
+     E13: x79999
+
+      Bm: x99x77
+      Am: x77x55
+      Gm: x55x33
+   Dmaj7: xx0222
+
+     Am7: x05555
+C#m11/G#: 4x4654
+
+    F#m7: xx4655
+Fmaj7/#5: xx3655
+Dm/maj7*: x53600
+    Em7*: xx5700
+   F#m7*: xx7900
+       E: 022100
+  Dmaj7*: x54222
+   Am7/9: 5x5500
+
+  E4/6/9: 022222
+       D: xx0232
+
+
+Bueno, espero que les sirva
+y que les guste...
+
+Hasta pronto...
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,161 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Las Pastillas del Abuelo                                 |
+| CANCION: VIEJO                                                    |
+| AUTOR:   Las Pastillas del Abuelo                                 |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------ACO-pdab0165-+
+| TRANS:   Agustin                                                  |
+=====================================================================
+
+ACORDES
+
+  Asus2  E4    E   D   D4    Bm    A  F#m
+e:--0--|--0--|-0-|-2-|--3--|--2--|-0-|-2-|
+B:--0--|--0--|-0-|-1-|--3--|--3--|-2-|-2-|
+G:--2--|--2--|-1-|-2-|--2--|--4--|-2-|-2-|
+D:--2--|--4--|-2-|-0-|--0--|--4--|-2-|-4-|
+A:--0--|--x--|-2-|-x-|--x--|--2--|-0-|-4-|
+E:--x--|--x--|-0-|-x-|--x--|--x--|-0-|-2-|
+
+RASGUEO
+
+        1er rasgueo         2do rasgueo
+e:-V--A-A-V--A-V-V--V-A-|-V--A-x-V--V-A-x-V-|
+B:-V--A-A-V--A-V-V--V-A-|-V--A-x-V--V-A-x-V-| V = Rasgueo hacia abajo
+G:-V--A-A-V--A-V-V--V-A-|-V--A-x-V--V-A-x-V-| A = Rasgueo hacia arriba
+D:-V--A-A-V--A-V-V--V-A-|-V--A-x-V--V-A-x-V-| x = Parar cuerdas
+A:-V--A-A-V--A-V-V--V-A-|-V--A-x-V--V-A-x-V-|
+E:-V--A-A-V--A-V-V--V-A-|-V--A-x-V--V-A-x-V-|
+
+El primer rasgueo se usa en intro, partes, y pre-estribillo.
+El segundo rasgueo se usa solamente para el estribillo.
+
+INTRO
+
+[ Asus2 E4 E D D4 D ] x2
+
+Asus2                E4
+ Quien diga que soy ateo,
+E                     D     D4 D
+ que no creo en lo perfecto,
+Asus2           E4
+ que yo siempre todo veo,
+E               D     D4 D
+ algún minimo defecto.
+
+Asus2           E4
+ Esta muy equivocado
+         E             D    D4 D
+ por que yo no creo en Dios,
+Asus2             E4
+ pero soy el portavoz
+E                    D   D4 D
+ de un ser humano criado.
+
+E             Bm
+ En la calle, en la pobreza,
+D                   A
+ en pos de corazón sano,
+E        Bm
+ poca comida en la mesa,
+D
+ otra cabeza,
+Bm                    E
+ y los abuelos de Lugano.
+
+A            E
+ En su escala de valores
+F#m        D
+ él pone siempre primero,
+A                   E
+ sobre todo la importancia
+                 D
+ de un corazón entero.
+
+A           E
+ Bien parado o en la lona
+F#m            D
+ hay que ser buena persona,
+A                         E
+ dice aquel que a mi me guía
+                        D
+ noche a noche y día a día,
+                        A   E
+ noche a noche y día a día.
+
+[ Asus2 E4 E D D4 D ] x2
+
+Asus2                E4
+ Quien diga que soy ateo
+E               D    D4 D
+ esta muy equivocado,
+Asus2            E4
+ como ya les he contado
+E                         D   D4 D
+ hay alguien en quien yo creo.
+
+Asus2             E4
+ Suerte de mitología humana,
+E                      D  D4 D
+ se hace presente ante mi
+Asus2              E4
+ y en eso asi como asi,
+E                 D     D4 D
+ enbellecen mis mañanas.
+
+E                     Bm
+ Gracias al que nació en un conventillo,
+D                      A
+ al que creció en un potrero
+E                  Bm   D        Bm
+ y si creen que exagero, conozcanlo
+                     E
+ pero antes saquense el sombrero.
+
+A            E
+ En su escala de valores
+F#m        D
+ él pone siempre primero,
+A                   E
+ sobre todo la importancia
+                 D
+ de un corazón entero.
+
+A           E
+ Bien parado o en la lona
+F#m            D
+ hay que ser buena persona,
+A                         E
+ dice aquel que a mi me guía
+                        D
+ noche a noche y día a día,
+
+A             E
+ A él la vida, le dio todo,
+F#m                  D
+ y él le devolvió el doble,
+A                    E
+ de movida ofrece el codo
+                     D
+ y un corazón puro y noble.
+
+A                  E
+ Lo juro por mi pellejo,
+                  D
+ para mi Dios es mi viejo,
+                  A       E
+ para mi Dios es mi viejo.
+
+[ Asus2 E4 E D D4 D ] x2 [ A ]
+
+by Agustin Ciaffaroni - ciaffa95@hotmail.com
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

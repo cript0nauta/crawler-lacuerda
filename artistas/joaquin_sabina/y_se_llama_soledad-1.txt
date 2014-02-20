@@ -1,0 +1,103 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Joaquín Sabina                                           |
+| CANCION: Y SE LLAMA SOLEDAD                                       |
+| AUTOR:   Joaquín Sabina                                           |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------ACO-sabi1501-+
+| TRANS:   Alfonso                                                  |
+=====================================================================
+
+Acordes utilizados:(trastes que deben pisarse, 
+desde la 6ª a la 1ª cuerdas)
+
+.    G = 320003(sin cejilla) ó 355433(con cejilla en 3º)
+.    D = x00232
+.    Em = 022000
+.    Em7 = 020000
+.    C = 332020
+.    B7 = 224242(cejilla en 2º) ó x21202 (sin cejilla)
+.    A7 = 002020
+.    G7 = 320001
+.    Bm = 224432(cejilla en 2º)
+.    Am = 002210
+.    E = 022100
+.    F#7 = 044320
+
+G                D            Em &#8211; Em7  
+Algunas veces vuelo y otras veces...
+Em7   C          D                 G &#8211; B7     
+Me arrastro demasiado a  ras del suelo
+B7                       Em 
+Algunas madrugadas me desvelo 
+Em      Em7             C          A7           D &#8211; B7
+Y ando como un gato en celo, patrullando la ciudad
+B7                  Em  
+En busca de una gatita, 
+G7              C               Bm &#8211; Am                      D &#8211; B7
+En esa hora maldita en que los bares ... a punto están de cerrar
+B7                 Em &#8211; G7 &#8211; Am                    B7         
+Cuando el alma necesita,  ...   un cuerpo que acariciar
+
+G              D            Em &#8211; Em7  
+Algunas veces vivo  y otras veces        
+Em7  C         D               G &#8211; B7     
+La vida se me va con lo que escribo
+B7                        Em  
+Algunas veces busco un adjetivo, 
+.    Em7        C             A7          D &#8211; B7   
+Inspirado y posesivo, que te arañe el corazón
+B7                 Em           G7          C           Bm - Am
+Luego arrojo mi mensaje, se lo lleva de equipaje, una botella, 
+Am                     D &#8211; B7
+Al mar de tu incomprensión
+B7                    Em           G7      C
+No quiero hacerte chantaje, sólo quiero   ...    
+C    Am            B7     
+Regalarte una canción
+
+ESTRIBILLO
+.    E            B7       E           F#7                      B7
+Y algunas veces suelo recostar    mi cabeza en el hombro de la luna
+.   C                          G     Am                  B7 
+Y le hablo de esa amante inoportuna ... que se llama SOLEDAD
+.    E            B7       E           F#7                      B7
+Y algunas veces suelo recostar    mi cabeza en el hombro de la luna
+.   A                           Am
+Y le hablo de esa amante inoportuna, 
+.                 G &#8211; B7                   E
+Que se llama SOLEDAD,    que se llama SOLEDAD
+
+
+(Música): E &#8211; B7 &#8211; E &#8211; F#7 &#8211; B7 &#8211; A &#8211; Am &#8211; G &#8211; D7
+
+
+.  G           D            Em
+Algunas veces gano y otras veces 
+.         C          D           G &#8211; B7
+Pongo un circo y me crecen los enanos
+B7                             Em
+Algunas veces doy ... con un gusano 
+.      Em7         C         A7              D &#8211; B7
+En la fruta del manzano prohibido del padre Adán
+B7                   Em       G7              C 
+O duermo y dejo la puerta de mi habitación abierta, 
+.       Bm &#8211; Am                     D &#8211; B7
+Por si acaso ... se te ocurre regresar
+B7                   Em &#8211; G7 - C                  B7
+Mas raro fue aquel verano ...    que no paró de nevar
+
+
+ESTRIBILLO y fin
+
+Con esos acordes, la canción sale perfecta. 
+Sugerencias a a.baeza@able.es
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

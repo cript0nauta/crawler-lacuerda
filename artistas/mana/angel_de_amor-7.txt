@@ -1,0 +1,232 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Maná                                                     |
+| CANCION: ANGEL DE AMOR                                            |
+| AUTOR:   Alex "El Animal" González, Fher Olvera                   |
+| ALBUM:   Revolución de Amor (2003)                                |
++------------------------------------------------------BAT-mana0727-+
+| TRANS:   Aarón                                                    |
+=====================================================================
+
+esta cancion la evrdad es una belleza... alex tiene un 
+sentido en al bateria impresionante 
+espero esto les ayude
+en esta cancion alex utiliza una masiva bateria como se 
+ve en el video pero no es para tanto con una simple 
+bateria de 5 tambores se puede hacer
+
+h- contras
+H- crash
+s- splash
+t- tarola
+b- bombo
+R- platillo de ritmo (ride)
+t1-tomb pequeño
+t2-tomb mediano
+t3-tomb grande
+a- arriba contras
+
+intro:
+subes el contra 4 veces y despues:
+
+h |---x--x--x--x--x--x--x--x---|
+t |-------o-------o-------o-------o---|       
+t1|-----------------o--------o-----o--|
+t2|----------------------o------| 
+t3|---o-oo-oo-oo-oo-oo-oo-oo-o-|
+b |---o-o-----o-o-----o-o-------o-----|
+esto se hace 4 veces y despues
+
+h |---x--x--x--x------------------|
+t |-------o-------o-------------------|       
+t1|--------o--------o-o-o-o-o-o-o-o-o-|
+t2|-----------------------------| 
+t3|---o-oo-oo-oo-oo-oo-oo-oo-o-|
+b |---o-o-----o-o-----o-o-o-o-o-o-o-o-|
+despuesito:
+(primer redoble)*
+H |---x-----x----------|
+t1|----oo--------------|
+t3|------o-------------|
+t |-------o------------|
+b |---o------o----------|
+despues:
+este es el coro pero aqui se toca como ritmo:
+
+H |---------------------------------x-----x------------------------x-------------x-|
+R |---x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x----x-x-x-x-x-x-x-x-x-x-x-x-----------------| 
+t |-------o--o----o-------o--o----o-----------o--o----o--------o-----o-o-----------|       
+t1|-----------------------------------o-o--------------------------------o-o-------|
+t2|--------------------------------------------------------------------------| 
+t3|--------------------------------------------------------------------------o-o---|
+b |---o---------o---o-o---------o----------o---------o---o-o-------o-------------o-|
+
+despues sigue el intro con una variante en la tarola 
+( solo son tres golpes y depsues crash con bombo)
+ahi sigue la parte cantada que solo va con un octapad, o caja de rimtos..
+
+quien te corto las alas mi angel
+quien te arranco los sueños hoy
+quien te arrodillo para humillarte
+y quien enjaulo tu alma amor
+
+en el precoro entra la betria:
+H |-x-x--x-------------------------------------x-------------------x---x---x-x-----x|
+h |-------x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x------x-x-x-x-x-x-x-x-x---x---x----------|
+t |-o-o-------o-------o-------o-------o------------o-------o-------o---o---o-o-o----|
+t1|----------------------------------------o-o----------------------------------o---|
+t2|---------------------------------------------------------------------------| 
+t3|------------------------------------------------------------------------------o--|
+b |-----o-o-------o-o-----o-o-----o-o----------o-o-----o-o-------------------------o|
+
+coro
+H |---------------------------------------x-------------------x-------------x|
+R |---x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-----x-x-x-x-x-x-x-x-x----------------| 
+t |-------o--o----o-------o--o----o----------o--o----o------o---o-o-----o-o--|       
+t1|-----------------------------------o-o---------------------------o-o-----o|
+b |---o---------o---o-o---------o---------o-------o---o-o-----o--------------|
+
+H |-------------------------------x---x---x------x-|
+R |---x-x-x-x-x-x-x-x-x-x-x-x-x-x---x---x----------| 
+t |-------o--o----o-------o--o----o-----o-o--------|       
+t1|-----------------------------------------oo-----|
+t3|-------------------------------------------oo---|
+b |---o---------o---o-o---------o---o-o----------o-|
+
+segundo verso ya con bateria:
+ segundo redoble
+t1|--o--------|
+t2|----o------| 
+t3|------o----1
+
+quien ato tus manos...
+
+H |-x---------------------------------|2 veces 
+h |---x-x-x-x-x-x-x-a-x-x-x-x-x-x-x---|y despues 
+t |-------o-------o-------o-------o---| entra       
+t1|-----------------------------------|un redoble y 
+b |-o-------o-o-----o-------o-o-------|splashes.. si quiers no habar porque ponerlos
+
+tercer redoble para entrar a precoro***
+H |-x-------------x-|
+t |---o-o-----------|
+t1|-------o-o-------| 
+t3|-----------o-o---|
+b |-o-------------o-|
+
+2 precoro
+H |----------------------------------------x--------------------x---x-x--x------x|
+h |-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-------x-x-x-x-x-x-x-x-x---x--------------|
+t |-------o-------o-------o-------o-------------o-------o-------o---o-o--o-------|       
+t1|-------------------------------------o-o--------------------------------oo----|
+t2|------------------------------------------------------------------------| 
+t3|--------------------------------------------------------------------------oo--|
+b |-o-o-------o-o-----o-o-----o-o-----------o-o-----o-o-------------------------o|
+
+coro
+H |--------------------------------------x-------------------x-------x|
+R |--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-------x-x-x-x-x-x-x-x-x--x-------| 
+t |------o--o----o-------o--o----o-----------o--o----o-------o--------|       
+t1|----------------------------------o-o------------------------oo----|
+t3|---------------------------------------------------------------oo--|
+b |--o---------o---o-o---------o---------o---------o---o-o-----------o|
+
+H |--------------------------------------x-----------x-x---------x-|
+R |--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-------x-x-x-x-x---------------| 
+t |------o--o----o-------o--o----o-----------o--o----o-o-oo--oo----|       
+t1|----------------------------------o-o-------------------oo--oo--|
+t3|----------------------------------------------------------------|
+b |--o---------o---o-o---------o---------o---------o-------------o-|
+
+H |----------------------------------x-------------------x-x------x-|
+R |--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x------------| 
+t |------o--o----o-------o--o----o-------o--o----o-------o-o-o------|       
+t1|-----------------------------------------------------------o-----|
+t3|------------------------------------------------------------o----|
+b |--o---------o---o-o---------o---o-o---------o---o-o------o----o--|
+esto sigue una vez mas y se aplica denuevo al final el segundo redoble 
+para entrar a el puente
+
+puente: esto es con una tarola de 12 pulgadas pero puede hacerce en 
+tu tarola solo pegandole en un extremo.
+
+H |------------------------s-| esto se hace 2 veces 
+h |-x-x-x-x-x-x-x-x-x-x-x-x--| y luego se pone los golpes 
+t |-----o--o--o-(o)---o-o--o-| e la tarola continuos como estan    
+t1|--------------------------| marcados en los parentesis
+b |-o-o-----oo----o-o----oo--|
+
+cuarto redoble 
+H |-x-x------------------x---| 
+h |--------------------------|  
+t |-o-o--o-o-o-o-------------|     
+t1|--------------o-o-o-o-----| 
+b |----------------------o---|
+
+en el solo:
+H |----------------------------------x-------------------x-------x--|
+h |--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x------------| 
+t |------o--o----o-------o--o----o-------o--o----o-------o----------|       
+t1|---------------------------------------------------------oo------|
+t3|-----------------------------------------------------------oo----|
+b |--o---------o---o-o---------o---o-o---------o---o-o------o----o--|
+
+
+despues de repetir todo el solo esto se hace el segundo redoble
+
+y se hace el intro:
+h |---x--x--x--x--x--x--x--x--s-H|
+t |-------o-------o-------o-------o-----|       
+t1|-----------------o--------o----------|
+t2|----------------------o--------| 
+t3|---o-oo-oo-oo-oo-oo-oo-oo-----|
+b |---o-o-----o-o-----o-o-------o-------|
+
+angel.. somos arena y mar
+el mejor redoble!!
+H |-------------x-x-|
+h |------a----------| aqui se abren y cierran rapido
+t |-ooooo--ooooo----| 
+b |o--------------o-|
+
+no te abandones...
+coro 
+solo que se pone este redoble cuando terminas el primer pentagrama
+H |-x-x-x------------------------x-|
+h |--------------------------------| 
+t |--o-o--o-o-o-o------------------| 
+t1|---------------oooooooo---------| 
+t3|-----------------------o-o-o-o--| 
+b |-o-o-o------------------------o-|
+
+despues ya etsa la parte ritmica
+que va como va en el solo solo que con etsos redobles.. 
+cada vez que se termina un aaaaaangel de amor
+1.
+aqui es el tercer redoble ***
+2.
+H |-x-x-x-----------------x-|
+h |-------------------------| 
+t |--o-o--o-o-o-o-----------|  <--[
+t1|---------------o-o-------|     [
+t3|-------------------o-o---|     [
+b |-o-o-o-----------------o-|     [
+3.                                [
+es el primer edoble *             [
+4.                                [
+es esto---------------------------[
+
+final
+esta es la tablatura exacta de angel de amor..
+solo hay que escuchar bien la cancion y todo esta aqui
+va dedicada a todos lo cuates de mexico
+saludos aaron
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

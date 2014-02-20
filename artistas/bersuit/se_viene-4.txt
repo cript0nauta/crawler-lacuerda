@@ -1,0 +1,217 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Bersuit Vergarabat                                       |
+| CANCION: SE VIENE                                                 |
+| AUTOR:   Gustavo Cordera, Alberto Verenzuela                      |
+| ALBUM:   Libertinaje                                              |
++------------------------------------------------------TAB-bers0114-+
+| TRANS:   roge                                                     |
+=====================================================================
+
+intro y estrofas:
+
+  Am                G       E   
+|-x-5-x-5-x-5-x-5-x-3-x-3-x-0-x-0---|
+|-x-5-x-5-x-5-x-5-x-3-x-3-x-0-x-0---|
+|-x-5-x-5-x-5-x-5-x-4-x-4-x-1-x-1---|
+|-x-7-x-7-x-7-x-7-x-5-x-5-x-2-x-2---| X2
+|-x-7-x-7-x-7-x-7-x-5-x-5-x-2-x-2---|
+|-x-5-x-5-x-5-x-5-x-3-x-3-x-0-x-0---|
+
+
+  Am                G       E     Dm      E       Am  
+|-x-5-x-5-x-5-x-5-x-3-x-3-x-0-x-0-5-5-5-5-0-0-0-0-5--|
+|-x-5-x-5-x-5-x-5-x-3-x-3-x-0-x-0-6-6-6-6-0-0-0-0-5--|
+|-x-5-x-5-x-5-x-5-x-4-x-4-x-1-x-1-7-7-7-7-1-1-1-1-6--|
+|-x-7-x-7-x-7-x-7-x-5-x-5-x-2-x-2-7-7-7-7-2-2-2-2-7--|
+|-x-7-x-7-x-7-x-7-x-5-x-5-x-2-x-2-5-5-5-5-2-2-2-2-7--|
+|-x-5-x-5-x-5-x-5-x-3-x-3-x-0-x-0-5-5-5-5-0-0-0-0-5--|
+
+                
+se viene el estallido, se viene el estallido
+de mi guitarra, de tu gobierno, tambien 
+
+riff1:
+|-----------------
+|-----------------
+|--7-5------------
+|------7-5--------
+|----------5-6-7--
+|-----------------
+
+se viene el estallido, se viene el estallido
+de mi guitarra, de tu gobierno, tambien
+
+
+Am                     Dm                              en esta parte suena mas solido el bajo:
+  y si te viene alguna duda,                            ||----------------|------------|  |
+                   Am                                   ||-------3--3-----|----3-3-----|X2|X2
+veni agarrala que está dura                             ||--5--5------5---|--5----5----|  |
+                        E        Am       riff1         ||--------------5-|---------0--|  |
+
+si esto no es una dictadura, que es, que es
+
+
+                     rv1                    rv1
+Se viene el estallido, se viene el estallido,
+              rv2             rv3      rv4
+de mi guitarra, de tu gobierno, también 
+  
+                     rv5                    rv1
+se viene el estallido, se viene el estallido
+              rv2             rv3      rv4
+de mi guitarra, de tu gobierno, tambien 
+
+y si te viene alguna duda che
+veni agarrala que está dura
+si esto no es una dictadura, que es, que es
+
+    riff1
+vamos carajo! 
+
+riff2
+|--------------------
+|--------------------
+|--------------------
+|------5-------------
+|--7-7---7-5---5-7---
+|------------7-------
+
+con acordes de intro y riff2
+
+se viene el estallido, se viene el estallido
+              rv2             rv3      rv6
+de mi garganta, de tu infierno, tambien
+
+                     rv7                    rv7
+se viene el estallido, se viene el estallido
+              rv2             rv3     rv8
+de mi garganta, de tu infierno, tambien
+
+y ya no hay ninguna duda,
+se esta pudriendo esta basura
+fisura ya la dictadura
+del rey
+
+Dm           E         Am
+  Volvio la mala, fue corta la primavera
+Dm        E          Am
+  cerdos miserables, comiendo lo que nos queda
+Dm              E              Am
+  se llevan la noche, nuestra ultima alegria
+Dm                 E    E                   Am
+  gente poniendo huevo, para salir de esta ruina
+
+solo:
+|----------------------------------------------------------
+|----------------------------------------------------------
+|----5--7--7b(9)r(7)-5------------5--7--7b(9)r(7)-5---5----
+|--7-------------------7~-------7-------------------7------
+|----------------------------------------------------------
+|----------------------------------------------------------
+
+|-------------------------------------------------------------------------------
+|--------------------------------------------------------5-5~-5----5-5~-5-------
+|----5--7--7b(9)r(7)-5-7-----------5--7--7b(9)r(7)-5---7---------7--------------
+|--7----------------------------7-----------------------------------------------
+|-------------------------------------------------------------------------------
+|-------------------------------------------------------------------------------
+
+                     rv7                    rv7
+se viene el estallido, se viene el estallido
+              rv2             rv3      rv9
+de mi guitarra, de tu gobierno, tambien 
+
+rv10                   rv10
+se viene el estallido, se viene el estallido
+              rv2             rv3      rv8
+de mi guitarra, de tu gobierno, tambien 
+
+y ya no hay ninguna duda,
+se esta pudriendo esta basura
+si esto no es una dictadura, que es, que es
+
+fin
+|--------------------
+|-------5------------
+|-----5---7-5-----7--
+|-5-7---------7---7--
+|--------------------
+|--------------------
+
+
+riffs de vientos: estas secciones son tocadas por vientos en el cd 'libertinaje'
+y en 'de la cabeza', pero algunas de ellas son tocadas por la guitarra o el teclado
+en versiones en vivo
+
+   rv1
+|--------------------
+|--------------------
+|--5-5-----5-5-------
+|------7-5-----7-----
+|--------------------
+|--------------------
+  rv2     rv3        rv4               rv5     rv10
+|-------|--------|--------------    |-----    |-----------------
+|-------|--------|--------------    |-----    |-----------------
+|----5\-|-----7\-|---5----------    |--5~-    |--------------5--
+|-7-----|--7-----|------7--5--7-    |-----    |--7-7-7-7-5-7----
+|-------|--------|--------------    |-----    |-----------------
+|-------|--------|--------------    |-----    |-----------------
+
+rv6                    rv7                rv8                rv9
+|-----------------    |--------------    |--------------    |---------
+|-----------------    |--------------    |--------------    |---------
+|--7-7-7-5---5-7--    |--------5-----    |--7--6--5-----    |--5-7\---
+|----------7------    |--7-7-7---7---    |--------------    |---------
+|-----------------    |--------------    |--------------    |---------
+|-----------------    |--------------    |--------------    |---------
+
+de yapa la tab del bajo:
+
+primera estrofa
+|--------|--------|--------------|--5---------|
+|--------|--------|--------------|----7-------|
+|--------|--------|--7-7-7---7---|------5-6-7-|
+|--0--5--|--0--5--|--------0-----|------------|
+
+  se viene...
+|-----------------------------------------------------------------------------
+|-----------------------------------------------------------------------------
+|----------------------------------------7---5-5---7----5-5---7---5---5--7----
+|-5--0-3-0--3-5--0-3-0--3-5--0-3-0--3-5----0-----0----0-----0-------7---------
+
+ y si te viene...
+|--------------------------------------|
+|------3-3--------3-3---------3-3------|x2
+|-5--5-----5----5-----5----5------5----|
+|------------5----------0-----------0--|
+
+a partir de 4a estrofa 
+|------------------|----|-------------------|--
+|------------------|-X4-|------5------------|X2
+|------3-----------|----|--7-7---7-5---5-7--|--
+|--5-5---5-3-0-3-5-|----|------------5------|--
+
+... tambien
+|-------------|
+|-------------|
+|--7-6-5------|
+|-------------|
+
+volvio la mala...
+|---------------------------------------------|
+|---------------------------------------------|
+|-5-7----5-7-----5-5-7-7-------5-5-7-7-----7--|
+|-----5------5-----------5-5----------5-5-----|
+
+cualquier cosa escriban
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

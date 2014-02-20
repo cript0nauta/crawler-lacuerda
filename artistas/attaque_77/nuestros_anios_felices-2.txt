@@ -1,0 +1,85 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Attaque 77                                               |
+| CANCION: NUESTROS AÑOS FELICES                                    |
+| AUTOR:   Martínez, Demian Pertusi                                 |
+| ALBUM:   Radio Insomnio (2000)                                    |
++------------------------------------------------------TAB-at770672-+
+| TRANS:   Lei77o                                                   |
+=====================================================================
+
+El solo de la versión de Trapos.
+En Radio Insomnio, en el solo, la guitarra de Mariano no se distingue
+demasiado de la rítmica, asi que más fácil fue sacar el solo de la
+versión en vivo...
+Igualmente Mariano en vivo generalmente no varía demasiado los solos en
+comparación con las versiones de estudio, asi que supongo que debe ser
+igual o muy similar al de Radio Insomnio.
+Las referencias al final.
+
+Dudas, sugerencias, correcciones, etc. al mail.
+Saludos...
+
+========================================
+
+
+Riff del Intro:
+
+   [                x2                ]
+e|--------------------------------------|
+B|--------------------------------------|
+G|---9-9-7-7-6-6-----7-7-6-6------------|
+D|---------------9-9---------9-9--7-7---|
+A|--------------------------------------|
+E|--------------------------------------|
+
+Solo:
+
+  [ x9 ]
+e|------------------------------------------------12----12---------------|
+B|-----------------------------8b10~-10~~---12b14~~~~14----14r12-10~~----|
+G|--7b9--7b9r7-6-7~~--7-6-7-6~-------------------------------------------|
+D|-----------------------------------------------------------------------|
+A|-----------------------------------------------------------------------|
+E|-----------------------------------------------------------------------|
+
+e|-----------------------------------------------------------15-12-------|
+B|--17-------17-17----17-------17-17----17-------17-17-15b17-------15~~--|
+G|-----14-14-------14----14-14-------14----14-14-------------------------|
+D|-----------------------------------------------------------------------|
+A|-----------------------------------------------------------------------|
+E|-----------------------------------------------------------------------|
+
+e|------------------------------------12---------------------------------|
+B|--5b6---5b6---5-5----5-5------12b14~~~~14r12p10-10-12b14r12p10~~-------|
+G|--5b6---5b6---5-5----5-5-----------------------------------------------|
+D|------7-----7-----7------7---------------------------------------------|
+A|-----------------------------------------------------------------------|
+E|-----------------------------------------------------------------------|
+
+
+
+======================================================================
+
+Referencias:
+===========
+
+12b14: Bend. Estirar la cuerda en el traste 12 para que suene como:
+             si se pisara el traste 14.
+~: Dejar Sonar.
+p: Ligado Descendente (Pull Off).
+r: Release. Después de una estirada, volver a la nota original.
+[x2]: Repetición. Repetir tantas veces como indique el número lo que
+      está debajo de los corchetes.
+
+** Todo lo que se encuentra en la tab,
+es combinación de lo explicado arriba **
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

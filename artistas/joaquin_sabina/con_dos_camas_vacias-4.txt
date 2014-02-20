@@ -1,0 +1,101 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Joaquín Sabina                                           |
+| CANCION: CON DOS CAMAS VACIAS                                     |
+| AUTOR:   Joaquín Sabina                                           |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------TAB-sabi1074-+
+| TRANS:   filiberto                                                |
+=====================================================================
+
+ACORDES:
+
+         F  C  G7 Bb Bbm Gm D
+    E||--1--O--1--1---1--3--2---
+    B||--1--1--O--3---2--3--3---
+    G||--2--O--O--3---3--3--2---
+    D||--3--2--O--3---3--5--O---
+    A||--3--3--2--1---1--5--X---
+    E||--1--X--3--X---X--3--X---
+
+
+
+      INTRO:
+
+       D                 Bb            C          F  
+      Ya no cierro los bares ni hago tantos excesos,
+             D            Gm           C            F
+       cada vez son más tristes las canciones de amor.
+
+
+
+    E||----1/O-------------|
+    B||--1-3/1-3/1---------| esto lo hacen dos guitarras 
+    G||--------3/2-3/2-----| (cada una una voz diferente)
+    D||------------5/3-----|
+    A||--------------------|
+    E||--------------------|
+
+
+                        C                        F            |      
+        Ni tú bordas pañuelos ni yo rompo contratos           |         E||------------| 
+                                             C             |         B||------------| lo hace la guitarra en la
+      ni yo mato por celos ni tú mueres por mí,  [A]       | A       G||------2-O---| [A]
+                                                              |         D||--2/3-------|
+      antes de que me quieras como se quiere a un gato [A] |         A||------------|
+                                                 F            |         E||------------|
+      me largo con cualquiera que se parezca a ti.  [B]    |
+
+
+      E||-----------------|
+      B||-----------------| esto lo hace el guitarrón en
+      G||-----------------| (B)
+      D||-----------------|
+      A||-3-5/3-1/O-------|
+      E||-----------3/1---|
+
+
+                          C                           F    |
+      De par en par te abro las puertas que me cierras,  |
+                                (E:1,3;A:O,1)     Bb       |
+      me cuentan que el olvido no te sienta tan mal,     | B
+                          Bbm                    F         |
+      la paz que has elegido es peor que mi guerra,      |
+         D            Gm C                F                |
+      aquella cama nido parece un hospital.  [B]         |
+
+                             G7                       C    |
+      Yo, en cambio, no he sabido ir a favor del viento  | 
+                           G7                      C       |
+      que muerde las esquinas de esta ciudad impía,      | C
+                           Bb          C             F     |
+      pobre aprendiz de brujo que escupe al firmamento   |
+      D                  Gm C                  F         |
+      desde un hotel de lujo con dos camas vacías.       |
+
+
+      ¿Quién hará mi trabajo debajo de tu falda?,        |
+           la boca que era mía ¿de qué boca será?,            | A
+      el roto de tu ombligo ya no me da la espalda       | 
+      cuando pierdo contigo lo que gano al billar.       |
+
+
+      Aunque nunca me callo guardo un par de secretos,   |
+      lo digo de hombre a hombre, de mujer a mujer.      | B
+      Ni me caso con nadie, ni guardo pa´mis nietos,     |
+      por no tenter no tengo ni edad de merecer.         |
+
+
+      Como pago al contado nunca me falta un beso,       |
+      siempre que me confieso me doy la absolución,      | C
+      ya no cierro los bares ni hago tantos excesos,     |
+      cada vez son más tristes las canciones de amor.    |
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,253 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: LA CUPULA                                                |
+| AUTOR:   Cerati                                                   |
+| ALBUM:   Doble Vida                                               |
++------------------------------------------------------TAB-soda0322-+
+| TRANS:   Esteban                                                  |
+=====================================================================
+
+Hola a todos. Esta version tiene casi todos los solos de la
+rola menos el que toca junto con el coro del final.
+
+Abajo vienen los acordes correctos de la rola.
+
+
+Si tienen alguna duda o correccion escribanme.
+
+   Yo conosco ese lugar donde todos se la creen  [1:36]
+
+e:I------------------------------I
+B:I------------------------------I
+G:I-7b9-9r7p5-7--7b9--5----------I
+D:I---------------------7--------I
+A:I------------------------------I
+E:I------------------------------I
+
+  Yo conosco la salida de emergencia que nos salvara [1:45]
+
+e:I-------------------------8---------------------I
+B:I-------------------8s10----10v~----------------I
+G:I-----------------------------------------------I
+D:I-----------------------------------------------I
+A:I-----------------------------------------------I
+E:I-----------------------------------------------I
+
+  [1:48]      ________en las paredes......
+
+e:I--------------------------10------------------------------------I
+B:I-15b17~r15p13-15v~-----------13-10------------------------------I
+G:I-----------------------------------12-10-------------12--10-----I
+D:I-----------------------------------------12-10--------------12~-I
+A:I-----------------------------------------------12-10------------I
+E:I----------------------------------------------------------------I
+
+  Los guardianes pierden el Honor [2:12]
+
+e:I----------------------------------I
+B:I----------------------------------I
+G:I----------------------------------I
+D:I--------s19--15~s\----------------I
+A:I----------------------------------I
+E:I----------------------------------I
+
+   Hay tanta gamma a nuestro alrededor [2:18]
+
+e:I---------10------------------------------I
+B:I------------13-10------------------------I
+G:I-12b14~-----------12-10----12----10------I
+D:I------------------------12----12----12~--I
+A:I-----------------------------------------I
+E:I-----------------------------------------I
+
+
+  Solo [2:41]
+
+e:I-------I---------------I---------------------------I
+B:I-------I---------------I---------------------------I
+G:I-9~r7--I-*-2p0-------*-I------5-7--7b9~r7p5--7b9~--I
+D:I-------I-*-----2p0-0-*-I--5s7----------------------I
+A:I-------I---------------I---------------------------I
+E:I-------I---------------I---------------------------I
+
+e:I-5-------------------------------------------10--I
+B:I---8-5-------------8-10--10-10--10-10---8-10-----I
+G:I-------7-5---5-7---------------------------------I
+D:I-----------7-------------------------------------I
+A:I-------------------------------------------------I
+E:I-------------------------------------------------I
+
+e:I-13~--10-13b15r13-10--13~--10~---13p10--13p10--13p10--13p10-I
+B:I------------------------------------------------------------I
+G:I------------------------------------------------------------I
+D:I------------------------------------------------------------I
+A:I------------------------------------------------------------I
+E:I------------------------------------------------------------I
+
+e:I-13b15~15r13~---------10-----------------------------------I
+B:I---------------13b15~----13-10-----------------------------I
+G:I-------------------------------12-10-------12----10--------I
+D:I-------------------------------------12-10----12----12-12--I
+A:I-----------------------------------------------------------I
+E:I-----------------------------------------------------------I
+
+
+   Los Rayos X no penetran [3:03]
+
+e:I-----------------------------I
+B:I-----------------------------I
+G:I-12b14~r12p10---12-12b14-----I
+D:I-------------------------12~-I
+A:I-----------------------------I
+E:I-----------------------------I
+
+   Los Obscuros vidrio de una Limusine [3:07]
+
+e:I-------10----10----------------------------------------I
+B:I-13b15----13----10-------------------------------------I
+G:I-------------------12-10----14r12~--10----12----10-----I
+D:I-------------------------12------------12----12----12~-I
+A:I-------------------------------------------------------I
+E:I-------------------------------------------------------I
+
+   Te rescatare [3:14]   Los guardianes pierden el Honor [3:23]
+
+e:I-s20~s15v~-----I----------------------------------I
+B:I---------------I----------------------------------I
+G:I---------------I----------------------------------I
+D:I---------------I--------s19--15~s\----------------I
+A:I---------------I----------------------------------I
+E:I---------------I----------------------------------I
+
+   Hay tanto fraude a nuestro alrededor____________________[3:27]
+
+e:I-------------------------------------------------------------I
+B:I----------13-------------------------------------------------I
+G:I-12b14~------12b14r12p10--12--10h12-12---12b14~r12p10-12-----I
+D:I---------------------------------------------------------12~-I
+A:I-------------------------------------------------------------I
+E:I-------------------------------------------------------------I
+
+
+
+  INTRO
+
+
+e:I-5-5-5--8--4-4-4--8-5-5-5--8-4-5--I
+B:I-6-6-6--6--6-6-6--6-6-6-6--6-6-6--I
+G:I-7-7-7--7--7-7-7--7-7-7-7--7-7-7--I    Am
+D:I----------------------------------I
+A:I----------------------------------I
+E:I----------------------------------I
+
+
+ Dm    Dm5         Dm          Dm5           Am 
+  Yo Conosco ese lugar donde revientan las estrellas.
+ Dm    Dm5         Dm            Dm5         Am
+  Yo Conosco la escalera en espiral, hacia la cupula.
+
+ A#  C7sus4      A#    C7sus4  G7                           A7
+  Los Rayos X no penetran,      Los obscuros vidrios de una limusine.
+
+ Dm7   A7    C  G7
+  Te rescatare
+ Dm7   A7   F   G7
+  Te rescatare
+
+ A#        C7sus4        Am        A#         C7sus4
+  Los guardianes pierden el honor, mientras desfilan
+ A7                             G7 
+  Hay tanto fraude a nuestro alrededor;  Comprenderas
+
+
+ D Cadd9      F6add9   Cadd9 G        
+    Que es Amor lo que sangra
+ D Cadd9      F6add9     Cadd9 G  
+     desde el cielo en la cupula
+ D Cadd9  F6add9   Cadd9 G  
+    Es Amor lo que sangra
+ D Cadd9      F6add9     Cadd9 G  
+    sobre el techo en la cupula
+
+ Dm     Dm5       Dm           Dm5        Am
+  Yo Conosco ese lugar donde todos se la creen.
+ Dm     Dm5       Dm           Dm5           Am 
+  Yo Conosco la salida de emergencia que nos salvara.
+
+ A#         C7sus4         A#   C7sus4  G7                    A7
+  Urgue tu nombre en las paredes,        si se que esperas no podre dormir.
+
+ Dm7   A7    C  G7
+  Te rescatare
+ Dm7   A7   F   G7
+  Te rescatare
+
+ A#        C7sus4        Am        A#         C7sus4
+  Los guardianes pierden el honor,     Aprovechemos
+ A7                          G7  
+  Hay tanta gamma a nuestro alrededor;  deveras ver.
+
+
+ D Cadd9      F6add9   Cadd9 G        
+    Que es Amor lo que sangra
+ D Cadd9      F6add9     Cadd9 G  
+     desde el cielo en la cupula
+ D Cadd9  F6add9   Cadd9 G  
+    Es Amor lo que sangra
+ D Cadd9      F6add9     Cadd9 G  
+    sobre el techo en la cupula
+
+
+    [SOLO]    Dm   Am         Dm   Am
+
+
+ A#  C7sus4      A#    C7sus4  G7                           A7
+  Los Rayos X no penetran,      Los obscuros vidrios de una limusine.
+
+ Dm7   A7    C  G7
+  Te rescatare
+ Dm7   A7   F   G7
+  Te rescatare
+
+ A#        C7sus4        Am        A#         C7sus4
+  Los guardianes pierden el honor, mientras desfilan
+ A7                             G7 
+  Hay tanto fraude a nuestro alrededor;  Comprenderas
+
+
+ D Cadd9      F6add9   Cadd9 G        
+    Que es Amor lo que sangra
+ D Cadd9      F6add9     Cadd9 G  
+     desde el cielo en la cupula
+ D Cadd9  F6add9   Cadd9 G  
+    Es Amor lo que sangra
+ D Cadd9      F6add9     Cadd9 G  
+    sobre el techo en la cupula
+
+ ACORDES
+
+    Dm    Dm5    Am    A#  C7sus4  G7    A7
+e:I--5--I--4--I--5--I--1--I-----I--3--I--0--I
+B:I--6--I--6--I--5--I--3--I--3--I--3--I--2--I
+G:I--7--I--7--I--5--I--3--I--3--I--4--I--0--I
+D:I--7--I--7--I--7--I--3--I--3--I--3--I--2--I
+A:I--5--I-----I--7--I--1--I--3--I--5--I--0--I
+E:I-----I-----I--5--I--1--I-----I--3--I-----I
+
+    Dm7    C     F     D    Cadd9   F6add9    G 
+e:I--1--I--0--I--1--I--2--I---0---I---0---I---0---I
+B:I--1--I--1--I--1--I--3--I---3---I---3---I---3---I
+G:I--2--I--0--I--2--I--2--I---0---I---2---I---0---I
+D:I--0--I--2--I--3--I--0--I---2---I---3---I---0---I
+A:I-----I--3--I--3--I-----I---3---I-------I---2---I
+E:I-----I-----I--1--I-----I-------I-------I---3---I
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

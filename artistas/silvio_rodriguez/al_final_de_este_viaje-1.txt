@@ -1,0 +1,121 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: AL FINAL DE ESTE VIAJE                                   |
+| AUTOR:   Silvio Rodriguez                                         |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------TAB-srod0061-+
+| TRANS:   Iván                                                     |
+=====================================================================
+
+Sería infinitamente injusto no decir que este tab es sólo la
+transcripción de estos dos fulanos:
+http://www.youtube.com/watch?v=twobk_wB0n4&feature=channel
+http://www.youtube.com/watch?v=Vk-60enr_kQ
+que son, por mucho,
+mas talentosos que yo. Lo único que hize fue ponerlo junto y
+"ordenado".
+3t, significa tercer traste.
+Correciones les suplico me escriban, (..sería infinitamente más fácil
+si se permitieran comments, pero bueno, talvez es mejor para que
+no haya trolls...
+
+
+Fig 1
+|--0-0-------------------0-h3-p0----------|      E  A  G  D B e
+|--1-1--------------1-h3---------1--------|  G7  3  2  0  0 0 1
+|--0-0------------2----------------2--0---|  D*  8  7  0  0 6 8
+|--2-2-------0-h3-------------------------|
+|--3-3----------------------------------3-I C*   8  10 10 9 8 8
+|----0-------------------------------3----| Cd   0  0  1  2 1 2
+Fig 2                                       Dd   0  0  3  4 3 4
+|-------------------------||                G/4  3  2  0  0 1 3
+|-------------------------||                Fmaj 0  0  3  2 1 0
+|-------------------------||                Em   0  2  2  0 0 0
+|-------------------------||                Gmaj73  2  0  0 3 1
+|-----0-2-5-2-0-h2-p0-----||                Ebd  0  6  7  5 7 0
+|-0-3-----------------3---||
+
+
+Intro:  fig 1 (3 veces) G7, Gmaj7, D*, C*, F, Em
+
+Fig 1
+         Al final de este viaje
+                Fig 1
+en la vida quedarán
+                              Fig 1
+nuestros cuerpos hinchados de ir
+                  F      Em           G G/4   Fig 1
+a la muerte, al odio, al borde del mar
+
+Fig 1
+
+      Al final de este viaje
+               Fig 1
+en la vida quedará
+                              Fig 1
+nuestro rastro invitando a vivir
+                  F         Em      G G/4   C
+por lo menos por eso es que estoy aquí.
+
+
+             F           G       C
+Somos prehistoria que tendrá el futuro
+           Fmaj     G         C
+somos los anales remotos del hombre
+           Fmaj     G          E
+estos años son el pasado del cielo
+           F  Cº            G#7
+estos años son cierta agilidad
+           Ebd      Dm(5t)D(5t)  D   G       C
+con que el sol te dibuja        en el porvenir
+           Dd  C#d  Cd  D
+son la verdad o el fin
+      G  G/4 (3t)
+son Dios.
+F#  F     Em       Dm   Dm/C    Dm/E    Fig 2
+Quedamos los que puedan     sonreír
+    F    Em     Dm    Dm/C Dm/E        Gmaj7
+en medio de la muerte,     en plena luz
+         Fig 1         F   Em    G    G/4              Fig 1
+en plena luz, en plena lu   u    uz       en plena luz
+
+Al final de este viaje
+en la vida quedará
+una cura de tiempo y de amor
+una gasa que envuelva un viejo dolor
+al final de este viaje
+en la vida quedarán
+nuestros cuerpos tendidos al sol
+               F         Em       G G/4 C
+como sabanas blancas después del amor.
+
+              F         G       C
+Al final del viaje está el horizonte
+             Fmaj        G        C
+al final del viaje partiremos de nuevo
+             Fmaj      G          E4
+al final del viaje comienza un camino
+             F   Cº              G#7
+otro buen camino   que seguir descalzos
+    A7         D   D9 D        Fmaj G       C
+contando la arena,            al final del viaje
+ G   C    Dº  G     D     G G/4
+es  tamos tu  y     yo, intactos...
+    F    Em         Dm        C      Fig 2
+Quedamos los que puedan   sonreír
+    F    Em     Dm    C           G G/4
+en medio de la muerte,  en plena luz
+           F  Em   G     G/4        Fig 1
+ en plena luuuuuuuuuz, en plena      luz...
+F     Em     D  (parar)   G7(1rasgueo)          Fig 1
+ en plena luuuuuuuuuz,    en             plena  luz
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

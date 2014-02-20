@@ -1,0 +1,136 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Divididos                                                |
+| CANCION: NENE DE ANTES                                            |
+| AUTOR:   Jorge Araujo, Diego Arnedo, Ricardo Mollo                |
+| ALBUM:   Gol de Mujer                                             |
++------------------------------------------------------BAT-divi0286-+
+| TRANS:   lisandro                                                 |
+=====================================================================
+
+Intro
+
+Ride: X: Campana x: superficie(alterna corcheas)
+C: Caja
+
+Base                    fill
+   1   2   3   4           1   2   3   4
+R :X-x-X-x-X-x-X-x-     r :X-x-X-x-X-x-X-x-
+C :----o-------o---     c :----o----o.-----
+T1:---------------- x3  t1:-----------oo--- )no se si son seiscillos
+T2:----------------     t2:-------------oo- )o fusas
+Ch:----------------     ch:---------------o )
+B :o-o-o--o-o-o--     B :o-o-o-o-------
+
+Peine cardenales...     ...aves raras de un...
+Base                    fill
+   1   2   3   4           1   2   3   4
+Hh:X-X-X-X-X-X-X-X-     hh:X-X-X-X-X-X-X-X-
+C :----o-------o---     c :----o----o.-----
+T1:---------------- x3  t1:------------o---
+T2:----------------     t2:----------------
+Ch:----------------     ch:----------------
+B :o-o-o--o-o-o--     B :o-o-o-o-o-o-
+
+...Por agua...          ...bylcreem...
+                        fill
+   1   2   3   4           1   2   3   4
+C :X---------------     C :----------------
+hh:--X-X-X-X-X-X-X-     hh:x---x-x---x-x---
+c :----o----o.-----     c :o-----o-----o---
+t1:------------o--- x3  t1:----------------
+t2:----------------     t2:----------------
+ch:----------------     ch:----------------
+B :o-o-o-o-o-o-     B :----o-----o-----
+
+Ponele las ventosas...  ...del chiflete...
+Base                    fill
+   1   2   3   4           1   2   3   4
+Hh:X-X-X-X-X-X-X-X-     hh:X-X-X-X-X-X-X-X-
+C :----o-------o---     c :----o----o.-----
+T1:---------------- x3  t1:------------o---
+T2:----------------     t2:----------------
+Ch:----------------     ch:----------------
+B :o-o-o--o-o-o--     B :o-o-o-o-o-o-
+
+...debajo de...no para de sonar...
+                        fill
+   1   2   3   4           1   2   3   4
+C :X---------------     C :----------------
+hh:--X-X-X-X-X-X-X-     hh:----------------
+c :----o----o.-----     c :f-f-f-f-----f--- )flams
+t1:------------o--- x3  t1:----------------
+t2:----------------     t2:----------------
+ch:----------------     ch:----------------
+B :o-o-o-o-o-o-     B :o-o-o-o-o--o-o-
+
+...Nene de antes...   ... con un diez en resaca...
+
+Base                    fill
+   1   2   3   4           1   2   3   4
+R :X-x-X-x-X-x-X-x-     r :X-x-X-x-X-x-X-x-
+C :----o-------o---     c :----o----o.-----
+T1:---------------- x3  t1:-----------oo--- )no se si son seiscillos
+T2:----------------     t2:-------------oo- )o fusas
+Ch:----------------     ch:---------------o )
+B :o-o-o--o-o-o--     B :o-o-o-o-------
+
+Y luego se repite la misma base desde ...peine cardenales...
+
+Solo de guitarra
+
+Base  x3             primer fill     base  x3           segundo fill
+   1   2   3   4       1   2   3   4 1   2   3   4    1   2   3   4
+R :X-x-X-x-X-x-X-x-|X-x-X-x-X-x-X-x-|X-x-X-x-X-x-X-x-|X-x-X-x-X-x-X-x-
+C :----o-------o---|----o----o.-o---|----o-------o---|-o-o----o-ooooo
+T1:----------------|----------------|----------------|----------------
+T2:----------------|----------------|----------------|----------------
+Ch:----------------|----------------|----------------|----------------
+B :o-o-o--o-o-o--|o-o-o-o--o-o--|o-o-o-o-o-o--|o-o-o-o-------
+
+...tuve ataque de nervios..sacaron la roja...
+                        fill
+   1   2   3   4           1   2   3   4
+C :X---------------     C :X--X---X--X------
+hh:--X-X-X-X-X-X-X-     hh:-----------------
+c :----o----o.-----     c :--o----o----f----
+t1:------------o--- x7  t1:-----------------
+t2:----------------     t2:-----------------
+ch:----------------     ch:-----------------
+B :o-o-o-o-o-o-     B :o--o------o-f----
+
+Parte lenta solo de bajo
+
+   1   2   3   4           1   2   3   4
+C :----------------     C :-----------------
+hh:X-------x-------     hh:X-------x--------
+c :----------------     c :------------f----
+t1:---------------- x3  t1:-----------------
+t2:----------------     t2:-----------------
+ch:----------------     ch:-----------------
+B :----o-------o--     B :----o-------o----
+
+...tuve ataque de nervios..sacaron la roja...
+                        fill
+   1   2   3   4           1   2   3   4
+C :X---------------     C :----XX-X-X------
+hh:--X-X-X-X-X-X-X-     hh:-----------------
+c :----o----o.-----     c :oooo--------f----
+t1:------------o--- x3  t1:-----------------
+t2:----------------     t2:-----------------
+ch:----------------     ch:-----------------
+B :o-o-o-o-o-o-     B :----oo-o-o--o---
+
+Estribillo x 2
+
+Algunos crash no los puse porque son obvios, escuchen la canción para guiarse
+aguante divididos, Araujo un maestro.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

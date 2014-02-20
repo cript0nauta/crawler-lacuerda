@@ -1,0 +1,102 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: RESUMEN DE NOTICIAS                                      |
+| AUTOR:   Silvio Rodríguez                                         |
+| ALBUM:   Al Final De Este Viaje                                   |
++------------------------------------------------------ACO-srod1491-+
+| TRANS:   -?-                                                      |
+=====================================================================
+
++ Servidor FTP de la Universidad de Leon        +
++ ftp://est.unileon.es/pub/musica/acordes/esp/  +
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Acordes:
+    G   D   C   G\B   Em  A   Am  Bm  F#m  F   Dm
+E|--3---2---0---0-----0---0---0---2---2----1---1
+B|--0---3---1---3-----0---2---1---3---2----1---2
+G|--0---2---0---0-----0---2---2---4---2----2---3
+D|--0---0---2---0-----2---2---2---4---4----3---0
+A|--2-------3---2-----2---0---0---2---4----3----
+E|--3-----------------0---------------2----1----
+
+
+     C              G/B        Am          G
+     F             Em         Dm         G     (B)
+
+     C              G/B        Am          G
+     He estado al alcance de todos los bolsillos
+     F             Em         Dm         G     (B)
+     porque no cuesta nada mirarse para adentro.
+     C              G/B        Am        G
+     He estado al alcance de todas la manos
+     F             Em         Dm         G     (B)
+     que han querido tocar mi mano amigamente.
+     C             G/B         Am              G
+     Pero, pobre de mi, no he estado con los presos
+     F             Em         Dm         G     (B)
+     de su propia cabeza acomodada,
+     C                       G/B       Am    G
+     no he estado en los que ríen con solo media risa,
+     F             Em   Dm         G    (B)
+     los delimitadores de las primaveras.
+
+
+     C              G/B        Am          G
+     F             Em         Dm         G     (B)
+
+
+     No he estado en los archivos ni en las papelerías
+     y se me archiva en copias y no en originales.
+  *  No he estado en los mercados grandes de la palabra,
+     pero he dicho lo mío a tiempo y sonriente.
+     No he estado enumerando las manchas en el sol
+     pues sé que en una sola mancha cabe el mundo.
+     He procurado ser un gran mortificado
+     para, si mortifico, no vayan a acusarme.
+
+Cambio de tono (creo que es algo asi)
+E|--0---0---0---0---2---
+B|--1---0---0---2---3---
+G|--0---0---2---2---2---
+D|--0---0---0---2---0---
+A|--2---2---2---0-------
+E|--3---3---3-----------
+
+     D              A      Bm        F#m
+     Aunque se dice que me sobran enemigos,
+     G                 F#m          Em            A    G
+     todo el mundo me escucha bien quedo cuando canto.
+     D               A          Bm        F#m
+     Yo he preferido hablar de cosas imposibles
+     G              F#m       Em     A     G
+     porque de lo posible se sabe demasiado.
+     D               A      Bm       F#m
+     He preferido el polvo así, sencillamente,
+     G                F#m         Em      A    G
+     pues la palabra amor aún me suena hueco.
+     D                A    Bm        F#m
+     He preferido un golpe así, de vez en cuando,
+     G             F#m        Em          A    G
+     porque la inmunidad me carcome los huesos.
+
+     Agradezco la participación de todos
+     los que colaboraron en esta melodía.
+     Se debe subrayar la importante tarea
+     de los perseguidores de cualquier nacimiento.
+     Si alguien que me escucha se viera retratado,
+     sépase que se hace con ese destino.
+     Cualquier reclamación que sea sin membrete.
+     Buenas noches, amigos y enemigos.
+
+     D   A   Bm   F#m   G F#m Em A G   D
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

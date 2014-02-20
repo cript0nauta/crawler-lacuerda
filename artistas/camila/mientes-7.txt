@@ -1,0 +1,313 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Camila                                                   |
+| CANCION: MIENTES                                                  |
+| AUTOR:   -?-                                                      |
+| ALBUM:   Mientes (2009)                                           |
++------------------------------------------------------TAB-cmla0237-+
+| TRANS:   fernando                                                 |
+=====================================================================
+
+Hola soy fer aqui les traigo un exito de
+camila de su segundo disco y dedicado para una xica muy especial.
+Mientes-Camila
+
+Tonalidad Original: F#
+
+
+Arreglo: Capo 2°(Guitarra Acustica)
+Los acordes son segun el capotraste
+
+Acordes:
+E          022100
+E(2°p)     222452----&gt;x22442
+F#         044302
+Badd9      224422
+Badd9/G#   424422
+E°(arreglo)022100----&gt;022130
+F#sus6     244422
+G          355433
+G#m        466444
+G5         355xxx
+
+Riff 1° Guitarra Acustica
+
+Intro:
+     F#                 E
+e|---------2------------------------------|
+b|------0--------0------------------------|
+g|---3--------3---------1-----------------|
+D|---4------------------2-----------------|
+A|---4------------------2-----------------|
+E|----------------------------------------|
+
+     F#                 E
+e|---------2------------------------------|
+b|------0--------0------------------------|
+g|---3--------3---------1-----------------|
+D|---4------------------2-----------------|
+A|---4------------------------------------|
+E|----------------------2-----------------|
+
+     F#                 E
+e|---------2--------2-----------------------------|
+b|------0--------0--------------------------------|
+g|---3--------3---------1--------1/3------3/4-----|
+D|---4------------------2------(2)-------4--------|
+A|---4-----------------------2-----------(4)------|
+E|----------------------2-------------------------|
+
+Letra:
+
+     F#                 E
+e|---------2---------------------------------|
+b|------0--------0-----------------(0)-------|
+g|---3--------3---------1--------(1)---------|
+D|---4------------------2------(2)-----------|
+A|---4-----------------------(2)-------------|
+E|----------------------2--------------------|
+                             /---------/-&gt;Esta parte va
+                                          despues de
+                                         "Te hiciste
+                                         indispensable
+                                            para mi"..
+                                          (arpejiando)
+
+1 y 2 Verso.
+
+F#      E
+Tú llegaste a mi vida para enseñarme,
+F#      E
+tú, supiste encenderme y luego apagarme,
+F#      E
+tú, te hiciste indispensable para mi, y.. y..
+
+F#     E                      F#
+Y con los ojos cerrados te seguí,
+    E                       F#
+si yo busqué dolor lo conseguí,
+    E
+no eres la persona que pensé, que creí, que pedí.
+                       /------------------------/ Aqui solo
+                                              se rasguea las
+                                              4 ultimas cuerdas.
+
+Riff para 2° Guitarra electrica
+
+Desde la parte "que pensé, que creí, que pedí."
+
+     F#5
+e|----------------------------------------------------------|
+b|----------------------------------------------------------|
+g|----------------------------------------------------------|
+D|---4-4-4-4-4-4-4-4-4-4-4--4-4-4-4-4-4---4/0---------------|
+A|---4-4-4-4-4-4-4-4-4-4-4--4-4-4-4-4-4---4/0---------------|
+E|---2-2-2-2-2-2-2-2-2-2-2--2-2-2-2-2-2---2-----------------|
+    /----Palm Mutting----/
+
+Coros.
+
+Para 1°Guitarra Acustica solo rasgueo con los acordes en la letra.
+
+Para 2°Guitarra Electrica:
+
+Ar1
+e|---------------------|
+b|--7/9v---------------|
+g|--------8/10-8-6-----|
+D|-----------------10v-|
+A|---------------------|
+E|---------------------|
+
+Ar2
+e|---------------------|
+b|--7/9v---6-9-7v------|
+g|---------------------|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+Ar3
+e|---------------------|
+b|--7/9v---------------|
+g|--------8/10-8-6/8---|
+D|-------------------6v|
+A|---------------------|
+E|---------------------|
+
+Ar4
+e|---------------------|
+b|--7/9v---------------|
+g|--------8/10-8-6-----|
+D|-----------------8v--|
+A|---------------------|
+E|---------------------|
+
+Ar5
+e|---------------------|
+b|--7/9v--9-9-6-7v-----|
+g|---------------------|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+Ar6
+e|---------------------|
+b|--7/9v--7/9-7-6------|
+g|----------------6----|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+
+ Badd9  [Ar1]                          Badd9/G# [Ar2]
+Mientes, me haces daño y luego te arrepientes
+                          E(2°p) (Ar3)
+ya no tiene caso que lo intentes
+                         F#sus6
+no me quedan ganas de sentir
+
+ Badd9 (Ar4)                       Badd9/G#
+Llegas cuando estoy a punto de olvidarte
+(Ar5)                     E(2°p) (Ar6)
+busca tu camino en otra parte
+                          F#sus6
+mientras busco el tiempo que perdí
+                      E
+y hoy estoy mejor sin ti.
+
+
+3 y 4 Verso
+
+Solo rasgueo 1° Guitarra Acustica
+
+F#       E                      F#
+Voy de nuevo recordando lo que soy,
+     E                         F#
+sabiendo lo que das y lo que doy,
+E
+el nido que buscaste para ti, y... y... y...
+                         /-----silencio-----/
+
+
+Mientras la 1° guitarra aciustica rasguea
+
+La electrica hace estos Riff
+
+Ar7
+e|---------------------|
+b|---------------------|
+g|----3/5-(5/3)--------|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+Ar8
+e|---------------------|
+b|---------------------|
+g|----5/7-(7/10)-------|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+
+F#(Ar7)   E                        F#
+Y el tiempo hizo lo suyo y comprendí
+E(Ar7)                       F#
+las cosas no suceden porque si,
+(Ar8)E
+no eres la persona que pensé, que creí, que pedí
+
+Riff para 2° Guitarra electrica
+
+Desde la parte "que pensé, que creí, que pedí."
+
+     F#5
+e|----------------------------------------------------------|
+b|----------------------------------------------------------|
+g|----------------------------------------------------------|
+D|---4-4-4-4-4-4-4-4-4-4-4--4-4-4-4-4-4---4-----------------|
+A|---4-4-4-4-4-4-4-4-4-4-4--4-4-4-4-4-4---4-----------------|
+E|---2-2-2-2-2-2-2-2-2-2-2--2-2-2-2-2-2---2-----------------|
+    /----Aumentando la fuerza y volumen----/
+
+Coros
+1°Guitarra Acustica rasgueo.
+
+ Badd9  [Ar1]                          Badd9/G# [Ar2]
+Mientes, me haces daño y luego te arrepientes
+                          E(2°p) (Ar3)
+ya no tiene caso que lo intentes
+                         F#sus6
+no me quedan ganas de sentir
+
+ Badd9 (Ar4)                       Badd9/G#
+Llegas cuando estoy a punto de olvidarte
+(Ar5)                     E(2°p) (Ar6)
+busca tu camino en otra parte
+                          F#sus6
+mientras busco el tiempo que perdí
+                      E Solo G#m
+y hoy estoy mejor sin ti.
+                  E°(Arreglo) G G5--&gt;Para la salida.
+y hoy estoy mejor sin ti.
+
+
+2° Guitarra Electrica Solo.
+(Guience con el ritmo de la musica y escuchen
+bien el Tempo a seguir) No es dificil
+
+Solo
+e|---//16vvvvv----(16h18p)-----------------------|
+b|--------------------------16b-16v--14/16--11/--|
+g|-----------------------------------------------|
+D|-----------------------------------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+e|-----------15---------------------------------------------------3/0|
+b|------14--16b--16bp14----14----15-------------------------------3/0|
+g|----15-----------------15----15------15--15/17--17/19--19/21----4/0|
+D|----------------------------------------------------------------5/0|
+A|----------------------------------------------------------------5/0|
+E|----------------------------------------------------------------3/0|
+
+Coro de Salida
+
+/------------Silencio---------------/Badd9/G#(Ar1)
+Llegas cuando estoy a punto de olvidarte
+                          E(2°p) (Ar6)
+busca tu camino en otra parte
+                          F#sus6
+mientras busco el tiempo que perdí
+                      E
+y hoy estoy mejor sin ti.
+                      G#m
+y hoy estoy mejor sin ti.
+                      E
+y hoy estoy mejor sin ti.
+
+La guitarra electrica termina el el rasgueo
+ de la ultima linea dode dice:
+
+                      D#5
+"y hoy estoy mejor sin ti."
+
+e|------------------------|
+b|------------------------|
+g|----8-8-8-8-8-8-8---8/0-|
+D|----8-8-8-8-8-8-8---8/0-|
+A|----6-6-6-6-6-6-6---6/0-|
+E|------------------------|
+
+
+Dudas a mi correo tuxcho05@hotm.... Graxias
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

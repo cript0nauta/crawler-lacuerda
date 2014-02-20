@@ -1,0 +1,119 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Patricio Rey y sus Redonditos de Ricota                  |
+| CANCION: LA MURGA DE LOS RENEGADOS                                |
+| AUTOR:   Beilinson-solari                                         |
+| ALBUM:   Momo sampler (2000)                                      |
++------------------------------------------------------TAB-redo1003-+
+| TRANS:   Curda                                                    |
+=====================================================================
+
+Intro: Em (G-G5 - A-A5) + Riff 1 (G-G5 - A-A5) + Riff 1
+
+Em
+No da más, la murga de los renegados.
+No da más, la murga sin la bendición.
+
+(Arrastrar E5 desde el traste 12)
+Con Riff 2
+E5      Em       E5      G5
+Entre sopores, modorras ciegas
+E5      Em       E5         G5
+y oscuridad de bodegas sin luz;
+E5      Em      E5   G5
+va esa murga desencantada
+E5                   Riff 3
+que lleva siglos así.
+
+Em       Riff 4                     Riff 5
+No da más, la murga de los renegados.
+Em      Riff 6
+No da más, la murga sin la bendición.
+
+Putas serenas, que son tan lindas 
+Que dan miedo cuando las miras.
+Para vos ellas son capaces
+De herirte con su dolor
+
+No da más, la murga de los renegados.
+No da más, la murga sin la bendición.
+
+Solo: E (G - G - F - E) x2
+
+No da más, la murga de los renegados.
+No da más, la murga sin la bendición.
+
+Destino armado por Bingo Tongo 
+Tanta medula que envenenó.
+Un bobo lava y un tonto enjuaga
+Y la murga nos vuelve a gritar.
+
+
+No da más, la murga de los renegados.
+No da más, la murga sin la bendición.
+
+Solo: E Riff 2 Como intro
+    
+Riff 1:
+
+-3----|-5----|-----------------------
+-3----|-5----|-8p5-5-5-5-8p5-5---5---
+-4-4~-|-6-6~-|-----------------7-----
+-5-5~-|-7-7~-|-----------------------
+-5-5~-|-7-7~-|-----------------------
+-3----|-5----|-----------------------
+
+Riff 2:
+
+-----------|---------------------
+-----------|---------------------
+-----------|-------4-4~----------
+-2---------|-2-----5-5~----------
+-2-------2-|-2-----5-5~----------
+-0-2-0-2---|-0-2-0---------------
+
+Riff 3:
+
+-------------|-------------------
+-------------|-------------------
+-------------|-------------------
+-------0h2---|-------------------
+---0h2-------|-------------------
+-------------|-------------------
+
+Riff 4:       Riff 5:
+
+-------------|-------------------
+-------------|-------------------
+--7h9~-------|-7/9-9-7-----------
+-------------|---------9-7-9~----
+-------------|-------------------
+-------------|-------------------
+
+Riff 6:
+
+----10h12~~--|-------------------
+-------------|-------------------
+-------------|-------------------
+-------------|-------------------
+-------------|-------------------
+-------------|-------------------
+
+ Em  G   A  E5  G5  G5*  E   F   A5*
+-0-|-3-|-5-|-x-|-x-|-x-|-0-|-1-|-x-|
+-0-|-3-|-5-|-x-|-x-|-x-|-0-|-1-|-x-|
+-0-|-4-|-6-|-x-|-x-|-4-|-1-|-2-|-6-|
+-2-|-5-|-7-|-2-|-5-|-5-|-2-|-3-|-7-|
+-2-|-5-|-7-|-2-|-5-|-5-|-2-|-3-|-7-|
+-0-|-3-|-5-|-0-|-3-|-3-|-0-|-1-|-5-| 
+G5*: en el intro 
+A5*: en el intro
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

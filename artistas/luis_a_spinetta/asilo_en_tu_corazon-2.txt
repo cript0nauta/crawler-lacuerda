@@ -1,0 +1,92 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Luis Alberto Spinetta                                    |
+| CANCION: ASILO EN TU CORAZON                                      |
+| AUTOR:   Luis Alberto Spinetta                                    |
+| ALBUM:   La la la (1986)                                          |
++------------------------------------------------------ACO-spin0792-+
+| TRANS:   Francisco                                                |
+=====================================================================
+
+Hola gente. Ésta transcripción es de la versión acústica excelente que
+hizo Luis en Badia me parece, está en youtube el video =)
+Abajo especifico los acordes ;)
+
+
+Intro: C - Cmaj7 - C12
+
+C           Am7         Am/F        E/F
+Un rumor adormece toda marea en mí
+C                 Am7         Am/F       E/F
+Y a la vez yo te grito sin poderte gritar
+        C2/G#      Am7/A#          Am7/14            Dm7
+Mientras tanto alguien nos prejuzga sin ninguna razón
+    C         Am      Am/F         Dm7
+Piedra sobre piedra, nada importa ya...
+
+ C                 Am7      Am/F    E/F
+Oh mi amor, yo te choco débilmente
+C                Am7      Am/F      E/F
+Bajo este sol de mañana desesperada
+           C2/G#       Am7/A#           Am7/14              Dm7
+Y es que me veo partir oh, soy un barco que se hace a la mar
+       C     Am        Am/F         Am7/14
+Y en todo retorno un cambio nacerá
+
+         C2/G#     D#maj7/2      Dm7(V)  Cm7      B7/4(VII)
+Y en tu nombre, yo brindo en la nada vestido de gris
+       C2/G#     D#maj7/2   Dm7(V)        Cm7        B7/4(VII)
+En tu nombre, me quito las llamas de un cuerpo que fuí
+    C2/G#              D#maj7/2       Dm7(V)   Cm7     A#m7
+En tu nombre, y es que habrá que seguir y seguir y seguir,
+ C2/G#         D#maj7/2    Dm7(V)    Cm7  A#m7         C2/G#
+Y seguir... Pidiendo por siempre un asilo en tu corazón
+
+C2/G# - G* - C2
+
+C2              Am7          Am/F          E/F
+Sólo amar, sólo amar hasta perder la noción
+(Solo cambia en ésa frase a C2, en adelante sigue como antes)
+Y así doblar por esta esquina que confluye hacia el sur
+Que es solo un espejo, el espejo que marcó las lágrimas de hoy
+Piedra sobre piedra, nada importa ya
+
+Y en tu nombre, yo brindo en la nada vestido de gris
+En tu nombre, me quito las llamas de un cuerpo que fuí
+En tu nombre, y es que habrá que seguir y seguir y seguir, y seguir...
+Pidiendo por siempre un asilo en tu corazón
+
+
+
+Acordes: (Ojo! Afinar muy bien la guitarra para tocar este tema,
+debido a algunos acordes raros...)
+
+C: x32010 (Opcional agregar un Sol arriba en la primera cuerda
+para lograr un adorno x32013 en la intro o entre el tema :D)
+Cmaj7: x32000
+C12: x32013
+Am7: x02010
+Am/F: 1x221x (Am/F o Fmaj7)
+E/F: 1x210x
+C2/G#: 4x553x
+Am7/A#: x1201x
+Am7/14: x02013
+Dm7 : xx0211
+D#maj7/2: x6876x
+Dm7(V): x5756x
+Cm7: x3534x
+B7/4 (VII): 797977 ó 79797x
+A#m7: x13121 ó x13121
+G*: 3x040x
+C2: x35533
+
+Cualquier duda me escriben aquí yeib22@gmail.com ;)
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

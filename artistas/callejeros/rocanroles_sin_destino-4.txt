@@ -1,0 +1,305 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Callejeros                                               |
+| CANCION: ROCANROLES SIN DESTINO                                   |
+| AUTOR:   Callejeros, Djerfy, Rogello Santos                       |
+| ALBUM:   Rocanroles Sin Destino                                   |
++------------------------------------------------------TAB-call0404-+
+| TRANS:   Ulises, Fernando                                         |
+=====================================================================
+
+Para los que como yo tocan sin imprimir, mirando del monitor
+compile las otras versiones para tenerla completa.
+La primera parte es solo la guitarra rasgueando,
+y fijense que antes de empezar el tema toca 2 veces el Fa pero
+con las cuerdas tapadas
+
+Acordes usados: el Am creo que solo lo hace en un lugar,
+pero el Dm me parece que lo hace unas veces en uno y
+otras en otro, lo mismo me pasa con el A# y el C
+
+NOTA: donde estan los corchetes "[]" en cada estrofa
+es donde entra cada tablatura
+
+ | F | C | C | C | Dm| Dm| A#| A#| Gm| Am|
+E|-1-|-x-|-x-|-8-|-x-|-x-|-x-|-6-|-3-|-5-|
+A|-3-|-3-|-3-|10-|-x-|-5-|-1-|-8-|-5-|-7-|
+D|-3-|-2-|-5-|10-|-0-|-7-|-3-|-8-|-5-|-7-|
+G|-2-|-0-|-5-|-9-|-2-|-7-|-3-|-7-|-3-|-5-|
+B|-1-|-1-|-5-|-8-|-3-|-6-|-3-|-6-|-3-|-5-|
+E|-1-|-0-|-3-|-8-|-1-|-5-|-1-|-6-|-3-|-5-|
+
+
+F
+Imagenes de subir, imagenes de soñar
+                    C
+Llenando un lugar vacio
+Dm                              C
+Cientos de momentos frios y soledad
+
+F
+Siempre relojeando al cielo
+                      C
+Desde el suelo y no arriba
+Dm         A#
+Sin saber, si creer
+Gm                                 C
+Si esta eleccion de vida valdria mi fe
+A#
+Si este tren, solo de ida
+               C
+Me daria un lugar
+Gm
+Y el corazon me aturdia con eso
+        A#
+De que las paredes y el techo
+                    C
+Se van si hay libertad
+
+---ACA-TERMINA-EL-PRINCIPIO-DE-SOLO-GUITARRA---
+
+      Am             Gm
+Y ese [dro]gadicto alarido
+      Am                       A#
+Cuando se quiebran todos los sentidos
+             C
+Con una cancion
+
+
+E|---------|-----------------|
+A|---------|-----------------|
+D|---------|-----------------|
+G|---------|-----------------|
+B|---------|----------1h3p1~-|
+E|--5~-6-6-|-5~-1h3p1--------|
+
+             Am                          Gm
+Fue el que jugo[]todo el tiempo en mi mente
+    Am                         A#
+Como abogado y libero para siempre
+                F
+A esta ciega razon...
+
+E|---------|-----------------|
+A|---------|-----------------|
+D|---------|-----------------|
+G|---------|-----------------|
+B|---------|----------1h3p1~-|
+E|--5~-6-6-|-5~-1h3p1--------|
+
+      C
+...de viv[ir].
+E|-----------------------|
+A|-----------------------|
+D|-----------------------|
+G|-----------------------|
+B|--------------------3~-|
+E|--6-5-3-5-3-1-3-1-0----|
+
+     A#
+De tratar de lo[grar],
+
+E|---------------|
+A|---------------|
+D|---------------|
+G|---------------|
+B|--3-----3------|
+E|----0-1---5-3~-|
+
+
+           Gm
+Ser la re[van]cha de todos aquellos
+             A#
+Que la pelearon al lado, de cerca o muy lejos
+   C
+y nooo
+
+E|-----------|-------------------|
+A|-----------|-------------------|
+D|-----------|-------------------|
+G|-----------|-------------------|
+B|-----------|-------------------|
+E|-6~-3h6p3~-|-6~-6-6-6-6-6-5-8~-|
+
+
+                        F   (Gm Am Gm)
+[pu]dieron reir sin llorar.
+
+E|------------------|---------------|
+A|------------------|---------------|
+D|------------------|---------------|
+G|------------------|---------------|
+B|------------------|---------------|
+E|-8-8-8-8-8-6-5-1~-|-1s3-3s5-3h5p3-|
+
+         F
+Te llaman [si] convocas, te llaman si pagas bien
+                    C
+O si le tiras la alfombra
+
+E|---------------------------------------|
+A|---------------------------------------|
+D|---------------------------------------|
+G|---------------2-3---------------------|
+B|----------3-1~----1-3------------------|
+E|-1~-1-1-0-------------0-3~-5-3-3h5p3p1-|
+
+Dm
+Te[]hacen caminar entre sombras
+            A#
+Y no te escucharon ni hablar.
+
+
+E|--------|-------------------------|
+A|--------|-------------------------|
+D|--------|-------------------------|
+G|--------|-------------------------|
+B|-3-1-3~-|-3-----------------3-1---|
+E|--------|---0-1-0-1-1p0h1-0-------|
+
+ F                                       C
+Muchas bandas mueren[ sin] el apoyo de estos
+
+E|---------------------------|
+A|---------------------------|
+D|---------------------------|
+G|---------------------------|
+B|-3-1~-1-3------------------|
+E|----------0-3~-5-3-3h5p3p1-|
+
+ A#
+[Tan]tos mediocres sin clase
+                    Gm                Dm             C
+Que te arman 'El ranking de los elegidos del nunca jamas'.
+
+
+E|---------------------------|
+A|---------------------------|
+D|---------------------------|
+G|---------------------------|
+B|-3~-1-3~-3~-1-3~-3---3-1---|
+E|-------------------0-------|
+
+   A#                                       F
+Y[ ahi] caes en la cuenta de que lo que cuenta
+               C                 Dm
+es lo que se siente en la calle, en la gente
+     A#
+Y no en los inventos
+
+E|----------------------------------------|
+A|----------------------------------------|
+D|----------------------------------------|
+G|----------------------------------------|
+B|------------------3-1-3-1-----0-3-1-3-1-|
+E|-6~-6-6-5-3-1~~-0----------1~-----------|
+
+  F                C
+[de ]estos incoherentes...
+A#        F         C
+Para no dejarte llegar.
+
+E|---------------------------|
+A|---------------------------|
+D|---------------------------|
+G|---------------------------|
+B|-6-6-6-3h5h6-5~-3~-1~-3~---|
+E|---------------------------|
+
+      Am                 Gm
+Y ese es[truen]do casi divino
+            Am                  A#
+Cuando se quiebran todos los sentidos
+             C
+Con un rocanrol
+
+E|---------|-----------------|
+A|---------|-----------------|
+D|---------|-----------------|
+G|---------|-----------------|
+B|---------|----------1h3p1~-|
+E|--5~-6-6-|-5~-1h3p1--------|
+
+             Am                          Gm
+Fue el que jugo[]todo el tiempo en mi mente
+    Am                         A#
+Como abogado y libero para siempre
+                F
+A esta ciega razon...
+
+E|---------|-----------------|
+A|---------|-----------------|
+D|---------|-----------------|
+G|---------|-----------------|
+B|---------|----------1h3p1~-|
+E|--5~-6-6-|-5~-1h3p1--------|
+
+      C
+...de viv[ir].
+E|-----------------------|
+A|-----------------------|
+D|-----------------------|
+G|-----------------------|
+B|--------------------3~-|
+E|--6-5-3-5-3-1-3-1-0----|
+
+     A#
+De tratar de lo[grar],
+
+E|---------------|
+A|---------------|
+D|---------------|
+G|---------------|
+B|--3-----3------|
+E|----0-1---5-3~-|
+
+
+           Gm
+Ser la re[van]cha de todos aquellos
+             A#
+Que la pelearon al lado, de cerca o muy lejos
+   C
+y nooo
+
+E|-----------|-------------------|
+A|-----------|-------------------|
+D|-----------|-------------------|
+G|-----------|-------------------|
+B|-----------|-------------------|
+E|-6~-3h6p3~-|-6~-6-6-6-6-6-5-8~-|
+
+
+                        F   (Gm Am Gm)
+[pu]dieron reir sin llorar.
+
+E|------------------|---------------|
+A|------------------|---------------|
+D|------------------|---------------|
+G|------------------|---------------|
+B|------------------|---------------|
+E|-8-8-8-8-8-6-5-1~-|-1s3-3s5-3h5p3-|
+
+
+Final
+E|---------------|--------------|----|
+A|---------------|--------------|----|
+D|---------------|--------------|----|
+G|---------------|--------------|----|
+B|----------3-1~-|--------------|----|
+E|-1~-1-1-0------|-1~-3-3-1-0-1-|-1~~|
+
+Esta bastante bien, mi hermano dice que si lo tocas en el saxo
+hay unas partes donde "frutea" pero esta bastante cerca,
+de todos modos para la guitarra esta barbaro
+Aguante lacuerda loco!!!!
+a ver cuando permiten poner temas para saxo
+o podrian hacer una pagina que se llame "la caña.net" Saludos
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

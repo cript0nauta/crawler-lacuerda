@@ -1,0 +1,203 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Enanitos Verdes                                          |
+| CANCION: AMORES LEJANOS                                           |
+| AUTOR:   Felipe Staiti                                            |
+| ALBUM:   Amores Lejanos (2002)                                    |
++------------------------------------------------------BAT-enan0863-+
+| TRANS:   ivan                                                     |
+=====================================================================
+
+Cr=Crash 16"
+C2=Crash 18"
+CH=Chaina
+Rd=Ride  20"
+Hh=Hit hats 14"
+Ta=Tarola
+T1=Tom 1
+T2=Tom 2
+Tp=Tom de piso
+Bo=Bombo
+     d(dos golpes rapidos)
+(Esta cancion es en octavos los hit hats)
+
+(Intro)
+          (---x6---)
+Cr|X------|--------|
+Hh|-xxxxxx|xxxxxxxx|
+Ta|--o---o|---o---o|
+Bo|o--oo--|-o--oo--|
+
+(para entar a los versos)
+
+Cr|-------X|
+Hh|xxxxxxx-|
+Ta|---o---o|
+Bo|-o--oo--|
+
+(Esta tarde no pasa nada
+ las calles parecen desiertas
+carmensita se fue de viaje
+y quizas nunca mas la vea
+yo mirando por la ventana
+el asfalto brillando perlas
+los lugares q frecuentaba
+no me atraen ni me interesan...)
+
+versos    (---x15--)
+C2|X------|--------|
+Hh|-xxxxxx|xxxxxxxx|
+Ta|--o---o|---o---o|
+Bo|o--oo--|-o--oo--|
+
+(remate para entrar al coro)
+
+
+CH|--------------X|
+Hh|x-x-x-x--------|
+T1|-------------o-|
+Ta|-------o-oooo--|
+Bo|o-o-o-o-------o|
+
+(Coro)
+
+            (--x7---)       (---x6---)
+Cr|---------|-------|X------|--------|
+Rd|x-x-x-x-x|x-x-x-x|--x-x-x|-x-x-x-x|
+Ta|o---o---o|--o---o|--o---o|---o---o|
+Bo|--o--oo--|o--oo--|o--oo--|-o--oo--|
+
+(para volver a los versos)
+Cr|--------X|
+Rd|x--------|
+T1|-oo--o---|
+T2|-o-o--o--|
+Tp|----o--o-|
+Bo|--------o|
+            (---x6---)
+Cr|---------|--------|-------X|
+Hh|xxxxxxxxx|xxxxxxxx|xxxxxxx-|
+Ta|o---o---o|---o---o|---o---o|
+Bo|--o--oo--|-o--oo--|-o--oo--|
+
+(versos)
+
+(Esta tarde no pasa nada
+no me puedo olvidar de ella
+hace un mes q la estoy pensando
+y no se si de mi se acuerda
+mi futuro es algo incierto
+pero ese no es el problema
+donde pongo mis sentimientos
+si esta noche hay luna llena)
+
+          (---x15--)
+C2|X------|--------|
+Hh|-xxxxxx|xxxxxxxx|
+Ta|--o---o|---o---o|
+Bo|o--oo--|-o--oo--|
+
+(remate para entrar al coro)
+
+Cr|-------------X|
+Hh|x-x-x-x-x-----|
+Ta|--o--o--o-----|
+T1|---------o----|
+T2|----------oo--|
+Tp|------------o-|
+Bo|o-----o------o|
+
+(coro)
+        (---x6--)               (---x6--)
+CH|-----|-------|-----XX--|-----|-------|
+C2|-----|-------|--------X|-----|-------|
+Rd|x-x-x|x-x-x-x|x-x-x----|x-x-x|x-x-x-x|
+Ta|o---o|--o---o|--o--oo--|o---o|--o---o|
+Bo|-oo--|o--oo--|o--oo---o|-oo--|o--oo--|
+
+
+(para ir al solo de guitarra)
+Cr|------X|
+T1|o--o---|
+T2|-o--o--|
+Tp|--o--o-|
+Bo|------o|
+
+(solo de guitarra)
+        (---x6--)               (--x6---|
+Cr|-----|-------|--------X|-----|-------|
+Hh|xxxxx|xxxxxxx|xxxx-----|xxxxx|xxxxxxx|
+Ta|o---o|--o---o|----oo---|o---o|--o---o|
+T1|-----|-------|-------o-|-----|-------|
+Bo|-oo--|o--oo--|oooo----o|-oo--|o--oo--|
+
+(para entrar al coro)
+Cr|----------X|
+Hh|xxxxxxx----|
+Ta|--o---ooo--|
+T1|---------o-|
+Bo|o--oo-----o|
+
+(coro)
+        (---x6--)               (---x6--)
+CH|-----|-------|-----XX--|-----|-------|
+C2|-----|-------|--------X|-----|-------|
+Rd|x-x-x|x-x-x-x|x-x-x----|x-x-x|x-x-x-x|
+Ta|o---o|--o---o|--o--oo--|o---o|--o---o|
+Bo|-oo--|o--oo--|o--oo---o|-oo--|o--oo--|
+
+para entrar al puente
+
+
+C2|--------X|
+Ta|--------o|
+T1|ooo------|
+T2|---o-----|
+Tp|----o----|
+Bo|-----o---|
+
+ooh oh ooh oh
+  (--x8---)
+Hh|xxxxxxx|
+Ta|--o---o|
+Bo|o--oo--|
+
+(para entrar al coro)
+
+Cr|-------------X|
+Hh|x-x-x-x-x-----|
+Ta|--o--o--o-----|
+T1|---------o----|
+T2|----------oo--|
+Tp|------------o-|
+Bo|o-----o------o|
+
+(coro)
+        (---x6--)               (---x4--)
+CH|-----|-------|--X--XXX-|-----|-------|
+C2|-----|-------|--------X|-----|-------|
+Rd|x-x-x|x-x-x-x|x---x----|x-x-x|x-x-x-x|
+Ta|o---o|--o---o|--o--ooo-|o---o|--o---o|
+Bo|-oo--|o--oo--|o---o---o|-oo--|o--oo--|
+
+(para acabar)
+
+C2|X|
+Bo|o|
+
+(aquii, esperandooo...)
+Cr|d-dddd-ddd|
+C2|d-dddd-dd-|
+(Fin)
+
+mi correo es ivanaries-26@hotmail.com
+consultame por cualquier duda
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,176 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: No Te Va Gustar                                          |
+| CANCION: CERO A LA IZQUIERDA                                      |
+| AUTOR:   -?-                                                      |
+| ALBUM:   Por lo Menos hoy (2010)                                  |
++------------------------------------------------------TAB-ntvg0741-+
+| TRANS:   Gonzalo                                                  |
+=====================================================================
+
+[INTRO] E-B-F#m-C#m-B x2
+
+GUITARRA 1 (x2 queda de fondo)
+
+e|------------------------------------------|
+B|------------------------------------------|
+G|----------------------------6~-4~---------|
+D|-2~~--7-6-9~~--7-6-4~~--6-7-x--x---7-6-2~-|
+A|-x----x-x-x----x-x-x----x-x-4~-2~--x-x-x--|
+E|-0~~--5-4-7~~--5-4-2~~--4-5--------5-4-0~-|
+
+GUITARRA 2 (arranca después y engancha con el C#m del verso)
+
+e|----------------------------------------|
+B|----------------------------------------|
+G|----------------------------------------|
+D|----6-------------------------6~-4~-----|
+A|-7-9----7-9-7~-6~--6-7-4~--6-7------7-6-|
+E|-----7~---------------------------------|
+
+[VERSO]
+
+C#m                     B
+Todos debemos un día mirar para adentro
+C#m                    B
+   para ver hay que mirar
+C#m                    B
+   llevo más de dos intentos
+          A                  B
+y no me puedo curar, no me puedo curar
+
+C#m              B
+Para salir no hay que golpear
+C#m                           B
+si nunca fui bien recibido no se que hago acá
+C#m                   B
+   hoy me despido de todo
+         A                        B
+todo lo que me hizo mal, todo lo que me hizo mal...
+
+[ESTRIBILLO]
+
+DE FONDO HACE ESTO:
+
+       E        B       F#m    C#m  B
+e|-------------------------------------|
+B|-------------------------------------|
+G|-------------------------------------|
+D|-------------------------------------|
+A|-------------------------------4~-2~-|
+E|-5-4-0~~--5-4-7~~--5-4-2~~--4-5------|
+
+E                                B
+ Yo quiero estar a la izquierda del cero
+F#m               C#m          B
+   no me analices,   no voy a cambiar
+E                                         B
+yo se que no siempre gana el que pega primero
+F#m              C#m         B
+   pero no sirve    dejarse pegar...
+
+[SOLO] C#m-B x2
+
+e|--------12~------------------------------------------
+B|-----------------------------------------------------
+G|-11b12~~---11b13-11b13br11--9--8-----------------(9)-
+D|----------------------------11-9-------------(11)----
+A|---------------------------------11-9-7-9/11~--------
+E|-----------------------------------------------------
+
+e|-----------------------|
+B|-----------------------|
+G|-9p8h9p8---------------|
+D|---------9-------------|
+A|----------9/6~--6/9~4~-|
+E|-----------------------|
+
+[VERSO]
+
+Que frágil es mi mundo de nuevo
+esa es la base de mi soledad
+que fácil es señalarme con el dedo
+y yo sin poderte mirar, sin poderte mirar...
+
+[ESTRIBILLO]
+
+Yo quiero estar a la izquierda del cero
+no me analices, no voy a cambiar
+yo se que no siempre gana el que pega primero
+tampoco sirve dejarse pegar...
+
+Yo quiero estar a la izquierda del cero
+no me analices, no voy a cambiar
+yo se que no siempre gana el que pega primero
+tampoco sirve dejarse pegar...
+
+[SOLO DEL FINAL] E-B-F#m-C#m-B x3 termina en E
+
+GUITARRA
+
+e|----------------------------------------|
+B|----------------------------------------|
+G|----------------------------------------|
+D|----6-------------------------6~-4~-----|
+A|-7-9----7-9-7~-6~--6-7-4~--6-7------7-6-|
+E|-----7~---------------------------------|
+
+VIENTOS (con el solo de guitarra de fondo)
+
+e|------------------------------------------------|
+B|------------------------------------------------|
+G|---------9-8-9-8~~--6~-8-9-6~~----9~~-9-8~~-(8)-|
+D|-(9~)-6-9---------------------------------------|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+FINAL
+
+PRIMERA GUITARRA:
+
+e|-------------------------------------------|
+B|-------------------------------------------|
+G|-------------------------------------------|
+D|----6-------------------------6~-4~--------|
+A|-7-9----7-9-7~-6~--6-7-4~--6-7------7-6-7~-|
+E|-----7~------------------------------------|
+
+SEGUNDA GUITARRA:
+
+e|----------------------------------------------------------
+B|----------------------------------------------------------
+G|-9-99-9-99-9-99-9-99-9-9-9-9--8-88-8-88-8-88-8-88-8-8-8-8-
+D|---99---99---99---99---9---9----99---99---99---99---9---9-
+A|----------------------------------------------------------
+E|----------------------------------------------------------
+
+e|---------------------------------------
+B|---------------------------------------
+G|-9-9-9--9-9-9--9-9-9--9-9-9--9-9--9-9--
+D|---1111---1111---1111---1111---11---11-
+A|---------------------------------------
+E|---------------------------------------
+
+e|----------------------------------------|
+B|----------------------------------------|
+G|-9-9-9--9-9-9--9-9-9--8-88-8-88-8-8--9~-|
+D|---1111---1111---1111---99---99---9--9~-|
+A|-------------------------------------7~-|
+E|-------------------------------------0~-|
+
+
+
+Hermosa canción, adelanto del nuevo disco que se viene
+cualquier cosa mandan me mail a
+lalos_boca20@hotmail.com
+Aguante el rock n' roll y nada más!
+cuanto tarado que no entiende y te la quiere contar!
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

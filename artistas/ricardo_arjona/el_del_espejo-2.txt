@@ -1,0 +1,201 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Ricardo Arjona                                           |
+| CANCION: EL DEL ESPEJO                                            |
+| AUTOR:   -?-                                                      |
+| ALBUM:   5to Piso (2008)                                          |
++------------------------------------------------------TAB-rarj1542-+
+| TRANS:   Mariano                                                  |
+=====================================================================
+
+INTRO:
+
+(la divido en partes asi se les hace mas facil para memorizar)
+
+
+*Aclaracion: Las notas que figuran arriba del arpegio que se muestra
+son las notas que toca la segunda guitarra
+
+1ra Parte:
+
+     E5                             B5
+e||--0-----2-------0-----2-------|--0-----2-------0-----2-------|
+b||------------0-------------0---|------------0-------------0---|
+g||--------1-------------1-------|--------1-------------1-------|
+D||-----2-------------2----------|-----2-------------2----------|
+A||--2--------(2)--2--------(2)--|--2--------(2)--2--------(2)--|
+E||------------------------------|------------------------------|
+
+
+     A5                             E5              D
+e||--0-----2-------0-----2-------|--0-----0-----x--2~--------|
+b||------------0-------------0---|--------------x--3~--------|
+g||--------1-------------1-------|--------------x--2~--------|
+D||-----2-------------2----------|-----2--------x--0~--------|
+A||--2--------(2)--2--------(2)--|--2-----2-----x------------|
+E||------------------------------|--------------x------------|
+
+
+2da Parte:
+
+     E5                             B5
+e||--0-----2-------0-----2-------|--0-----2-------0-----2-------|
+b||------------0-------------0---|------------0-------------0---|
+g||--------1-------------1-------|--------1-------------1-------|
+D||-----2-------------2----------|-----2-------------2----------|
+A||--2--------(2)--2--------(2)--|--2--------(2)--2--------(2)--|
+E||------------------------------|------------------------------|
+
+
+     A5                              E5          E  D  E  D
+e||--0-----2-------0-----2-------|--0-----0-----0--0--0--0--|
+b||------------0-------------0---|--------------0--2--0--2--|
+g||--------1-------------1-------|--------------1--2--1--2--|
+D||-----2-------------2----------|-----2--------2--2--2--2--|
+A||--2--------(2)--2--------(2)--|--2-----2-----2--0--2--0--|
+E||------------------------------|--------------0-----0-----|
+
+
+
+Cuando comienza la 2da parte de la intro,
+entra la guitarra electrica de fondo punteando lo siguiente:
+
+    E5               B5                     E  D  E  D
+E||----------------|--5/9-12-9-12--------|--------------|
+B||--5h8-7---------|---------------------|--3--5--3--5--|
+G||----------------|---------------------|--------------|
+D||----------------|---------------------|--------------|
+A||----------------|---------------------|--------------|
+E||----------------|---------------------|--------------|
+
+
+
+   E5
+Te ves al espejo, te ries de ti,
+      B5
+vives bajo el pellejo de ese maniqui,
+       A5
+que se va haciendo viejo
+                    E5              E-D
+ingorando que es lo que hace aqui.
+
+E5
+Te pones camisa y el vaquero de ayer,
+      B5
+sales siempre de prisa al amanecer,
+       A5
+sacudiendo cenizas de tiempos
+                   E5
+que no van a volver...
+
+    B                 C#m
+Tan ruin y tan desamparado,
+     A               E      D
+tan solo y tan minimizado...
+
+E
+Un taxi en la esquina, un pan con jamon,
+       B
+sigues la disciplina del escalafon,
+         A
+campeon de la rutina...
+                               E-D
+de ser solo otro mas del monton.
+
+E
+Corbata suicida, chaqueta marron,
+      B
+ya metiste la vida en el calefon
+      A
+ponle sal a la herida,
+                    E
+y algunas tachuelas al colchon.
+                                        Segunda guitarra
+                                             (C#m)
+B                         C#m ---&gt;   e||-----------4----|
+Tan hippie, tan encarcelado,         b||--------5-------|
+A                        E           g||-----6----------|
+tan libre y tan disciplinado.        D||--6-------------|
+                                          ·  ·
+E                   B
+Nadie te hara un homenaje
+                 A             E
+cuando mueras un lunes por la tarde,
+E                   B
+nadie se acuerda de nadie,
+              A           E
+y menos de un tipo tan cobarde...
+     B                       C#m
+me estas oyendo tu, el del espejo,
+     A
+aunque no estamos ya pa' consejos...
+
+INTRO
+
+E
+Ya soy el idiota que abordo en cuestion,
+    B
+una simple pelota de la situacion,
+    A
+que rebota y rebota...
+                         E        D
+con tal de no alcanzar la pension.
+
+E
+Planeando la huida de la libertad,
+        B
+se me ha ido la vida sin la voluntad,
+    A
+por faquir y suicida...
+                           E
+soy solo un peon de la sociedad.
+                                      Segunda guitarra
+                                           (C#m)
+B                       C#m ---&gt;   e||-----------4----|
+Tan dosil y tan vulnerable,        b||--------5-------|
+A                    E             g||-----6----------|
+tan debil y tan olvidable.         D||--6-------------|
+                                        ·  ·
+
+E                   B
+Nadie te hara un homenaje
+                 A             E
+cuando mueras un lunes por la tarde,
+E                   B
+nadie se acuerda de nadie,
+              A           E
+y menos de un tipo tan cobarde...
+
+E                   B
+Nadie te hara un homenaje
+                 A             E
+cuando mueras un lunes por la tarde,
+E                   B
+nadie se acuerda de nadie,
+              A           E
+y menos de un tipo tan cobarde...
+     B                       C#m
+me estas oyendo tu, el del espejo,
+     A
+aunque no estamos ya pa' consejos...
+
+E                   B
+Nadie te hara un homenaje
+                 A             E
+cuando mueras un lunes por la tarde,
+E                   B
+nadie se acuerda de nadie,
+              A           E
+y menos de un tipo tan cobarde...
+
+
+Termina en: E B A
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

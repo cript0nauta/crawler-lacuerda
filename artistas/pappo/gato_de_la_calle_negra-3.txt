@@ -1,0 +1,101 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Pappo                                                    |
+| CANCION: GATO DE LA CALLE NEGRA                                   |
+| AUTOR:   Tony Gibson, Pappo                                       |
+| ALBUM:   Pappo's Blues, Vol. 4 (1973)                             |
++------------------------------------------------------TAB-papp0053-+
+| TRANS:   Jorge                                                    |
+=====================================================================
+
+TAB por Jorge Daniel Ferraris, Rosagasario, Sta. Fe, Argentina.
+danielferraris@hotmail.com
+
+
+El tema es simple (sólo tiene dos partes) pero está muy bueno para 
+zaparlo con una banda; Mi consejo para sacar un sonido bien parecido 
+al que tiene el gordo napolitano es usar un pedal Ibanez Tube 
+Screamer o un BOSS Blues Driver.
+Si alguno de Uds. transcribe los temas que saca en SIBELIUS por 
+favor escribanme para intercambiar partituras. Saludos y 
+¡Aguante Jason Becker!
+
+
+Key Signature : G
+Time Signature: 4/4
+
+  [Riff A]
+e||---------------------||
+B||---------------------||
+G||*-------------------*||
+D||*-------------------*||
+A||---2--------3--2-----||
+E||---0--0--3-------3---||
+
+      |. _|  |_|  |_|
+
+(negra c/punto, corchea, corchea, corchea, corchea, corchea)
+
+
+  [Riff B]            SI te cruzas...                  por delante            ¡mala suerte dás!
+e||----------------------|--------------------|-------------------|-----------------------||
+B||----------------------|--------------------|-------------------|-----------.-----------||
+G||----------------------|--------------------|-------------------|--2--2--2--2__2--2--2--||
+D||-----1--1--4--1-------|--------------------|-------------------|--2--2--2--2__2--2--2--||
+A||--2-------------2--0--|-----2--2--5--2-----|-----1--1--4--1----|--0--0--0--0__0--0--0--||
+E||----------------------|--3--------------3--|--2-------------2--|-----------------------||
+                                                                            .
+     |  |_.=|  |_|  |_|     | |_.=|   |_|  |     |  |_.=| |_|  |      |_|   |_|   |_|  |
+
+(compás 1: negra, corchea c/punto, semicorchea, corchea, corchea, corchea, corchea)
+(  '    2: negra, corchea c/punto, semicorchea, corchea, corchea, negra)
+(  '    3: negra. corchea c/punto, semicorchea, corchea, corchea, negra)
+(  '    4: corchea, corchea, corchea, corchea ligada c/stacatto, corchea, corchea, negra)
+
+
+
+Estructura del tema:
+
+
+INTRO: [hablado]: '...ayer pasé por el cabaret, y lo miré con cariño...'
+
+[Riff A] (aprox. unas 20 veces)
+¿Que buscas corriendo por la azotea?
+Diez pescados hay en la heladera.
+No es necesario andar corriendo,
+muerto de hambre estas, yo te comprendo.
+
+[Riff B]
+Si te cruzas por delante,
+...¡mala suerte das!
+
+[Riff A]
+Lloras porque te tiran zapatos,
+y te comparan con los demas gatos.
+Sigue caminando en tu estadía,
+y no tengas problemas en tu vida.
+
+[Riff B]
+Si te cruzas por delante,
+...¡mala suerte das!
+
+[solo sobre Riff A]
+
+[Riff A]
+Lloras porque te tiran zapatos,
+y te confunden con los demas gatos,
+sigue caminando en tu estadía,
+y no tengas problemas en tu vida.
+
+[Riff B]
+Si te cruzas por delante,
+...¡mala suerte das!
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

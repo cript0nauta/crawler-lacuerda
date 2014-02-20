@@ -1,0 +1,191 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: LA MAZA                                                  |
+| AUTOR:   Silvio Rodríguez                                         |
+| ALBUM:   Cuba Classics, Vol. 1: Silvio Rodriguez Greatest Hits    |
++------------------------------------------------------TAB-srod0986-+
+| TRANS:   Charles, byron                                           |
+=====================================================================
+
+Esta es mi segunda aportación, espero les agrade
+La base del intro estaba bien, pero tenía errores de arpegio. Solo
+escuchenla bien y verán que está correcto.
+********************************************************************
+lam         500550          RE9/FA#  200230      RE/FA  200232
+mi/lam      400450          Fa       133211      MI     022100
+solm        300330          Do/Mi    002201      MI7    023130
+
+SOL         355433          LAm      002210      Edism  022130
+
+                                  INTRO
+
+         LAm           Mi/lam         SOLm       RE/FA#          FA
+
+
+E|----5------------4-------------3-------------2-----------1---------|
+A|-------------------------------------------------------------------|
+D|----------7-6-5----------------------5-4-3--------------------3-2-1|
+G|------5------------4-------4-----3--------------2---2------2-------|
+B|-------5-------------5---5--------3--------------3-3---------1-----|
+e|-----------------------0--------------------------0----------------|
+
+
+        DO/MI             D/F#         MI         MI7
+
+
+E|--0---------------------2--------0---------------------|
+A|-------------------------------------------------------|
+D|----2-------------2-------0---0----2-------------------|
+G|------2---------2----------2--2------1-------1---------|
+B|--------0-----0-------------3-3--------------3---------|
+e|----------1p0-----------------2----------1p0-----------|
+
+
+         LAm           Mi/lam         SOLm       RE/FA#          FA
+
+
+E|----5------------4-------------3-------------2-----------1---------|
+A|-------------------------------------------------------------------|
+D|----------7-6-5----------------------5-4-3--------------------3-2-1|
+G|------5------------4-------4-----3--------------2---2------2-------|
+B|-------5-------------5---5--------3--------------3-3---------1-----|
+e|-----------------------0--------------------------0----------------|
+
+
+        DO/MI             D/F#          MI7            MI7
+
+
+E|--0---------------------2--------0----------------0-------------|
+A|----------------------------------------------------------------|
+D|----2-------------2-------0---0----2----------------2-----------|
+G|------2---------2----------2--2------1------1---------1-----1---|
+B|--------0-----0-------------3-3-------------3---------------3---|
+e|----------1p0-----------------2---------1p0-------------1p0-----|
+
+
+RIFF 1: (ESTE SE UTILIZA AL FINAL DEL INTRO)
+
+       LAm       (bajeos) SOL  FA   MI      MI7
+
+E|-------------------------3----1----0--------------5-------5-------|
+A|--0-----------0---------------------------------------------------|
+D|----2---------------------------------2---------------------------|
+G|------2----------2----------------------1-----1-----5---5---5---5-|
+B|-----------1-------1--------------------------3------5-5-----5-5--|
+e|--------1p0----------0--------------------1p0---------0-------0---|
+
+
+
+SE TOCA IGUAL QUE EL INTRO PERO SIN LOS BAJOS EN LAS NOTAS QUE
+VAN LOS BAJOS AUMENTAS UN TIEMPO
+
+        Am           E/A
+     Si no creyera en la locura
+         Gm            D9/F#
+     de la garganta del sinsonte
+          F              C/E
+     si no creyera que en el monte
+        D/F               E E7
+     se esconde el trino y la pavura.
+
+
+se repite lo anterior
+
+Si no creyera en la balanza
+en la razón del equilibrio
+si no creyera en el delirio
+si no creyera en la esperanza.
+
+Si no creyera en lo que agencio
+si no creyera en mi camino
+si no creyera en mi sonido
+si no creyera en mi silencio.
+
+CORO:
+
+       Edim               Edim
+ Que cosa fuera      que cosa fuera
+
+E|--0------------------0-------------|
+A|-----------------------------------|
+D|----2------------------2-----------|
+G|------1----1-------------1-----1---|
+B|-----------3-------------------3---|
+e|--------1p0----------------1p0-----|
+
+          A            (BAJEOS G  F  E  en LA 6ta cuerda)
+la maza sin cantera    un amasijo   hecho
+
+E|-----------------------------3---1---0-|
+A|------0-------------0------------------|
+D|--------2------------------------------|
+G|----------2----2------2----------------|
+B|---------------1--------1--------------|
+e|------------1p0-----------0------------|
+
+SE REPITEN LOS MISMO ARPEGIOS
+
+de cuerdas y tendones
+un revoltijo de carne con madera
+
+EMPIEZAN LOS MISMOS ARPEGIOS PERO CON RASGEO A LA VEZ
+
+un instrumento sin mejores resplandores
+que lucecitas montadas para escena
+que cosa fuera -corazon- que cosa fuera
+que cosa fuera la maza sin cantera
+un testaferro del traidor de los aplausos
+un servidor de pasado en copa nueva
+un eternizador de dioses del ocaso
+jubilo hervido con trapo y lentejuela
+que cosa fuera -corazon- que cosa fuera
+que cosa fuera la maza sin cantera
+que cosa fuera -corazon- que cosa fuera
+que cosa fuera la maza sin cantera.
+
+
+Si no creyera en lo mas duro
+si no creyera en el deseo
+si no creyera en lo que creo
+si no creyera en algo puro.
+
+Si no creyera en cada herida
+si no creyera en la que ronde
+si no creyera en lo que esconde
+hacerse hermano de la vida.
+
+Si no creyera en quien me escucha
+si no creyera en lo que duele
+si no creyera en lo que queda
+si no creyera en lo que lucha.
+
+CORO:
+
+Que cosa fuera
+Que cosa fuera la maza sin cantera
+un amasijo hecho de cuerdas y tendones
+un revoltijo de carne con madera
+un instrumento sin mejores resplandores
+que lucecitas montadas para escena
+que cosa fuera -corazon- que cosa fuera
+que cosa fuera la maza sin cantera
+un testaferro del traidor de los aplausos
+un servidor de pasado en copa nueva
+un eternizador de dioses del ocaso
+jubilo hervido con trapo y lentejuela
+que cosa fuera -corazon- que cosa fuera
+que cosa fuera la maza sin cantera
+que cosa fuera -corazon- que cosa fuera
+que cosa fuera la maza sin cantera.
+
+Cualquier comentario al correo peque_jingo@hotmail.com
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

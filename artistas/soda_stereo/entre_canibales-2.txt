@@ -1,0 +1,123 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: ENTRE CANIBALES                                          |
+| AUTOR:   Gustavo Cerati                                           |
+| ALBUM:   Cancion Animal (1990)                                    |
++------------------------------------------------------TAB-soda0232-+
+| TRANS:   Alexandro, Juan                                          |
+=====================================================================
+
+Introducción (Afinación estándar)
+
+Riff principal #1
+-----------------------------------------------  E(Alta)
+-----------------------------------------------  B
+-----------------------------------------------  G
+--2---------0----------2--------0--------------  D
+----0-2-3---------0------0-2-3--------0--------  A
+--------------2-3-----------------2-3----------  E(Baja)
+
+Interlude
+  C    D    C    D    C    D    C      D (Final antes de la letra)
+--0----2----0----2----0----2----0------2---------  E(Alta)
+--1----3----1----3----1----3----1------3---------  B
+--0----2----0----2----0----2----0------2---------  G
+--2----0----2----0----2----0----2------0---------  D
+--3----0----3----0----3----0----3------0---------  A
+--3---------3---------3---------3----------------  E(Baja)
+
+Letra comienza:
+
+    Em    G   D-Dsus4-D  Am
+Una eternidad
+     Em  G   D-Dsus4-D  Am
+esperé este instante
+        Em    G   D-Dsus4-D  Am
+y no lo dejaré
+     Em    G   D-Dsus4-D  Am
+Deslizar en recuerdos quietos
+C7 (Repite) D7 (Repite)
+            ni en balas rasantes
+    E7 (Repite)
+que matan...
+
+CHORUS:
+
+Em G  D-Dsus4-D Am
+Ah... come de mi
+     Em    G   D-Dsus4-D  Am
+come de mi carne
+Em    G   D-Dsus4-D  Am       Em    G   D-Dsus4-D  Am
+Ah.................. entre caníbales
+Em    G   D-Dsus4-D  Am           Em    G   D-Dsus4-D  Am
+Ah... ....tomate el tiempo en desmenuzarme
+Em    G   D-Dsus4-D  Am      C     D  C  D  C  D  C  D
+Ah................. entre caníbales
+
+Midsection (Solo)
+
+Organo en guitarra (Arreglo no 100% eficaz pero suena bien)
+   s                                      H   P            S
+-10/12--15--14--10--14--12-----------------------------------  E(Alta)
+---------------------------15-13-12--13-12^13^12-------------  B
+-------------------------------------------------14-12-12/14   G
+-------------------------------------------------------------  D
+-------------------------------------------------------------  A
+-------------------------------------------------------------  E(Baja)
+Después
+
+Toca 5 veces durante el solo del cello y antes de los acordes
+-----------------------------------------------  E(Alta)
+-----------------------------------------------  B
+-----------------------------------------------  G
+--2---------0----------2--------0--------------  D
+----0-2-3---------0------0-2-3--------0--------  A
+--------------2-3-----------------2-3----------  E(Baja)
+
+Acordes
+  Em      G        D       Am
+----0--/----3---/----2--/-------0-----------------  E(Alta)
+----0--/----0---/----3--/-------1-----------------  B
+----0--/----0---/--2----/---2---2-----------------  G
+--2----/--0-----/--0----/---2---------------------  D
+--2----/--2-----/-------/-------------------------  A
+--0----/--3-----/-------/-------------------------  E(Baja)
+
+Igual que el setting de la primera letra y el previo CHORUS:
+
+Entre caníbales
+el dolor es veneno, nena
+y no lo sentirás hasta el fin.
+Mientras te muevas lento
+y jadees el nombre
+que mata...
+
+Ah... come de mi, come de mi carne
+Ah... entre caníbales
+Ah... tomate el tiempo en desmenuzarme
+Ah... entre caníbales
+
+Una eternidad
+                      Em
+espere este instante...
+
+Final (Jaime  -    thyguitargod@hotmail.com)
+Muchas Gracias (Alguna sugerencia me escriben)
+
+ C7      D7      E7     Dsus4
+-X---/---X---/---X---/--3-------- E(Alta)
+-1---/---3---/---5---/--3-------- B
+-3---/---5---/---7---/--2-------- G
+-2---/---4---/---6---/--0-------- D
+-3---/---5---/---7---/--0-------- A
+-X---/---X---/---X---/--0-------- E(Baja)
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

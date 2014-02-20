@@ -1,0 +1,81 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: MOIRE                                                    |
+| AUTOR:   Alberti, Hector Bosio, Gustavo Cerati                    |
+| ALBUM:   Soda Stereo                                              |
++------------------------------------------------------ACO-soda0342-+
+| TRANS:   Agustín                                                  |
+=====================================================================
+
+Hola!!!!
+
+  He vuelto con SODA carajooo!!. Ah re emocionado xP.
+
+ Y si, vuelvo con esta canción, una de las pocas que se encuentra
+a la deriva y es de conocimiento reducido, incluso para los fanas.
+He aquí que vale la pena un tip (dato). Cerati es un verdadero
+compositor de piezas armónicas; con un manejo maestro, de progresiones
+no comunes y de acordes llamados "invertidos", y éste tema es uno
+más, y un claro ejemplo de ello.
+ Bueno como es común en mis tabs no voy a mezquinar los nombres,
+pero, como siempre, voy a escribir los acordes al comienzo.
+Saludos ^^.
+
+ACORDES:
+E:022100
+F#msus4add7:x44200
+G6:320000
+A9(sin3):x02200
+D/F#:2x0230
+C#msus2:x46650
+
+INTRO:[(E-F#msus4add7-G6-A9(sin3) (E-F#msus4add7-G6-F#msus4add7)] x2
+
+     E   F#msus4add7  G6
+Me siento tan laxo
+   A9(sin3)  E   F#msus4add7-G6-F#msus4add7
+Me siento moirè
+   E      F#msus4add7  G6
+Pastillas de zen instantáneo
+   A9(sin3) E     F#msus4add7-G6-F#msus4add7
+Calman mi sed
+
+     E      F#msus4add7  G6
+El dolor clandestino
+  A9(sin3) E    F#msus4add7-G6-F#msus4add7
+Se desvanece
+      E     F#msus4add7 G6
+Hay cuarto menguante
+ F#msus4add7  E  A9(sin3)-D/F#-C#msus2-E-A9(sin3)-G6-F#msus4add7
+Suaviza mi voz
+
+Cerrá la escotilla nena
+Aquí no hay gravedad
+Afuera oigo truenos lejanos
+Y el mundo al revés
+
+  E  A9(sin3)-D/F#-C#msus2
+   Odios
+E-A9(sin3)-G6-F#msus4add7
+  Te a....mo
+
+
+E  A9(sin3)-D/F#-C#msus2
+  Oh Dios
+E-A9(sin3)-G6-F#msus4add7-E
+   Te a....mo
+
+OUTRO: Si mi oído no me falla, termina igual que en el puente de
+"Odios..." pero con los acordes completos. (E-A-D, Etc.)
+
+  "And that's all folks!"
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

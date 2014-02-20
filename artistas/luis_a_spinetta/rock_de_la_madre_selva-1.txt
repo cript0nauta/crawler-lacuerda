@@ -1,0 +1,107 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Luis Alberto Spinetta                                    |
+| CANCION: ROCK DE LA MADRE SELVA                                   |
+| AUTOR:   Pescado rabioso                                          |
+| ALBUM:   Pescado ii (1973)                                        |
++------------------------------------------------------TAB-spin1031-+
+| TRANS:   Roberto                                                  |
+=====================================================================
+
+Los acordes son perfectos (los que ya estaban),
+sólo agrego lo que buenamente puede descifrar del solo de Luis...:
+
+
+Intro: [Solo teclado con base G (x4) /
+        G - D - Am -- G - D (x2)]
+
+  G D   Am   G             D  G  D   Am   G              D
+  Madre-selva por el prado va, madre-selva de buscar su amor;
+G              Bm      Em7   G               Bm       Em7
+  su corola al aire se dio     y en su mente gotas de algo...
+  Eb                        C/G
+  Espejismo, lava de moles, vamos ya...
+
+
+Inter: [Solo teclado con base G (x2)]
+
+
+  G D   Am   G             D   G D   Am   G              D
+  Madre-selva por el prado va, madre-selva de buscar su amor;
+G              Bm       Em7   G               Bm       Em7
+  su corola al aire se abrió    y en su mente gotas de algo...
+  Eb                        C/G
+  Espejismo, lava de moles, vamos ya...
+
+
+Inter: [Solo teclado con base G (x20) /
+        G - D - Am -- G - D (x2)]
+
+  G D   Am   G             D   G D   Am   G              D
+  Madre-selva por el prado va, madre-selva de buscar su amor;
+G              Bm      Em7   G              Bm       Em7
+  su corola al aire se dio    y en su mente gotas de algo...
+  Eb                        C/G
+  Espejismo, lava de moles, vamos ya...
+
+
+Inter: [Solo teclado con base G (x2)]
+
+Final: [Solo guitarra con base G - D - Bb - B - C - D (x6) -
+        G - D - Am -- G]
+
+---------------------------------------------------------------
+
+SOLO:
+(perdón, pero no soy muy bueno con los códigos en las tab)
+
+e.-------------------------------------------------------
+B.------------------------------------------------12--12-
+G.-12-------12-14b-14-12-14-12-10-10-9-7-------12---12---
+D.----12-14------------------------------10-12-----------
+A.-------------------------------------------------------
+E.-------------------------------------------------------
+
+e.-----------------------------------------------
+B.--------------------------------------12----12-
+G.-14b-14b-14b-12-14-10-10-9-7-------12----12----
+D.-----------------------------10-12-------------
+A.-----------------------------------------------
+E.-----------------------------------------------
+
+e.---------------------------------------------------------
+B.-/17-15-17-15-17-17b-17b-17---------------------12----12-
+G.-----------------------------10-10-9-7-------12----12----
+D.---------------------------------------10-12-------------
+A.---------------------------------------------------------
+E.---------------------------------------------------------
+
+e.-------------------------------------------------
+B.-17b-17b-17b-17b-17---------------------12----12-
+G.---------------------10-10-9-7-------12----12----
+D.-------------------------------10-12-------------
+A.-------------------------------------------------
+E.-------------------------------------------------
+
+e.-----------------------------------------------------
+B.-17b-17b-17-17-15-17-15---------------------12----12-
+G.-------------------------10-10-9-7-------12----12----
+D.-----------------------------------10-12-------------
+A.-----------------------------------------------------
+E.-----------------------------------------------------
+
+e.----------------------------------------------------
+B.-15h17-17b-17-15-15-17------------------------12----
+G.-----------------------12--10-10-9-7-------12----12-
+D.-------------------------------------10-12----------
+A.----------------------------------------------------
+E.----------------------------------------------------
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

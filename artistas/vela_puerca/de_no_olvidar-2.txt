@@ -1,0 +1,179 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: La Vela Puerca                                           |
+| CANCION: DE NO OLVIDAR                                            |
+| AUTOR:   Alfredo Zitarrosa                                        |
+| ALBUM:   De Bichos y Flores                                       |
++------------------------------------------------------ARM-vpue0632-+
+| TRANS:   Lucho                                                    |
+=====================================================================
+
+Arm C
+
+NOTAS:
+1- hay un overblow en la celda 5 para hacer un F# pero como
+se repite mucho y se complica lo cambie y por eso suena un poco
+diferente alguna parte...
+2- en las estrofas aparecen las notas que corresponde a la letra
+de la cancion arriba de la misma y al lado los pequeños puentes
+de vientos
+3- en el estribillo los puentes de vientos arrancan antes de que
+termine de cantar lo que los antecede...
+4- (--3)= apirar la tercer celda bajando 2 semitonos...un bend
+4&gt;6= arrastrar desde la celda 4 a la 6 sin dejar de soplar...glisando
+
+
+GUITARRAS
+(6)(6)(6)(6)6(5)5
+(6)(6)(6)(6)6(5)5
+(6)(6)(6)(6)6 56(5)(4)(5)5
+
+VIENTOS
+4456(5)(4)
+4456(5)4
+4456(5)(4)
+4456(5)4
+
+ESTROFAS
+           (5)6(6)65
+4(4)5(5) Y tu recuerdo  4(4)5(5)
+
+ (5)6(6)65
+Permanecido (5)
+
+  (5)6(6)65          5(5)6(5)5
+Me está diciendo, me está diciendo
+
+(4)4(3)44
+Que no hay olvido
+
+
+PUENTE
+4&gt;6 (5)6(5)5(4)5
+77(6)(7)(6)(6)(7)(6)6
+
+
+             (5)6(6)65
+4(4)5(5) Breve es en mi canto   4(4)5(5)
+
+(5)6(6)65
+Que no te olvida (5)
+
+ (5)6(6)65       5(5)6(5)5
+Piel y latido, piel y latido
+
+(4)4(3)44
+Sombra encendida
+
+
+PUENTE
+4&gt;6 (5)6(5)5(4)5
+77(6)(7)(6)(6)(7)(6)6
+
+
+           344(3)5(4)
+7(7)(6)6 Llevo en el alma  7(7)(6)6
+
+(4)5(5)56(5)
+Como puñales 4(4)5(5)
+
+(5)6(6)65        5(5)6(5)5
+Filos metidos, filos metidos
+
+(4)4(3)44     (4)5(5)6
+En manantiales eeees
+
+
+GUITARRAS
+(6)(6)(6)(6)6(5)5
+(6)(6)(6)(6)6(5)5
+(6)(6)(6)(6)6 56(5)(4)(5)5
+
+VIENTOS
+4456(5)(4)
+4456(5)4
+4456(5)(4)
+4456(5)4
+
+ESTROFAS
+            (5)6(6)65
+4(4)5(5)  Ya no te espero  4(4)5(5)
+
+(5)6(6)65
+Nada me explico  (5)
+
+ (5)6(6)65       5(5)6(5)5
+Madero muerto, madero muerto
+
+(4)4(3)44
+Te crucifico
+
+
+PUENTE
+4&gt;6 (5)6(5)5(4)5
+77(6)(7)(6)(6)(7)(6)6
+
+
+           (5)6(6)65
+4(4)5(5)  A qué ha venido  4(4)5(5)
+
+(5)6(6)65
+Vuelve al pasado (5)
+
+(5)6(6)65     5(5)6(5)5
+Déjame solo, déjame solo
+
+(4)4(3)44
+Quién te ha llamado
+
+
+PUENTE
+4&gt;6 (5)6(5)5(4)5
+77(6)(7)(6)(6)(7)(6)6
+
+
+          344(3)5(4)
+7(7)(6)6 Llevo en el alma  7(7)(6)6
+
+(4)5(5)56(5)
+Como puñales 4(4)5(5)
+
+(5)6(6)65        5(5)6(5)5
+Filos metidos, filos metidos
+
+(4)4(3)44     (4)5(5)6
+En manantiales eeees
+
+
+GUITARRA
+(6)7(6)6(5)5
+(6)7(6)6(5)6
+(6)7(6)656(5)(4)(5)5
+(6)7(6)6(5)5
+(6)7(6)6(5)6
+(6)7(6)656(5)(4)(5)5
+
+GUITARRA Y VIENTOS
+(6)7(6)6(5)5
+(6)7(6)6(5)6
+(6)7(6)656(5)(4)(5)5
+
+VIENTOS
+4456(5)(4)
+4456(5)4
+4456(5)(4)
+4456(5)4
+4456(5)(4)
+4456(5)4
+4456(5)(4)
+4456(5)4
+(--3)4
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

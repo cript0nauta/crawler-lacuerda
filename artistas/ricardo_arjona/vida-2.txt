@@ -1,0 +1,314 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Ricardo Arjona                                           |
+| CANCION: VIDA                                                     |
+| AUTOR:   -?-                                                      |
+| ALBUM:   Poquita Ropa (2010)                                      |
++------------------------------------------------------TAB-rarj1742-+
+| TRANS:   Alex                                                     |
+=====================================================================
+
+22/Junio/2013/Sábado/6:56pm
+
+La verdad las demás versiones no me gustaron,
+decidí buscar que Acordes usa Ricardo Arjona...
+y aquí están
+
+     !Son los Acordes más Precisos¡
+         ((Click en Calidad))
+
+
+Acordes Intro:
+
+    Fmaj7  Am7  G/C
+1|----3-----3----3-----
+2|----1-----1----1-----
+3|----2-----0----0-----
+4|----3-----2----2-----
+5|----x-----x----x-----
+6|---------------3-----
+
+
+--Primer Guitarra--
+
+Donde tiene (*) empieza a tocar la Segunda Guitarra
+
+    Fmaj7 *        Am7               G/C
+1|--------3-------|---------3-------|--------3--------------------
+2|----1---1-----1-------1---1-----1------1-----1---1---0------0---
+3|---2--2---2---------0---0---0------------0---------------2------
+4|--3---------3----0h2----------2------2---------2----------------
+5|----------------------------------------------------------------
+6|----------------|-----------------|3---------------3---3---3--3-
+
+    Fmaj7 *        Am7               G/C               G
+1|--------3-------|---------3-------|------------------x----------
+2|----1---1-----1-------1---1-----1---------0h1h0------x----------
+3|---2--2---2---------0---0---0----------0--------2----0----------
+4|--3---------3----0h2----------2-------2--2-----------0----------
+5|-----------------------------------------------------2----------
+6|----------------|-----------------|3-----------------3----------
+
+--Segunda Guitarra-Primera Parte--
+
+Tal vez no entiendan esta explicación mejor
+tóquenla escuchando la canción original.
+La [h] suena: !Dorìng¡,
+La diagonal [/] suena: !Doing!
+
+    Fmaj7   Am7          G/C
+1|--3h5-3--|------------|-------------------------------
+2|--6---6---6-3h5-3------0--0-1-3-----------------------
+3|------------------5/3--0------------------------------
+4|------------------------------------------------------
+5|------------------------------------------------------
+6|---------|------------|3------------------------------
+
+--Segunda Parte--
+
+En esta parte hay 3(x) en la 6ta cuerda, significa que
+solo hay que pisarla pero no tocarla.
+
+    Fmaj7   Am7          G/C
+1|--3h5--3-|------------|-----3-5/7---------------------
+2|--6----6--6-3h5-3-------------------------------------
+3|------------------5/3--2h4----------------------------
+4|------------------------------------------------------
+5|------------------------------------------------------
+6|---------|------------|3----x-x/x---------------------
+
+--Versos--
+    D/F#  C
+1|---0----3----
+2|---3----3----
+3|---2----0----
+4|---0----2----
+5|---0----3----
+6|---2---------
+
+G                       D/F#
+  Yo nací de amor y comadrona
+C                        G
+  en la misma cama de mamá,
+G                          D/F#
+  por una cuestión de cromosomas
+C                             G
+  fui el varón que quiso mi papá...
+
+G                               D/F#
+  Mi viejo era el profe de la escuela
+C                            G
+  mi mamá el sargento del lugar,
+G                          D/F#
+  yo era su boceto en acuarela
+C                           G
+  el tercero y último en llegar...
+
+--Pre-coro--
+
+Aquí cambia el D/F#
+    D/F#  Em   C
+1|---3-----0---3---
+2|---3-----0---3---
+3|---2-----0---0---
+4|---0-----2---2---
+5|---0-----2---3---
+6|---2-----0-------
+
+G  D/F#         Em
+   Vi   tantas lunas
+C                G           D
+  que hoy ya no se si soy o fui,
+             Em
+   tantas vacunas
+C         G           D
+  para lograr sobrevivir...
+
+--Versos--
+    D/F#  C
+1|---0----3----
+2|---3----3----
+3|---2----0----
+4|---0----2----
+5|---0----3----
+6|---2---------
+G                        D/F#
+  Aprendí a correr una mañana
+C                         G
+  antes de aprender a caminar,
+G                             D/F#
+  un teniente entro por la ventana
+C                           G
+  y a todos nos dio por escapar...
+
+G                          D/F#
+  Brasil fue campeón en el 70
+C                               G
+  y en la radio Paul decía Hey you,
+G                           D/F#
+  el gol de Pelé en cámara lenta
+C                              G
+  y el cigarro entraba en el menú...
+
+--Pre-coro--
+
+Aquí cambia el D/F# y C
+    D/F#  Em   C
+1|---3-----0---0--
+2|---3-----0---1--
+3|---2-----0---0--
+4|---0-----2---2--
+5|---0-----2---3--
+6|---2-----0------
+
+G  D/F#         Em
+   Vi   tantas lunas
+C                G           D
+  que hoy ya no se si soy o fui,
+             Em
+   tantas vacunas
+C         G           D
+  para lograr sobrevivir...
+
+Inter: C G x2
+     C    G
+1|---3----3----
+2|---3----3----
+3|---0----0----
+4|---2----0----
+5|---3----2----
+6|--------3----
+
+--Versos--
+    D/F#  C
+1|---0----3----
+2|---3----3----
+3|---2----0----
+4|---0----2----
+5|---0----3----
+6|---2---------
+G                         D/F#
+  Conocí el amor con la vecina
+C                          G
+  y también alguna enfermedad,
+G                        D/F#
+  el doctor mandó penicilina
+C                        G
+  el amor cobró con soledad...
+
+G                           D/F#
+  Fui maestro y fui universitario
+C                         G
+  golfo, cara dura y soñador,
+G                              D/F#
+  mientras el cabrón del calendario
+C                           G
+  no te hace jamás ningún favor.
+
+--Pre-coro--
+
+Aquí cambia el D/F# y C
+    D/F#   E   C
+1|---3-----0---0--
+2|---3-----0---1--
+3|---2-----0---0--
+4|---0-----2---2--
+5|---0-----2---3--
+6|---2-----0------
+
+G  D/F#         Em
+   Vi   tantas lunas
+C                G           D
+  que hoy ya no se si soy o fui,
+             Em
+   tantas vacunas
+C         G           D
+  para lograr sobrevivir...
+           B7   Em    G
+Le pongo play a mi cerebro
+      C                  D
+para ver lo que un día fui..
+
+--Coro--
+    D/F#  Em   C  G
+1|---3-----0---0--3---
+2|---3-----0---1--3---
+3|---2-----0---0--0---
+4|---0-----2---2--0---
+5|---0-----2---3--2---
+6|---2-----0------3---
+
+G
+Vida,
+    D/F#                Em
+Porque   se acabara la vida
+    C                     G
+te ves jugando a la escondida
+        D
+y al voltear preguntas...
+
+G
+Vida,
+    D/F#              Em
+porque   caducara la vida
+   C                  G
+aprendes a decir que tal
+        D
+y despedida y dices...
+
+G
+Vida,
+    D/F#                Em
+Porque   se acabara la vida
+    C                     G
+te ves jugando a la escondida
+        D
+y al voltear preguntas...
+
+     C*
+1|---3---
+2|---3---
+3|---0---
+4|---2---
+5|---3---
+6|-------
+G
+Vida,
+    D/F#              Em
+porque   caducara la vida
+   C                  G
+aprendes a decir que tal
+        D                C* G x4
+y despedida y gritas... Vida
+
+
+--Verso--
+    D/F#   C
+1|---3-----3---
+2|---3-----3---
+3|---2-----0---
+4|---0-----2---
+5|---0-----3---
+6|---2---------
+G                         D/F#
+  Recibí el 2000 con pirotecnia
+C                             G
+  ya no rento ni padezco soledad
+G                       D/F#
+  desde el parto ya comparto la epidemia
+C                                 G
+  de este síndrome de la caducidad...
+
+Si tienes duda agregame
+www.facebook.com/AlexFabianChords
+Cchecuu
+Saludos desde Chiapas-México
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

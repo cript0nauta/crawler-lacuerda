@@ -1,0 +1,158 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Luis Alberto Spinetta                                    |
+| CANCION: PRESO VENTANILLA                                         |
+| AUTOR:   Flaco Spinetta                                           |
+| ALBUM:   Un Mañana (2008)                                         |
++------------------------------------------------------ACO-spin1842-+
+| TRANS:   Roberto                                                  |
+=====================================================================
+
+Hola a todos!!!
+El riff lo detallo abajo...
+Los acordes no son exactos pero creo que no suenan mal...:
+
+Intro: [Riff -- Bm7/#9 (x2)]
+
+ Bm7/#9
+ Alguien dijo -basta- y nunca amaneció,
+                                            Am7
+ luego vino un ángel que se precipitó en su rostro
+     Bm7/#9
+ sin nadie ya;
+ Bm7/#9
+ transformado en duende, en copo de cartón,
+                                   Am7
+ quiso conocer de arriba todas las ciudades
+     Bm7/#9
+ sin nadie ya
+    Am7               Bm7
+ ¿y cómo imaginar que tanta soledad
+    Cmaj7             Dadd9        Gmaj7 - Bm7/#9
+  pudiera despertar en él esa piedad, oh?,
+   Am7               Bm7
+ y desde que la vida ya no le importó,
+ Cmaj7                  Ebmaj7            Gm7
+ quiso recordar y se perdió en la mañana: flor que late y late
+ Ebmaj7                    Gm7
+ aunque nunca encuentre un cuerpo que le habite.
+
+
+Inter: [Riff -- Bm7/#9 (x2)]
+
+    Bm7/#9
+ Ya transformado en gema, en lívido cristal,
+                                            Am7
+ se supo acrecentado y entonces encendió su mecha
+     Bm7/#9
+ sin fuego ya;
+ Bm7/#9
+ luego como un monstruo, un eje de metal,
+                                       Am7
+ quiso conocer el mar y despertó en un barco
+    Bm7/#9
+ en forma de bulón.
+     Am7                      Bm7
+ Tan sólo al regresar podrá reír y llorar,
+ Cmaj7              Dadd9           Gmaj7 - Bm7/#9
+ única salida en un mundo que no está, oh,
+    Am7                     Bm7
+ ¿y cómo puede ser que su deseo concibió
+       Cmaj7                 Ebmaj7        Gm7
+  el envión que podría propulsarlo al aire en las avenidas?,
+ Ebmaj7               Gm7
+ y no cae nunca, está lejos de la vida;
+Ebmaj7*             Bm7/b13    Em7/#9           Bm7
+ estrellado en un periódico perdió el control total
+         Am7           Bm7
+ y así habló desde una hoja...
+
+
+Inter: [Riff -- Bm7/#9 (x2)]
+
+    Bm7/#9
+ Por fin tocó un portero y oyó -usted no está-,
+                                            Am7
+ quiso reconocerse y en este mundo no hay espejos
+     Bm7/#9
+ sin alguien;
+  Bm7/#9
+ así como una rosa o un tímido jazmín
+                                              Am7
+ sintió que transmutaba y cada nueva vez lo hacía
+     Bm7/#9
+ sin alma ya
+    Am7               Bm7
+ ¿y cómo imaginar que tanta soledad
+    Cmaj7             Dadd9        Gmaj7 - Bm7/#9
+  pudiera despertar en él esa piedad, oh?;
+    Am7                     Bm7
+ no sólo revivió sino que a todos ayudó,
+          Cmaj7                  Ebmaj7            Gm7
+ se completó en una flor para surgir en llamaradas de su amor perdidas,
+ Ebmaj7            Gm7
+ vaga, vaga y vaga infundiendo vida,
+ Ebmaj7                 Gm7
+ juega en la distancia, preso ventanilla,
+ Ebmaj7              Gm7
+ corre con su sombra en la serranía,
+ Ebmaj7                 Gm7
+ juega en la distancia, preso ventanilla,
+ Ebmaj7                    Gm7
+ juega en la distancia oh, preso ventanilla,
+ Ebmaj7 - Gm7 - Ebmaj7 - Gm7
+ uh uh...
+
+Final: [Solo guitarra con base Ebmaj7 - Gm7 (x11) - Ebmaj7]
+
+
+
+
+ACORDES:
+
+ Bm7/#9: x2023x
+    Am7: x02010
+    Bm7: x24232
+  Cmaj7: x32000
+  Dadd9: x54230  ó x5423x  --&gt; aunque en el video, Luis hace: x54030
+  Gmaj7: 3x443x
+ Ebmaj7: x65333
+    Gm7: 353333  o "Gm": 355333
+Ebmaj7*: x6578x  --&gt; Este acorde lo hace Luis en el video...
+Bm7/b13: 7x778x
+ Em7/#9: x7578x
+
+
+
+RIFF (no es exacto pero se le parece,
+      lo robé -lo que pude- del EPK del DVD Un mañana):
+
+e.---------------------|------------------------|
+B.-7b------------------|-7b---------------------|
+G.----9-7-7h9-7---11-8-|----9-7-7h9-7---11-11-8-|  el riff
+D.--------------9------|--------------9---------|  sigue abajo
+A.----------------10-7-|----------------10-10-7-|
+E.---------------------|------------------------|
+
+e.-----------------------|-----------------------|
+B.-7b--------------------|-7b--------------------|
+G.----9-7-7h9-7---11-8-8-|----9-7-7h9-7---11-8-4-|
+D.--------------9--------|--------------9--------|
+A.----------------10-7-7-|----------------10-7-3-|
+E.-----------------------|-----------------------|
+
+Ojo al piojo...: el 7b no es tan así, es sólo estirar un poco la cuerda
+para que el sonido cambie... perdón pero no soy muy bueno
+con los códigos de las tablaturas...
+
+
+Bueno, espero que les sirva y gracias...
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

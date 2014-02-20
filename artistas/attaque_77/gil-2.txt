@@ -1,0 +1,114 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Attaque 77                                               |
+| CANCION: GIL                                                      |
+| AUTOR:   Ciro Pertusi                                             |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------TAB-at770482-+
+| TRANS:   Lei77o                                                   |
+=====================================================================
+
+El solo y algunos arreglos de la canción...
+Les puse el tiempo antes de cada parte y la notación
+la puse al final de la tab.
+Dudas, correcciones, sugerencias, etc. a mi mail...
+
+Saludos gente
+
+
+===========================================================
+
+GIL
+
+
+
+  0:08
+     F         G
+e|--/1-1-1-1--/3-3-3-3----|
+B|--/1-1-1-1--/3-3-3-3----|
+G|------------------------|
+D|------------------------|
+A|------------------------|
+E|------------------------|
+
+
+SOLO
+
+  1:42
+     ******hold******
+e|-----------------------------------------------------------|
+B|-----------------------------------------------------------|
+G|--7b9-9-9-9-9-9-9-9r7-5-7--7-7-7-5--5-5-5---5-7b9r7-5-7~~--|
+D|------------------------------------------7----------------|
+A|-----------------------------------------------------------|
+E|-----------------------------------------------------------|
+
+e|--------8-------8--------8-------8-------8---|
+B|--------8-------8--------8-------8-------8---|
+G|--10b12---10b12---10b12----10b12---10b12-----|
+D|---------------------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+e|--/13-13-13-13-13-13--/15-15-15-15-15-15---|
+B|--/13-13-13-13-13-13--/15-15-15-15-15-15---|
+G|---------------------------------------------|
+D|---------------------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+
+FINAL
+
+  2:04
+       [   repetir    ]
+e|---------------------|
+B|---------------------|
+G|--5-5-----5-5----5-5-|   Lo que está entre corchetes se
+D|------7-7-----7------|   repite hasta el 2:13
+A|---------------------|
+E|---------------------|
+
+
+  2:13
+
+    F             G              C
+e|-------------------------------------|
+B|-/6-6-6-6-6-6--/8-8-8-8-8-8----------|
+G|-/5-5-5-5-5-5--/7-7-7-7-7-7--5~~-----|
+D|-------------------------------5~~---|
+A|-------------------------------3~~---|
+E|-------------------------------------|
+
+
+
+================================================================
+
+Referencias:
+===========
+
+10b12: Bend. Estirar la cuerda en el traste 10 para que suene
+       como si se pisara el traste 12.
+~: Dejar Sonar.
+p: Ligado Descendente (Pull Off).
+r: Release. Después de una estirada, volver a la nota original.
+**hold**: Mantener la estirada. Es decir que se estira del
+          traste 7 al 9 y luego sin soltar la estirada, se
+          vuelve a tocar la misma cuerda sonando entonces como
+          si se pisara el traste 9.
+          (Todos los 9 se tocan así hasta que terminan los "*")
+/: Slide ascendente.
+' : Slide descendente.
+
+
+** Todo lo que se encuentra en la tab,
+es combinación de lo explicado arriba **
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

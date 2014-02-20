@@ -1,0 +1,75 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Andrés Calamaro                                          |
+| CANCION: DE LA LLUVIA                                             |
+| AUTOR:   Andres Calamaro                                          |
+| ALBUM:   Obras Incompletas (2009)                                 |
++------------------------------------------------------ACO-acal2591-+
+| TRANS:   maximiliano                                              |
+=====================================================================
+
+Originalmente solia comenzar con Mayusculas a los acordes Mayores.
+y con minusculas a los Menores, pero el analizador de acordes de la
+pagina es DESASTROZO y los convierte todos a Mayusculas...
+Por tal motivo, agrego la letra "m" al final de cada acorde menor
+(como se ve en otras notaciones) para considerar mayores a todas las
+notas que no lleven esa letra. (creo que ni yo me entendi pero bla...)
+
+Para para mayor comodidad en la digitacion la interpreto en la,
+con trasnporte en 1er traste a los fines de conservar
+la tonalidad original ["sib"]
+
+Intro: Mi4 (x2) &lt;- el analizador no la saca. se toca 022200 (de 6ta a 1ra)
+
+LAm        MIm          FA        DO
+Cuando desafinas quiero oír desafinao',
+       FA            DO          SOL
+quiero que no pegues ni una nota más.
+
+LAm        MIm        FA              DO
+Todo se termina pero en este caso especial
+       FA           DO         SOL          DO
+quiero que no se termine nunca mas... nunca mas.
+
+SOL            MI            LAm         FA             DO
+Entre el poco espacio de las gotas de la lluvia te encontré
+       SOL           MI        LAm        REm      SOL
+mirandote... en un espejo roto que estaba esperandome.
+
+Mi4 (x2)
+
+LAm         MIm           FA               DO
+En la vieja perla que era mucho mas que un bar
+      FA         DO      SOL
+ahora hay una carnicería más.
+
+LAm        MIm       FA              DO
+Todo se convierte en algo igual pero mal,
+    FA              DO          SOL         DO
+una cuestión de principios al final... nada más.
+
+SOL            MI            LAm         FA             DO
+Entre el poco espacio de las gotas de la lluvia te encontré
+       SOL           MI        LAm        REm       SOL    DO-FA
+mirandote... en un espejo roto que estaba esperando algo mirar.
+
+DO-FA (x2)
+
+DO(x2)
+
+LAm         MIm          FA                   DO
+Se que todo determina lo que pase de ahora en mas
+     FA           DO          SOL      DO
+pero fuentes para la sed verdadera vendrán
+
+
+por correcciones o sugerencias, a maxialba@hotmail.com
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

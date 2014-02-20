@@ -1,0 +1,229 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Charly García                                            |
+| CANCION: BANCATE ESE DEFECTO                                      |
+| AUTOR:   Charly García                                            |
+| ALBUM:   El Album (1983)                                          |
++------------------------------------------------------TEC-cgar0893-+
+| TRANS:   Lionel                                                   |
+=====================================================================
+
+Bancate ese defecto
+
+
+Bueno, acá están los teclados de &#8220;Bancate ese defecto&#8221; de Charly.
+Es medio difícil al principio, pero después de que te aprendes 
+las notas es fácil. Pongo el piano y teclados. Los teclado en 
+realidad son dos (resumiendo un poco) uno marca la melodía aguda 
+y el otro hace los acordes, en mi teclado lo mas parecido al 
+que usa Charly se llama &#8220;Jazz organ&#8221;. Arriba están los agudos, 
+abajo los graves.
+
+Minúsculas: notas por teclas
+Mayúsculas: mayores
+/: teclas combinadas
+-: nota a nota
+
+
+Piano:
+Patrón 1 (PP1)
+
+G-F#m#5-Em-G----c#4---a3&#8212;d4-a3&#8212;d#4-a3--e4--e4---a3               
+g2-f#2-----e2--g1---a1/a2------b1-b2----c2&#8212;c3-c#2-c#2-c#3        
+
+A#aug- A#aug- A#aug- A#aug- A#aug- A#aug- 
+d2------d3-------e2-------e3-------f2--------f3-----3
+
+A##5sus2 ------b3/d4----a3/c4----a#3/c#4---b3/d4--b3/d4
+--f#2---------f#3&#8212;g2---g3-a2--a3--a#2&#8212;g3---b2------b2-g
+
+G--------F#m#5---Em------G--------------
+g2&#8212;g3-f#2---f#2--e2-e3&#8212;b1-b1-b2----
+
+c#4--a3&#8212;d4-a3&#8212;d#4-a3---e4--e4---a3
+-a1&#8212;a2---b1-b2---c2&#8212;c3&#8212;c#2-c#2-c#3
+
+A#aug- A#aug- A#aug- A#aug- A#aug- A#aug- 
+d2------d3-------e2-------e3-------f2--------f3------
+
+A##5sus2------f3/c4&#8212;g3/d4&#8212;f3/c4&#8212;f4/c5-g4/d5-g4/d5-f4/c5
+-f#2---------f#3----------------------------c3------d4-----d4----c5
+
+
+
+Organo:
+Patrón 1 (OP1) 
+
+a#4-b4-d5-a4-d5-g4-b3-g4-f#4-e4-d4-c#4-a3-a4-
+
+a#4 ( x 7) ---a4-g4-f4-g4
+
+a#4-b4-d5-a4-d5-g4-b3-g4-f#4-e4-d4-c#4-a3-a4-
+
+A#4 (x 7)---f4-g4-g4-a4-----f4-g4-g4-f4
+
+
+
+Introducción:
+
+Empieza haciendo a la vez con el piano y el teclado: 
+(arriba pongo el teclado y por abajo el piano)
+
+d5-----------------d5&#8212;e4---g4--g4
+a3/d4---a3----e3----------------------d4/g4---d4/g4----d4/g4---d4/g4-
+
+Después de esto empieza el piano y el teclado, tocando PP1 y OP1.
+
+
+
+
+Estrofa 1:
+
+               G7-5sus4
+Están pasando demasiadas cosas raras
+               G7-5sus4
+para que todo pueda seguir tan normal.
+              G7-5sus4
+Desconfío de tu cara de informado,
+               G6-5sus4                      F6-5sus4
+y de tu instinto de supervivencia.
+
+
+
+
+Estrofa 2:
+ 
+                G7-5sus4
+Hace tiempo que no leo ni veo nada
+                G7-5sus4
+porque me ofende que todo esté tan mal.
+                G7-5sus4
+Y hasta las personas lindas me dan rabia,
+            G6-5sus4                         F6-5sus4  g4/d5-g5/d5-f4/c5  (x 3)
+y los chicos y las chicas no hacen nada por cambiar.
+
+
+
+
+Estrofa 3:
+Las notas acá, son en base al PP1, pero solo las primeras tres líneas
+
+Porque algún día se va a abrir esta trampa mortal.
+Pero hasta entonces llevarás en tu cara una sombra.
+Y no presumas más de ser un humano normal.
+Y no te hagas más el gil que el defecto te nombra.
+
+
+
+
+Estribillo::
+
+e4-e4-g4-g4-f4---------------------------f4-f4-f4-f4-f4
+             G7sus4
+Y yo te digo 'Hey bancate ese defecto',
+no es culpa tuya si la nariz no hace juego en tu cara.
+ e4-e4-g4-g4-f4---------------------------f4-f4-f4-f4-f4     
+              G7sus4
+Y yo te digo 'Hey bancate ese defecto',
+                                                                  G7sus4
+ aunque te arregles las gomas, nena, seguirás siendo rara.
+
+
+
+
+Intermedio:
+
+d#5-e5-a#4-b4-g4-g#4-a4-a#4-b4-d5-a5-g#5-g5
+
+f#5-g5-c#5-d5
+
+c6-----a#5-g5-e5-a5----g5-d5-d#5-e5-g5-a#4
+
+g4-e4-g4-g4-f4-g4-a#4-g4-b4-g4-c5-
+
+a4-a#4-b4-d5-e5-g5-------
+
+
+
+
+Estrofa 4: 
+Es en las mismas notas que la estrofa 1
+
+Mutilados, desnutridos, deformados,
+ojo de vidrio, muestra tu cicatriz.
+Marineros, maricones, embolsados
+bailan la danza de la inteligencia.
+
+
+
+Estrofa 5:
+Mismas notas que estrofa 2
+
+Están pasando demasiadas cosas raras
+para que todo pueda seguir tan normal.
+Todo el mundo me conoce por la cara,
+todo el mundo se da cuenta por la forma de bailar.
+
+
+
+Acá toca la parte del PP1 (las primeras 3 líneas) y el OP1
+
+
+
+Estribillo:
+
+Y yo te digo 'Hey bancate ese...
+
+
+
+Final:
+
+Con un &#8220;synth string&#8221; se hace estos acordes:
+
+[G6-5sus4   A6-5sus4   A6-5sus4    Bm#5]
+   a2-----------b2-----------e2
+
+[C    A7-5sus4     G6-5sus4 (x2)] 
+  a2&#8212;b2------------e2
+este lo repite varias veces, hasta que cambia
+
+[Cmaj7   A9-5sus4 (x2)  A6-5sus4]
+  a2---------b2----------e2
+
+[Em   D6-5sus4   D (x2)]       hasta terminar 
+  a2----b2--------e2
+
+
+Lo que hace con el piano no lo pongo, por que no repite lo que 
+toca, es como una improvisación.....
+
+
+Acordes: 
+
+C	c-e-g
+Cmaj7	c-e-g-b
+D	d-f#-a
+D6-5sus4	d-g-b
+Em	e-g-b
+F#m#5	f#-a-d
+F6-5sus4	f-a#-d
+G	g-b-d
+G6-5sus4	g-c-e
+G7-5sus4	g-c-f
+A#aug	a#-d-f#
+A##5sus2	a#-c-f#
+A6-5sus4	a-d-f#
+A7-5sus4	a-d-g
+A9-5sus4	a-b-d-g
+Bm#5	b-d-g
+
+Y, que les pareció?
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

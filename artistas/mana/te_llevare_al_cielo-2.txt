@@ -1,0 +1,384 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Maná                                                     |
+| CANCION: TE LLEVARE AL CIELO                                      |
+| AUTOR:   Alex "El Animal" González, Fher Olvera                   |
+| ALBUM:   Esencials: Sol (2003)                                    |
++------------------------------------------------------TAB-mana0942-+
+| TRANS:   Luis                                                     |
+=====================================================================
+
+Me encanta esta cancion
+Ya hay una versión aquí, pero esta 
+está corregida y es mucho más exacta, la otra solo tiene
+los acordes.  Esta tablatura es completa y el arreglo es 
+para tres guitarras. Entiendo que es bastante exacta, pero
+claro, me puedo equivocar, si encuentran algun error, por
+favor, haganmelo saber.  Para captar bien los ritmos, 
+sugiero que usen un radio con sonido 'Stereo', y muevan 
+todo el sonido a una bocina u otra....
+La guitarra 1 siempre se escucha por la bocina izquierda,
+la guitarra 2 CASI siempre se escucha por la derecha
+Que la disfruten....
+
+x=rasgar la cuerda sin pisar el traste)
+\=slide hacia abajo 
+
+GUITARRA 1 (Clean con delay y reverb)
+e---x-x-x-x-  
+B---x-x-x-x-  
+G---x-x-x-x- 
+D---x-x-x-x- 
+A---x-x-x-x-
+E---x-x-x-x-
+
+ (Estos 2 acordes son la Guit. 1 en todos los versos)
+      Em
+e-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x7--
+B-x-x-8-x-x-8-x-x-8-x-x-8-x-x-8-x-x-8-x-x-8-x-x8--
+G-x-x-9-x-x-9-x-x-9-x-x-9-x-x-9-x-x-9-x-x-9-x-x9--
+D-x-x-9-x-x-9-x-x-9-x-x-9-x-x-9-x-x-9-x-x-9-x-x9--
+A-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x7--
+E-x-x---x-x---x-x---x-x---x-x---x-x---x-x---x-x---
+
+      Bm
+e-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x7--
+B-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x7--
+G-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x-7-x-x7--
+D-x-x-9-x-x-9-x-x-9-x-x-9-x-x-9-x-x-9-x-x-9-x-x9--
+A-x-x-9-x-x-9-x-x-9-x-x-9-x-x-9-x-x-9-x-x-9-x-x9--
+E-x-x---x-x---x-x---x-x---x-x---x-x---x-x---x-x---
+
+*Al final del primer verso : 
+e--------------
+B--------------
+G-7-7--9\------
+D-7-7--9\------
+A-5-5--7\------
+E--------------
+
+(Y esto es el coro)
+      Em          C             D            Bm 
+e-x-x-7-x-x-7-x-x-8--x-x-8--x-x-10-x-x-10-x-x-7-x-x-7-
+B-x-x-8-x-x-8-x-x-8--x-x-8--x-x-10-x-x-10-x-x-7-x-x-7-
+G-x-x-9-x-x-9-x-x-9--x-x-9--x-x-11-x-x-11-x-x-7-x-x-7-
+D-x-x-9-x-x-9-x-x-10-x-x-10-x-x-12-x-x-12-x-x-9-x-x-9-
+A-x-x-7-x-x-7-x-x-10-x-x-10-x-x-12-x-x-12-x-x-9-x-x-9-
+E-x-x---x-x---x-x-8--x-x-8--x-x-10-x-x-10-x-x-7-x-x-7-
+
+      Em          C             D             G5     F#5
+e-x-x-7-x-x-7-x-x-8--x-x-8--x-x-10-x-x-10-x-x----x-x----
+B-x-x-8-x-x-8-x-x-8--x-x-8--x-x-10-x-x-10-x-x----x-x----
+G-x-x-9-x-x-9-x-x-9--x-x-9--x-x-11-x-x-11-x-x-12-x-x-11-
+D-x-x-9-x-x-9-x-x-10-x-x-10-x-x-12-x-x-12-x-x-12-x-x-11-
+A-x-x-7-x-x-7-x-x-10-x-x-10-x-x-12-x-x-12-x-x-10-x-x-9--
+E-x-x---x-x---x-x-8--x-x-8--x-x-10-x-x-10-x-x----x-x----
+
+(Al final del primer coro hace este cambio)
+
+      Em          C             D             D# Em 
+e-x-x-7-x-x-7-x-x-8--x-x-8--x-x-5-x-x-5-x-x------7\-  
+B-x-x-8-x-x-8-x-x-8--x-x-8--x-x-7-x-x-7-x-x-7----8\-
+G-x-x-9-x-x-9-x-x-9--x-x-9--x-x-7-x-x-7-x-x-7-8--9\-
+D-x-x-9-x-x-9-x-x-10-x-x-10-x-x-7-x-x-7-x-x-7-8--9\-
+A-x-x-7-x-x-7-x-x-10-x-x-10-x-x-5-x-x-5-x-x-5-6--7\-
+E-x-x---x-x---x-x-8--x-x-8--x-x---x-x---x-x--------
+
+El ultimo 'Em' suena 2 veces más por el efecto de DELAY
+
+
+GUITARRA 2  (un poco de gain (distoricion bien leve)
+             con un Wah Wah)
+La guitarra 2 simplemente hace un rasgueo en todos los
+versos y todos los coros de la cancion
+Donde unico no suena es en el puente instrumental y 
+al principio de la cancion
+
+El rasgueo es el siguiente
+e-x-x-x-x-
+B-x-x-x-x-  LA mano izq. se coloca encima del 7mo, 8vo
+G-x-x-x-x-  y 9no espacio solo rozando las cuerdas
+D-x-x-x-x-
+A-x-x-x-x-  ^=Wah Wah hacia arriba (sonido agudo)
+E-x-x-x-x-  *=Wah Wah hacia abajo  (sonido grave)
+  ^   *      Repetir en toda la canción menos en las
+partes ya mencionadas.
+
+
+Para la GUITARRA 3 (que tiene mas variaciones) voy a 
+escribir la letra para que sepan en que parte de la 
+canción ubicarse
+
+~=vibrato
+\=slide hacia abajo
+/=slide hacia abajo
+
+Acordes son de la GUIT.  1 [clean]
+Tablatura de la GUITARRA 3 (distortion ligero con reverb
+                            y tal vez algo de chorus)
+ Em                                         Bm
+Yo te puedo hacer feliz, no dudes en probarlo amor..Oh yeah
+ 
+ Em                                      Bm
+Dame una oportunidad, te voy a inundar de amor...Uh yeah
+
+                  Em
+e-10-10-10-10-10-12\---------------------------------
+B-10-10-10-10-10-12\--------------------------7/8~---
+G-7--7--7--7--7--9\--9p7--9-7~------7-9-9p7-9--------
+D----------------------------------------------------
+A----------------------------------------------------
+E----------------------------------------------------
+                 Ay, que voy a hacer,      si yo estoy 
+
+           Bm 
+e-----------------------------------
+B-----------------------------------
+G--------------------------------7~-
+D--------9-9p7-9-7~----7-9-9p7-9----
+A-----------------------------------
+E-----------------------------------
+   renamorado        Uh yea
+
+      Em                                 Bm  
+e----------------------------------------------------
+B-------------7/8--------------8/10------------------
+G-----9-9p7-9--------7-9-9p7-9-----------------------
+D-----------------------------------------9-9p7-9-7~-
+A----------------------------------------------------
+E----------------------------------------------------
+      Ay mujer mujer,   no le temas al amor      uh yea
+
+ (Bm)
+e----------------10-10-10-10-12\--
+B----------------10-10-10-10-12\-- Aqui se queda la 
+G------------7/9-7--7--7--7--9-\-- Guit. 2 con el 
+D--7-9-9p7-9---------------------- rasgueo hasta que
+A--------------------------------- entra el coro
+E---------------------------------
+
+CORO: Para ritmo exacto, escuchar con la bocina derecha
+  Em         C       D         Bm 
+e------------------------------------------
+B------------------------------------------
+G-9----9--9\-5-5-5-5-7---7--7--4---4-------
+D-9----9--9\-5-5-5-5-7---7--7--4---4-4-----
+A-7----7--7\-3-3-x-3-5---5--5--2-2-2-2-----
+E------------5-----------------------------       
+   Poquito a poco     te llevo al cielo amor
+
+  Em        C        D          G5    F#5  
+e------------------------------------------
+B------------------------------------------
+G-9--9-9-9\-5-5-5-5--7---7--7---12----11---
+D-9--9-9-9\-5-5-5-5--7---7--7---12----11---
+A-7--7-7-7\-3-3-x-3--5---5--5---10----9----
+E------------5-----------------------------       
+  Poquito a poco yo   te inundare de amor
+
+  Em         C       D         Bm 
+e------------------------------------------
+B------------------------------------------
+G-9----9--9\-5-5-5-5-7---7--7--4---4-------
+D-9----9--9\-5-5-5-5-7---7--7--4---4-4-----
+A-7----7--7\-3-3-x-3-5---5--5--2-2-2-2-----
+E------------5-----------------------------       
+   Poquito a poco     te llevo al cielo amor
+
+  Em        C               D         D5 D#5 E5  
+e------------------------------------------------
+B------------------------------------------------
+G-9--9-9-9\-5-5-5-5-----------7-7-7---7--8---9---
+D-9--9-9-9\-5-5-5-5-----------7-7-7---7--8---9---
+A-7--7-7-7\-3-3-x-3-----------5-5-5---5--6---7---
+E------------5-----------------------------------
+  Oh yo     te hablare de amor
+
+GUIT. 2 rasgando
+(GUIT: 1)
+   n.h.              n.h.= natural harmonic
+e----------------
+B-----------(7)--
+G--(7)-(5)-------
+
+2do verso
+Em                                          Bm
+Voy a bañarte de mi amor, bañarte a puros besos yo
+
+ Uh yea  (Guit. 3)
+e---------10-10-10-10-10-12\-
+B---------10-10-10-10-10-12\-
+G---------7--7--7--7--7--9\--
+D----------------------------
+A----------------------------
+E----------------------------
+
+Em                                           Bm
+Besos que entran con amor, que sacan todo el dolor, Oh yeah
+
+                 Em
+e-10-10-10-10-10-12\-------------------------
+B-10-10-10-10-10-12\-------------------------
+G-7--7--7--7--7--9\-----------7-9-9p7--9-7~--
+D--------------------------------------------
+A--------------------------------------------
+E--------------------------------------------
+                 Y si estoy volando
+                               
+                                Bm
+e-------------------------------------------------------
+B-------------------------8/10--------------------------
+G-----------------9-9p7-9-------------------------------
+D------------------------------------------7-9-9p7-9-7~-
+A-------------------------------------------------------
+E-------------------------------------------------------
+  a un cielo como tu           Y si estoy soñando 
+
+                                  Em
+e-------------------------------------------------------
+B-------------------------------------------------------
+G--------------------------7~-----------------9-9p7-9-7-
+D------------------9-9p7-9------------------------------
+A-------------------------------------------------------
+E-------------------------------------------------------
+  a un cielo como tu           Se que estas cayendo
+
+e--------------------------------
+B-------------------------8/10---
+G-----------------9-9p7-9--------
+D--------------------------------
+A--------------------------------
+E--------------------------------
+  cayendo en el amor           
+
+  Bm                   Em(sigue Guit. 1 junto con Guit.2)  
+ Oye, aqui estoy yo
+
+Coro: se repite sin la variacion al final de Guit. 1
+      y la guit. 3 la sigue
+Osea, el coro termina con el corte de G5-F#5
+
+PUENTE INSTRUMENTAL (voy a poner una tablatura bajo la
+                     otra, entiendase que se toca a la vez)
+             (ambas Guit. con Wah Wah) ^=wah arriba
+Guit. 1                                *=wah abajo
+e--------------------------------------------------------
+B--------------------------------------------------------
+G--------------------------------------------------------
+D--------------------------------------------------------
+A-5-5-5-5-5-5-5--------------2-2-2-2-2-2-2---------------
+E--------------------------------------------------------
+  * * * * * * *              * * * * * * *
+
+Guit. 2
+e-----------5-5-5-5-5-5-5-5-5------------3-3-3-3-3-3-3-3-
+B-----------x-x-x-x-x-x-x-x-x------------x-x-x-x-x-x-x-x-
+G-----------2-2-2-2-2-2-2-2-2------------0-0-0-0-0-0-0-0-
+D--------------------------------------------------------
+A--------------------------------------------------------
+E--------------------------------------------------------
+            * * * ^ ^ ^ ^ ^ ^            * * * ^ ^ ^ ^ ^
+_________________________________________________________
+Guit. 1
+e--------------------------------------------------------
+B--------------------------------------------------------
+G--------------------------------------------------------
+D--------------------------------------------------------
+A-5-5-5-5-5-5-5--------------2-2-2-2-2-2-2---------------
+E--------------------------------------------------------
+  * * * * * * *              * * * * * * *
+
+Guit. 2
+e-----------5-5-5-5-5-5-5-5-5------------7-7-7-7-7-7-7-7-
+B-----------x-x-x-x-x-x-x-x-x------------x-x-x-x-x-x-x-x-
+G-----------2-2-2-2-2-2-2-2-2------------4-4-4-4-4-4-4-4-
+D--------------------------------------------------------
+A--------------------------------------------------------
+E--------------------------------------------------------
+            * * * ^ ^ ^ ^ ^ ^            * * * ^ ^ ^ ^
+
+Se repite todo, esta vez con una tercera guitarra
+(no estoy seguro si es guitarra o teclado, pero da lo mismo,
+una guitarra con chorus sirve) simplemente toca estas
+4 notas....
+
+e-17~---|-------|-14~---|-------|--
+B-------|-12~---|-------|-15~---|--
+G-------|-------|-------|-------|--
+ Cada nota dura 4 tiempos, (una redonda) 
+Si no sabes notacion musical, simplemente escucha el 
+disco, estas son las notas que se oyen por debajo del
+wah wah que parecen como unas campanitas
+______________________________________________________
+ Guit.4 (clean tambien pero con un delay más largo)
+  C                        D               Em  
+e----8-8-----------------------10--10--|--------------
+B----8-8-----------------------10--10--|--------------
+G----9-9-----------------------11--11--|-(Guit. 1 )---
+D--------------------------------------|-(tocando Em)-
+A--10------------------------12--------|--------------
+E-8------------------------10----------|---------------
+     Ven bebita para aca        ven aca y suelta las penas
+                     
+                           
+  C                        D             Em  
+e----8-8-----------------------10--10--|--------------
+B----8-8-----------------------10--10--|--------------
+G----9-9-----------------------11--11--|-(Guit. 1 )---
+D--------------------------------------|-(tocando Em)-
+A--10------------------------12--------|--------------
+E-8------------------------10----------|---------------
+     Ven bebita para aca      doy amor a manos llenas
+
+
+  C                        D    
+e----8-8-----------------------10--10-------------
+B----8-8-----------------------10--10-------------
+G----9-9-----------------------11--11-------------
+D-------------------------------------------------
+A--10------------------------12-------------------
+E-8------------------------10---------------------
+    Si el amor te maltrato    Y el pasado ya pasó 
+
+
+  C                           D                 
+e----8-8----------------------10-10--
+B----8-8----------------------10-10--
+G----9-9----------------------11-11--
+D-----------------------------12-12--
+A--10-----------------------12-------
+E-8----------------------10----------
+    Vente al cielo vente amor
+_____________________________________________________
+(Guit. 1 CORO) (Guit. 2 rasgando)
+
+ Em    C       D       Bm        Em   C  D  Bm 
+Aaaaaaayyyy yo   te llevare al cielo
+
+ Em    C       D       Bm        Em     
+Aaaaaaaayyyy yo  te llevare al cielo yo
+
+ C        D      Bm
+  Uhhh uh uh   oh yeah 
+(Entra Guit. 3 (coro))
+Em    C        D      Bm        Em   C  D  G5  F#5 
+Aaaaaaayyyy yo   te llevare al cielo
+
+Em    C        D      Bm        Em      C   D   G5   F#5
+Aaaaaaayyyy yo   te llevare al cielo yo       poquito a poco
+   
+   Em       C   D       Bm        Em      C  D  G5   F#5 
+al cielo yo        te llevare al cielo yo      poquito a poco
+
+Se repite hasta que acabe la canción
+
+Dudas, comentarios sugerencias o peticiones- Javhe6@hotmail.com
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

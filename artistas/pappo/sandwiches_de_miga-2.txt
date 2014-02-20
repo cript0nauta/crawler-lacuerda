@@ -1,0 +1,70 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Pappo                                                    |
+| CANCION: SANDWICHES DE MIGA                                       |
+| AUTOR:   Machi, Pappo's Blues                                     |
+| ALBUM:   Pappo's Blues, Vol. 2                                    |
++------------------------------------------------------ACO-papp0232-+
+| TRANS:   Sebastián                                                |
+=====================================================================
+
+intro: (Eb5-F5 Eb5-F5 Eb5-F5 Bb5-Ab5)x2
+        F5  Eb5  F5  Eb5
+
+    F5              Eb5
+No puedo evitar que vengan hacia mí
+                  F5    Eb5
+los sándwiches de miga;
+F5                     Eb5
+  y parece mentira que hoy estuve aquí,
+         F5  Eb5  Eb5-F5 Eb5-F5 Eb5-F5 Bb5-Ab5
+esperándote.
+            Eb5-F5   Eb5-F5 Eb5-F5 Bb5-Ab5
+¡Estuve esperándote!
+
+inter: F5 Eb5
+      (Gb5 / /  F5 F5-Eb5-Ab5-Eb5
+       Db5-Gb5-Db5-Ab5-Gb5-Eb5-Db5-Eb5  Eb5)x2
+
+solo: (Eb5-F5 Eb5-F5 Eb5-F5 Bb5-Ab5)x9
+       F5 Eb5 F5 Eb5
+
+   F5                       Eb5
+Y cuando salga el sol por detrás de las colinas,
+   F5                         Eb5
+no digas nada a nadie, pero estuve despertando
+        F5  Eb5   Eb5-F5 Eb5-F5 Eb5-F5 Bb5-Ab5
+en la mañana.
+              Eb5-F5   Eb5-F5 Eb5-F5 Bb5-Ab5
+¡Estuve despertándome!
+
+outro: (Eb5-F5 Eb5-F5 Eb5-F5 Bb5-Ab5)x2  Eb5-F5
+
+.....................................................
+
+inter:
+
+  Gb5 / /  F5   F5-Eb5-Ab5-Eb5 Db5-Gb5-Db5-Ab5-Gb5-Eb5-Db5-Eb5
++-----------------------------+-------------------------------+
++-----------------------------+-------------------------------+
++-----------------------------+-----------------6-------------+
++-11-11-11-10---10--8---6---8-+-6---4---6---6---4---8---6---8-+
++--9--9--9--8----8--6---6---6-+-4---4---4---6---4---6---4---6-+
++-----------------------------+-------------------------------+
+
+  Eb5
++------------+
++------------+
++------------+
++-8-8-8-8-8--+
++-6-6-6-6-6--+
++------------+
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

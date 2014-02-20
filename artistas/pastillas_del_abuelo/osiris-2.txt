@@ -1,0 +1,188 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Las Pastillas del Abuelo                                 |
+| CANCION: OSIRIS                                                   |
+| AUTOR:   -?-                                                      |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------TAB-pdab0292-+
+| TRANS:   Juan                                                     |
+=====================================================================
+
+Los acordes que tocan es en triadas:
+
+     F#m    E    Bm
+e||--9------7----7----
+B||--10-----9----7----
+G||--11-----9----7----
+D||-------------------
+A||-------------------
+E||-------------------
+
+
+Intro:
+
+    F#m           E              Bm
+e||----------------------------------------
+B||-------77-------------55---------3------
+G||----55----5--------44----44--2h4---4----
+D||-44----------4/2-2----------------------
+A||----------------------------------------
+E||----------------------------------------
+
+
+F#m                E
+Pasan las horas, rozando la locura
+
+Bm
+preso de mi poesía.
+
+F#m                E
+Mucho altibajo, poca llanura
+
+Bm
+soy ladrón y policía.
+
+
+e||------5------4-------2--
+B||------------------------
+G||--7/6----6/4----4/2-----  Esto lo hace a lo largo
+D||------------------------  de la primera estrofa
+A||------------------------
+E||------------------------
+
+
+
+F#m                  E               e||-9----9----9----9----9-----7~--
+Caen las gotas, sin previo aviso     B||--10---10---10---10-------7~---
+                                     G||-------------------------7~----
+Bm                                   D||-------------------------------
+viniendo del más allá.               A||-------------------------------
+                                     E||-------------------------------
+
+
+
+F#m                  E               e||-9----9----9--10/12-10-9-------7~--
+De un inconsciente, ya inmanejable   B||--10---10----------------10---7~---
+                                     G||-----------------------------7~----
+Bm                                   D||-----------------------------------
+que no me deja vivir en paz...       A||-----------------------------------
+                                     E||-----------------------------------
+
+
+Intro x2
+
+
+De a poco oxidan esta armadura
+difícil de abandonar,                     Se repite lo mismo que
+tengo una cita conmigo                    lo anterior, exepto lo último,
+que no me animo a afrontar.               que manda un C#
+Estoy tan lejos de mí
+que no alcanzo a ver mí escencia.
+Pobre de vos, hoja en llamas
+
+                  C#5
+te descargo mi impaciencia...
+
+
+
+F#m                  D                        (*)Es porque toca algo así:
+En el juicio de los muertos frente a Osiris
+                                                e||------------------
+E(*)                                            B||------------------
+mí corazón rompería la balanza,                 G||-2h4-2h4-2h4p2h4--
+                                                D||------------------
+F#m                  D                          A||------------------
+y sin embargo no consigo darme cuenta,          E||------------------
+
+
+E(*)
+que fantasma dará a luz mí desconfianza.
+
+
+Pero prometo, a más nadie que a mí mismo,
+triunfar de nuevo en este juego apasionado.     Se reptie lo anterior
+Y el día que ya no le tema a los abismos
+agradecer a quienes tuve siempre al lado.
+
+
+Intro x4
+
+!!En esta parte, además de tocar como en el principio,
+la otra viola toca estas notas:
+
+
+No quiero cantar victoria
+
+     F#m             E
+e||-------------------------------------
+B||-------------------------------------
+G||-------------------------------------
+D||-------------------------------------
+A||-------------------------------------
+E||--2---------------0------------------
+
+por describir lo que siento,
+
+                       Bm
+e||-------------------------------------
+B||-------------------------------------
+G||-------------------------------------
+D||-------------------------------------
+A||--------------------2----------------
+E||-------------------------------------
+
+en mí estado, tras la gloria,
+
+    F#m         E                    Bm
+e||-------------------------------------
+B||-------------------------------------
+G||-------------------------------------
+D||-------------------------------------
+A||-------------7----------------5-4-2--
+E||-2-----------------------------------
+
+y en un terrible momento.
+
+Y a vos canción, de ira y esperanza
+prometo no abandonarte.                       Acá repite lo anterior
+Yo también tengo un nudo en la panza
+por no poder liberarte.
+
+e||--------------
+B||--------------     Esto lo hace antes
+G||--------------     de volver a F#m
+D||--------------
+A||--------------
+E||--5-4-2-------
+
+
+Pero, pero al menos por ahora
+tu lugar es un cajón
+porque es falta de respeto, cantarte sin emoción.
+Y este intruso que hay en mí, no te merece cantar.
+Te merece alguien más grande,
+
+                     C#5
+El otro Piti Fernández.
+
+
+En el juicio..
+
+La base del Solo es:     F#m     D     E
+Pero a lo último hace:   F#m  C#-D     E
+
+
+------Fin.
+
+Los solos todavía no los saqué, pero son bastante sencillos.
+Si calientan la silla los sacan.
+Cualquier duda/correción, mi mail es elenanobostero@hotmail.com
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

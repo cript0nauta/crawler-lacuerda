@@ -1,0 +1,213 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Luis Alberto Spinetta                                    |
+| CANCION: NUEVA LUNA                                               |
+| AUTOR:   Luis Alberto Spinetta                                    |
+| ALBUM:   (en vivo en Canal 13, Jade/salón Blanco, Solista)        |
++------------------------------------------------------ACO-spin1591-+
+| TRANS:   Manuel                                                   |
+=====================================================================
+
+introducción:
+
+C#m(7)#5 - Cdism - Bm(7)#5 - Bbdism - Am7/#5 - Gm7/11 - F#m7/11 - A/E
+D7/9* (D9/F# - D7/C - D7 - D7/4sus) - Gmaj7 - Ebmaj7/#5 - Em7/9
+
+
+
+Am7/9           D7/b9
+Esta canción de amor
+D7/#9          Gmaj7     Cmaj7
+pintó un atardecer indiferente
+Cm7/9               F7/b9    Bbmaj7
+perdida y consabida idea de amar
+         Ebmaj7
+amar por siempre
+
+
+Dm7/9          G#m7/#5
+Entonces vi un rayo de luz
+       Am7/9
+inconsistente aún
+   G#m7/#5       C#m7/#5
+lo vi nacer al olvido
+       Bm7/11(sin5) - Bb7/b5
+de los limbos
+Am7/9
+No sé por qué
+   D7/b9    D7/#9     Gmaj7
+jadeante el río despertó
+         Cmaj7
+como una sombra
+Cm7/9      F7/b9       F7/#9 - F7/b9 - Bbmaj7
+Apenas detenido por el ir      y     venir
+         Ebmaj7
+de sus difuntos
+G#/6/9/maj7   F#maj7/#5
+Esta noche mi casa no está
+Dm7(5#)                 B6*
+siento miedo de que el sol
+Cm7/b5   Gm7/11   G#13  F#maj7 - F#maj7/b5 - C#maj7/#5
+por      fin       nos caiga
+
+
+Febrero de vinilo rojo carmesí
+inútilmente
+tratando de salvar
+la seda de tu piel
+de toda fiera
+
+      Dm7/9      C#/Alt
+Y tal vez oí una dulce oración
+      F#/Alt       B13 - B7/#5
+en el plexo solar
+Am7/9
+canción de amor
+       G#m7/#5       Bmaj7/#5 - Cm7/11 - B7/b5
+contra tanta      desdicha
+
+Bbmaj7                Am7/9
+Tan pronto llega el día
+F#m7/9              E13/b9
+tan pronto va a estallar
+       Fmaj7/b5      Em7
+¿y por qué toda la poesía
+          Bbmaj7     Ebmaj7
+y toda la vida no se juntan?
+
+
+Está noche mi casa no está
+siento miedo de  que el sol
+Cm7/b5   Gm7/11   G#13  F#maj7 - F#maj7/b5 - ¡Dmaj7/#5!
+por      fin       nos caiga
+
+
+(acordes de la introducción)
+C#m(7)#5
+Nueva luna
+  Cdimm
+sentada como un gato
+        Bm(7)#5
+en este techo
+
+Nueva luna
+Bbdimm
+amiga de la paz
+     Am7/#5
+y la verdad
+    Gm7/11       F#m7/11
+tal vez vos me dirás:
+A/E  (igual que LA introducción)         Em7/9
+"ya no repitas nunca más,             yo te amo"
+
+Em7                F9
+¡Y esta tierra que tiembla al hablar!
+Cmaj7         C9/Bb
+mundo arjo de argentum y dolor
+
+(solo sobre la base de la primera estrofa)
+
+Esta noche mi casa no está
+tengo miedo de que el sol
+por fin se nos caiga.        C#maj7/#5.
+
+----------------------------------------------------------------------
+
+ACORDES
+
+(introdución)
+
+C#m(7)#5                 X47454 ó X4X455
+Cdism                    X34242
+Bm(7)#5                  X25232 ó X2X233
+Bbdism                   X12020
+Am7/#5                   X03010
+Gm7/11                   3X331X ó 3X3311 ó 3X3310 (6ta)
+F#m7/11                  2X2200
+A/E                      0X2220 ò 0X2200
+---
+D7/9*                    XX0210
+-
+D9/F#                    2X0230 ò 254252
+D7/C                     X3023X ó X30233
+D7                       X545XX
+D7/4sus                  XX0533
+--
+Gmaj7                    3X0002 ó 3X443X ò 3X4430 (6ta)
+Ebmaj7/#5                X65433
+Em7/9                    020032 ò X7577X
+---
+(parte 1)
+
+Am7/9                    5X5500 ò X02410
+D7/b9                    X5454X
+D7/#9                    X5456X
+Cmaj7                    X32000
+Cm7/9                    X3133X ò X31331 (11na)
+F7/b9                    XX3242 ò 1X1212 ò X8787X
+F7/#9                    XX3244 ò X8789X
+Bbmaj7                   X13231 ò 6X776X
+Ebmaj7                   X65333 ò XX1333
+---
+(parte 2)
+
+Dm7/9                    X5355X ò X53553 (11na)
+G#m7/#5                  4X445X ò XX4454 ò 4X4457
+Am7/9                    5X5500 ò X02410
+C#m7/#5                 ¡X4X455!
+Bm7/11(sin5)             X2X230 ò 7X775X
+Bb7/b5                   X1X130 ò 6X675X
+---
+(parte 3)
+
+G#/6/9/maj7              433343
+F#maj7/#5                2XX331 ò XX4331
+Dm7(5#)                  XX0311 ò XX0231
+B6*                      X2X444 ò 7X989X
+Cm7/b5                   X3X342 ò 8X887X
+Gm7/11                   3X3311
+G#13                     4X456X ó 464564
+F#maj7                   XX4321 ò 2X332X
+F#maj7/b5                XX4311 ò 2X3311
+C#maj7/#5                X43211 ò X4321X
+---
+(parte 4)
+
+Dm7/9                    X5355X ò X53553 (11na)
+C#/Alt                  ¡X45455! ò X4X455
+F#/Alt                   2X2332 ò 242332
+B13                      X2X244 ò 7X789X
+B7/#5                    X2X243 ò 7X7887
+Am7/9                    5X5500 ò X02410
+G#m7/#5                  4X445X ò XX4454
+Bmaj7/#5                ¡X2X343!
+Cm7/11                   8X886X
+B7/b5                    7X786X
+Bbmaj7                   6X776X
+F#m7/9                   242224
+E13/b9                   0XX121 ò 0X0121
+Fmaj7/b5                 133200 ò XX3200
+Em7                      020033
+Bbmaj7                   X13231
+Ebmaj7                   X65333 ò XX1333
+---
+¡Dmaj7/#5!               X54322
+---
+(parte 5)
+Em7                      020033
+F9                       XX3013 ò 103010
+Cmaj7                    332000 ò 332400
+C9/Bb                    X12030 ò X12010
+---
+
+perdonen si hay algo malo y avisen!
+que_alegria_vivir(arroba)hotmail.com
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

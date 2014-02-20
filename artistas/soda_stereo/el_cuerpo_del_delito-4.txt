@@ -1,0 +1,184 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: EL CUERPO DEL DELITO                                     |
+| AUTOR:   Zeta Bosio, Gustavo Cerati                               |
+| ALBUM:   Nada Personal                                            |
++------------------------------------------------------BAJ-soda0174-+
+| TRANS:   Adrián, Mariano                                          |
+=====================================================================
+
+Acá va la correción del tab transcrito por Mariano, para darle un
+sonido más 'slapeado', yo hago popping con las 2 primeras cuerdas.
+Otra cosa, no hace 0-2--2-55-4-2 sino que se oye bien que Zeta hace
+0-2---2-55-2-0-7 y los 2 últimos golpes son 7(si)-0 y no 5(la)-0.
+El 1º "vamonos..." está bien, pero no así el 2º que comienza en
+Si pero de ahí pasa a La(5)no a Fa# (2).
+Bueno, va el arreglo.
+
+Esto es con slap (S) y pop (P)
+
+INTRO
+
+   S S  P P P  S S  S SS S S  S   P P P S S
+G-------4-4-2---------------------4-4-7-----
+D-------------------------------------------  (X4)
+A--0-2------------------------2-------------
+E--------------0-2--2-55-2-0------------7-0-
+
+
+0:29
+Verso 1
+"En un instante el rito estalló, detrás de mi, detras de vos.
+Sombras, implacables detectives que persiguen, persisten.
+No tienen pruebas ni identikits, no es posible la reconstrucción.
+Pone en pedazos todo vestigio, comprometedor.."
+
+
+   S S  P P P  S S  S SS S S  S   P P P S S
+G-------4-4-2---------------------4-4-7-----
+D-------------------------------------------  (X4)
+A--0-2------------------------2-------------
+E--------------0-2--2-55-2-0------------7-0-
+
+
+0:57
+Puente
+
+"Vamonos, salgamos de esta habitación, escondamoslo en algun lugar
+seguro.."
+
+G---------------------------------------------
+D---------------------------------------------
+A-555555555-----------------------7777777777--
+E-----------5555555555-7777777777-------------
+
+
+"Asi está bien, ni la CIA ni la KGB, ni el FBI, no ésta vez no
+podrán encontrar..."
+
+G-------------------------------------------------------------------
+D-----9-9-7-------9-9-7-----------------9-9-7------9-9-7------------
+A------------5-7-------------------------------5-7-------5-7--------
+E-5-7--------------------5555555555-5-7-----------------------000000
+
+1:25
+Estribillo
+
+"El Cuerpo del delitoo...   El Cuerpo del delitoo..
+
+   S S  P P P  S S  P P P  S S  P P P S S  P P P
+G-------4-4-2-------------------4-4-7------------
+D-------------------4-4-7------------------4-4-2-
+A--0-2---------------------0-2-------------------
+E--------------0-2--------------------0-2--------
+
+
+El Cuerpo del delitoo...    El Cuerpo del delito"
+
+   S S  P P P  S S  P P P  S S  P P P S S  P P P
+G-------4-4-2-------------------4-4-7------------
+D-------------------4-4-7------------------4-4-4-
+A--0-2---------------------0-2-------------------
+E--------------0-2--------------------0-2--------
+
+1:40
+REPITE INTRO
+
+   S S  P P P  S S  S SS S S  S   P P P S S
+G-------4-4-2---------------------4-4-7-----
+D-------------------------------------------  (X2)
+A--0-2------------------------2-------------
+E--------------0-2--2-55-2-0------------7-0-
+
+
+1:54
+Verso 2
+"Cada uno es su propio delator, su propio infierno individual.
+Yo tengo a mano interruptor, detonador artificial.."
+
+   S S  P P P  S S  S SS S S  S   P P P S S
+G-------4-4-2---------------------4-4-7-----
+D-------------------------------------------  (X2)
+A--0-2------------------------2-------------
+E--------------0-2--2-55-2-0------------7-0-
+
+2:09
+
+"Vamonos, salgamos de esta habitación, escondamoslo en algun lugar
+seguro.."
+
+G-------------------------------------------------
+D-------------------------------------------------
+A--2222222222-------------5555555555-777777-------
+E-------------5555555555--------------------0000--
+
+
+"Asi esta bien, ni la CIA ni la KGB, ni el FBI, no esta vez no podran
+encontrar..."
+
+G--------------------------------------------------------------------
+D-----9-9-7-------9-9-7-----------------9-9-7------9-9-7-------------
+A------------5-7-------------------------------5-7-------5-7---------
+E-5-7--------------------5555555555-5-7-----------------------0000000
+
+2:37
+Estribillo 2
+
+"El Cuerpo del delitoo...   El Cuerpo del delitoo..
+
+   S S  P P P  S S  P P P  S S  P P P S S  P P P
+G-------4-4-2-------------------4-4-7------------
+D-------------------4-4-7------------------4-4-2-
+A--0-2---------------------0-2-------------------
+E--------------0-2--------------------0-2--------
+
+
+El Cuerpo del delitoo...    El Cuerpo del delito"
+
+   S S  P P P  S S  P P P  S S  P P P S S  P P P
+G-------4-4-2-------------------4-4-7------------
+D-------------------4-4-7------------------4-4-4-
+A--0-2---------------------0-2-------------------
+E--------------0-2--------------------0-2--------
+
+
+Ohh El Cuerpo del delito...   El Cuerpo del delito
+
+   S S  P P P  S S  P P P  S S  P P P S S  P P P
+G-------4-4-2-------------------4-4-7------------
+D-------------------4-4-7------------------4-4-2-
+A--0-2---------------------0-2-------------------
+E--------------0-2--------------------0-2--------
+
+
+El Cuerpo del delitoo...    El Cuerpo del delito"
+
+   S S  P P P  S S  P P P  S S  P P P S S  P P P
+G-------4-4-2-------------------4-4-7------------
+D-------------------4-4-7------------------4-----
+A--0-2---------------------0-2-------------------
+E--------------0-2--------------------0-2--------
+
+3:07
+Todo esto se repite hasta el final....
+G---------------------------------------------
+D----2-2--------------------2-----------------   (Fade out)
+A--2-----2-4-5------------2---2-4-5-----------
+E---------------2-55-2-0-------------2-55-2-0-
+
+Hay que escucharlo bien para encontrar los tiempos pero una vez que
+se entiende esta muy bueno y divertido para tocarlo al tema...
+
+
+Saludos---- Mariano Bria ------- Marianorocken@hotmail.com
+Saludos-----Adrián De Luca------ hadl72@yahoo.es
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

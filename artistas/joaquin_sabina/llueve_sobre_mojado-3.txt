@@ -1,0 +1,170 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Joaquín Sabina                                           |
+| CANCION: LLUEVE SOBRE MOJADO                                      |
+| AUTOR:   Joaquín Sabina                                           |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------ACO-sabi0413-+
+| TRANS:   Simón                                                    |
+=====================================================================
+
+- Corrijo algunas cosas y agrego otras.
+- Las posiciones en paréntesis son opcionales.
+- Lista de acordes al final.
+
+-1-
+D                    E7
+Hay una lagrima en fondo del río
+A7/4   A7      D (D4)
+de los desesperados,
+D                    E7
+Adán y Eva no se adaptan al frío,
+A7/4   A7      D (D4)
+llueve sobre mojado.
+
+-2-
+                     G+7
+Bla, bla, bla, bla, blaaaa,
+      F#m7
+bla,blaaaaa
+Em7   A7/6     D
+ya no sabe a pecado,
+                     G+7
+Bla, bla, bla, bla, blaaaa,
+      F#m7
+bla,blaaaaa
+  Em7  A7/6    D
+llueve sobre mojado.
+
+-1-
+Al asesino de la cola del cine
+el Padrino Dos le ha decepcionado,
+los violadores huyen de los jardines,
+llueve sobre mojado.
+
+-2-
+Bla, bla, bla, bla, blaaaaa,
+bla, blaaaaaa,
+sueños equivocados,
+bla, bla, bla, bla, blaaaaa,
+bla, blaaaaa,
+Em     A7/6    F#m
+llueve sobre mojado.
+
+-3-
+               F#m7 
+Y después de llover,
+              F#m7
+un relámpago va
+                     F#m6
+deshaciendo la oscuridad
+D       D/C#  D/C  D/B E7
+con besos que antes de nacer,
+A7/4   A7  G
+moriráaaaaan.
+
+-1.1-
+G                   A7
+Ayer Julieta denunciaba a Romeo,
+    D7/4  D7               G (G4)
+por malos tratos, en el juzgado,
+G                       A7
+Cuando se acuestan la razón y el deseo
+D7/4  D7        G (G4)
+llueve sobre mojado.
+
+-2.1-
+                    C+7
+Bla, bla, bla, bla, blaaaaa,
+     Bm7
+bla, blaaaaaa,
+Am7     D7/4  G (G4)
+cosas de enamorados,
+                    C+7
+Bla, bla, bla, bla, blaaaaa,
+     Bm7
+bla, blaaaaaa,
+Am7    D7/4   G (G4)
+llueve sobre mojado.
+
+-1.1-
+La ultima guerra fue con mando a distancia,
+el dormitorio era un vagón de soldados,
+por más que llueva y valga la redundancia,
+llueve sobre mojado.
+
+-2.1-
+Bla, bla, bla, bla, bla, bla, bla,
+uno y uno son demasiado,
+bla, bla, bla, bla, bla, bla, bla,
+               Bm
+llueve sobre mojado.
+
+Bm                   Bm+7
+Y, al final, sale el sol
+    Bm7
+incapaz de curar
+                     Bm6
+las heridas de la ciudad
+G   G/F# G/F  G/E      A7
+y se acostumbra el corazón
+      D
+a olvidar.
+
+-1-
+Dormir contigo es estar solo dos veces,
+es la soledad al cuadrado,
+todos los sábados son martes y trece,
+todo el año llueve sobre mojado.
+
+-2-
+Bla, bla, bla, bla, bla, bla, bla,
+cada cual por su lado,
+bla, bla, bla, bla, bla, bla, bla,
+llueve sobre mojado...
+
+-Salida-
+ E7     A7     D
+Llueve sobre mojado
+    E7          A7
+Llueeeeeeeeve sooooooobre
+   Dm7
+mojado... (se mantiene en Dm7 hasta el final)
+
+Y colorín colorado,
+este cuento se ha terminado...
+
+Acordes usados:
+
+C+7:     X32000
+D:       XX0232
+D4:      XX0233
+D/C#:    X4X232
+D/C:     X3X232
+D/B:     X2X232
+Dm7:     557565
+E7:      020100
+Em7:     022030
+F#m:     244222
+F#m+7:   243222
+F#m7:    242222 ó 2X222X
+F#m6:    XX1222 ó 2X122X
+G:       320033
+G+7:     320002
+G/F#:    2XX033
+G/F:     1XX033
+G/E:     0XX033
+A7/4:    002030
+A7/6:    002022
+A7:      002020
+Am7:     002010
+Bm7:     224232
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

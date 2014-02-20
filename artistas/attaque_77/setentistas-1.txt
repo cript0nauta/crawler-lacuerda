@@ -1,0 +1,218 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Attaque 77                                               |
+| CANCION: SETENTISTAS                                              |
+| AUTOR:   Pertusi / Martínez                                       |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------TAB-at771411-+
+| TRANS:   Martin                                                   |
+=====================================================================
+
+Gente, acá les dejo mi versión. Es similar al resto pero los acordes
+del precoro suenan mejor. Me tomé el trabajo de tabular absolutamente
+todo lo que oí por si algún exigente lo requiere =)
+Escuchen la canción para ubicarse mejor con las figuras.
+Espero que les guste.
+Saludos,
+Martín
+
+
+Verso:
+E               B          C#m
+Hasta que no te pase a vos, no vas a entender
+A
+Siempre así, tan egoísta
+E               B          C#m
+Hasta que no te pase a vos, no vas a entender
+A       B
+Clásico individualista
+
+
+Precoro:
+A       E                   B
+Decido que no te quiero escuchar,
+A      C#m                   B
+Decido no formar parte en tu plan,
+
+
+Verso:
+E                B
+Cuantos ríos de sangre han de correr,
+C#m               A
+Tanta muerte ya, tanto horror, tanta injusticia
+E                B            C#m
+Cuanto tiempo para reconocer que la historia es,
+A           B
+Otra vez y todo de vuelta
+
+
+Precoro:
+A        E                   B   (Figura 1)
+ Deciles que no les sirve luchar,
+A       C#m               B
+ Decime que no me sirve luchar
+
+
+Coro:
+E                 C#m            B          (Figura 2)
+ Si estaba en el Cordobazo hace tiempo atrás,
+E               C#m            B       A   B
+ Y estaba en el Rosariazo y en Tucumán
+E         C#m        B
+ Espíritu setentista vuelve hoy,
+                       A
+ Gente que no puede decir
+      E             B
+ Hey, hey, no te metás
+
+
+Puente:
+F#m              B
+ En Neuquén resiste Zanon
+F#m               B
+ Lucha obrera, movilización
+A               B
+ Los bastones acechan, también vos y yo
+
+
+Solo en:
+E A E A C#m B A B
+
+
+Precoro/Break:
+A        E                   B  (Figura 3)
+ Deciles que no les sirve luchar,
+A       C#m               B
+ Decime que no me sirve luchar
+
+
+Coro: (fade hasta final)
+E                 C#m            B          A
+ Si estaba en el Cordobazo hace tiempo atrás,
+E               C#m            B       A   B
+ Y estaba en el Rosariazo y en Tucumán
+E         C#m        B
+ Espíritu setentista vuelve hoy,
+                       A
+ Gente que no puede decir
+      E             B
+ Hey, hey, no te metás...
+
+E                 C#m            B          A
+ Si estaba en el Cordobazo hace tiempo atrás,
+E               C#m            B       A   B
+ Y estaba en el Rosariazo y en Tucumán
+E         C#m        B
+ Espíritu setentista vuelve hoy,
+                       A
+ Gente que no puede decir
+      E             B   (Figura 4 - Figura 5)
+ Hey, hey, no te metás...
+
+E                 C#m            B          A
+ Si estaba en el Cordobazo hace tiempo atrás,
+E               C#m            B       A   B
+ Y estaba en el Rosariazo y en Tucumán
+E         C#m        B
+ Espíritu setentista vuelve hoy,
+                       A (Figura 6)
+ Gente que no puede decir
+      E             B
+ Hey, hey, no te metás...
+
+E                 C#m            B          A
+ Si estaba en el Cordobazo hace tiempo atrás,
+E               C#m            B       A   B
+ Y estaba en el Rosariazo y en Tucumán
+E         C#m        B
+ Espíritu setentista vuelve hoy,
+                       A
+ Gente que no puede decir
+      E             B  (Figura 7)
+ Hey, hey, no te metás...
+
+
+
+Figura 1:
+e|-------------------
+B|-------------------
+G|-------------------
+D|---------------2---
+A|-------2-4-2-4---0-
+E|-5-4-5-------------
+
+Figura 2:
+e|-----------------
+B|-----------------
+G|-----------------
+D|-----------------
+A|-----------------
+E|-4-5-4-5-4-5-4-2-
+
+Solo:
+
+e|---------------------------------------
+B|-0-12-0-10-0-9------0-12-0-10-0-9------
+G|---------------11-9---------------11-9-
+D|---------------------------------------
+A|---------------------------------------
+E|---------------------------------------
+
+e|------------------------------------------
+B|-0-10--------10-12-9^10^9-9---------------
+G|------9----9---------------9-------9------
+D|----------------------------9-9h10---9h10-
+A|------------------------------------------
+E|------------------------------------------
+
+e|---------------------------------------------------
+B|-------------12----------12^14-12^14-12^14^12-9----
+G|------9-10^12--12^10----------------------------11-
+D|-9-10-----------------9----------------------------
+A|---------------------------------------------------
+E|---------------------------------------------------
+
+Figura 3:
+e|-----12-----------
+B|-----12-----------
+G|-11^13-13^11p9----
+D|---------------11-
+A|------------------
+E|------------------
+
+Figura 4:                                  |Figura 5   Repite|
+e|-------------------------------7-------7-|---------7-----7-|-
+B|-----------------------------------------|-----------------|-
+G|-11^13^11^13^11^13--9----6-9-9----9-9----|-9-8-9-9---9-9---|-
+D|----------------------11-----------------|-----------------|-
+A|-----------------------------------------|-----------------|-
+E|-----------------------------------------|-----------------|-
+
+Figura 6:                                  |Figura 5   Repite|
+e|-----------------------------------------|---------7-----7-|-
+B|-----------------------------------------|-----------------|-
+G|-9-9--9-8--11^13^11-9----11^13^11-9---9--|-9-8-9-9---9-9---|-
+D|----------------------11------------11---|-----------------|-
+A|-----------------------------------------|-----------------|-
+E|-----------------------------------------|-----------------|-
+
+Figura 7:
+e|-------------------
+B|-------------------
+G|-9-9-11-11^13-^13~-
+D|-------------------
+A|-------------------
+E|-------------------
+
+
+Dedicado a mi querida prima fan de Ciro y compañía.
+                                        Un beso enorme, te adoro.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

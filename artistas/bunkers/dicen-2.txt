@@ -1,0 +1,141 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Los Bunkers                                              |
+| CANCION: DICEN                                                    |
+| AUTOR:   Francisco Duran, Mauricio Duran                          |
+| ALBUM:   La Velocidad de la luz (2013)                            |
++------------------------------------------------------ACO-bunk0852-+
+| TRANS:   Sebastian                                                |
+=====================================================================
+
+E|--------------
+B|--------------
+G|--------------
+D|---------6----
+A|-----7-9---9-7
+E|-7-9----------
+
+MImaj7 LA x2
+
+
+MImaj7   LA                       MImaj7
+Dicen   que todo el tiempo estoy triste
+LA             MImaj7    MI7/5aug  LA
+Me gustaría pensar, que todo cambiara
+LAm        SOL#m    DO#Ø  LA/FA#
+Pero la verdad,   ya no saldrá
+LA/SI
+      al menos aquí
+
+E|--------------
+B|--------------
+G|--------------
+D|---------6----
+A|-----7-9---9-7
+E|-7-9----------
+
+
+MImaj7 LA x2
+
+MImaj7   LA                 MImaj7
+Dicen   que los amores no existen
+LA             MImaj7      MI7/5aug      LA
+Que vivo de una ilusión, mirando fijo al sol
+LAm        SOL#m    DO#Ø  LA/FA#
+Faltos de ilusión para   vivir
+LA/SI
+      al menos aquí
+
+E|------------
+B|------------
+G|------------
+D|-----2-4-6-4
+A|-2-4--------
+E|------------
+
+
+DO#m FA# RE#m SOL#m
+
+
+DO#m    FA#          RE#m    SOL#m
+Todo lo que nos corresponde está
+        DO#m         LA/SI
+Tan desahuciado hoy, oh
+
+
+
+MImaj7 LA                 MImaj7
+Dicen  tanto como les permiten,
+LA             MImaj7   MI7/5aug  LA
+Su miserable razón, Su pobre corazón,
+LAm            SOL#m  DO#Ø LA/FA#
+No haya una canción, para cantar
+LA/SI
+     Al menos aquí
+
+
+              MImaj7
+E|------------------
+B|------------------
+G|------------------
+D|---------6--------
+A|-----7-9---9---7--
+E|-7-9--------------
+
+
+---
+Acordes importantes
+
+  MImaj7      LA     MI7/5aug    LAm      SOL#m
+  ======    ======    X====X    ======    ======
+7°111111  5°111111    111111  5°111111  4°111111
+  |||2||    |||2||  7°|||||2    ||||||    ||||||
+  ||3|4|    |34|||    ||3|4|    |34|||    |34|||
+  ||||||    ||||||    ||||||    ||||||    ||||||
+
+
+   DO#Ø     LA/FA#    LA/SI      DO#m       FA#
+  XX====    =X===X    X====X    ======    ======
+  |||||1    ||||||    ||||||  4°111111  2°111111
+  ||||||    1|234|    |1234|    ||||2|    |||2||
+  ||2|3|    ||||||    ||||||    ||34||    |34|||
+  |||4||    ||||||    ||||||    ||||||    ||||||
+
+   RE#m
+  ======
+6°111111
+  ||||2|
+  ||34||
+  ||||||
+
+---
+Algunos acordes con variaciones o 2da guitarra:
+
+En vez del MI7/5aug ,se puede un MI9
+
+    MI9
+  X=====
+  ||2|||
+7°|1|34|
+  ||||||
+  ||||||
+
+En vez de DO#Ø se puede tocar una variación sin la nota fa
+
+   DO#Ø
+  ======
+  ||||||
+  ||1|2|
+4°|3|4||
+  ||||||
+
+@sebandrescc
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

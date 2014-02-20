@@ -1,0 +1,74 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Joaquín Sabina                                           |
+| CANCION: NACIDOS PARA PERDER                                      |
+| AUTOR:   Antonio Gade de Diegos, Joaquín Sabina, J. Vargas, Pancho Varona |
+| ALBUM:   El Hombre del Traje Gris (1988)                          |
++------------------------------------------------------ACO-sabi0972-+
+| TRANS:   JUAN                                                     |
+=====================================================================
+
+            
+
+    DO4    FA6   SOL4    DO5   FA2
+MI---3------1-----3-------3-----3
+SI --6------3-----3-------1-----1
+SOL--5------2-----5-------0-----2
+RE --5------1-----3-------2-----1   
+LA --3------3-----5-------3-----3
+MI --3------1-----3-------0-----1
+
+INTRO:    DO4  DO  FA6  FA  SOL  SOL4
+          DO4  DO  FA6  FA  SOL   RE7
+
+       SOL        DO         SOL    SOL4
+VOZ 1: Soy del color de tu porvenir
+     SOL           DO            SOL SOL4
+     me dijo el hombre del traje gris
+     SOL           DO          SOL SOL4
+     'no eres mi tipo' le conteste
+      SOL           DO              SOL 
+     y aquella tarde aprendí a correr.
+          FA  FA2      DO5
+     Al pisar la estación
+            SIm      LAm     DO SOL SOL4
+     le abrí la jaula a mi corazón.
+
+
+          SOL           DO               SOL SOL4
+ CAMBIO:  Tras las montañas estaba el mar
+        SOL           DO             SOL SOL4
+         la noche, el vértigo, la ciudad,
+         SOL           DO             SIm
+         el mundo a cambio de una canción
+         LAm          DO        DO5      SOL 
+         me daba un plato, un beso, un colchón.
+
+          FA            DO                SOL 
+ESTRIB: La única medalla que he ganado en la vida
+         FA            DO       SOL  
+        era de hojalata y decepción.
+          SIm7                  MIm7                      
+        No tenía salida el callejón del cuartel
+        LAm7      DO              RE
+        para el desertor del batallón
+                             SOL
+        de los nacidos para perder.
+
+VOZ 2:   Prima del alma desnúdame
+         del traje gris, de la multitud,
+         devuélveme al camino del Sur
+         al país de la niñez
+         donde uno y uno sumaban tres.
+
+IMPROV: como CAMBIO
+ESTRIB:
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

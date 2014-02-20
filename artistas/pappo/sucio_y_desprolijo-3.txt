@@ -1,0 +1,126 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Pappo                                                    |
+| CANCION: SUCIO Y DESPROLIJO                                       |
+| AUTOR:   Pappo's Blues                                            |
+| ALBUM:   Refrito                                                  |
++------------------------------------------------------TAB-papp0223-+
+| TRANS:   Sebastián                                                |
+=====================================================================
+
+intro: A5  A5-G5-F5-C5   A5 x6
+
+ A5
+ Todas las mañanas son iguales,
+ lindas, novedosas y especiales,
+ siguen reprochándome morales,
+ todo lo que yo hago está mal.
+F5                                             A5 x2
+  Son muchos pensamientos para una sola cosa,
+F5                                             A5 x2
+  estoy algo cansado de vivir en realidad.
+
+ A5
+ Yo que soy un hombre desprolijo,
+ no tengo conflictos con mi ser,
+ porque en la apariencia no me fijo,
+ piensan que así no puedo ser.
+F5                                    A5 x2
+  No cambia nada estar un poco sucio,
+F5                        A5 x2
+  si mi cabeza es eficaz.
+
+solo: (B5-D5)x4  A5x8   E5 G5 A5 /   C5 D5 A5 /    A5-G5-F5-C5
+       B5x8  A5-C5 (A5 C5-G5)x2 A5
+
+ A5
+ Yo que soy un hombre desprolijo,
+ no tengo conflictos con mi ser,
+ porque en la apariencia no me fijo,
+ piensan que así no puedo ser.
+F5                                             A5 x2
+  Son muchos pensamientos para una sola cosa,
+F5                                         A5 x2
+  estoy algo cansado de vivir en realidad.
+F5                                    A5 x2
+  No cambia nada estar un poco sucio,
+F5                        A5 x2
+  si mi cabeza es eficaz.
+A5-G5-A5-G5-F5-E5-    A5
+              ¡Es eficaz!
+riff I x4  riff II x2 riff I x2  riff II x2 riff I x4
+
+A5-G5-A5-G5-F5-E5-    A5
+              ¡Es eficaz!
+
+outro: ver tab
+
+..............................................
+intro
+  A5
++-------------------+-------------------+
++-------------------+-------------------+
++-------------------+-------------------+
++--7-5-------5------+----------------5--+
++------5-6-7---7-0--+--5-3^0-------3----+
++-------------------+--------3-4-5------+
+
++-------------------+-----------------------------+
++--1---------1------+-----------------------------+
++----2-0-1-2---2----+-----------------------------+
++----------------2--+----5------5------5----------+
++-------------------+--7---7--6---6--5---5-5^3^5--+
++-------------------+-----------------------------+
+
+   A5-G5-F5-C5
++--------------+
++--------------+
++-----------5--+
++--7--5--3--5--+
++--7--5--3-----+
++--------------+
+
+   A5
++------------------------------+
++------------------------------+
++------------------------------+
++------------------------------+
++--0-0-0--3-5-3--0-0-0--3-0-3--+
++------------------------------+
+
+riff I
++-------------------------------------------------------+
++-------------------------------------------------------+
++-------------------------------------------------------+
++-------------------------------------------------------+
++-12-12-0-0-11-11-0-0-10-10-0-0-9-9-0-0-8-8-0-0-7-7-0-0-+
++-------------------------------------------------------+
+
+riff II
+   D5           C#5-B5-A5
++------------------------+
++------------------------+
++------------------------+
++------------------------+
++-/12--12-12-12-11--9--7-+
++-/10--10-10-10--9--7--5-+
+
+outro
++-------------+
++-------------+
++-------------+
++-------------+
++--5-6-7------+
++--------0-5--+
+
+...........................................................
+nota: la guitarra está afinada un poco más alta de lo normal
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

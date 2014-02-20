@@ -1,0 +1,175 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: La Vela Puerca                                           |
+| CANCION: MI SEMILLA                                               |
+| AUTOR:   Sebastian Teysera                                        |
+| ALBUM:   La Vela Puerca                                           |
++------------------------------------------------------TAB-vpue0083-+
+| TRANS:   Mauricio                                                 |
+=====================================================================
+
+h: ligado del 1 al 2
+p: ligado del 2 al 1
+/: arrastre
+
+
+Empieza con un arplejio así:
+
+    E           F#
+e ----------------------------
+B --------0-----------0-------
+G ------6---6-------8---8-----   x 4 en la intro
+D ----7-------7---9-------9---
+A --7-----------9-------------
+E ----------------------------
+
+
+Así es la introducción y luego sigue igual en la parte cantada
+
+Hasta el estribillo que es así:
+
+    E            F#           G#           F#
+e -------------------------------------------------------
+B --------0------------0------------0------------0-------
+G ------1---1--------2---2--------4---4--------2---2-----
+D ----2-------2----2-------2----4-------4----2-------2---
+A -------------------------------------------------------
+E --0------------2------------4------------2-------------
+
+    E            F#           G#           F#
+e -----------------------------------------0-0-----------
+B --------0------------0------------0------0-0-----------
+G ------1---1--------2---2--------4---4----2-2-----------
+D ----2-------2----2-------2----4-------4--2-2-----------
+A -----------------------------------------0-0-----------
+E --0------------2------------4------------2-2-----------
+
+E            F#           G#           F#
+e -------------------------------------------------------
+B --------0------------0------------0------------0-------
+G ------1---1--------2---2--------4---4--------2---2-----
+D ----2-------2----2-------2----4-------4----2-------2---
+A -------------------------------------------------------
+E --0------------2------------4------------2-------------
+
+    E            F#           G#           F#
+e -----------------------------------------0-------------
+B --------0------------0------------0------0-------------
+G ------1---1--------2---2--------4---4----2-------------
+D ----2-------2----2-------2----4-------4--2-------------
+A -----------------------------------------0-------------
+E --0------------2------------4------------2-------------
+
+
+Acá va la letra y los arreglos que no son con guitarra acústica:
+
+Si la vida no quiere que crezca
+Yo te planto de nuevo y a ver.
+Si esta vez tengo un poco de suerte
+Y brotás para poderme ver.
+
+Que no soy un pirado,
+Que me acuerdo de cómo reir,
+Y si estás a mi lado
+Te juro no te voy a mentir.
+
+Ni te voy a vender,
+Te voy a curar,
+Lo mío es pa vos
+Lo tuyo es pa dar.
+
+B --5--7-9-7--10-9-5--7---
+
+Vino un duende que parecía loco
+Y me dijo de cómo hay que hacer
+Pa poder hacer esas cositas
+Que yo y vos queremos aprender.
+
+Que en la vida hay un sueño
+Y esta vez yo lo quiero sacar,
+Yo no quiero otra vuelta
+Quiero esta para disfrutar
+
+Lo que hay para mí,
+Lo que hay para vos,
+Llegamo hasta acá,
+Vamo a hacerla hoy.
+
+B --5--7-9-7--10-9-5--7---
+
+Voy a cambiar la receta por esta vez
+Y voy a cambiar el humor
+Que la noche se aleja pero no hay sol.
+Miro de reojo y las hojas ya puedo ver
+Y las flores que vas a dar
+Y me pongo contento voy a tener pa fumar.
+
+
+e --5-7-5--5-7-5--5-7-5-------5-7-5--
+B ----------------------8-7-8--------
+
+e --5-7-5--5-7-5--5-7-5-------5-7-5--
+B ----------------------8-7-8--------
+
+e --5-5-7-5-10-9-7-5---5-------7-5---
+B -------------------8---8-7-8-------
+
+e --5-5-7-5-10-9-7-5---5-------7-5-----------
+B -------------------8---8-7-8------8-8-8-7--
+
+e ------------------------------7-9-7--------
+B --5-5-5-5/7-9-10-9--5-5-5-5/7--------------
+
+e ------------------------------7-9-7-9-11-12--
+B --5-5-5-5/7-9-10-9--5-5-5-5/7----------------
+
+e --12-12p11-11-11p9-9-7-7-4-5-7-7h9p7-7-7-4-5-4-2-4-2-0--
+B --------------------------------------------------------
+
+
+Voy a cambiar la receta por esta vez
+Y voy a cambiar el humor
+Que la noche se aleja pero no hay sol.
+Miro de reojo y las hojas ya puedo ver
+Y las flores que vas a dar
+Y me pongo contento voy a tener pa fumar.
+
+
+ACA NO HACE MÁS ARPLEJIO PERO HACE UN RASGUEO EN BASE
+A LAS NOTAS DEL ARPLEJIO QUE SON: MI - FA# - SOL# PERO
+EL PRIMER RASGUEO QUE SE SIENTE ES EL MI EN EL SÉPTIMO TRASTE.
+
+Y POR ENCIMA HAY ESTO:
+
+B --5-7-9-7-5-2-5-0--------------------------------
+
+B --5-7-9-7-5-2-5-0---2-5-2-0-----0----------------
+G ----------------------------1-2------------------
+
+e ---------------------------12-11-9---------------
+B --5-7-9-7-9-10-9-10-12--12---------12-10-12------
+
+B --5-7-9-7-9-10-9-10-12--10-10-9-10-9-5-----------
+
+Y TERMINA SOBRE EL ARPLEJIO PRINCIPAL ASÍ:
+
+e --5-7-5--5-7-5--5-7-5-------5-7-5--
+B ----------------------8-7-8--------
+
+e --5-7-5--5-7-5--5-7-5-------5-7-5--
+B ----------------------8-7-8--------
+
+e --5-12-11-9-7-5-7-5-4-5-4-0--------
+Bueno acá va un temazo de La Vela q esta buenísimo pa
+ tocarlo con dos violas, una haciendo el fondo y
+otra los arreglos, y si ven que tiene algún error
+ mandenme un mail (mauribolso2004@hotmail.com) para saber.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

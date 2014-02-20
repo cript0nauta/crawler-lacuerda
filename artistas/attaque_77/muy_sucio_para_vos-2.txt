@@ -1,0 +1,177 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Attaque 77                                               |
+| CANCION: MUY SUCIO PARA VOS                                       |
+| AUTOR:   -?-                                                      |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------BAT-at770622-+
+| TRANS:   Cris77ian                                                |
+=====================================================================
+
+C  = Crash
+R  = Ride
+HH = Hi-Hat
+S  = Snare (tarola)
+T2 = Tom Grande
+FT = Tom de Piso (Floor Tom)
+B  = Bombo
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+HH|-x-x-| Hi-Hat Cerrado
+HH|-X-X-| Hi-Hat Abierto
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Intro
+HH|x-x-x-x-|x-x-x-x-|x-x-x-x-|x-x-x-x-|x-x-x-x-|x-x-x-x-|x-x-x-x-|x-x-x-x-|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|
+
+C |x-------|x-------|x-------|--------|x-------|x-------|x-------|--------|
+HH|--x-x-x-|--x-x-x-|--x-x-x-|X-x-x-x-|--x-x-x-|--x-x-x-|--x-x-x-|--------|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--------|
+T2|--------|--------|--------|--------|--------|--------|--------|--o--o--|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|oo-oo-oo|
+
+C |x-------|--------|--------|--------|------x-|------x-|--------|--------|
+R |--x-x-x-|x-x-x-x-|x-x-x-x-|x-x-x-x-|x-x-x---|x-x-x---|x-x-x-x-|x-------|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--oo--o-|--oo--o-|--o---o-|--oooooo|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o----o--|o----o--|o--o-o--|o-------|
+
+
+Verso
+C |x-------|--------|--------|--------|x-------|x-------|x-------|--------|
+HH|--x-x-x-|x-x-x-x-|x-x-x-x-|x-x-x-x-|--x-x-x-|--x-x-x-|--x-x-x-|x-x-x---|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---oo|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|
+
+Todo esto se torna pesado para mi y para vos.
+Ya no hay motivos para estar juntos. Ya no queda nada entre los dos.
+
+
+Puente
+C |x-------|--------|x-------|--------|x-------|--------|x-------|--------|
+HH|--x-x-x-|x-x-x---|--x---x-|x-x-x---|--x---x-|x-x-x---|--x---x-|x-x-x-x-|
+S |--o---o-|--o---oo|--o---o-|--o---oo|--o---o-|--o---oo|--o---o-|--o---o-|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|
+
+Voy a decirte algo nena. Es solo la verdad. Mejor sera que terminemos porque yo soy
+
+
+Estribillo
+C |x-----x-|x-------|x-----x-|x-------|x-----x-|x-------|x-----x-|x-------|--------|
+R |--x-x---|--x-x-x-|--x-x---|--x-x-x-|--x-x---|--x-x-x-|--x-x---|--x-x-x-|x-x-x-x-|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|
+
+Muy sucio para vos. Muy sucio para vos. Muy sucio para vos. Muy sucio para voh oh oh.
+
+
+Inter
+C |x-------|x-------|x-------|--------|------x-|------x-|------x-|--------|
+R |--x-x-x-|--x-x-x-|--x-x-x-|x-x-x-x-|x-x-x---|x-x-x---|x-x-x---|--------|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--oo--o-|--oo--o-|--o---o-|--oooooo|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o----o--|o----o--|o--o-o--|o-------|
+
+
+Verso
+C |x-------|--------|--------|--------|x-------|x-------|x-------|--------|
+HH|--x-x-x-|x-x-x-x-|x-x-x-x-|x-x-x-x-|--x-x-x-|--x-x-x-|--x-x-x-|x-x-x---|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---oo|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|
+
+A vos no te gusta ir a la cancha y a mi no me gusta ir a bailar.
+A vos te gusta hablar correctamente y a mi no me gusta habar sin putear.
+
+
+Puente
+C |x-------|--------|x-------|--------|x-------|--------|x-------|--------|
+HH|--x-x-x-|x-x-x---|--x---x-|x-x-x---|--x---x-|x-x-x---|--x---x-|x-x-x-x-|
+S |--o---o-|--o---oo|--o---o-|--o---oo|--o---o-|--o---oo|--o---o-|--o---o-|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|
+
+Voy a decirte algo nena. Es solo la verdad. Mejor sera que terminemos porque yo soy
+
+
+Estribillo
+C |x-----x-|x-------|x-----x-|x-------|x-----x-|x-------|x-----x-|x-------|--------|
+R |--x-x---|--x-x-x-|--x-x---|--x-x-x-|--x-x---|--x-x-x-|--x-x---|--x-x-x-|x-x-x-x-|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|
+
+Muy sucio para vos. Muy sucio para vos. Muy sucio para vos. Muy sucio para voh oh oh
+
+
+Solo
+C |x-------|x-------|x-------|--------|x-------|x-------|x-------|--------|
+R |--x-x-x-|--x-x-x-|--x-x-x-|X-x-x-x-|--x-x-x-|--x-x-x-|--x-x-x-|x-------|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--oooooo|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o-------|
+
+   No!!!
+
+
+Verso
+C |x-------|x-------|--------|--------|x-------|x-------|--------|--------|
+HH|--x-x-x-|--x-x-x-|x-x-x-x-|x-x-x-x-|--x-x-x-|--x-x-x-|x-x-x-x-|x-x-x---|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---oo|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|
+
+Yo no entiendo mucho de elegancia y no se esperarte para acabar.
+Yo no tengo demasiada plata, pero no te quiero engañar.
+
+
+Puente
+C |x-------|--------|x-------|--------|x-------|--------|x-------|--------|
+HH|--x-x-x-|x-x-x---|--x---x-|x-x-x---|--x---x-|x-x-x---|--x---x-|x-x-x-x-|
+S |--o---o-|--o---oo|--o---o-|--o---oo|--o---o-|--o---oo|--o---o-|--o---o-|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|
+
+Voy a decirte algo nena. Es solo la verdad. Mejor sera que terminemos porque yo soy
+
+
+Estrbillo
+C |x-----x-|x-------|x-----x-|x-------|x-----x-|x-------|x-----x-|x-------|
+R |--x-x---|--x-x-x-|--x-x---|--x-x-x-|--x-x---|--x-x-x-|--x-x---|--x-x-x-|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|
+
+Muy sucio para vos. Muy sucio para vos. Muy sucio para vos. Muy sucio para voh oh oh
+
+
+Puente
+C |x-------|--------|x-------|--------|x-------|--------|x-------|
+HH|--x-x---|X-x-x-x-|--x-x---|X-x-x-x-|--x-x---|X-x-x-x-|--x-x---|
+S |--o---oo|--o---o-|--o---oo|--o---o-|--o---oo|--o---o-|--o---oo|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|
+Voy a decirte algo nena. Es solo la verdad. Mejor sera que terminemos porque yo
+
+C |x-------|--------|--------|--------|--------|--------|--------|--------|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|
+FT|--oooooo|oooooooo|oooooooo|oooooooo|oooooooo|oooooooo|oooooooo|oooooooo|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|
+ 
+  Soy...
+
+S |--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|oooooooo|
+FT|oooooooo|oooooooo|oooooooo|oooooooo|oooooooo|oooooooo|oooooooo|--------|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|--------|
+
+Muy sucio para vos. Muy sucio para vos. Muy sucio para vos. Muy sucio para vos. No!!!
+
+
+Estrbillo
+C |x-----x-|x-------|x-----x-|x-------|x-----x-|x-------|x-----x-|x-------|--------|x-------|
+R |--x-x---|--x-x-x-|--x-x---|--x-x-x-|--x-x---|--x-x-x-|--x-x---|--x-x-x-|x-x-x-x-|--------|
+S |--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--o---o-|--------|
+B |o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o--o-o--|o-------|
+
+Muy sucio para vooos. Muy sucio para vos, yeah! Muy sucio para vooos. Muy sucio para vooo-os.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

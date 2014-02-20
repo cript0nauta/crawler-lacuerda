@@ -1,0 +1,192 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Las Pastillas del Abuelo                                 |
+| CANCION: RECUERDOS                                                |
+| AUTOR:   -?-                                                      |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------TAB-pdab0332-+
+| TRANS:   Alvaro                                                   |
+=====================================================================
+
+Intro:
+
+
+   Dm7      G      Dm7        G     Dm7      G       Dm7         G
+ e|-----1-|-------|------1--|------|-----3-|-----0--|------5-1-|-3--|1°
+ B|-----1-|-----0-|-----1-1-|----0-|-----1-|----(0)-|-----1----|-0--|2°
+ G|---2---|-----0-|---2-----|----0-|---2---|--------|---2------|-0--|3°
+ D|-0-----|---0---|-0-------|------|-0-----|---3----|-0--------|-0--|4°
+ A|-------|-------|---------|------|-------|--------|----------|-2--|5°
+ E|-------|-3-----|---------|-3----|-------|-3------|----------|-3--|6°
+
+
+
+1er verso (arpegiado sobre Dm7 y G):
+
+
+  -Así:
+
+         Dm7         G
+       e|-----1----|----------|1°
+       B|-----1----|-----0----|2°
+       G|---2------|-----0----|3°
+       D|-0--------|---0------|4°
+       A|----------|----------|5°
+       E|----------|-3--------|6°
+
+                    Dm7         G
+        Tanto que mover cuando no va más
+  Dm7                       G
+        tantas promesas dormidas
+            Dm7      G             Dm7           G
+        una melodía repetida de un sueño artificial
+
+
+  -Acá empieza así (x --&gt; silenciar las cuerdas):
+
+         Dm7            G
+       e|-----1---1-x-|---------3-x-|1°
+       B|-----1---1-x-|-----0---0-x-|2°
+       G|---2-----2-x-|-----0---0-x-|3°
+       D|-0-------0-x-|---0-----0-x-|4°
+       A|-------------|--------(2)x-|5°
+       E|-------------|-3-----------|6°
+
+                Dm7       G
+        Y se alejó mi infiel conciencia
+  Dm7                         G
+        cuando te fuiste al cielo
+           Dm7              G
+        lo más curioso es que no entiendo
+  Dm7               G
+        ya que esperar
+
+
+
+Estribillo (con rasguido):
+
+            C
+        Recuerdos lejanos
+           Dm7                   C
+        secretos que cuando me acerco
+               G
+        desaparecen
+           C                 Dm7
+        Vivimos distintos destinos
+                     C          G
+        cruzando el mismo temporal
+
+
+
+Inter (| | --&gt; es un tiempo):
+
+
+  | Dm7               | G          |
+
+  | Dm7 - Dm7* - Dm7  | G - G* - G |
+
+  | Dm7 - Dm7** - Dm7 | G - G**- G |
+
+  | Dm7 - Dm7** - Dm7 | G          |
+
+
+
+2do verso (arpegiado otra vez):
+
+
+  -Así (x --&gt; silenciar las cuerdas):
+
+         Dm7            G
+       e|-----1---1-x-|---------3-x-|1°
+       B|-----1---1-x-|-----0---0-x-|2°
+       G|---2-----2-x-|-----0---0-x-|3°
+       D|-0-------0-x-|---0-----0-x-|4°
+       A|-------------|--------(2)x-|5°
+       E|-------------|-3-----------|6°
+
+                 Dm7     G
+        Y "me despiiiiiiiido de vos"
+  Dm7                        G
+        te faltó decirme un día
+           Dm7          G
+        mi despedida en estas rimas
+  Dm7                  G (este último G con rasguido)
+        mi última canción
+
+
+
+Estribillo (con rasguido):
+
+            C
+        Recuerdos lejanos
+           Dm7                   C
+        secretos que cuando me acerco
+               G
+        desaparecen
+           C                 Dm7
+        Vivimos distintos destinos
+                     C          G
+        cruzando el mismo temporal
+
+            C
+        Recuerdos lejanos
+           Dm7                   C
+        secretos que cuando me acerco
+               G
+        desaparecen
+           C                 Dm7
+        Vivimos distintos destinos
+                     C          G
+        cruzando el mismo temporal
+
+
+
+Final (| | --&gt; es un tiempo):
+
+
+  | Dm7     | G  |
+
+  | Dm7 - G | C  |
+
+  | Dm7     | G  |
+
+    Dm7  G#  A#  (un rasguido en cada nota).
+
+
+
+
+Acordes (sin y con cejilla respectivamente):
+
+   Dm7     G      C    Dm7* Dm7**  G*   G**  G#   A#
+e|-1--5-|-3--3-|-0--3-|-5--|--8--|-3--|-3--|-4--|-6--|1°
+B|-1--6-|-0--3-|-1--5-|-8--|--6--|-3--|-5--|-4--|-6--|2°
+G|-2--5-|-0--4-|-0--5-|-5--|--5--|-5--|-4--|-5--|-7--|3°
+D|-0--7-|-0--5-|-2--5-|-7--|--7--|-3--|-3--|-6--|-8--|4°
+A|-x--5-|-2--5-|-3--3-|-5--|--5--|-5--|-5--|-6--|-8--|5°
+E|-x--x-|-3--3-|-x--x-|-x--|--x--|-3--|-3--|-4--|-6--|6°
+
+
+CONSEJO:     En el Inter y en el Final hacer los acordes con cejilla,
+suenan mejor y además resulta mas fácil hacer las variaciones de
+las notas que puse, que no sé el nombre pero aclaré como se hacen,
+y suenan muy bien ( Dm7* ; Dm7** ;  G*  y  G** ).
+Por cierto, para hacer las variaciones, qua a primera vista por ahí
+parecen complicadas, basta poner las notas (Dm7 ó G) con cejilla
+de manera convencional y la variación siempre se puede hacer
+con el dedo meñique si prestan atención ;)
+
+Bueno creo que así está muy bien, completa y fiel,
+espero que se entienda y les sirva, traté de explicar
+todo lo más claro posible.
+cualquier duda o corrección a mi mail: alva_tous@hotmail.com.
+
+Leccuga.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

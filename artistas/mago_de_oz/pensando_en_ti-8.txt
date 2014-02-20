@@ -1,0 +1,221 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Mago De Oz                                               |
+| CANCION: PENSANDO EN TI                                           |
+| AUTOR:   Kerry Livgrel, Txus                                      |
+| ALBUM:   Folktergeist                                             |
++------------------------------------------------------ACO-mdoz0388-+
+| TRANS:   Juan                                                     |
+=====================================================================
+
+Esta es una canción que Mago copio la musica, la original se
+llama Dust in the Wind de Kansas.
+La saque lo mejor que pude; espero que les guste comparenla
+con la original.
+
+Les parecera un poco dificil al principio pero si se aprenden
+los acordes que les doy le va ha ser facilisimo y ademas
+les va sonar igual que el original.
+
+Este es basicamente el arpegio de toda la cancion el resto
+es simplemente con unas pequeñas modificaciones en las cuerdas
+que se tocan
+
+e ---------|
+B 0----0---|
+G ---0---0-|
+D --0---0--|
+A 0--------|
+E ---------|
+
+Repitelo hasta que puedas tocarlo con los ojos cerrados.
+
+El resto es facil. En la introduccion has enfasis tocando
+la segunda cuerda con un poco mas de volumen así
+
+B 1--0--3
+(X6)
+
+No podras tocarla si no te aprendes estos acordes
+          (EADGBe)
+C         (x3201x)
+Cmaj7     (x3200x)
+Cadd3     (x3203x)
+Asus2     (x0220x)
+Asus4     (x0223x)
+Am        (x0221x)
+G/B       (x2003x)
+G         (3x000x)
+Dm7       (xx0211)
+D/F#      (2x023x)
+Am/G      (3x221x)
+Am add9   (x0750x)
+G/A       (x0570x)
+F(#11)/A  (x0350x)
+F6(#11)/A (x0353x)
+
+Para G, D/F# y Am/G el arpeggio se toca de la siguiente manera:
+
+e -----------|
+B 0------0---|
+G ---0-----0-|
+D --0-----0--|
+A -----------|
+E 0----0-----|
+
+Para Dm7 se toca asi:
+
+e 0------0---|
+B ---0-----0-|
+G --0-----0--|
+D 0----0-----|
+A -----------|
+E -----------|
+
+En algunos Am se toca asi:
+(Para diferenciarlos le pondre un * para que sepas cuales)
+
+
+e 0------0---|
+B ---0-----0-|
+G --0-----0--|
+D -----------|
+A 0----0-----|
+E -----------|
+
+En algunos G se toca asi:
+(Para diferenciarlos le pondre un * para que sepas cuales)
+
+e 0------0---|
+B ---0-----0-|
+G --0-----0--|
+D -----------|
+A -----------|
+E 0------0---|
+
+
+Este es el arpeggio de cambio:
+Cada vez que cambies de parrafo se toca una alteracion:
+
+Para la primera parte se toca: "#"
+
+  Am   $ C             $ es G/B
+e ---------|
+B 1--1-3-1-|
+G ---------|
+D ---------|
+A 0--0-2-3-|
+E ---------|
+
+En la parte del violin se toca este arpegio
+
+  Amadd9  Amadd9  G/A    G/A
+e ------------0--------------0---|
+B 0---0---0-------0---0--0-------|
+G --5---5---5---5---7---7--7---7-|
+D -7---7---7---7---5---5--5---5--|
+A 0--0----0--0----0--0---0--0----|
+E -------------------------------|
+
+
+Listo hay Vamos
+
+Intro
+
+C Cmaj7 Cadd9 C
+Asus2 Asus4 Am Asus2
+Cadd9 C Cmaj7 Cadd9
+Am Asus2 Asus4 Am (En esta parte tocar "@")
+
+
+(1er párrafo)
+
+    C  G/B Am*     Am*
+Hay veces que,
+G*            Dm7            Am           A#m
+Mi alma baila tangos con la soledad.
+  C        G/B          Am*       Am
+Y necesito de tabla tu amor,
+G*               Dm7       Am      Am
+Para asirme a ella en mi tempestad.
+
+(coro)
+D/F#  G           Am  Am/G
+     Pensando en ti,
+D/F#             G           A#m
+Paso el dia pensando en ti
+
+
+
+(2do parrafo)
+
+C   G/bB  Am*    Am*
+Enseñame,
+G               Dm7        Am*          A#m
+A escuchar tus labios y a leer el sol,
+C    G/B Am*  Am*
+llevame,
+G               Dm7               Am*         Am*
+A donde los sueños fabriquen tu vos.
+
+
+(Coro)
+D/F#  G           Am  Am/G
+     Pensando en ti,
+D/F#           G             Am*     D/F#
+Duermo el odio pensando en ti.iiiiiii.
+
+(Esta es la parte del violin pero se puede reemplazar con el
+solo en guitarra electrica(esta al final),
+la guitarra acustica hace las siguientes notas con el mismo
+arpegio)
+
+Amadd9  Amadd9  G/A  G/A
+
+Repetir hasta que se termine lo del violin
+
+Intro
+
+    C  G/B Am*     Am*
+¿Donde estas?,
+G*             Dm7            Am*               A#m
+Tengo miedo ayudame a caminar.
+  C        G/B          Am*           Am*
+Pues solo nunca yo podré encontrar,
+G*               Dm7       Am*                     Am
+LA forma de ser libre quiero despertar
+
+
+(coro)
+D/F#  G           Am   Am/G
+     Pensando en ti,
+D/F#             G           Am*
+Acuno a mi alma pensando en tiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                         (Paso el dia pensando en ti)
+D/F#            G           Am*
+Paso el dia pensando en ti iiiiiiiiiiiiiiiiiiiiiiiiiii
+                         (Paso el dia pensando en ti)
+D/F#             G           Am*
+Paso el dia pensando en ti
+
+
+
+Asus2 Asus4 Am Asus2
+
+(Esta es la parte del solo en guitarra electrica,
+la guitarra acustica hace las siguientes notas con el mismo
+arpegio, ya hay un compa que mando el solo entonces saquenlo
+de ahí.)
+
+Amadd9  Amadd9  G/A  G/A
+
+Intro (con solo de electrica de fondo ya hay un solo en la pagina)
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

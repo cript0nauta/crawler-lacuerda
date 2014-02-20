@@ -1,0 +1,142 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Bersuit Vergarabat                                       |
+| CANCION: HECHO EN BUENOS AIRES                                    |
+| AUTOR:   Subirá - céspedes                                        |
+| ALBUM:   La argentinidad al palo (lo que se es) (2004)            |
++------------------------------------------------------TAB-bers0653-+
+| TRANS:   Nico                                                     |
+=====================================================================
+
+Esta es una correcion que le hice a la version de nicolas medina
+que me habia corregido la mia, pero le faltaron unos tokes nomas.
+
+(Arpegio)
+E|----------10--------------10-------------10-----------------|
+B|--------------------------------------8------8--------7-----|
+G|--12--------------11--------------9----------------9-----9--|
+D|------------------------------------------------9-----------|
+A|------10------10------10------10----------------------------|
+E|------------------------------------------------------------|
+
+(Bajada)
+E|---------8-----------------------------9--------------------->
+B|----------------12------10--------------------12------10----->
+G|------------------------------------------------------------->
+D|------------------------------------------------------------->
+A|-----10-----10------10------10-----10-----10------10------10->
+E|--8-----------------------------9---------------------------->
+
+(A)
+E<--------10----------------------------------------------|
+B<----------------12------10------------------------------|
+G<--------------------------------------4-----------4-----|
+D<-----9--------------------------4--5-----5--4--5-----5--|
+A<-10---------10------10------10--------------------------|
+E<--------------------------------------------------------|
+
+(B)
+E<--------------------------------------|
+B<--------3-----------3-----------3-----|
+G<-----4-----4-----4-----4-----4-----4--|
+D<--5-----------4-----------2-----------|
+A<--------------------------------------|
+E<--------------------------------------|
+
+
+(Canta sobre Arpegio)
+Juntos de la mano por el parque vamos
+todos nos miran pasar...
+¿acaso tengamos monos en la cara?
+¿o algo que les gusta más?...
+
+(Canta sobre Bajada con A)
+No me digan nada, que la vida es rara
+y hoy vamos a improvisar...
+(Canta sobre Bajada con B)
+En lo establecido ¡hay tanta pavada!
+¡No queremos ni pensar'...
+
+(Arpegio)
+
+(Canta sobre Arpegio)
+Juntos de la mano, como tres enanos
+en la tarde celestial
+Pasa un heladero y una mariposa
+posa sobre el delantal...
+
+C                 C#*
+Vemos la barranca y nos vienen ganas
+G                 D
+de dejarnos arrastrar...
+C                C#*
+Parecemos nenes, tan despreocupados,
+G          D/F#   Em
+dedicados a jugar...
+
+Dm7                      Am
+     Cómo recuerda este abrazo
+B7*                     Em
+     a una fogata invernal
+Dm7                         Am
+     Con los compinches del barrio
+B7*                    E      F#/E-G#/E
+     apantallando el amor y el fuego
+
+Dm7       Am      Dm7         Am
+Para avivar        este candor
+Dm7       Am        Em
+y así apagar el dolor
+Dm7       Am      Dm7         Am
+y transitar        otro carril:
+Dm7       Am          E
+curioso, libre y feliz...
+
+G                   D/F# Em           D/F#
+Hecho en Buenos Aires, amor, pura sangre
+G             D/F#     Em
+somos mucho más que dos...
+G           D/F# Em           D/F#
+Donde hubo fuego ahora se oyen risas,
+G             D/F#     Em
+si es delito este fragor
+C                   C#*
+Como es tripartito, sobra el apetito,
+G                   D
+nos queremos de verdad...
+C                      C#*
+no traigan más panes que hay muy buenas tortas
+G                Em
+¡y se dejan devorar...!
+
+Dm7                      Am
+     Cómo recuerda este abrazo
+B7*                     Em Em/F## Em/G
+     a una fogata invernal
+Dm7                          Am
+     Con los compinches del barrio
+B7*                    E      F#/E-G#/E
+     apantallando el amor y el fuego
+
+Dm7       Am     Dm7           Am
+Para avivar        este candor
+Dm7       Am        Em
+y así apagar el dolor
+Dm7      Am     Dm7            Am
+y transitar        otro carril:
+Dm7        Am         E
+curioso, libre y feliz...
+
+--------------------------------------------------------------------------
+Acordes raros:
+C#*: x4535x
+B7*: x21202
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

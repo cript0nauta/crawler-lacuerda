@@ -1,0 +1,127 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: CANCION DE INVIERNO                                      |
+| AUTOR:   Silvio Rodríguez                                         |
+| ALBUM:   Triptico, Vol. 1                                         |
++------------------------------------------------------TAB-srod0191-+
+| TRANS:   benjamin                                                 |
+=====================================================================
+
+una colaboracion para los silviofilos con un poco de experiencia
+y una ayuda para los con no tanta
+
+(SI) = x24440
+^ = acentuar
+* = ligar
+( ) = creciendo la melodia en los intervalos ( )
+
+
+intro
+
+ (SI)               LA9                             SI
+      ^..   ^....         ^   ^       (^   ^   ^    ^ )    ^
+-----------------------------------------------------------2-----
+--------5---4*2-4--------------------------0---2----4*2----------
+------4---4-------4-------2---2--------2----------------4--------
+------------------------2---2---2----2---2---2---2--------4------
+--2------------------0-------------0----------------2---------2--
+-----------------------------------------------------------------
+
+                      LA
+     ^     ^
+-----0-------------------
+-----------4*2-2---------   FIN INTRO
+--4-----4--------4-------  (la base es esa, la interpretacion
+-------------------2-----   se la dan uds)
+-----2-----2---2-----2-0-
+-------------------------
+
+
+RIFF-(1)
+(SI)
+     ^     ^
+-----0------------------------------------
+-----------4*2-2--------------------------
+--4-----4--------4------------------------
+-------------------2----------------------
+-----2-----2---2-----2-0------------------
+------------------------------------------
+
+RIFF-(2)
+
+(FA#)
+(     ^   ^   ^    ^ )    ^        ^     ^           ^
+--------------------------2------------------------------
+-------------------4*2-------------5-----4*2-2-----------
+--------------2--------4--------4-----4--------4---------
+------3---4--------------4-----------------------4-------
+----4---4---4---4--2---------2-----2-----2---2-----2-0---
+--2------------------------------------------------------
+
+
+(primer verso en arpegio)
+
+LA                        (SI)(RIFF-1)
+Es día de frío y llegas a casa
+LA                                (SI)(RIFF-1)
+vienes de las tarde cansada de un jueves
+LA                        FA# -FA -  MI (alternar MI4)
+los muebles, tu perro y millones de ojos
+ FA#                             SOL#
+están como siempre esperando tu vuelta
+                                   DO#m
+en la que presientes que nada ha cambiado
+              MI                  FA# (RIFF-2) ...(comienza el rasgueado
+te espera lo mismo, el sueño ha pasado.            de a poco
+                                                   (acentuando melodia))
+
+Rasgueando solo las primeras cuerdas altas(indice) con las notas
+[SI] y LA acentuando bajos y melodia (con pulgar):
+
+ LA                (SI)
+------------------------------------------------------
+-------2-2-----2-2------4-4-----4-4-------------------
+-----2-------2--------4-------4-----------------------
+------------------------------------------------------
+--0--------0--------2-------2-------------------------
+------------------------------------------------------
+
+
+Recoge tu pelo tan libre en la tarde
+quizás porque alguien nunca lo vio preso
+te sientas y cenas y todas las culpas
+te dan con un peso mayor que tus fuerzas
+y pugnan tus ojos y esta tarde loca
+hasta que eres débil y tapas tu boca.
+
+Cuando todo pasa te crees segura
+mientras con tus horas revuelves cenizas
+presientes muy dentro pasiones prohibidas
+no importa mentirse para ser felices
+hasta que un deseo se mete en tu lecho
+mas que estas pensando, te tapas el pecho.
+
+PD:(interludio: marcar melodia con el pulgar mientras se
+rasguea con el indice). notar que esta interludio lleva parte
+de los riff y de la intro, por lo que omito anotarlo en detalle,
+si pueden sacar la intro, es muy sencillo sacar el interludio
+
+Pero necesitas quedar bien con todo
+todo que no sea bien contigo misma
+la angustia es el precio de ser uno mismo
+mejor ser felices como nuestros padres
+y hacer de la lastima amores eternos
+hasta que a la larga te tape el invierno
+
+weno, wena cancion, faciles acordes, acentuen siempre la melodia,
+cualquier duda me avisan
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

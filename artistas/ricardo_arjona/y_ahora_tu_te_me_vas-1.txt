@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META HTTP-EQUIV="Content-Script-Type" CONTENT="text/javascript">
+<TITLE>LaCuerda: Error</TITLE>
+<script src="/UTIL/mainJS.js"></script>
+<LINK href="/UTIL/estilo.css" rel="stylesheet" type="text/css">
+</HEAD>
+
+<BODY onload="">
+<script>document.addEventListener('DOMContentLoaded', function() {mShFrames('')})</script>
+<div id=f_head><div id=f_tit>LaCuerda.net: Error</div><div id=f_login>Conexión &middot; Inscripción</div></div>
+<div id=f_top></div><script>mShTop();</script>
+<div id=f_main><div class=i>
+<div class=t style="color:#666; border-color:#666">¡Error!</div>
+<table class=sc_links frame=void rules=rows bordercolor=#d0d0d0>
+<tr  onclick="w.location='http://lacuerda.net/Extras/contacto.php'"><td><a href='http://lacuerda.net/Extras/contacto.php'>Contáctanos</a></td></tr>
+</table>
+<hr><div id=f_float>
+</div></div>
+
+<div class=m><table id=f_mid><tr><td class=izq></td>
+<TD class=mid><div class=f_rslt>Error</div>Error</TD>
+<TD class=sub></TD>
+<td class=der></td></tr></table>
+<noscript>Para acceder a las letras y acordes de Error debes tener activado el javascript.</noscript>
+
+<iframe name=ban728 id=ban728 scrolling=no frameborder=0 marginwidth=0 marginheight=0></iframe>
+<div style="border:1px solid #c00; border-radius:10px; -webkit-border-radius:10px; padding:10px; margin:20px">
+<table><tr><td valign=top><img src=/IMG/alerta.gif width=32 height=34 style="margin-right:10px"></td>
+<td><font style="font:bold 14pt arial; color:#c00"><B>ERROR:</B></font><BR>
+Código Erroneo (rarj0171)</td></tr></table>
+<br>
+<div align=right style="margin-right:20px">
+Si este error no te parece normal, por favor <a href="http://lacuerda.net/Extras/contacto.php"><u>contáctanos</u></a>.
+</div>
+</div>
+
+
+</div><div id=f_foot><script>tStats()</script>
+&copy; <a href=http://lacuerda.net>LaCuerda.net</a> &middot <a href=/Extras/legal.php>Aviso Legal</a> &middot; <a href=/Extras/privpol.php>Privacidad</a></div></div>
+</body>

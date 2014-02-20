@@ -1,0 +1,89 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Luis Alberto Spinetta                                    |
+| CANCION: KAMIKAZE                                                 |
+| AUTOR:   Luis Alberto Spinetta                                    |
+| ALBUM:   Kamikaze (1982)                                          |
++------------------------------------------------------ACO-spin0771-+
+| TRANS:   Roberto                                                  |
+=====================================================================
+
+Hola...
+Bueno, la canción es complicada así que espero la entiendan...
+Para ser justo, me guié por las dos versiones que ya hay...
+pero en ésta están los acordes que creo usa Luis...
+Ojalá les guste...:
+
+  Am6/b13 - G#7/13 - G#6/13 - G7/13 - G6/13 - F7/13
+  Ca        yó       por      fin          el noble kamikaze,
+  Am6/b13 - G#7/13 - G#6/13 - G7/13 - G6/13 - F7/13
+  su        piel     ar       dió          quemando al enemigo.
+C9/b5          Fdim7/2                           Am         Am - G#m - Gm
+  Al ser tocado,      cambió de rumbo y apuntó hacia al fin,
+   Am          Am6/b13 - G#6/13 - G6/13 - F#6/13 - F6/13 - Em
+  así le dio razón           a su sangre,                  oh...
+
+
+Inter coral: [C/D - Am6/b13 - Fmaj7 - G - Fmaj7/13 (x3)]
+
+  Am6/b13 - G#7/13 - G#6/13 - G7/13 - G6/13 - F7/13
+  Ca        yó       por      fin          el loco kamikaze,
+  Am6/b13 - G#7/13 - G#6/13 - G7/13 - G6/13 - F7/13
+  cre       yó       ubi      car          su propio sol naciente, oh.
+C9/b5              Fdim7/2                   Am           Am - G#m - Gm
+  Luego en su reino,      el kamikaze comprendió su error:
+   Am          Am6/b13 - G#6/13 - G6/13 - F#6/13 - F6/13 - Em
+  allí, morir así           es en vano,                    ah...
+
+
+Final coral: [C7/13 - C7/13 - Bb7/13 - Bb7/13
+              C7/13 - C7/13 - Bb7/13 - Bb7/13
+              C7/13 - C7/13 - Bb7/13 - Bb7/b13
+              C7/b13]
+
+
+
+Bueno, y aquí las posiciones de los acordes:
+
+ Am6/b13: 5x456x
+  G#7/13: 4x456x
+  G#6/13: 4x356x
+   G7/13: 3x345x
+   G6/13: 3x245x
+   F7/13: 1x123x
+
+   C9/b5: x32032
+ Fdim7/2: xx3443
+      Am: xxxx55
+     G#m: xxxx44
+      Gm: xxxx33
+
+      Am: xxxx55
+ Am6/b13: 5x456x
+  F#6/13: 2x134x
+   F6/13: 1x023x
+      Em: xx2000
+
+     C/D: x5555x
+ Am6/b13: 5x456x
+   Fmaj7: x87555
+       G: 355433
+Fmaj7/13: 1x223x
+
+   C7/13: 8x8910x
+  Bb7/13: 6x678x
+ Bb7/b13: 6x677x
+  C7/b13: 8x899x
+
+
+Bueno, ojalá les sirva
+Cuidense...
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

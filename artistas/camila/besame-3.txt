@@ -1,0 +1,130 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Camila                                                   |
+| CANCION: BESAME                                                   |
+| AUTOR:   Camila                                                   |
+| ALBUM:   Dejarte de amar (2010)                                   |
++------------------------------------------------------ACO-cmla0313-+
+| TRANS:   Etor                                                     |
+=====================================================================
+
+Les mando ésta transcripción... las anteriores están mal en el Intro
+y la letra...
+
+Primero que nada... la canción está en D pero para que la parte del
+piano se escuche chida en la guitarra y sea más cómodo tocarla,
+pongamos el Capo en el segundo traste y tocaremos en C.
+
+Todos son acordes sencillos, solamente hay 2 que no son muy comunes
+para algunos: D/F# y Em9... en la herramienta de "Diagramas para
+Guitarra" (parte superior, iconito de nota roja) de la página los
+pueden encontrar o al final de la transcripción...
+
+INTRO:
+
+CAPO: 2
+
+   C                        Em
+e|-3-----2-----0----------|-3-----2-----0----------|
+B|---0-----0-----0---3~---|---0-----0-----0---3~---|
+G|-----0-----0-----0----0-|-----0-----0-----0----0-|
+D|------------------------|------------------------|
+A|-3----------------------|------------------------|
+E|------------------------|-0----------------------|
+
+   C                        Em
+e|-3-----2-----0----------|-3-----2-----0~-|
+B|---0-----0-----0---3~---|---0-----0------|
+G|-----0-----0-----0----0-|-----0-----0----|
+D|------------------------|----------------|
+A|-3----------------------|----------------|
+E|------------------------|-0--------------|
+
+Se repite casi toda la canción... a excepción de los coros...
+
+
+     C        Em           C          Em
+Bésame a destiempo sin piedad y en silencio...
+     C             Em              C           Em
+Bésame, frena el tiempo... has crecer lo que siento
+
+
+    Am     Bm                           Em  -  D/F#
+Bésame como si el mundo se acabara después,
+    Am      Bm                           Em  -  D/F#
+Bésame, y beso a beso por el cielo al revés,
+    Am        B7           Em  -  Em/D  -  A
+Bésame sin razón, porque quiere el corazón,
+C
+Bésame...
+
+
+C   Em   C   Em
+
+
+       C         Em              C        Em9 &lt;-- Arpegiado
+Siénteme en el viento, mientras yo muero lento...
+     C       Em           C            Em
+Bésame sin motivos y estaré siempre contigo
+
+
+    Am     Bm                           Em  -  D/F#
+Bésame como si el mundo se acabara después
+    Am      Bm                           Em  -  D/F#
+Bésame, y beso a beso por el cielo al revés,
+    Am        B7           Em  -  Em/D  -  A
+Bésame sin razón, porque quiere el corazón,
+C
+Bésame...
+
+
+C   Em   C   Em
+
+
+Bésame...
+    Am     Bm                           Em  -  E
+Bésame como si el mundo se acabara después,
+    Am      Bm                           Em  -  D/F#
+Bésame, y beso a beso por el cielo al revés,
+    Am        B7           Em  -  Em/D  -  A
+Bésame sin razón, porque quiere el corazón,
+C
+Bésame...
+
+ C
+Bésame así, sin compasión,
+ Em
+Quédate en mí sin condición,
+ Am                 D
+Dame tan sólo un motivo
+            C               Em
+Y me quedo yo... y me quedo yo...
+            C               Em9
+Y me quedo yo... y me quedo yo...
+
+
+ACORDES:
+C     : 332010 o 032010
+Em    : 022000
+Am    : X02210
+Bm    : X24432
+B7    : X24242 o X21202
+D/F#  : 200232
+Em/D  : 020000
+A     : 002220
+
+Em9   : 024000
+E     : 022100
+
+
+Cualquier duda o comentario a mi correo plz ;)
+Etor...
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,66 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: los Piojos                                               |
+| CANCION: TAN SOLO                                                 |
+| AUTOR:   Ciro                                                     |
+| ALBUM:   1989-2002                                                |
++------------------------------------------------------BAT-pioj0352-+
+| TRANS:   lisandro                                                 |
+=====================================================================
+
+intro:
+empieza junto con la armónica y después la primera estrofa
+
+  1   2   3   4
+
+h:----x-------x--- ) 
+r:---------------- ) 24 veces
+b:---------------- )
+
+después el estribillo
+
+  1   2   3   4
+  
+c:x--------------- )
+h:----x-------x--- ) 7 veces   
+r:---------------- )
+b:o--------------- )
+
+arranca la base
+
+  1   2   3   4                           1   2   3   4 
+
+c:---------------- )                   h :x-x-x-x-x-x-----  
+h:x-x-x-x-x-x-x-x- ) 7 veces y el fill t1:-------------ooo
+r:---------------- )                   r :----o-------o---
+b:o-------o-o----- )                   b :o-------o-o-----
+
+repite base 7 veces de nuevo y el fill es:
+
+  1   2   3   4
+h:x-x-x-x-------x-       después 6 veces mas la base con el
+r:----o---ooooo---       estribillo
+b:o---------------
+
+y la parte de salta la cuerda es:
+  1   2   3   4
+h:xxxxxxxxxxxxxxxx (semicorcheas) y termina con doble golpe  
+r:----o-------o---                de redoblante
+b:o-------o-oo----  )15 veces             
+
+el estribillo con la armónica es:        final
+  1   2   3   4                            1   2   3   4
+h:X-X-X-X-X-X-X-X  hi hats               h:X-X-X---X-X-----
+r:----o-------o--  entreabiertos         r:--o-o---o-o-----
+b:o-------o-o----   )15 veces            b:o---------------
+
+escuchen la canción para darse cuenta
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,129 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: ELLA USO MI CABEZA CON UN REVOLVER                       |
+| AUTOR:   Cerati/Bosio/Alberti                                     |
+| ALBUM:   Sue~o Stereo (1995)                                      |
++------------------------------------------------------TAB-soda0196-+
+| TRANS:   Sergio                                                   |
+=====================================================================
+
+VERSION UNPLUGGED:
+
+Los acordes son practicamente los mismos que en la versión original:
+
+Intro:
+D\C#\C\B x2
+D\C#\C\\\B
+
+luego viene un punteo que todavía no acabo de sacar
+pero es algo así:
+
+1-0---------------------------
+2-1-------1--1----------------
+3-0--0h1h2----2-0-------------
+4-2------------2---3-2-0------
+5-3----------------------3-3-3
+6-3---------------------------
+
+Comienzan los acordes:main riff:
+
+1-00-0000-0000-0000000
+2-11-4444-3333-2222222
+3-00-0000-0000-0000000
+4-22-5555-4444-3333333    (x4)
+5-33-6666-5555-4444444
+6-33-6666-5555-4444444 
+
+Comienza el verso:
+
+1-3--------x-------x-----x
+2-5--------x-------x-----x
+3-5--------5-------5-----5
+4-5--------5-------5-----5
+5-3--------6-------5-----4
+6-3--------x-------x-----x
+    Ella uso mi cabeza, cómo un revólver
+
+se repite el main riff
+verso
+1-3---------x----------x-------x
+2-5---------x----------x-------x
+3-5---------5----------5-------5
+4-5---------5----------5-------5
+5-3---------6----------5-------4
+6-3---------x----------x-------x
+    e incendio mi conciencia, con sus demonios
+
+main riff
+ 
+todo lo demás son los mismos acordes de la versión original:
+
+  C           Em     A#     Dm      G   A#
+    Me vi llegando tarde, tarde a todo...
+                            Dm      A#
+    Después de un baño cerebral
+
+    Estaba listo para ser amado
+  G#                    G          G#
+     Pasa el tiempo y ahora creo que
+  G#             G            C
+     El vacío es un lugar normal
+
+   C       Em       A#    Dm           main riff x2
+     Ella usó mi cabeza... como un revolver     
+
+   
+   Despues viene el 2o verso y despues de que dice 
+'Ella usó mi cabeza, como un revólver':
+
+main riff x4
+C,F x2
+A#/A/G#/G x2
+A#/A/G#///G
+
+  C        Em       A#        Dm           main riff  
+    No crerías las cosas que he hecho por ella, ella 
+(más lento) 
+    ella.   
+  
+4:43...(Con mucha distorsion...):
+1-00-0000-0000-0-0s0
+2-11-4444-3333-2-4s2
+3-00-0000-0000-0-0s0
+4-22-5555-4444-3-5s3   
+5-33-6666-5555-4-6s4
+6-33-6666-5555-4-6s4
+
+1-00-0-0s0-0-0s0-0-0s0
+2-11-4-6s4-3-5s3-2-4s2
+3-00-0-0s0-0-0s0-0-0s0
+4-22-5-7s5-4-6s4-3-5s3  
+5-33-6-8s6-5-7s5-4-6s4
+6-33-6-8s6-5-7s5-4-6s4
+
+1-00-0000-0000-0000000
+2-11-4444-3333-2222222
+3-00-0000-0000-0000000
+4-22-5555-4444-3333333    (x4)
+5-33-6666-5555-4444444
+6-33-6666-5555-4444444  
+
+(al final hace una improvización muy rara que casi no se oye 
+por la distorson de la guitarra)
+
+Cualquier duda o sugerencias escribanme a sergiosilvah@hotmail.com
+
+si alguien pudiera sacar el punteo completo del pricipio y la 
+improvisacion del final porfa publiquenla o envíenla a mi mail.
+
+SoDa StErEo!!
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

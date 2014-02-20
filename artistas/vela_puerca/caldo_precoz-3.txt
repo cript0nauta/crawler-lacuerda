@@ -1,0 +1,90 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: La Vela Puerca                                           |
+| CANCION: CALDO PRECOZ                                             |
+| AUTOR:   Sebastian teysera                                        |
+| ALBUM:   A contraluz (2004)                                       |
++------------------------------------------------------ARM-vpue0343-+
+| TRANS:   Lucho                                                    |
+=====================================================================
+
+recomiendo armonica en C o Ab(para la duracion guiense
+con la cancion). se puede tocar con cualquier armónica
+soplando y aspirando las mismas celdas, no las mismas notas
+
+Intro:
+4 5 6
+(5) 5 (5) 5 (6) 6
+(5) 5 (5) 5 (4) 4
+
+Estrofa 1
+66666(5)(5)54
+666666(5)5(6)6
+66666(5)(5)54
+666666(5)5(6)6
+Estrofa 2
+(5)(5)(5)(5)4-(5)(5)(5)(5)(6)
+(5)(5)(5)(5)4-(5)(5)(5)(5)(6)
+(5)6- 5(5)6-6(5)5(5)54
+(5)(5)(5)5(4)4
+Puente de guitarras
+Estrofa 3: idem est 1
+Estrofa 4:
+(5)(5)(5)(5)4-(5)(5)(5)(5)(6)
+(5)(5)(5)(5)4-(5)(5)(5)(5)(6)
+(5)6- 5(5)6-6(5)5(5)54
+(5)(5)(5)5(4)4
+
+Puente de vientos:
+3 4 (4) 5 (4) 4 (4) 5 4 4
+3 4 (4) 5 (4) 4 5 4
+3 4 (4) 5 (4) 4 (4) 5 4 4
+3 4 (4) 5 (4) 4 5 4
+
+Estrofa 5
+(5)(5)(5)(5)4-(5)(5)(5)(5)(6)
+(5)(5)(5)(5)4-(5)(5)(5)(5)(6)
+(5)6- 5(5)6-6(5)5(5)54
+(6)(6)(6)6(5)5
+(6)(6)(6)(6)6(5)5
+(6)(6)(6)(6)6(5)5
+(6)(6)(6)(6)6(5)5
+(6)(6)(6)(6)6(5)5
+(6)(6)(6)(6)6(5)5 &lt;(arrastrar)7
+Solo de vientos:
+
+6...
+(5) 5 (5) 6
+(5) 5 (5) 6
+(5) 5 (5) 6
+
+(5) 5 (4) 4
+(5) 5 (4) 4
+(5) 5 (4) 4
+
+(5) 5 (5) 6
+(5) 5 (4) 4
+
+Estrofa 6:
+66666(5)(5)54
+666666(5)5(6)6
+66666(5)(5)54
+666666(5)5(6)6
+Estrofa 7:
+(5)(5)(5)(5)4-(5)(5)(5)(5)(6)
+(5)(5)(5)(5)4-(5)(5)(5)(5)(6)
+(5)6- 5(5)6-6(5)5(5)5-(5)5
+(5)(5)6- 6(5)5(5)5-(5)5
+(5)(5)6- 6(5)5(5)54
+(6)(6)(6)6(5)5
+
+en la original el 4 soplado debe ser G# creo
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

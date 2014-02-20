@@ -1,0 +1,127 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: No Te Va Gustar                                          |
+| CANCION: COSA LINDA                                               |
+| AUTOR:   -?-                                                      |
+| ALBUM:   Solo de noche                                            |
++------------------------------------------------------TAB-ntvg0084-+
+| TRANS:   Manuel                                                   |
+=====================================================================
+
+Bueno, le puse un par de "chiches" no más...
+'ta re-bien lo demás
+
+
+Los acordes se tocan asi en los versos (1)):
+
+       Bm(Sim)         G(SolM)        F#(FaM#)
+e|---2--2--2---2-|---3--3--3---3-|---2--2--2---2-|&gt;
+B|---3--3--3---3-|---3--3--3---3-|---2--2--2---2-|&gt;
+G|---4--4--4---4-|---4--4--4---4-|---3--3--3---3-|&gt;
+D|---------------|---------------|---------------|&gt;
+A|-2----2----2---|---------------|---------------|&gt;
+E|---------------|-3----3----3---|-2----2----2---|&gt;
+        Em(Mim)
+&gt;e|---0--0--0---0--
+&gt;B|---0--0--0---0--
+&gt;G|---0--0--0---0--
+&gt;D|----------------
+&gt;A|----------------
+&gt;E|-0----0----0----
+
+... y en el estribillo (2)) se tocan asi:
+     Em       F#          Bm
+e|---0--0-|---2--2-|--2--2--2---2--|
+B|---0--0-|---2--2-|--3--3--3---3--|
+G|---0--0-|---3--3-|--4--4--4---4--|
+D|--------|--------|---------------|
+A|--------|--------|-2---2----2----|
+E|-0------|-2------|---------------|
+
+Intro
+
+     Bm                    G                                             F#
+e|---2-|--7-7-10-9--7-10-9--7-----12-12-12--10-10-10--9-9-9--|
+B|---3-|--7-------------------8------------------------------|
+G|---4-|--7--------------------------------------------------|
+D|-----|-----------------------------------------------------|
+A|-2---|-----------------------------------------------------|
+E|-----|-----------------------------------------------------|
+
+            F#
+E|-(7--7--7)-(6--6--6)| (OPCIONAL)
+B|-12-12-12--11-11-11-|
+G|--------------------|
+D|--------------------|
+A|--------------------|
+E|--------------------|
+
+                  Bm          | Bm                G
+e|----------------------------|----------------------------|
+B|----------------------------|----------------------------|
+G|---------9-12-11-9----------|----------------------------|
+D|-9-11-12-----------12~11~12-|----------------------------|
+A|----------------------------|-7-7-7--5-5-5--4-4-4--2-4-5-|
+E|----------------------------|----------------------------|
+  F#                         Bm
+e|-3~2-0-----------------------------7--|
+B|-------3-2-0--------2--2~3--2-0-------|
+G|-------------3----3-------------------|
+D|----------------4---------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+1)
+Bm                       G
+Cosas buenas tiene el hombre
+       F#                     Bm
+que a veces no las sabe disfrutar
+Bm                   G
+y se amarga por las voces
+       F#                     Bm
+que le dicen que no puede progresar
+Bm                G
+Y se siente lastimado
+       F#                         Bm
+por lo poco que le importa a los demas
+Bm                 G
+y se siente defraudado
+Em                   F#
+si no tiene a quien juzgar
+
+2)
+Em    F#                Bm
+Cosa linda me trajo la vida
+Em    F#         Bm
+que no necesito mas
+Em      F#              Bm
+no le importa si tengo plata o si no
+Em              F#
+y no deja de cantar
+
+
+1)
+Quiere estar en la ventana
+y le dice al que sea dejame bailar
+que le preste la guitarra
+y no sabe la alegria que me da
+
+2)
+Cosa linda me trajo la vida
+que no necesito mas
+no le importa si tengo plata o si no
+y no deja de cantar
+
+Repite intro
+
+Luego hacen juegos de voces con el estribillo;
+osea, se tocan los mismos acordes que en el estribillo
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

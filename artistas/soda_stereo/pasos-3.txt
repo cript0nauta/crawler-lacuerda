@@ -1,0 +1,88 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: PASOS                                                    |
+| AUTOR:   Gustavo Cerati                                           |
+| ALBUM:   Soda Stereo (1995)                                       |
++------------------------------------------------------ACO-soda0403-+
+| TRANS:   ximena, MORCHI                                           |
+=====================================================================
+
+Esta cancion se toca con un transportador en el 3er traste.
+Las notas son a partir del transportador.
+
+A         [x02220]
+F#m       [244222]
+G         [320003]
+Bm7       [x24232]
+C         [x32010]
+D*        [x54030]
+D         [xx0232]
+F         [133211]
+G*        [320002]
+E         [022100]
+E7        [020100]
+C#m7      [x46454]
+E4        [022200]
+D2        [x57755]
+E2        [x79977]
+
+
+Intro:
+
+arpegiando A  F#m  G  G* (x2)
+
+rasgueo    A  F#m  G  G* (x2)
+
+
+C           D*
+     Tengo mal de alturas
+        C         D*
+y aqui vuelan pajaros de oro
+   F
+si me maree
+       E4
+es por devocion
+E      E7                  A      F#m  G  G*  A
+yo prefiero seguir tus pasos
+F#m G           G*  A        F#m G G*   A F#m G G*
+prefiero seguir tus pasos
+
+C          D*
+     Y es igual a un laser
+      C        D*
+la pasion actua por reflejo
+   F
+de uno a dos
+    E4
+de dos a tres
+E      E7                   Bm7 C#m7 Bm7 C#m7 D2 E2 D2 E2 (x2)
+yo prefiero seguir tus pasos
+
+A E C D
+
+ F
+Suena el mar
+ E4
+suena el mar
+
+
+  E      E7                    A    F#m G  G* A
+Y yo prefiero seguir tus pasos
+F#m G      G*  A   F#m  G  G*
+prefiero seguir tus pasos
+
+
+Final:
+A   F#m  G  G*
+
+Cualquier cosa me escriben a xime_diaz_11@hotmail.com. Un beso
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

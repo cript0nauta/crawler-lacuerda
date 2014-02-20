@@ -1,0 +1,54 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: CANCION ANIMAL                                           |
+| AUTOR:   Gustavo Cerati, Daniel Melero                            |
+| ALBUM:   Cancion Animal (1990)                                    |
++------------------------------------------------------BAJ-soda0056-+
+| TRANS:   Marcos                                                   |
+=====================================================================
+
+Canción Animal:
+
+Intro y verso:
+G|-----------------------------|
+D|-----------5-----------------|
+A|-2---2-2----5----2---2-2----0|
+E|--------------------------3--|
+
+           acá empieza el puente:                        *
+G|-------------------------------|-G-----A----G----F#m--|----
+D|-----------5-------------------|----------------------|----
+A|-2---2-2----5---2---2-2----0---|----------------------|2-2-
+E|-------------------------3-----|-3-----5----3----2-2--|----
+                               (cuando el cuerpo no espera)
+*
+El paso del puente devuelta al verso es bien rápido, se omite el primer Si
+Después se repite la misma estructura, y llega el estribillo.
+Acá va el paso del puente a una vuelta que es como el verso y
+después al estribillo:
+
+G|--------------|----------------------------------------
+D|--------------|------5---------------------------------
+A|--------------|-2-2---5-2--2-2---0-5-aca pasa al estribillo
+E|-3---5---32-2|-----------------3----------------------
+
+G|---------------------|  G|---|-------------------------(Una vez más lo
+D|---------------------|  D|---|---------5---------------mismo que en
+A|-5--5-5---0-0---3-3--|x3A|-5-|-2--2-2---5--2--2-2--0-2-el verso, y va
+E|---------------------|  E|---|--------------------3----el solo)
+
+En el solo de Gustavo, el bajo hace lo mismo que durante el estribillo
+Después del solo van dos vueltas del verso, el estribillo, y termina
+con esta estructura: (verso x2, puente) x2, verso.
+
+Eso nomás espero que este bien
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,282 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Los Bunkers                                              |
+| CANCION: BAILANDO SOLO                                            |
+| AUTOR:   -?-                                                      |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------TAB-bunk0843-+
+| TRANS:   Héctor                                                   |
+=====================================================================
+
+Mauricio Duran:
+
+Punteo 1:
+
+e|---------------------------|
+B|-6-6---6-6---6-6---6---6-8-|
+G|-----7-----7-----7---7-----|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+Punteo 2:
+
+e|-5-5---5-5---5-5---5-6-5---|
+B|-----6-----6-----6-------6-|
+G|---------------------------|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+Francisco Duran:
+
+Punteo 1:
+
+e|----------------------------------------|
+B|----------------------------------------|
+G|----------------------------------------|
+D|-12-12----12-12----12-12----12----12-10-|
+A|-------12-------12-------12----12-------|
+E|----------------------------------------|
+
+Punteo 2:
+
+
+e|----------------------------------------|
+B|----------------------------------------|
+G|--10-10----10-10----10-10----10-12-10---|
+D|-------12-------12-------12----------12-|
+A|----------------------------------------|
+E|----------------------------------------|
+
+Intro:
+
+Punteo 1 y 2[Ambas Guitarras al mismo tiempo]
+
+REm:
+        ____
+e|--5--|    |
+B|--6--|    |___________
+G|--7--|Lo toca Mauricio|
+D|--7--|     __Duran____|
+A|--5--|    |
+E|--x--|____|
+
+FA:
+        ____
+e|--5--|    |
+B|--6--|    |___________
+G|--5--|Lo toca Mauricio|
+D|--3--|     __Duran____|
+A|--3--|    |
+E|--x--|____|
+
+[Aquí solo queda la guitarra del Mauri haciendo el rasgueo]
+
+REm                                               FA
+Ahora que estas aquí, ahogado en medio de la gente
+REm                                               FA
+Y estas dispuesto a más, de lo que puedes soportar
+REm                                         FA
+Los altavoces van, amplificando las verdades
+REm                                         FA
+Ahora que estas aquí, en medio de la soledad.
+
+[En el coro de estudio solo toca Francis, en vivo el Mauri hace
+las mismas notas pero con rasgueo en lugar del arpegio especificado
+en esta transcripción.]
+
+REm                          FA
+Bailando Solo en la obscuridad,
+                 LAm              SOL
+Te vas a acostumbrar a ver toda la vida pasar
+REm                              FA
+Igual que una promesa al anochecer
+                 LAm                SOL
+te puedes disolver, al borde de una vaso de Cristal
+
+Coro Francisco Duran:
+
+REm:
+
+e|------------------------|
+B|----------------3-------|
+G|----------2---2---2---2-| X2 exceptuando el "0 en D" largo...
+D|-0...-0-0---0-------0---|
+A|------------------------|
+E|------------------------|
+
+FA:
+
+e|--------------------|
+B|------------1-------|
+G|------0---0---0---0-|  X2
+D|--3-3---3-------3---|
+A|--------------------|
+E|--------------------|
+
+LAm:
+
+e|--------------------|
+B|------------1-------|
+G|------2---2---2---2-|  X1
+D|--2-2---2-------2---|
+A|--------------------|
+E|--------------------|
+
+e|---------------------|
+B|-------------1-------|
+G|-0h2---2---2---2---2-|  X1
+D|-----2---2-------2---|
+A|---------------------|
+E|---------------------|
+
+SOL:
+
+e|---------------------------------------|
+B|----------------------0----------------|
+G|------------0------------------ 0------|  X1
+D|------0---0-----0---0-----0---0-----0--|
+A|----2---2-----2---2-----2---2-----2---2|
+E|--3------------------------------------|
+
+-----
+                                                    [Punteo 2, Ambas Guitarras]
+Ahora que estas aquí, y que el futuro se te esconde
+                                                    [Punteo 2, Ambas Guitarras]
+Y has rasguñado el suelo y las paredes de tu habitación
+
+[Aqui hay una guitarra sobre puesta que hacer el rasgueo]
+REm                                              FA [Punteo 2, Abmas Guitarras]
+No quieres ver el sol, no quieres nada por las tardes
+[Lam, no se toca en estudio con guitarra]        Sol [Solo Mauri]
+Ninguna sensación, que nos haga sentir mejor...
+
+     SOL:
+        ____
+e|--x--|    |
+B|--8--|    |______________
+G|--7--|Rasgueo de Mauricio|
+D|--5--|     ____Duran_____|
+A|--x--|    |
+E|--x--|____|
+
+              ____
+e|-----------|    |
+B|--6-6-6----|    |_______________________________
+G|--------7\-|        Punteo de Francisco Duran   |
+D|-----------|     justo antes que empiece el coro|
+A|-----------|    |
+E|-----------|____|
+
+
+[En el coro de estudio solo toca Francis, en vivo el Mauri hace
+las mismas notas pero con rasgueo en lugar del arpegio especificado
+en esta transcripción.]
+
+REm                          FA
+Bailando Solo en la obscuridad,
+                 LAm              SOL
+Te vas a acostumbrar a ver toda la vida pasar
+REm                              FA
+Igual que una promesa al anochecer
+                 LAm                SOL
+te puedes disolver, al borde de una vaso de Cristal
+
+Solo:
+
+Mauricio Duran:
+
+  FA  SOL LAm  FA  SOL LAm  FA  SOL LAm   REm
+e|-----------------------------------------------|
+B|-----------------------------------------------|
+G|----------------------------------------7~-----|
+D|-3~--5~--7~---3~--5~--7~---3~--5~--7~---7~-----|
+A|-3~--5~--7~---3~--5~--7~---3~--5~--7~---5~-----|
+E|-1~--3~--5~---1~--3~--5~---1~--3~--5~----------|
+
+
+Francisco Durán
+
+  FA     SOL       LAm
+e|------------------------------|
+B|-----1-0----------1~----------|
+G|---2-------2---0--2~----------| X3
+D|-3-------3---0----2~----------| la parte 4 es un Rem igual
+A|------------------0~----------| al del Mauri Duran.
+E|------------------------------|
+
+Break:
+
+Mauricio Duran:
+
+e|------------------|
+B|------------------|
+G|------10-10-10-10-| X16
+D|-7/12-------------|
+A|------------------|
+E|------------------|
+
+Francisco Durán
+
+e|------------------|
+B|------------------|
+G|------------------|
+D|------12-12-12-12-| X16 [Aunque este se mantiene hasta los cuando
+A|-8/12-------------|      Comienza la voz de nuevo así que es x48
+E|------------------|      pero desde el 17 con menos volumen, ojo.]
+
+Parte instrumental:
+
+REm FA LAm SOL [Tocados como los coros del Francis pero por el Mauri]
+
+REm FA LAm SOL [El Francis toca el coro pero como los rasgueos de los versos]
+
+Con voz:
+
+[Punteo 1, Abmas guitarras]     [Punteo 2, Abmas guitarras]
+REm                             FA
+
+LA LA LA ra, LA LA, LA LA ra LA...
+
+[Punteo 1, Abmas guitarras]     [Punteo 2, Abmas guitarras]
+REm                             FA
+
+LA LA LA ra, LA LA, LA LA ra LA...
+
+[Punteo 1, Abmas guitarras]     [Punteo 2, Abmas guitarras]
+REm                             FA
+
+LA LA LA ra, LA LA, LA LA ra LA...
+
+[Punteo 1, Abmas guitarras]     [Punteo 2, Abmas guitarras]
+REm                             FA
+
+LA LA LA ra, LA LA, LA LA ra LA...
+
+La canción termina en un Rem seco.
+
+[En los la la... hay guitarra sobre puesta que toca el Rem y el Fa
+como los toca en arpegio el Francis en el coro, osea la canción
+en general tiene 3 o 4 guitarras, porque algunas sobre grabadas
+están en el canal izquierdo estéreo y otras en el canal derecho.]
+
+
+Consultas a: acdcfan050_@hotmail.com
+Héctor Alarcón, Castro, Chiloé.
+
+Guitarrista de Los Perros:
+
+http://www.facebook.com/LosPerrosOficial
+http://www.youtube.com/user/Losperrosoficial
+
+Miembro de: Detenidos Bunkeros Puerto Montt...
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

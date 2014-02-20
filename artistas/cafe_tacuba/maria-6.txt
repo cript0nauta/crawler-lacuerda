@@ -1,0 +1,114 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Café Tacuba                                              |
+| CANCION: MARIA                                                    |
+| AUTOR:   J. Rangel                                                |
+| ALBUM:   Cafe Tacuba                                              |
++------------------------------------------------------TAB-tacb0356-+
+| TRANS:   Isacc                                                    |
+=====================================================================
+
+Esta es la rola de MARIA con algunas correcciones.
+
+Aqui les mando las pisadas completas de esta bonita rola, espero que les guste.
+Para agarrar mejor el ritmo, escucha la rola.
+
+Los Acordes:
+Hazle caso a las pisadas con el asterisco ( * ) ya que son esenciales para que la
+rola se escuche  bien.
+___
+   \  C#m  E  A7  G#m  A7*  A  E7   E*
+  e |--4---4---4---4----0---4---4---4--| 1°
+) B |--5---4---2---4----2---2---0---4--| 2°
+  G |--6---4---0---4----0---2---1---4--| 3°
+  D |--6---4---2---4----2---2---0---6--| 4°
+) A |--4---x---0---5----0---0---2---0--| 5°
+  E |--4---x---0---4----0---0---0---0--| 6°
+___/
+  
+Nota:
+Trata de solo tocar las primeras 4 cuerdas de la guitarra para que se escuche mejor.
+
+
+  Intro.
+El intro se repite dos veces al inicio y una vez despues de la tercer estrofa.
+Nota:
+Cuando en las cuerdas indica 0, las cuerdas se sofocan, osea que solo se levantan
+los dedos sin quitar la pisada.
+___
+   \  C#m                               A                 E
+  e |--9---9-------9-9-9--12-11-10-10---9--9---9--9--9----7-0-7-9-7--|
+) B |--9---9-------9-9-9--9--9--9--9----10-10--10-10-10---9-0-9-9-9--|
+  G |--9---9-------9-9-9--9--9--9--9----9--9---9--9--9----9-0-9-9-9--|
+  D |--11--x-------x-x-x--x--x--x--x----x--x---x--x--x----x-x-x-x-x--|
+) A |--11--x-------x-x-x--x--x--x--x----x--x---x--x--x----x-x-x-x-x--|
+  E |--x---x-------x-x-x--x--x--x--x----x--x---x--x--x----x-x-x-x-x--|
+___/
+
+
+
+ C#m          E           A7     G#m
+Sale sola de noche maria
+C#m      E         A7    G#m
+pena por la ciudad
+C#             E                 A7*
+recoriendo las calles que un día
+             G#m       C#m    E    A7   G# 
+nego besos en la oscuridaaaaa haa had
+
+
+C#m           E           A7     G#m
+Y se nubla la vista maria
+C#m           E        A7    G#m
+por que duele recordar
+C#m             E           A7*
+que los besos negados maria
+         G#m       A     G#m     A    G#m
+nunca mas regresaraaaaa haaaa haaaa haaan
+
+
+A E7 A E7
+(solo organo de voca)
+
+
+C#m               E          A7   G#m
+En las noches por ese camino
+C#m              E       A7    G#m
+algo extraño puede pasar
+C#m               E             A7*
+al sentir en los labios el frio
+                    G#m    C#m    E    A7  G#m
+de otros labios que no veraaaaa haaa haas
+
+(En el preimer renglon de la siguiente estrofa se Repite el Intro.)
+
+C#m             E                 A7   G#m  C#m   
+Es maria quien pena en las calleeee eees
+          E           A7   G#m
+y debajo de un farooo oool
+C#m           E              A7
+roba besos y vida a al gente
+                  G#m          A    G#m  A   G#m
+mienntras ella llace en un cajoooo hooo hoo oon
+
+
+A     G#m
+Maria bonita....
+A     G#m
+Maria marchita
+
+A E7
+A E7
+A A A 
+A E7
+A
+E*
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

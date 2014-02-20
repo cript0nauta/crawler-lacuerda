@@ -1,0 +1,59 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Divididos                                                |
+| CANCION: CABEZON                                                  |
+| AUTOR:   Diego Arnedo, Ricardo Mollo                              |
+| ALBUM:   Divididos                                                |
++------------------------------------------------------BAT-divi0792-+
+| TRANS:   diego                                                    |
+=====================================================================
+
+C: crash 
+H: hi-hat (X: abierto, x: medio cerrado)
+R: ride (X: campana, x: plato)
+t: tacho
+T1: tom 1
+T2: tom 2
+Ch: chancha
+B: bombo 
+
+(empieza con redoble)
+
+'el seguidor, sigue...'
+C |-------------------------|
+H |-X--X--X--X--X--X--X--X--|
+R |-------------------------|
+T |----o-----o-----o-----o--|X8
+B |-o-----oo----o-----oo----|
+
+            'hay un lugar...'
+C |-----X-|---------------------|
+H |-------|-X--X--X--X--X--X--X-|
+R |-------|---------------------|
+T |-o-o---|-o-----o-----o-----o-|
+T1|-------|---------------------|
+T2|-------|---------------------|
+Ch|-------|---------------------|
+B |-----0-|----oo----o-----oo---|
+sigue con este ritmo hasta 'mas rapido...'
+
+                        'caaaabeeezoooooooooonn'
+C |-------------------|-----------------|
+H |-x-x-x-X-----------|-----------------|
+R |-------------------|-x-x-x-x-x-x-x-x-|
+T |-o-o-o-o----o---o--|---o---o---o---o-|X2
+T1|-------------------|-----------------|
+T2|----------o--------|-----------------|
+Ch|--------------o----|-----------------|
+B |-------------------|-o---oo--o---oo--|
+el resto del tema sigue con el mismo ritmo.
+AGUANTE LA APLANADORA!!!!
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

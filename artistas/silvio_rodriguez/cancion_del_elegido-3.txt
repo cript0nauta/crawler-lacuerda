@@ -1,0 +1,121 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: CANCION DEL ELEGIDO                                      |
+| AUTOR:   Silvio Rodriguez                                         |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------ACO-srod0213-+
+| TRANS:   Felipe, Ramon                                            |
+=====================================================================
+
+En la versión original y las versiones en vivo la guitarra está
+afinada (como muchas de las canciones de Silvio) medio tono hacia abajo.
+
+Acordes:
+
+     A    A*   D    D*   Bm   E    E*   F#m  F#
+Eb|--0----5----2----2----2----0----4----2----2---
+Bb|--2----5----3----3----3----0----5----2----2---
+Gb|--2----6----2----2----4----1----4----2----3---
+Db|--2----7----0----4----4----2----6----4----4---
+Ab|--0----7---------5----2----2----7----4----4---
+Eb|-------5-------------------0---------2----2---
+
+Intro Versión Original:
+
+Eb|---------0-------------   x4
+Bb|---0-2-3---3-2h0-------
+Gb|-2---------------------
+Db|-------2---------------
+Ab|-0-----------0---------
+Eb|-----------------------
+
+ A
+ Siempre que se hace una historia
+                Bm          D*       E*
+se habla de un viejo, de un niño o de sí,
+D*                     E*   (VI-0)
+pero mi historia es difícil:
+            (VI-4)       A*
+no voy a hablarles de un hombre común.
+F#                     D
+Haré la historia de un ser de otro mundo,
+    E (VI-2-4)    A
+de un animal de galaxia.
+F#                  D
+Es una historia que tiene que ver
+       E (VI-2-4)      A
+con el curso de la Vía Láctea.
+D          E         F#m
+Es una historia enterrada.
+D           E         Bm      A
+Es sobre un ser de la nada.
+
+
+A
+Nació de una tormenta
+                 Bm        D*       E*
+en el sol de una noche el penúltimo mes.
+D*                    E*    (VI-0-4)      A*
+Fue de planeta en planeta buscando agua potable,
+F#                D          (V-4)    Bm
+quizás buscando la vida o buscando la muerte
+    D*        E*
+eso nunca se sabe.
+(VI-0-4)           A*
+Quizás buscando siluetas
+   F#m      D          Bm      E  [VI-4 (en versiones en vivo)]
+o algo semejante que fuera adorable,
+D        E        F#m      D     E   Bm     A
+o por lo menos querible, besable... amable.
+
+
+A
+Él descubrió que las minas
+            Bm           D*       E*
+del Rey Salomón se hallaban en el cielo
+D*                E*
+y no en el África ardiente
+(VI-0-4)        A*
+como pensaba la gente.
+F#                   D
+Pero las piedras son frías
+            E  (VI-2-4)      A
+y le interesaban calor y alegrías.
+F#                   D
+Las joyas no tenían alma,
+             E (VI-2-4)        A
+sólo eran espejos, colores brillantes.
+  D        E           F#m
+Y al fin bajó hacia la guerra...
+D       E                   Bm       A
+¡Perdón! quise decir a la Tierra.
+
+
+A
+Supo la historia de un golpe,
+               Bm       D*       E*
+sintió en su cabeza cristales molidos
+D*                   E*   (VI-0-4)          A*
+y comprendió que la guerra era la paz del futuro.
+F#                    D
+Lo más terrible se aprende enseguida
+(V-4)    Bm          D*      E*
+y lo hermoso nos cuesta la vida.
+(VI-0-4)             A*
+La última vez lo vi irse
+       F#m       D       Bm          E   [VI-4(en versiones en vivo)]
+entre humo y metralla contento y desnudo.
+D      E        A     D       E        A
+Iba matando canallas con su cañón de futuro.
+D      E       F#m    D       E        Bm       Intro x2 (I-0) A*
+Iba matando canallas con su cañón de futuro.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

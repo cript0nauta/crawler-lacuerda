@@ -1,0 +1,94 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Gustavo Cerati                                           |
+| CANCION: BAJAN                                                    |
+| AUTOR:   Luis Alberto Spinetta                                    |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------ACO-gcer0083-+
+| TRANS:   j.Marcelo.Z                                              |
+=====================================================================
+
+Intro:
+
+E-----0----------0---------I
+B--------0----2------------I
+G-----------0 -------------I
+D--2-----------------------I (MI x4)
+A--2-----------------------I
+E--0----------------0--^3--I
+
+           MI          FA#m
+           TENGO TIEMPO PARA SABER
+
+    DO#m         SOL#7-9  SI
+       SI LO QUE SUENO CONCLUYE EN ALGO.
+
+       MI          FA#m
+       NO TE APURES  YA MAS LOCO
+
+       DO#m         SOL#7-9    SI
+       PORQUE ES ENTONCES  CUANDO LAS HORAS
+
+      -------------CORO-----------------
+
+        DO#m      SOL#m
+        BAJAN  EL DIA
+
+           SI     DO   DO#m
+        ES VIDRIO SIN SOL
+
+        DO#m     SOL#m
+        BAJAN LA NOCHE
+
+            SI    DO DO#m
+        TE OCULTA LA VOZ
+
+             DO
+        Y ADEMAS
+
+        LA   SOL#m FA#m
+        VOS QUERES SOL
+
+           DO#m      DO#mmaj7
+        DESPACIO  TAMBIEN
+
+                        DO#m SOL#m MI LA
+        PODES HALLAR LA LUNA.
+
+        -------------------------------
+
+        MI         FA#m
+        VIEJO ROBLE DEL CAMINO
+
+        DO#m      SOL#7-9     SI
+        TUS HOJAS SIEMPRE SE AGITAN ALGO
+
+        MI       FA#m
+        NENA NENA QUE BIEN TE VES
+
+        DO#m          SOL#7-9
+        CUANTO EN TUS OJOS
+             SI
+        NO IMPORTA SI LAS HORAS
+
+
+    -------------CORO---------------
+
+ACORDES:
+
+   MI   FA#m   DO#m   SOL#7-9   SI   DO  DO#mmaj7   SOL#m  LA
+E---0----2------4------5---------2----3----4----------4-----0
+B---0----2------5------4---------4----5----5----------4-----0
+G---1----2------6------5---------4----5----5----------4-----6
+D---2----4------6------4---------4----5----6----------6-----7
+A---2----4------4------6---------2----3----4----------6-----7
+E---0----2------x------x---------x----x----X----------4-----5
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

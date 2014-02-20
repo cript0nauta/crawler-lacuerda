@@ -1,0 +1,148 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Divididos                                                |
+| CANCION: ALA DELTA                                                |
+| AUTOR:   D.M. Arnedo, R.J. Mollo                                  |
+| ALBUM:   Acariciando Lo Aspero                                    |
++------------------------------------------------------BAJ-divi0023-+
+| TRANS:   aaron                                                    |
+=====================================================================
+
+Nota:
+
+* = slide(es facil empieza en una nota y
+termina en otra deslizando)
+^ = estirar cuerdas.
+
+Esta es la versión en vivo:
+
+-Intro:
+
+G|-9--7-9-7-9-7--9-7-9-7-9-7--8--9-7--12^---|
+D|-9--0-9-0-9-0--9-0-9-0-9-0--0--9-0--13^---|
+A|------------------------------------------|
+E|-0-0-0-0-0-0--0-0-0-00-0--0-0-0-0-----|
+
+-Versos: En los versos sigue lo mismo pero estira las cuerdas
+cada ves que finaliza cada verso.En el momento de estirar las
+cuerdas esta este símbolo ^
+
+Verso 1:
+Una chica en el cielo
+Vive en mi océano salvaje
+
+Verso 2:
+Una radio que se cae
+Mientras duermen pájaros acá.
+
+Verso 3:
+Una radio en el mar
+Una chica en el cielo todo el tiempo
+
+Verso 3:
+Puedo ver pero no sé
+Todo está muy rápido acá.
+
+(Al finalizar el verso tres no estira las cuardas
+sino que realiza el tremolo):
+
+G|---9-7-9-7-9-7--8--9-7---|
+D|---9-0-9-0-9-0--0--9-0---|
+A|-------------------------|
+E|---0-0-0-0-0-0--0--0-0--|
+
+Verso 4:
+Y los pibes remontaban barriletes
+Y la virgen pasó haciendo ala delta
+
+-Instrumental:
+
+G|---9-7-12^--|
+D|---9-0-13^--|      X 4
+A|------------|
+E|---0-0------|
+
+-Después de esto hay una improvisación cuando repite de nuevo
+ todos los versos que depende de cada uno de los bajistas ,
+yo hago algo como esto pero ustedes seguro logran algo mejor:
+
+Una chica en el cielo
+Vive en mi océano salvaje:
+
+
+
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|---7*10-10------7*10-12-10----------------10--------|
+E|-----------0-12------------1210-0-9-8-12-----------|
+
+-Al finalizar cada verso el punteo que hace es:
+
+G|----------------------------------------------------9-7-12^---|
+D|---------------------11-11-12-13-14-13-12-----------9-0-13^---|
+A|-8*11-11-12-12-14-14----------------------14-11-12------------|
+E|----------------------------------------------------0-0-------|
+
+
+-Ahora llegan los sgts versos (Arriba nombrado verso4):
+
+Y los pibes remontaban barriletes
+G|-------------------0--0--0-----------------------------|
+D|-------------------------------------------------------|
+A|-12-0-12-0-12--10-10-10-10-----------------------------|
+E|---------------------------12-12-0-12-0-12-12-0-12-0---|
+
+Y la Virgen paso haciendo ala delta
+
+G|-------------------0--0--0-----------------------------|
+D|-------------------------------------------------------|
+A|-12-0-12-0-12--10-10-10-10-----------------------------|
+E|---------------------------12-12-0-12-0-12-12-0-12-0---|
+
+                            X 2
+
+-Solo Del Bajo como el intro pero no realiza ningun tremolo:
+
+G|-9--7-9-7-9-7---9--7-9-7-9-7--9--7-9-7-9-7---9--7-9-7-9-7--|
+D|-9--0-9-0-9-0--9--0-9-0-9-0-9--0-9-0-9-0--9--0-9-0-9-0-|
+A|-----------------------------------------------------------|
+E|-0-0-0-0-0-0---0-0-0-0-0-0--0-0-0-0-0-0---0-0-0-0-0-0--|
+
+
+-Sigue igual con el acompañamiento de guitarra Mientras dice:
+
+Todo estas esta muy facil
+
+si tenes tu propio cielo
+
+Nada esta muy cerca
+
+Nada que yo necesite
+
+
+G|---9-7-12^--|
+D|---9-0-13^--|      X 4
+A|------------|
+E|---0-0------|
+
+-Repite versos 1,2,3,4 con improvisaciones
+-repite verso 4 varias veces y termiana asi:
+-final:
+G|-------------------0--0--0-----------------------------|
+D|-------------------------------------------------------|
+A|-12-0-12-0-12--10-10-10-10-----------------------------|  X 4
+E|---------------------------12-12-0-12-0-12-12-0-12-0---|
+
+Esta bastante bien espero que les sirva un gusto
+Soy aaron de la novena(Banda de Rock),cualquier duda o
+correccion enviar a : aaron_piojoso32@hotmail.com
+Aguanten los piojos!
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

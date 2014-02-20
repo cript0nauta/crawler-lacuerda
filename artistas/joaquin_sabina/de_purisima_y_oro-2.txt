@@ -1,0 +1,75 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Joaquín Sabina                                           |
+| CANCION: DE PURISIMA Y ORO                                        |
+| AUTOR:   A. Oliver, Joaquín Sabina                                |
+| ALBUM:   19 Dias Y 500 Noches (2001)                              |
++------------------------------------------------------TAB-sabi1082-+
+| TRANS:   Raúl                                                     |
+=====================================================================
+
+Bueno, aquí va esta pequeña pero no menos reconfortante contribución,
+que es la intro de la canción De purísima y oro de Joaquín Sabina,
+más o menos como suena en mis oidos tras unos 400 ciclos de rebobinado
+para adelante y para atrás. He intentado poner los sonidos ordenados
+en secuencia temporal (parecido al Guitar Pro), donde ---- equivale
+a la duración de una negra (con algunos detalles que no logro reflejar
+bien en esto del tabulado con Courier), con lo que los 12  de cada
+compás equivalen las 3 notas negras del mismo (si todavía recuerdo
+bien esas cosillas del solfeo).
+
+Espero que les guste!
+
+
+   1.1            1.2            1.3            1.4   *
+E| ----3---3--- | --------5-3- | 1---0---0-0/1|/0-----0/1/0- |
+B| ----3-----3- | ------0----- | ------------ | --0-----3-1- |
+G| ------------ | ----0------- | ------------ | ----0------- |
+D| ------------ | --0--------- | --0---0----- | ------------ |
+A| ------------ | 2----------- | 3----------- | ------------ |
+E| 3----------- | ------------ | ------------ | ------------ |
+
+
+   2.1            2.2            2.3            2.4
+E| ------3----- | --------5-3- | 1---0---0-0/1|/0----------- |
+B| 3---3------- | ------0----- | ------------ | ----0------- |
+G| --0--------- | ----0------- | --0---0----- | --------0--- |
+D| ------------ | --0--------- | ------------ | ------------ |
+A| ----------0- | 2----------- | 3----------- | ------------ |
+E| 3-------3--- | ------------ | ------------ | ------------ |
+
+
+   3.1            3.2            3.3            3.4
+E| ------1-0-1- | 7-----5----- | 0-----0----- | ------------ |
+B| ----3------- | ------------ | ----1---1-0- | ------------ |
+G| --2--------- | ---0-----0-- | --2--------- | 2---2------- |
+D| 0----------- | ------------ | ------------ | --2---2----- |
+A| ------------ | ------------ | 0----------- | --------0-1- |
+E| ------------ | 0----------- | ------------ | ------------ |
+
+
+   4.1            4.2            4.3            4.4
+E| --------2--5 |/8---7---5--- | 4-----7----- | ------------ |
+B| 0-----4----- | ------------ | --0-----6--- | 5----------- |
+G| ------------ | ------------ | ----0------- | ------------ |
+D| ----1------- | ------------ | ------------ | ------------ |
+A| 2----------- | ------------ | --------3--- | 2----------- |
+E| ------------ | ------------ | 0----------- | ------------ |
+
+*este 0/1/0 acaba justo antes del comienzo del 3 siguiente
+de la cuerda B
+
+pd: no sé porqué al subir la tablatura no pude añadir guión inverso,
+por lo que puse un / donde debía aparecer el opuesto.
+
+Alguna sugerencia: animalxpepi@hotmail.com
+(abstenerse personal de la Sgae!! :) )
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

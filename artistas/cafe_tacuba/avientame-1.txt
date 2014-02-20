@@ -1,0 +1,194 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Café Tacuba                                              |
+| CANCION: AVIENTAME (AMORES PERROS)                                |
+| AUTOR:   R. Albarranm E. del Real, Joe Rangel                     |
+| ALBUM:   Amores Perros (2000)                                     |
++------------------------------------------------------ACO-tacb0031-+
+| TRANS:   Juan                                                     |
+=====================================================================
+
+Este tema se toca con la guitarra afinada en mi bemol (medio tono
+más abajo)para que el voicing de los acordes sea el correcto y suene
+en el tono de la original.
+
+Transporto el cifrado para que sea más fácil de leer, el cifrado real se
+logra agregando un bemol a cada acorde.
+
+Esto quiere decir que teniendo la guitarra afinada en Eb leeremos y
+tocaremos como si esta estuviese aún en E.
+
+...y dice...
+
+
+ A-7...
+
+ A-7     F#º7   Bº7        E7
+Abrázame       y muérdeme
+Bº7        Bb7         A-7
+Llévate contigo mís heridas
+ A-7    F#º7       Bº7   E7
+aviéntame         y déjame
+Bº7            Bb7        A-7
+Mientras yo contemplo tu partida
+ C7/G             F#º7          Fmay7
+En espera de que vuelvas y tal vez vuelvas por
+A-7      E7
+mí
+
+
+ A-7       F#º7      Bº7    E7  A
+Y ya te vas      qué me dirás, dirás
+   A7        D-7
+Qué poco sabes tú decir
+
+           G7    C         Fmay7
+Despídete,    ya no estarás
+  Bº7         E7          Eº7       A7
+Al menos ten conmigo esa bondad
+     D-7       G7    Cmay7      Fmay7
+Te extrañaré     no mentiré
+  Bº7             E7          A-7
+Me duele que no estés y tú te vas
+
+
+A-7   Emay/G#   C7/G   C7   Fmay7   Fmay7/E   Bº7
+[E7   G7/B]    A-7   F#º7   Bº7   E7   A-7   Bº7    E7
+
+
+ A-7       F#º7     Bº7           E7
+Amárrame          y muérdeme
+Bº7      Bb7        A-7
+Llévate contigo mis heridas
+   A-7    F#º7     Bº7     E7
+Murmúrame        y ládrame
+Bº7             Bb7            A-7
+Grita hasta que ya no escuche nada
+     C7 C7/G    F#º7        Fmay7
+Sólo ve cómo me quedo aquí esperando a que
+     A-7
+no estés
+
+     C7/G         F#º7         Bbº7
+En espera de que vuelvas y tal vez vuelvas por
+A-7
+MI
+     C7/G        F#º7          Fmay7
+En espera de que vuelvas y tal vez vuelvas por
+A-7         A-7(9)
+MI.
+
+Acordes:
+
+A-7
+----0----
+----1----
+----0----
+----2----
+----0----  Bajo
+----x----
+
+F#º7  (semi-disminuido o disminuido séptima dominante)
+----0----
+----1----
+----2----
+----2----
+----x----
+----2----  Bajo
+
+Bº7
+----x----
+----3----
+----2----
+----3----
+----2----   Bajo
+----x----
+
+
+E7
+----4----
+----3----
+----4----
+----2----Bajo
+----x----
+----x----
+
+C7/G
+----3----
+----5----
+----3----
+----5----
+----3----
+----3----   Bajo
+
+Fmay7
+----0----
+----1----
+----2----
+----2----
+----x----
+----1----   Bajo
+
+Para Fmay7/E usen este mismo acorde pero acentuando el bajo
+en la cuarta cuerda.
+
+G7: con barra en 3er. Traste
+
+Eº7: como Bº7 pero en el séptimo traste.
+
+A7: con barra en el 5to traste. (voicing: 1, 5, 7, 3, 5, 1)
+
+D-7: Suena mejor el que se hace con barra en el quinto traste.
+         (1, 5, 7, 3, 5)
+
+C  (aquí A MI me gusta este)
+----3----
+----5----
+----5----
+----5----
+----3----   Bajo
+----x----
+
+Cmay7
+----3----
+----5----
+----4----
+----5----
+----3----   Bajo
+----x----
+
+G7/B
+----7----
+----6----
+----7----
+----x----
+----x----
+----7----   Bajo
+
+E/G#
+----0----
+----0----
+----1----
+----x----
+----x----
+----4----   Bajo
+
+A-7(9)
+----7----
+----5----
+----5----
+----5----
+----7----
+----5----    Bajo
+
+Espero la disfruten.
+Dudas y correcciones bienvenidas.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,97 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Jesse y Joy                                              |
+| CANCION: ME QUIERO ENAMORAR                                       |
+| AUTOR:   -?-                                                      |
+| ALBUM:   Con Quien se Queda el Perro                              |
++------------------------------------------------------TAB-jyjy0454-+
+| TRANS:   Édgar                                                    |
+=====================================================================
+
+Intro   Riff 1        Riff 2                  Csus2/B   X2001X
+                                                Fsus2   1X301X
+Riff 1
+   C         Csus2/B      Fsus2
+e-------------------------------------------------------
+B-----1-----1-----1-----1-----1-----1-----1-----1-------
+G----0-----0-----0-----0-----0-----0-----0-----0--------
+D---2-----2-----0-----0-----3-----3-----3-----3---------
+A--3-----3-----2-----2----------------------------------
+E--------------------------1-----1-----1-----1----------
+
+Riff 2
+   C         Csus2/B      Fsus2        /G  /A  /B
+e-------------------------------------------------------
+B-----1-----1-----1-----1-----1-----1-----------0-------
+G----0-----0-----0-----0-----0-----0----0---2-----------
+D---2-----2-----0-----0-----3-----3---------------------
+A--3-----3-----2-----2----------------------0---2-------
+E--------------------------1-----1------3---------------
+
+     C               Csus2/B          Fsus2
+Me puedo imaginar pero no sé cómo se siente,
+        C                 Csus2/B        Fsus2
+que el mundo se detenga cuando acaricia mi, piel,
+         C                  Csus2/B           Fsus2
+que las manos del reloj no giren si no está presente,
+ C                       Csus2/B           Fsus2
+dicen que es tan suave y dulce y fluye como miel.
+
+PRECORO
+  C      Csus2/B     Fsus2
+Cuanto tiempo, tardará, ¿O no es para todos?,
+       C     Csus2/B        Fsus2
+¿Por qué, de mí se, esconderá?,
+ Riff 3
+¿Dónde está?
+
+Riff 3
+  G6*     Am7*    G7*
+e-----0------0-------1------1---
+B----3------1-------3------3----
+G---0------0-------0------0-----
+D-------------------------------
+A---------0-------2------2------
+E--3----------------------------
+
+CORO                                              Fadd9   X8706X
+ FAdd9   G            Am      C
+Quiero amar y sin pensar, entregarlo todo,
+ FAdd9   G         Am      C           FAdd9
+quiero que mi corazón, intercambie su lugar,
+          G             C  Csus2/B  Am  Am/G
+con el de alguien especia, ah ah ah al,
+       D/F#                 F                 G         C
+quiero despertar, te quiero encontrar y me quiero enamorar.
+
+Inter   Csus2/B   Fsus2   C   Csus2/B   Fsus2    G
+
+No quiero imaginar, quiero saber cómo se siente,
+que un beso me desnude el alma y me hormigueen los, pies,
+sus brazos sean mi abrigo en los fríos de Diciembre,
+y en los días de verano juntos ver el Sol nacer.
+
+PRECORO
+CORO
+
+SOLO  C   Csus2/B   Am   Em   F   C   G6*   Am7*  G7*   (2)
+
+CORO
+
+FINAL
+Csus2/B   Am   Am/G
+        D/F#                 Fsus2            G         C
+Quiero despertar, te quiero encontrar y me quiero enamorah,
+Csus2/B  Am   Am/G
+ah ah ah ah!
+        D/F#              Fsus2               G /A /B   C
+quiero despertar, te quiero encontrar y me quiero enamorar.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

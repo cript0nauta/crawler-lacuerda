@@ -1,0 +1,127 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: QUIEN FUERA                                              |
+| AUTOR:   Silvio Rodríguez                                         |
+| ALBUM:   Silvio                                                   |
++------------------------------------------------------TAB-srod1442-+
+| TRANS:   Kruner,                                                  |
+=====================================================================
+
+(jaiglesi@cc-cr.uclm.es)
+**********************************************************************
+
+La cancion en general es muy facil de tocar pues sigue
+una base de inicio aa final, puede ser arreglado con algunos intervalos
+en el momento que cada uno considere pertinente,
+la estructura base es la siguiente
+
+Intro:
+
+  G                  Em
+-------------------------------------------------
+------2---------2--------------------------------
+-----0-----0---0--0---------------0-2-0---0------
+---4---------4-------4--2---0-2-4-------4---2-0--
+-------------------------------------------------
+-3-----------------------------------------------
+
+
+  C                    Am
+------------------------------------------
+-------3---------3----------3-------3-----
+-----0-----0---0---0-------0---0--0---0---
+---4---------4-----------4------4---------
+-3---------------------0------------------
+------------------------------------------
+
+  Bm7                  D/F#                      G
+-------------------------------2--2-3-2-----------
+-------3---------3-----------3----------5-3-------
+-----0-----0---0---0-------0----------------5-4-0-
+---4---------4-----------4------------------------
+-2------------------------------------------------
+--------------------------------------------------
+
+
+
+
+G                      Em
+  Estoy buscando una palabra
+G                       Em
+  En el umbral de tu misterio
+C
+  Quien fuera Alibabá
+Am                          Bm
+  Quien fuera el mítico Simbad
+                               C
+  Quien fuera un poderoso sortilegio
+         D             G
+  Quien fuera un encantador
+
+
+=== Arpegio G - Em x2 ===
+
+G                  Em
+-------------------------------------------------
+------2---------2--------------------------------
+-----0-----0---0--0---------------0-2-0---0------
+---4---------4-------4--2---0-2-4-------4---2-0--
+-------------------------------------------------
+-3-----------------------------------------------
+
+
+(se repiten acordes)
+
+Estoy buscando una escafandra
+Al pie del mar de los delirios
+Quien fuera Jacques Coustau
+Quien fuera Nemo el Capital
+Quien fuera el batiscafo de tu abismo
+Quien fuera explorador
+
+G                 Em
+Corazón, corazón, oscuro
+G                 Em
+Corazón, corazón, con muros
+C
+corazón, que se esconde
+Am
+corazón, que está donde
+Bm7                  Am
+corazón, corazón, en fuga
+D                    G
+herido de dudas de amor
+
+== Intro ==
+
+Estoy buscando melodias
+Para tener como llamarte
+Quien fuera ruiseñor
+Quien fuera Lennon y Mac Carney
+Sin toda la violeta, chico buarque
+Quien fuera tu trovador
+
+Corazón, corazón, oscuro
+Corazón, corazón, con muros
+Corazón, que se esconde
+ay! corazón, que está donde
+corazón, corazón, en fuga
+herido de dudas de amor
+
+Para finalizar se puede tocar el inicio normal,
+luego hacer una alternancia de arpegios ascendentes a partir de C
+y terminar con una vuelta mas del arpegio natural.
+
+Para mi hijita hermosa =)
+para que algun dia la cante junto conmigo
+tk mensa ^^
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

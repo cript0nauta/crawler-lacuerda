@@ -1,0 +1,158 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: CUANDO PASE EL TEMBLOR                                   |
+| AUTOR:   Gustavo Cerati                                           |
+| ALBUM:   Nada Personal (1985)                                     |
++------------------------------------------------------ACO-soda0116-+
+| TRANS:   Tomás, Manuel                                            |
+=====================================================================
+
+Rasgueo: Abajo, Arriba, Silencio
+
+Intro: [Am G F Em]x2
+
+
+Am  G                    F
+Yo, caminaré entre las piedras
+Em                      C
+hasta sentir el temblor
+F          C       Gm
+ en mis piernas.
+           C              Gm
+A veces tengo temor (lo sé)
+               D
+a veces vergüenza.
+F  B7
+Oh oh
+
+
+Am     G                       F
+Estoy, sentado en un cráter desierto
+Em                        C
+sigo aguardando el temblor
+F         C     Gm
+ en mi cuerpo.
+          C                Gm
+Nadie me vio partir (lo sé),
+            D
+nadie me espera.
+F  B7
+Oh oh.
+
+
+Em            B7
+Hay una grieta en mi corazón
+Em        B7
+un planeta con desilusión
+
+[Cmaj7 Cadd9]x2
+
+[FM7/C]
+
+Am  G                           F
+Sé, que te encontraré en esas ruinas
+Em                       C             F
+ya no tendremos que hablar (que hablar)
+      C      Gm
+del temblor.
+        C                    Gm
+Te besaré en el temblor (lo sé)
+     D
+será un buen momento.
+F  B7
+Oh oh
+
+Em            B7
+Hay una grieta en mi corazón
+Em         B7
+un planeta con desilusión
+
+[Cmaj7 Cadd9]x2
+
+[FM7/C]
+
+
+
+Final= Intro x1 [C Dm A#] hasta cuando termina la canción
+
+Am         G        F
+Oh oh oh oh oh oh oh
+Em
+Oh oh oh oh oh oh oh
+         C
+el temblor
+           Dm
+(Despierta-me)
+                    A#
+cuando pase el temblor.
+C            Dm                    A#
+(Despierta-me) cuando pase el temblor
+C            Dm                    A#
+(Despierta-me) cuando pase el temblor.
+C             Dm  A
+Despierta-me
+
+
+Acordes:
+
+ Am       G       F       Em
+______  ______  ______  ______
+||||@|  ||||||  ======  ||||||
+||@@||  |@||||  |||@||  |@@|||
+||||||  @||||@  |@@|||  ||||||
+||||||  ||||||  ||||||  ||||||
+||||||  ||||||  ||||||  ||||||
+
+  C       Gm      D       B7
+______  ______  ______  ______
+||||@|  ||||||  ||||||  ||@|||
+||@|||  ||||||  |||@|@  |@|@||
+|@||||  ======  ||||@|  ||||||
+||||||  ||||||  ||||||  ||||||
+||||||  |@@|||  ||||||  ||||||
+
+Cmaj7    Cadd9    Dm      A#
+______  ______  ______  ______
+||||||  ||||||  |||||@  ======
+||@|||  ||@|||  |||@||  ||||||
+|@||||  |@||@@  ||||@|  ||@@@|
+||||||  ||||||  ||||||  ||||||
+||||||  ||||||  ||||||  ||||||
+
+FM7/C
+______
+||||@|
+|||@||
+|@@|||
+||||||
+||||||
+
+Anotaciones:
+
+- Entre los dos Gm se puede reemplazar el C por un C9
+  pero no es necesario.
+
+- En el final, se puede utilizar el siguiente C por
+  cuestión de comodidad en los cambios.
+
+  C9      C
+______  ______
+||||||  ||||||
+||@|||  ||||||
+|@|@@|  ======
+||||||  ||||||
+||||||  ||@@@|
+
+
+
+Por Sergio Figeroa
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

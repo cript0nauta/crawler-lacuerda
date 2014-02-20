@@ -1,0 +1,159 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Patricio Rey y sus Redonditos de Ricota                  |
+| CANCION: YO CANIBAL                                               |
+| AUTOR:   Beilinson-Solari                                         |
+| ALBUM:   Lobo suelto, cordero atado II (1993)                     |
++------------------------------------------------------TAB-redo0973-+
+| TRANS:   pupi_87                                                  |
+=====================================================================
+
+Bueno, aca dejo éste temazo de Los Redondos. Creo que la transcripcion
+no tiene errores, pero cualquier duda o sugerencia manden un mail
+a pupi_elocho@hotmail.com
+
+Cifrado:
+*  = este es el tempo (que yo lo marco con el pie generalmente)
+~  = vibrato
+/  = slide
+( )= estirar
+p  = pull-off [desligar]
+
+Acordes:
+   D5       D6
+e-------  e-------
+B-------  B-------
+G-------  G-------
+D---7---  D---8---
+A---5---  A---5---
+E-------  E-------
+
+   Bb       Am
+e---6---  e---5---
+B---6---  B---5---
+G---7---  G---5---
+D---8---  D---7---
+A---8---  A---7---
+E---6---  E---5---
+
+
+Ahí va...
+
+Intro
+  D5            D6  D5     Bb             Am
+   *   *   *   *   *   *   *   *           *   *   *   *   *   *   *   *
+e--------------------------6-6-6---|--|--5~~~----------5-----------------|
+B--------------------------6-6-6---|--|--5~~~--------------5-------------|
+G--------------------------7-7-7---|--|--5~~~------------------5---------|
+D--7~~-7-7-7-7-7-8---7-------------|X4|--7~~~----------------------------|
+A--5~~-5-5-5-5-5-5---5-------------|--|--7~~~----------------------------|
+E-----[---------------]------------|--|--5~~~----------------------------|
+      [___palm mute___]
+
+  Bb                                  Am
+   *   *   *   *   *   *   *   *      *   *   *   *   *   *   *   *
+e--6-------------------------------|--5-----------5-----------5--------|
+B--6-------------------------------|--5-----5-----------5---------5----|
+G--7-------------------------------|--5--------------------------------|
+D--8-------------------------------|--7--------------------------------|
+A--8-------------------------------|--7~-------------------------------|
+E--6---------------5/6-6-6---------|--5--------------------------------|
+
+  Am/Bb           Am/Bb
+   *   *   *   *   *   *   *   *
+e--5/6-6-6~~~------5/6-6-6~~~------|
+B--5/6-6-6~~~------5/6-6-6~~~------|
+G--5/7-7-7~~~------5/7-7-7~~~------|
+D--7/8-8-8~~~------7/8-8-8~~~------|
+A--7/8-8-8~~~------7/8-8-8~~~------|
+E--5/6-6-6~~~------5/6-6-6~~~------|
+
+
+(Los versos se tocan en base a la intro)
+
+D5                    D6-D5  Bb  D5       D6-D5  Bb
+  No se entiende el menú pero la salsa abuuunda.
+D5                   D6-D5  Bb   D5       D6-D5  Bb
+  Soy un gourmet que huele eternamente mal.
+Am                                   Bb
+  Viejas compotas que no dan respiro,  al caníbal que hay en mi
+Am                                   Bb
+  (que no es bien recibido en un banquete así).
+
+D5                 D6-D5     Bb       D5      D6-D5   Bb
+  Se amasan las fortunas, se cargan los bolsillos
+D5                 D6-D5 Bb    D5      D6-D5   Bb
+  de presa seca, de oro falso, de vermouth.
+Am                                 Bb
+  Me acaban el cerebro a mordiscos,  bebiendo el jugo de mi corazón
+Am                           Bb
+  y me cuentan cuentos al ir a dormir.
+
+
+Estribillo
+F         C            Bb
+  A un cordero de mi estilo
+F         C            Bb
+  a un caníbal de mi estilo.
+
+
+(Solo)
+D5 D6-D5 Bb | D5 D6-D5 Bb | D5 D6-D5 Bb | D5 D6-D5 Bb | (saxo)
+Am          | Bb          | Am          | Bb          | (guitarra)
+
+
+  D5            D6 D5     Bb          Am
+  *   *   *   *   *   *   *   *        *    *   *   *   *   *   *   *
+e----------------------------------|------------------------------------|
+B---------------------------6------|-8(10)------------------------------|
+G-----------------------5-7---7----|------7-7-----------------------5-7-|
+D-------------------5-7------------|----------------------------5-7-----|
+A----------------------------------|------------------------------------|
+E----------------------------------|------------------------------------|
+
+    Bb                                   Am
+    *   *   *   *      *   *   *   *     *   *   *   *   *   *   *   *
+e--------------------------------------|---------------------------------|
+B-6/8---6-8---6---8(10)--8---6---5-6---|-5-------------------------------|
+G--------------------------------------|-----5-5~~~~-----------------5-7-|
+D--------------------------------------|-------------------------5-7-----|
+A--------------------------------------|---------------------------------|
+E--------------------------------------|---------------------------------|
+
+    Bb                               D5            D6 D5     Bb
+    *   *   *   *   *   *    *   *   *   *   *   *   *   *   *   *
+e----------------------------------|-10~~~---------------------------|
+B-6/8---6-8---6---8---6---8(10)8p6-|---------------------------------|
+G----------------------------------|-7~~~----------------------------|
+D----------------------------------|---------------------------------|
+A----------------------------------|---------------------------------|
+E----------------------------------|---------------------------------|
+                                        Voy al...
+
+D5          D6-D5 Bb    D5     D6-D5  Bb
+  Voy al Colise-o a prenderme fuego
+D5               D6-D5  Bb   D5      D6-D5  Bb
+  (mi racha de nova-to nunca cambiará).
+Am                                       Bb
+  ¡Por favor! que el adiós no se alargue,  me cansé de tanto esperar...
+Am                                Bb
+  cuando el fuego crezca quiero estar allí. Oooh
+
+Estribillo
+F       C            Bb
+  Un cordero de mi estilo.
+F      C             Bb
+  un caníbal de mi estilo.
+F       C            Bb
+  Un cordero de mi estilo.
+F      C             Bb       D5~~~
+  un caníbal de mi estiiiiiiiilo.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

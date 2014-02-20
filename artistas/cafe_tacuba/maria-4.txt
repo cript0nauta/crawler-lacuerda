@@ -1,0 +1,110 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Café Tacuba                                              |
+| CANCION: MARIA                                                    |
+| AUTOR:   J. Rangel                                                |
+| ALBUM:   Cafe Tacuba                                              |
++------------------------------------------------------TAB-tacb0354-+
+| TRANS:   Alejandro                                                |
+=====================================================================
+
+INTRO
+
+e|-9-9-x-x-9-9-9--12-11-10-10--9--9--x-x--9--9--9---7-7-9-7|
+B|-9-9-x-x-9-9-9---9--9--9--9--10-10-x-x--10-10-10--9-9-9-9| X 2
+G|-9-9-x-x-9-9-9---------------9--9--x-x--9--9--9---9-9-9-9|
+
+NOTA: LA CLAVE DE ESTA CANCIÓN ESTA EN LOS TIEMPOS,LAS NOTAS
+SON LAS CORRECTAS SI BIEN SON LAS MISMOS NOTAS ACORDES
+(TIPO I Y II) PERO CADA ACORDE TIENE UN DIFERENTE COLOR EN LA
+ARMONÍA DE LA CANCIÓN DEBIDO A SU POSICIÓN EN EL DIAPASÓN.
+
+x - NOTA MUERTA
+
+ESTROFA #1
+
+C#m(I)        E(I)      A(I)   G#m7
+Sale sola de noche Maria
+C#m(II)       E(II)     A(I)   G#m7
+Pena por la ciudad
+C#m(II)       E(II)     A(I)   G#m7
+Recorriendo las calles que un dia
+C#m(I)        E(I)      A(I)   G#m7
+Nego besos en la oscuridad.
+C#m(II)       E(II)     A(I)   G#m7
+Y se nubla la vista Maria
+C#m(II)       E(II)     A(I)   G#m7
+Porque duele recordar
+C#m(II) RASGUEO HACIA BAJO Y PAUSA    E(II)
+Que los besos negados Maria-a
+     A(II)    G#m7
+Nunca mas regresara-an
+A  [II]  RASGUEO HACIA ABAJO PAUSA  G#m7 RASGUEO ABAJO PAUSA
+Ah Ah.
+
+Harmonica (Arreglo Guitarra) # 1
+
+e||--5/7~--5-5/4--4----|--4/5~-5--4--4/7~--|--4/5~-5--4-4----|
+B||-----------------5~-|-------------------|--------------5~-|
+
+ESTROFA #2
+
+C#m(II) RASGUEO HACIA BAJO Y PAUSA    E(II)      A(I)    G#m7
+En las noches por ese camino
+C#m(I)        E(I)      A(I)   G#m7
+Algo extraño suele pasar
+C#m(II) RASGUEO HACIA BAJO Y PAUSA  E(II)
+Al sentir en los labios el frio
+  A(I)    G#m7
+De otros labios que no veras
+
+PUENTE (SE TOCA EL INTRO CON UNA VARIACIÓN)
+e||--9---------12-11-10-10--9-----------7-7-9-7-||
+B||--9-(PAUSA)--9--9--9--9--10--(PAUSA)-9-9-9-9-||
+G||--9----------------------9-----------9-9-9-9-||
+
+Es Maria quien pena en las calles
+Y debajo de un farol
+
+(SE TOCA EL INTRO)
+Roba besos y vida a la gente
+
+Mientras ella yace en un cajon
+A(I)  RASGUEO AbAJO Y PAUSA  G#m7 RASGUEO HACIA BAJO Y PAUSA
+Ah Ah.
+   A(I)     G#m7
+Maria bonita,
+   A(I)     G#m7
+Maria marchita.
+
+Harmonica (Arreglo Guitarra) # 2
+
+e||--5/7~--5-5/4--4----|--4/5~-5--4--5/7~--|--4/5~-5--4-4----|
+B||-----------------5~-|-------------------|--------------5~-|
+
+e||--4/5~-5--4-4---(7~-5-4)--(4-veces)-----|
+B||----------------------------------------|
+
+e||--7~-7~-7~-5-5/4--4------4/5~-5--4-4----|
+B||--------------------5~---------------5~-|
+TERMINA CON: A(I) 4 TIEMPOS Y FINALIZA CON G#m7 RASGUEO ABAJO
+
+ACORDES UTILIZADOS:
+
+   Tipo I  Tipo II   Tipo I   Tipo II  Tipo I  Tipo II
+    C#m(I)  C#m(II)   E(I)     E(II)    A(I)   A(II)  G#m7
+e||--9-------4---------7---------4-------5-------5-----4----|
+B||--9-------5---------9---------5-------5-------5-----4----|
+G||--9-------6---------9---------4-------6-------6-----4----|
+D||----------6-------------------6---------------7-----4----|
+A||----------4-----------------------------------7-----6----|
+E||----------------------------------------------5-----4----|
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,176 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Enanitos Verdes                                          |
+| CANCION: TUS VIEJAS CARTAS                                        |
+| AUTOR:   Marciano Cantero                                         |
+| ALBUM:   Contra Reloj (Ü¿¿)                                       |
++------------------------------------------------------TAB-enan0713-+
+| TRANS:   Arturo                                                   |
+=====================================================================
+
+Para tocar esta cancion obviamente vas a ocupar un piano, un vocalista 
+y dos guitarras. En esta cancion no hay nada de percusiones ni bajos asi 
+que tienen que llevar muy bien el ritmo.
+
+Este tab es muy bueno (para ser mi primero), casi todo lo saque la primera vez 
+que lo intente sacarlo. Si lo practican es muy facil.
+
+v~: Vibrato
+br~: Bend & Release
+b~: Bend
+h: Hammer on
+p: Pull off
+/: Slide down
+\: Slide up
+//: Tremolo bar (palanca)
+(x): Nota fantasma (se oye muy poco)
+
+Aqui en el intro y hasta que yo te diga se toca puro piano, con arreglos pero
+los acordes son estos:
+
+Intro: G Em Am D
+
+   G
+Estuve leyendo 
+ Em
+tus viejas cartas
+    Am
+donde me hablabas
+ D
+de amor
+  G
+usando palabras 
+    Em
+querias decirme
+ Am
+ya no puedo estar 
+     D
+sin vos
+
+   C        D   Em
+Y donde quedo ahora
+  C         D    Em
+esa hermosa ilusion
+ C      D       Em
+de regalarte a vos
+      F          D
+lo mejor de mi amor
+
+Empieza la 1era guitarra con arpegeos de los acordes:
+
+Por ejemplo en G es asi (todos los acordes que se tocan con arpegeo se tocan
+en este orden):
+e|-------3-----|
+B|---3-----3---|
+G|-----0-----0-|
+D|-------------|
+A|-------------|
+E|-3-----------|
+
+   G
+Creimos que todo 
+   Em
+habia cambiado
+      Am
+no habia razon 
+      D
+ya para estar mal
+   G
+pero el otono 
+    Em
+golpeo nuestra puerta
+Am
+y como una hoja 
+          D
+nuestro amor murio
+
+   C        D   Em
+Y donde quedo ahora
+  C         D    Em
+esa hermosa ilusion
+ C      D       Em
+de regalarte a vos
+      F          D
+lo mejor de mi amor
+
+   F
+A veces los sentimientos 
+        C
+no se pueden manejar
+e|-----|
+B|-5p3-|
+G|-----|
+D|-----|
+A|-----|
+E|-----|
+    F
+y cuando nos atrapan 
+      C
+no podemos escapar 
+       Am          Am7     D
+y es asi, nuestro corazon sufre
+
+Solo de guitarra (mientras se toca el solo con la primera guitarra se rasguean los
+acordes que estan arriba del solo con la segunda guitarra a un volumen muy bajo, y
+el piano nada mas hace camas de los acordes).
+         G                  Em            Am
+e|-----------------------------------------------------------------|
+B|--8-10-11-10-(8)h10v~--8-10-11-10-(8)h10-10-5----7-8-7-5---------|
+G|-----------------------------------------------7---------7br~br~-|
+D|-----------------------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+   D                       G              Em                    Am
+e|----------------------------------------------------------------------|
+B|-----------------------------------------8-10-11-11/12-8--15-17-19-20-|
+G|--------------------------(10)/12-10-9-7------------------------------|
+D|-5h7-5----------------------------------------------------------------|
+A|-------7-7h8-7-5-5h7-5v~----------------------------------------------|
+E|----------------------------------------------------------------------|
+                  D
+e|------------------------------------------------|
+B|-19-17-15b~17-15--15-17-17\15---------(17)-(15)-|
+G|------------------------------13-15//-----------|
+D|------------------------------------------------|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+Luego sigue el arpegeo y la segunda guitarra se calla.
+G
+Y sigue y sigue 
+       Em
+dando vueltas y vueltas
+    Am               D
+la loca rueda de la vida
+   G            Em
+y sigue rodando en mi cabeza
+     Am                  D
+el enigma cautivante de tu voz
+
+   C        D   Em
+Y donde quedo ahora
+  C         D    Em
+esa hermosa ilusion
+ C      D       Em
+de regalarte a vos
+
+Aqui empieza la segunda guitarra a rasguear los acordes junto con el arpegeo
+      F          Em
+lo mejor de mi amor
+      F          Em
+lo mejor de mi amor
+      F          Em
+lo mejor de mi amor
+        D  C
+de mi amor
+
+El final es un arpegeo de C y luego un solo rasgueo hacia abajo de C de las dos guitarras
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,114 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Mago De Oz                                               |
+| CANCION: LOS RENGLONES TORCIDOS DE DIOS                           |
+| AUTOR:   Carlitos ?, Frank ?, Txus                                |
+| ALBUM:   Finisterra (2000)                                        |
++------------------------------------------------------BAJ-mdoz0312-+
+| TRANS:   Pintxo                                                   |
+=====================================================================
+
+
+TABLATURA PARA BAJO
+
+
+SOLO 1:
+
+G|-------------3-2-0-----------------------------7-------------------------------------------------------|
+D|-0-2-3-2-0---------3-2-3--5-3-2--0----3-2-0--7---0-2-3-2-0-----0-3-2---5-----------2-0-3-----0-3-2-5---|
+A|-----------1------------------------3----------------------3-1-----------1h3p1-0-3-------0-1---------1-|
+E|-------------------------------------------------------------------------------------------------------|
+
+
+Durante el SOLO 2:
+
+	  x2	      x3 
+G|----------|-----------|-------------|
+D|----------|-----------|-------------|
+A|--0----1--|--0-0-1-3--|--0-0-1-3-5--|
+E|----------|-----------|-------------|
+
+
+RIFF 1:
+
+G|--------------|-----------|-----------------|-------|
+D|--------------|-----------|-----------------|-------|
+A|--5--5--3--1--|--5--3--1--|--1-1-1-1-1-1-3--|--3-2--|
+E|--------------|-----------|-----------------|-------|
+	         &lt;-- P.M.--&gt;
+
+'Igual que ayer llovía tristeza como estrella fugaz,
+ que muere discreta, efímera sin dejar rastro al marchar;
+ Hoy la mañana tiene la tontería y la mirada del Sol,
+ está cansina, legañosa y hastía, despliega sus rayos con sopor'
+
+RIFF 2:
+
+G|--------------|-----|
+D|--------------|-----|
+A|-----------3--|--5--|
+E|--3--5--6-----|-----|
+  &lt;---P. M. ---&gt;
+
+'Estorba la mañana a quien no es capaz de comprender,
+ que tres y seis no son diez, que es quien es y no quien cree'
+
+
+RIFF 3:
+
+G|---------|-----------------------|
+D|---------|-----------------------|
+A|--3-1-0--|--5--3--1--3--1--3--5--|
+E|---------|-----------------------|
+		    &lt;----P. M. ----&gt;
+
+'Dame la paz...y te alzaré un templo;
+ Hazles callar...hay voces aquí;
+ Dame la paz...pues busco y no encuentro,
+ el camino de vuelta a vivir'
+
+RIFF 4:
+
+G|-------------------------------|-----------------------|
+D|-------------------------------|-----------------------|
+A|--5-5---1-1---3-3---5-5---5-3--|--5-5---1-1---3-3---5--|
+E|-------------------------------|-----------------------|
+
+
+RIFF 5:
+
+G|-----------------------------|----------------------------|
+D|-------3-------------3-------|--------------------3-------|
+A|--5--7----3-5---5--7----3-1--|--1-0-1--3-3---3-3-----3-5--|
+E|-----------------------------|----------------------------|
+
+
+ESTRUCTURA:
+INTRO/SOLO1
+SOLO2
+guitarra
+RIFF1
+RIFF2
+RIFF1/violín1
+RIFF1/violín2
+RIFF1
+RIFF2
+RIFF1/violín1
+RIFF3
+RIFF1/violín2
+SOLO3/RIFF4
+guitarra
+RIFF5/violín3
+RIFF5/violín4
+RIFF1
+RIFF3 X2
+FINAL
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

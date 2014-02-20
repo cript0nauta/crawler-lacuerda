@@ -1,0 +1,120 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Attaque 77                                               |
+| CANCION: AMIGO                                                    |
+| AUTOR:   Roberto Carlos                                           |
+| ALBUM:   Otras Canciones                                          |
++------------------------------------------------------TAB-at770083-+
+| TRANS:   Alexander                                                |
+=====================================================================
+
+SIm   SOL   LA    RE    MIm   FA#         SIm   SOL   LA    RE    MIm   FA#    
+e|-x-| |-x-| |-x-| |-x-| |-x-| |-x-|      e|-2-| |-3-| |-0-| |-5-| |-0-| |-2-|
+B|-x-| |-x-| |-x-| |-x-| |-x-| |-x-|      B|-3-| |-3-| |-2-| |-7-| |-0-| |-2-|
+G|-x-| |-x-| |-x-| |-7-| |-x-| |-x-|      G|-4-| |-4-| |-2-| |-7-| |-0-| |-3-|
+D|-9-| |-5-| |-7-| |-7-| |-2-| |-4-|      D|-4-| |-5-| |-2-| |-7-| |-2-| |-4-|
+A|-9-| |-5-| |-7-| |-5-| |-2-| |-4-|      A|-2-| |-5-| |-0-| |-5-| |-2-| |-4-|
+E|-7-| |-3-| |-5-| |-x-| |-0-| |-2-|      E|-2-| |-3-| |-0-| |-5-| |-0-| |-2-|
+                               PM  *     *     *     *     *     *      
+
+  RIFF1               RIFF2               RIFF3       RIFF4               RIFF5
+e|-----------------| |-----------------| |---------| |-----------------| |----------------------|
+B|---------2-------| |---------1s3-----| |---------| |-----------------| |----------------------|
+G|----2--------2---| |-----------------| |-----1s7-| |-2-2-1-1---------| |----2--2-2-1-1--------|
+D|---2---2---2---2-| |---1-5-1-----1---| |-----1s7-| |---------4-4---2-| |---2-----------4-4--2-|
+A|-0---------------| |-3-------------3-| |-7s1-----| |-----------------| |-0--------------------|
+E|-----------------| |-----------------| |---------| |-----------------| |----------------------|
+
+  PRE-INTRO     INTRO  
+  ---               SIm                 SOL                 LA                       SIm
+e|-----------| |-------------------|-------------------|----------------------------------|
+B|-----------| |---2--0---2-0--2-0-|---3--2---3-2--3-2-|----3--2---3-2--3-2-1s2-2---------|
+G|-----------| |-------------------|-0------0----0-----|--2------2-----2----------4-2-4b5-|
+D|-4-fade-in-| |-4-----4-----4-----|-------------------|----------------------------------|
+A|-----------| |-------------------|-------------------|----------------------------------|
+E|-----------| |-------------------|-------------------|----------------------------------|
+
+ ***********************************************************************************************
+
+PRE-INTRO (x1)
+INTRO (X2)
+
+      SIm                                   SOL
+Tu eres mi hermano del alma realmente el amigo
+        SOL                                    RE 
+que en todo camino y por nada está siempre conmigo    RIFF1
+        SOL                                     MIm
+Aunque eres un hombre aun tienes el alma de un niño   RIFF2
+   FA#                                      SIm
+aquel que me da su amistad, su respeto y cariño       RIFF3
+
+
+   SIm                                     SOL
+Recuerdo que juntos pasamos muy duros momentos
+        SOL                                        RE 
+y tú no cambiaste por fuertes que fueron los vientos  RIFF4
+    SOL                              MIm
+Es tu corazón una casa de puertas abiertas            RIFF2
+   FA#                                     SIm
+Tu eres realmente el más cierto en horas inciertas
+
+
+INTRO (x1)
+
+   SIm                                       SOL
+En ciertos momentos difíciles que hay en la vida
+   SOL                                      RE 
+buscamos a quien nos ayude a encontrar la salida      RIFF1
+    SOL                                        MIm
+y aquella palabra de fuerza y de fe que me has dado   RIFF2
+   FA#                                      SIm
+me da la certeza que siempre estuviste a mi lad .     RIFF3
+
+
+   SIm                                 SOL
+Tu eres mi amigo del alma en toda jornada
+   SOL                              RE 
+sonrisa y abrazo, testigo a cada llegada              RIFF5
+    SOL                                     MIm
+me dices verdades tan grandes con frases abiertas     RIFF2
+   FA#                                        SIm
+Tu eres realmente el más cierto en horas inciertas
+
+
+INTRO (x1)
+
+      SIm                    SOL
+      No preciso ni decir todo esto que te digo
+          LA                       SIm
+Pero es bueno así sentir que eres tu mi gran amigo
+
+
+ SOLO
+   SIm             SOL                 LA                    SIm
+e|-----------|-----------|-------------0-0-0--------------------|
+B|-----0-0---|-----0-0---|---------0-2-------2-2-2-0------------|
+G|---------2-|-1-2-----2-|-1-2-1-2-------------------2-1--------|
+D|-4s2-------|-----------|-----------------------------------4--|
+A|-----------|-----------|--------------------------------------|
+E|-----------|-----------|--------------------------------------|
+
+   SIm             SOL                 LA
+e|-----------|-----------|-------------0-0-0--------------------|
+B|-0tu-0-----|-----0-0---|---------0-2-------2-2-2-0------------|
+G|-------2---|-1-2-----2-|-1-2-1-2-------------------2-1--------| (x2)
+D|-----------|-----------|-----------------------------------4--|
+A|-----------|-----------|--------------------------------------|
+E|-----------|-----------|--------------------------------------|
+
+Espero que la tablatura les sirva... un saludo para mi querid Diana Bernales del CIFO... La quiero mucho, también un
+beso enorme para esa chica que se que me quiere... bueno... que viva el PUNK!!!
+ARRIBA la banda nacional por ahora llamada DKNK
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

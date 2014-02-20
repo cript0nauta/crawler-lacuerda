@@ -1,0 +1,114 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Intoxicados                                              |
+| CANCION: UNA SEÑAL                                                |
+| AUTOR:   Cristian Alvares (pity)                                  |
+| ALBUM:   Otro dia en el Planeta Tierra (2005)                     |
++------------------------------------------------------TAB-intx0321-+
+| TRANS:   Santiago                                                 |
+=====================================================================
+
+Intro:RE7Am LAm7  LAm7 Re7(9) "abajo esta como hacer los acordes"
+
+LAm
+Necesito una señal
+ LAm7 
+O algo que me diga
+LRE7                           Re7(9)
+    Cuál es el sentido en este mundo
+
+ LAm
+¿Qué es verdad, qué es mentira
+LAm7 
+qué es el bien, què es el mal?
+  RE7Am7                       Re7(9)
+¿Y cual de todas es la mejor realidad?
+
+SOL
+   ¿Y donde estoy parado ahora?
+
+Solo:
+
+E---------------------------------------------------------------------
+B---------------------------------------------------------------------
+G--7b-5---------------5-7-9r7-5-7-5~-----4/5-7-5-4-7b5-77-----5-------
+D-------7~--------5-7----------------5/7------------------5h7---------
+A-----------0-3/7-----------------------------------------------------
+E---------------------------------------------------------------------
+
+E--5-5----------------------------------------------------------------
+B--5-5-----8r5-8------------------------------------------------------
+G--5-5-7b--------5-------------------------5---5-7b5-7/9--------------
+D------------------7------------------5~-7---7------------------------
+A---------------------0-3-3/7-5/3-5/7---------------------------------
+E---------------------------------------------------------------------
+
+
+Cuando esta luz se apague
+Qué sentimientos habrá
+Y si donde voy a ir me va a gustar
+
+Si está bien estimularse
+Para vivir en otro lugar
+¿Y si hay justicia quien la tiene y donde está?
+
+SOL
+   ¿Y donde estoy parado ahora?
+LAm
+    ¿Dónde estara el camino?
+DO                     SOL  SOL7
+   Tengo miedo de resbalar
+
+Solo: RE7Am LAm7  LAm7 Re7(9))X2
+
+Solo 2
+E-------------10-10r---------------------8--12-15r12------------------
+B-12h13x6---8--------8~--10-13-12-10-----8-----------13~-13p12--------
+G------------------------------------9~--9--------------------12------
+D---------------------------------------------------------------12~---
+A---------------------------------------------------------------------
+E---------------------------------------------------------------------
+
+------------------------------------------------------
+------------------------------------------------------
+---12-14b12 14-16~------------------------------------
+------------------------------------------------------
+------------------------------------------------------
+------------------------------------------------------
+
+DO
+   ¿Y donde estoy parado ahora?
+REm
+  ¿Donde estara el camino?
+FA                     DO DO7
+   Tengo miedo de resbalar
+
+Aca le dejos los acordes:
+
+LAm RE7   LAm7      LAm7      Re7(9)
+1--5--    1--5--    1--5--    1--5--
+2--5--    2--5--    2--5--    2--5--
+3--5--    3--5--    3--5--    3--4--
+4--7--    4--6--    4--5--    4--5--
+5-----    5-----    5-----    5-----
+6-----    6-----    6-----    6-----
+
+DO7       SOL7
+1-----    1--1--
+2--1--    2-----
+3--3--    3-----
+4--2--    4-----
+5--3--    5--2--
+6-----    6--3--
+
+"el solo lo tome de la transcripcion de gonzalo, q me suena
+bastante bien"
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================
