@@ -1,8 +1,11 @@
-{% extends "index.html" %}
+{% extends "base.html" %}
+
+{% block title %}{{ titulo }} ({{ nombre_artista }}) - Acordes y tablaturas{% endblock %}
 
 {% block body %}
     <h1>{{ titulo }}</h1> 
-    <h3><a href="/artistas/{{ slug_artista }}/">{{ nombre_artista }}</a></h3>
+    <a href="/artistas/{{ slug_artista }}/">Más canciones de {{ nombre_artista }}</a><br>
+    <a href="/artistas/{{ slug_artista }}/{{ slug_cancion }}.html">Otras versiones de {{ titulo }}</a>
     <p>Puntaje: {{ puntaje }}<br>
        Votos: {{ votos }}</p>
     <pre>

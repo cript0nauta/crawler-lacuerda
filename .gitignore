@@ -2,6 +2,6 @@
 .*.sw?
 *~
 db.db
-sitio/db.json
+sitio/artistas.json
 sitio/artistas/*
 

@@ -10,7 +10,6 @@ from jinja2 import Environment, PackageLoader
 
 default_out = os.path.join(os.path.dirname(__file__), 'sitio/')
 default_db = os.path.join(os.path.dirname(__file__), 'db.db')
-DB_JSON = 'db.json'
 
 parser = argparse.ArgumentParser(description='Genera el sitio estático')
 parser.add_argument('-f', '--db-file', default = default_db, help = 'Fichero SQLite')
@@ -22,39 +21,14 @@ con = sqlite3.connect(args.db_file)
 con.row_factory = sqlite3.Row # Puedo ver los resultados de consultas como dict
 cur = con.cursor()
 
-# Creo el db.json para el buscador client-side
-
+# Genero un JSON con los nombres y slugs de artistas
+print 'Generando JSON de artistas...'
 artistas = dict()
-q = """ SELECT
-            slug, nombre
-        FROM artista """
-for slug, nombre in cur.execute(q):
-    artistas[slug] = nombre
-
-canciones = dict()
-total_canciones = cur.execute('SELECT count(*) FROM cancion').fetchone()[0]
-q = """ SELECT
-            rowid,
-            slug_artista,
-            slug,
-            titulo
-        FROM cancion """
-pbar = ProgressBar(maxval = total_canciones).start()
-pbar.widgets.insert(0, 'Generando db.json... ')
-for rowid, slug_artista, slug_cancion, titulo in cur.execute(q):
-    anterior = canciones.get(slug_artista, []) # Conservo la lista si existe
-    anterior.append(dict(
-        s = slug_cancion,
-        t = titulo
-        ))
-    canciones[slug_artista] = anterior
-    pbar.update(rowid)
-pbar.finish()
-
-f = open(os.path.join(args.output, DB_JSON), 'w')
-f.write(json.dumps(dict(
-    artistas = artistas,
-    canciones = canciones)))
+for slug, nombre in cur.execute("""
+        SELECT slug, nombre FROM artista"""):
+    artistas[nombre] = slug
+f = open(args.output + '/artistas.json', 'w')
+json.dump(artistas, f)
 f.close()
 
 env = Environment(loader=PackageLoader('templates','.'))
@@ -123,6 +97,7 @@ for c in pbar(cur.execute(q).fetchall()):
      render = template_cancion.render(slug_artista = c['slug_artista'],
              nombre_artista = c['artista'],
              slug_cancion = c['slug_cancion'],
+             titulo = c['titulo_cancion'],
              versiones = versiones             
              )
 
@@ -140,7 +115,7 @@ pbar.widgets.insert(0, 'Generando HTMLs para las versiones ... ')
 q = """
 select
 	a.slug as slug_artista,
-	a.nombre as artista,
+	a.nombre as nombre_artista,
 	c.slug as slug_cancion,
 	c.titulo,
 	version,
