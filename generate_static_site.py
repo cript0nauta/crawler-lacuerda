@@ -10,6 +10,8 @@ from jinja2 import Environment, PackageLoader
 from pyquery import PyQuery as P
 from crawler import get_pq
 
+PATH = '/'
+
 default_out = os.path.join(os.path.dirname(__file__), 'sitio/')
 default_db = os.path.join(os.path.dirname(__file__), 'db.db')
 
@@ -64,7 +66,7 @@ for e in pq_cpop:
 
 f = open(os.path.join(args.output, 'index.html'), 'w')
 template_index = env.get_template('index.html')
-render = template_index.render(cpop = cpop, artpop = artpop)
+render = template_index.render(path = PATH, cpop = cpop, artpop = artpop)
 f.write(render.encode('utf8'))
 f.close()
 
@@ -90,7 +92,7 @@ for slug, nombre in pbar(cur.execute(q).fetchall()):
     for slug_c, titulo in cur.execute(q, [slug]):
         canciones.append(dict(titulo=titulo, slug=slug_c))
 
-    render = template_artista.render(nombre = nombre, slug = slug, 
+    render = template_artista.render(path = PATH, nombre = nombre, slug = slug, 
             canciones = canciones)
     f = open(os.path.join(args.output, 'artistas', slug, 'index.html'), 'w')
     f.write(render.encode('utf8'))
@@ -137,7 +139,8 @@ for c in pbar(cur.execute(q).fetchall()):
              nombre_artista = c['artista'],
              slug_cancion = c['slug_cancion'],
              titulo = c['titulo_cancion'],
-             versiones = versiones             
+             versiones = versiones,
+             path = PATH
              )
 
      f = open(os.path.join(args.output, 'artistas', c['slug_artista'], 

@@ -3,17 +3,17 @@
 {% block title %}{{ titulo }} ({{ nombre_artista }}) - Acordes y tablaturas{% endblock %}
 
 {% block body %}
-    <a href="/artistas/{{ slug_artista }}/">Más canciones de {{ nombre_artista }}</a>
+    <a href="{{ path }}artistas/{{ slug_artista }}/">Más canciones de {{ nombre_artista }}</a>
     <h2>{{ titulo }}</h2>
     <div id="accordion">
         {% for version in versiones %}
             <h3>{{ version.formato }} <b>{{ version.puntaje }}</b> ({{ version.votos }} votos)</h3>
-            <div src="/artistas/{{ slug_artista }}/{{ slug_cancion }}-{{ version.version }}.txt">
+            <div src="{{ path }}artistas/{{ slug_artista }}/{{ slug_cancion }}-{{ version.version }}.txt">
                 <pre></pre>
-                <a href="/artistas/{{ slug_artista }}/{{ slug_cancion }}-{{ version.version }}.txt">Descargar TXT</a>
+            <a href="{{ path }}artistas/{{ slug_artista }}/{{ slug_cancion }}-{{ version.version }}.txt">Descargar TXT</a>
             </div>
         {% endfor %}
     </div>
 {% endblock %}
 
-{% block scripts %}<script src="/static/accordion.js" type="text/javascript"></script>{% endblock %}
+{% block scripts %}<script src="{{ path }}static/accordion.js" type="text/javascript"></script>{% endblock %}

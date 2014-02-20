@@ -6,7 +6,7 @@
             <h3>Artistas populares</h3>
             <ol>
                 {% for slug, nombre in artpop %}
-                    <li><a href="/artistas/{{ slug }}">{{ nombre }}</a></li>
+                <li><a href="{{ path }}artistas/{{ slug }}">{{ nombre }}</a></li>
                 {% endfor %}
             </ol>
         </div>
@@ -14,7 +14,7 @@
             <h3>Canciones populares</h3>
             <ol>
                 {% for titulo, slug_cancion, slug_artista, nombre_artista in cpop %}
-                <li><a href="/artistas/{{ slug_artista }}/{{ slug_cancion }}.html">{{ titulo }} ({{ nombre_artista }})</a></li>
+                <li><a href="{{ path }}artistas/{{ slug_artista }}/{{ slug_cancion }}.html">{{ titulo }} ({{ nombre_artista }})</a></li>
                 {% endfor %}
                 <li></li>
             </ol>
