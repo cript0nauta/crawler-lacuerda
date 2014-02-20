@@ -1,0 +1,155 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: PERSIANA AMERICANA                                       |
+| AUTOR:   Gustavo Cerati, Daffunchio                               |
+| ALBUM:   Signos (1996)                                            |
++------------------------------------------------------BAT-soda0413-+
+| TRANS:   Roberto                                                  |
+=====================================================================
+
+Canción: Persiana Americana
+
+Tabbed by: Roberto 'el destajador' Ferrín
+------------------------------------------------------------------------------
+Tab notation:
+                |--x--|&gt; Hi-Hat(cerrado)
+C = Cymbals     |--X--|&gt; Crash de 16'
+                |--&--|&gt; Ride de 20'
+
+S = Snare Drum  |--o--|&gt; Le pegas con un drumstick (golpe normal)
+
+B = Bass Drum   |--O--|&gt; un beat
+
+T = Toms        |--O--|&gt; es el tom grande
+                |--o--|&gt; es el tom pequeño
+
+FT = Floor Tom  |--0--|&gt; un beat
+------------------------------------------------------------------------------
+
+Introducción:
+
+Parte A:
+C  |---x-----x----x-----x-x-|
+T  |---O-o-O---O-o-O--------|esta parte se toca 4 veces
+FT |-0-------0-------0-0----|
+
+Parte B:
+C |-x---x---x---x|--x---x---x---x-|
+S |-----o-------o|------o-------o-|se toca 4 veces
+B |-O-----O---O--|----------O-O---|
+
+Nota: en la parte B del intro se escucha que la parte A sigue tocandose, 
+en efecto, si tocas en una banda y tienes un percusionista que te ayude, 
+él tocara la parte A mientras tú entras en la parte B, si no es así tú 
+tocarás la parte A y pasas a la Parte B (suena bien, yo mismo lo he hecho!)
+
+
+Verse:
+
+Parte A:
+C |-X---x---x---x|--x---x---x---x-|
+S |-----o-------o|------o-------o-|se toca una vez
+B |-O-----O---O--|----------O-O---|
+
+ParteB:
+C |-x---x---x---x|--x---x---x---x-|
+S |-----o-------o|------o-------o-|se toca 6 veces
+B |-O-----O---O--|----------O-O---|
+
+
+Pre-chorus:
+
+Parte A:
+C |-X---&---&---&|--&---&---&---&-|
+S |-----o-------o|------o-------o-|se toca 1 vez
+B |-O-----O---O--|--O-------O-O---|
+
+Parte B:
+C |-&---&---&---&|--&---&---&---&-|
+S |-----o-------o|------o-------o-|se toca 5 veces
+B |-O-----O---O--|--O-------O-O---|
+
+Se repite una vez más la parte A y una vez más la parte B
+
+
+Chorus:
+
+Parte A:
+C |-X---x---x---x|--x---x---x---x-|
+S |-----o-------o|------o-------o-|se toca una vez
+B |-O-----O---O--|----------O-O---|
+
+Parte B:
+C |-x---x---x---x|--x---x---x---x-|
+S |-----o-------o|------o-------o-|se toca 7 veces
+B |-O-----O---O--|----------O-O---|
+
+
+Verse 2:
+
+Parte A:
+C |-x---x---x---x|--x---x---x---x-|
+S |-----o-------o|------o-------o-|se toca 8 veces
+B |-O-----O---O--|----------O-O---|
+
+
+Pre Chorus 2: (igual que el primero)
+
+
+Chorus 2:
+
+Parte A:
+C |-X---x---x---x|--x---x---x---x-|
+S |-----o-------o|------o-------o-|se toca una vez
+B |-O-----O---O--|----------O-O---|
+
+Parte B:
+C |-x---x---x---x|--x---x---x---x-|
+S |-----o-------o|------o-------o-|se toca 6 veces
+B |-O-----O---O--|----------O-O---|
+
+Parte C:
+C |-x---x---x---x|--x---x---x---x---|
+S |-----o-------o|------o-------ooo-|se toca una vez
+B |-O-----O---O--|----------O-O-----|
+
+
+Bridge:
+
+Parte A:
+C  |-X-x-----x----x-----x-x-|
+T  |---O-o-O---O-o-O--------|esta parte se toca 8 veces
+FT |-0-------0-------0-0----|
+
+Parte B:
+C |-x---x---x---x|--x---x---x---x-|
+S |-----o-------o|------o-------o-|se toca 3 veces
+B |-O-----O---O--|----------O-O---|
+
+Parte C:
+C |-x---x---x---x|--x---x---x---x---|
+S |-----o-------o|------o-------ooo-|se toca una vez
+B |-O-----O---O--|----------O-O-----|
+
+Parte D:
+C |-x---x---x---x|--x---x---x---x-|
+S |-----o-------o|------o-------o-|se toca 4 veces
+B |-O-----O---O--|----------O-O---|
+
+Se repite el Pre-chorus y el chorus (fade out)
+
+Esa es la tablatura completa para batería de persiana. 
+Es una excelente canción para tocarla en vivo!
+
+Comentarios, correcciones, Bienvenido :-)
+rferrin@yupimail.com
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

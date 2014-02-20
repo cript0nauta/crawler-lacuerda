@@ -1,0 +1,171 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Las Pastillas del Abuelo                                 |
+| CANCION: CONTRA VIENTO Y MAREA                                    |
+| AUTOR:   -?-                                                      |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------ACO-pdab0482-+
+| TRANS:   Alvaro, Matias, Juan                                     |
+=====================================================================
+
+Acá les mando unas correcciones a la transcripción que parecen menores
+pero son detalles importantes en el tema, ademas de la posición exacta
+de los acordes.
+
+
+
+
+NOTAS:
+
+    C    C(*)  F(*) Gsus4   G     D    D9    Am    Bm
+e|--0-----0-----0-----3-----3-----2-----0-----0-----2--|1°
+B|--1-----3-----1-----1-----0-----3-----3-----1-----3--|2°
+G|--0-----0-----2-----0-----0-----2-----2-----2-----4--|3°
+A|--2-----2-----3-----0-----0-----0-----0-----2-----4--|4°
+D|--3-----3-----x-----2-----2-----x-----x-----0-----2--|5°
+E|--x-----x-----x-----3-----3-----x-----x-----x-----x--|6°
+
+
+
+
+Intro (El C [Do] son dos rasguidos al final de cada vuelta):
+
+
+      ( G  - Gsus4 - G - C )x 4
+
+
+
+G            Gsus4  G            C
+    Alla voy,         contra vieeento y marea,
+
+G            Gsus4  G          C
+    Otra vez,         una miiiiisma pelea.
+
+Bm                     D       D9
+    Ni siquiera se si vale la pena,
+
+          Am                C
+    Pero tengo ganas de probar,
+
+                   F(*)                   C      C(*) C
+    Si la suerte me va a compañar de una puta vez,
+
+                G       Gsus4  G  C (Estos DO son dos rasguidos al final
+    O si es un mito mas.                  de la vuelta como en la intro)
+
+
+
+G             Gsus4  G                     C
+    Aca estoy,         me agarraaas despeinado,
+
+G             Gsus4  G                  C
+    Estos son,         mis tesoros guardados,
+
+Bm                     D     D9
+    Una flor, un buen vino picado,
+
+          Am                    C
+    Un saquito de té que esta usado,
+
+                    F(*)
+    Un impuesto de amor,
+
+              C             C(*) C       G   Gsus4   G
+    Del que siempre estuve exento hasta hoy.
+
+
+
+
+F(*)                   C              G  Gsus4   G
+     Y aunque se que puedo estar sin vos,
+
+F(*)                    C           (  G  Gsus4  G  C  )x 4
+     ¿Cómo hacer que quiera estar sin vos?
+
+
+
+G            Gsus4  G                     C
+    Me perdí,         creo que andaba pensando,
+
+     G           Gsus4     G             C
+    Me encontre,       por algun lado dudando,
+
+Bm                       D      D9
+    Si es por mi, si la vivo cagando,
+
+          Am                     C
+    Si me voy al vestuario o si le tiro un caño,
+
+           F(*)           C          C(*) C
+    A esta soledad que pone la gamba fuerte
+
+           ( G         Gsus4  G  C )x 2
+    Y me puede quebrar.
+
+
+G            Gsus4  G                  C
+    No me vi,         me tome por sorpresa,
+
+G            Gsus4  G              C
+    Arranque,         y baje la cabeza,
+
+Bm                  D        D9
+    Manejaba un triciclo prestado,
+
+          Am                 C
+    Me la puse contra una pared,
+
+                     F(*)
+    Ahora tengo un pedal en la mano,
+
+          C       C(*) C     G      Gsus4   G
+    El manubrio doblado, me lastime.
+
+
+F(*)                  C              G  Gsus4   G
+    Y aunque se que puedo estar sin vos,
+
+F(*)                   C            ( G  Gsus4  G  C )x 4
+    ¿Cómo hacer que quiera estar sin vos?
+
+
+G           Gsus4  G                  C
+    Corazon,         es tan facil quererte,
+
+           G        Gsus4  G                   C
+    Con o sin razón,         no me animo a perderte,
+
+Bm                 D      D9
+    Si tu boca respira cerveza,
+
+          Am                   C
+    si tu metro cincuenta y monedas,
+
+                F(*)
+    desnudos sobre el colchon,
+
+           C           C(*) C      G         Gsus4   G
+    es poesia en carne viva, es esta cancion.
+
+
+F(*)                  C              G  Gsus4   G
+    Y aunque se que puedo estar sin vos,
+F(*)                   C              G  Gsus4   G
+    ¿Cómo hacer que quiera estar sin vos?
+
+F(*)                  C              G  Gsus4   G                 F(*)
+    Y aunque se que puedo estar sin vos,          como haces que quiera
+                       C            ( G  Gsus4  G  C  )x 2
+    ¿Cómo hacer que quiera estar sin vos?
+
+G           Gsus4  G         C        G (un solo rasguido en G y termina)
+    Corazón,         es tan fácil quererte
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

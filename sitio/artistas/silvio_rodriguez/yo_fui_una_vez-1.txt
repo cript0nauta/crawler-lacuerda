@@ -1,0 +1,106 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: YO FUI UNA VEZ                                           |
+| AUTOR:   Silvio Rodriguez                                         |
+| ALBUM:   Inedita (2006)                                           |
++------------------------------------------------------TAB-srod4511-+
+| TRANS:   Camilo                                                   |
+=====================================================================
+
+Bendita (Yo fui una vez)
+
+La base de la canción (versión inédita) tiene estos acordes:
+A9: x0220x A: x0222x A4: x0223X
+
+Este es el arpegio base con el cual va toda la canción.
+
+     A (9)
+e:----------------
+B:-----0---2------
+G:----2--2----(2)-
+D:---2------------
+A:--0-------------
+E:----------------
+
+     A (4)
+e:-----------------
+B:------3-----X----
+G:-----2--2---X----
+D:---2-----2--X----
+A:--0---------X----
+E:-----------------
+
+     A (9)*
+e:-----------------
+B:-----0---2-------
+G:------------(2)--
+D:---2-------------
+A:--0--------------
+E:-----------------
+
+     A
+e:----------------
+B:-----2----------
+G:----2--2--------
+D:---2-----2------
+A:--0-------------
+E:----------------
+
+
+Intro: A (9)
+
+        A (9)            A (9)
+Yo fui una vez al monte,
+         A (9)          A (9)
+yo fui una vez lucero,
+         A (9)           A (9)
+yo fui una vez sinsonte,
+         A (9)        A (9)
+yo fui una vez lo nuevo.
+
+       A (4)       A (4)
+Lo nuevo,    Lo nuevo,
+       A (9)*      A (9)
+sinsonte,    sinsonte,
+       A (4)       A (4)
+el cielo     el cielo
+       A (9)*      A (9)
+y monte,     y monte.
+
+
+    A      A (4)     A (9)
+Bendita, bendita aquella vez.
+
+Yo fui una vez la fuente,
+yo fui una vez ventana,
+yo fui una vez simiente,
+yo fui una vez mañana.
+
+Mañana, mañana
+simiente, simiente
+ventana, ventana
+y fuente, y fuente.
+
+Bendita, bendita aquella vez
+Bendita, bendita aquella vez.
+
+Guitarra 2.
+e:--12--9--7--7h12--7--5--0--2--5-5 --12--9--7--12--7--5--0--10-9-5
+
+e:--12--9--7--7h12--7--5--0--2--5-5
+
+(2006)
+
+Transcripción dedicada a la mujer de la inmensa piedad, en su lucha
+a contra el oscuro, que no se apaguen las velas donde las necesite,
+y a todas las que luchan.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

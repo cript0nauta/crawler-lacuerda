@@ -1,0 +1,173 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Andrés Calamaro                                          |
+| CANCION: VENENO EN LA PIEL                                        |
+| AUTOR:   Radio Futura                                             |
+| ALBUM:   Obras Incompletas  cd6 (2009)                           |
++------------------------------------------------------TAB-acal2911-+
+| TRANS:   lucio                                                    |
+=====================================================================
+
+La estructura general es A7 - Dm. Pero me pareció interesante
+pasar a guitarra los acordes que se forman con el piano.
+
+Acordes:
+
+Dm           A7b6        A7       Dm/F      Gm7      Bbmaj7
+  xx        xx         x              x    x    x    x    x
+  |||||O    |||||O     ||||||    O|||||   3||OOO|    |O||||
+  |||O||    ||O|O|     ||O|O|    |||O||    ||||||    |||O||
+  ||||O|    ||||||     ||||||    ||||O|    |O||||    ||O|O|
+  ||||||    ||||||     ||||||    ||||||    ||||||    ||||||
+
+
+Nomencaltura:
+
+ ^ Hammer on / Pull Off, ligado
+ / Arrastrar, gliss,
+(^)Arpegiar.
+ v Vibrato
+
+INTRO: Tiempo = 70
+                                            A7      Dm/F
+   Dm      A7b6  A7       Dm/F  Dicen que tienes veneno en la piel
+E|----------0^1-0--------------|-----------------------------------
+B|----------------3---------3--|-----------------------------------
+G|-0^2-0-2------------------2--|-----------------------------------
+D|----------0-------/3-2-0--0--|-----------------------------------
+A|-------------------------(^)-|-----------------------------------
+E|--------------------------1--|-----------------------------------
+
+                           A7            Dm
+            A7    y que estás hecha de plástico fino     Gm7
+E|-1---------------------------------0---1-------------5----
+B|-----------2-------------------2^3-----3------------6---3-
+G|---2-------0-------------------0-------2----------------3-
+D|-----0-1-2-2v------------------2-------0------------0---3-
+A|-----------0------------------(^)-----(^)---------------5-
+E|----------------------------------------------------------
+
+              A7        Dm                     Bbmaj7         A7
+   Dicen que tienes un tacto divino                y quien te toca
+E|-------0-----------------------------3-5-3-5---------------
+B|---3---------------------------3-5-6---------3-3----2------
+G|-----------------------------------------------3-0---------
+D|-3---------------------------------------------------------
+A|-5---------------------------------------------1-1--0------
+E|-----6-----------------------------------------------------
+
+          Dm
+  ...se queda con él.
+E|--------------------|
+B|--------3-----------|
+G|--------2-----------|
+D|--------0-----------|
+A|--------------------|
+E|--------------------|
+
+  Riff Guitarra Tiempo sube al doble = 140
+   Dm     A7                Dm        A7       Dm
+E|--------------------------------------------------------||
+B|----------------------------------/3-2-------/3---------||
+G|--------------2------------------------2^0-2----2-0-----||
+D|--------2-3-5---5-3-2v-------2-3-5------------------3v--||
+A|-/5-4-5----------------5-4-5----------------------------||
+E|--------------------------------------------------------||
+
+A7                    Dm
+_ Dicen que tienes veneno en la piel
+  y que estas hecha de plástico fino
+  dicen que tienes un tacto divino
+  y quien te toca se queda con él.
+
+    A7  Dm   A7   Dm
+E|--9---10---12---13---||
+B|--8---10---10---10---|| ESTO HACE LA GUITARRA
+G|--9---10----9---10---||
+
+Y si esta noche quieres ir a bailar
+vete poniendo el disfraz de pecadora
+pero tendrás que estar lista en media hora
+porque si no, yo no te paso a buscar.
+
+Pero primero quieres ir a cenar
+y me sugieres que te lleve a un sitio claro
+a ver si aceptan la cartilla del paro
+porque si no lo tendremos que robar.
+
+
+  INTERMEDIO
+E|----------------|----------------------------5--------------||
+B|-hace el riff 1-|-/6-6-5-------/8-6-5-6----8---8-6-5--------||
+G|-y después hace-|--------7-6^7-----------------------7-6-7v-||
+D|------esto------|-------------------------------------------||
+A|----------------|-------------------------------------------||
+E|----------------|-------------------------------------------||
+
+Yo voy haciéndome la cuenta de cabeza
+y tu prodigas tu sonrisa con esmero
+y te dedicas a insultar a un camarero
+y me salpicas con espuma de cerveza.
+
+Y aquí te espero en la barra del bar
+mientras que tu vas haciendo discoteca
+como te pases te lo advierto muñeca
+que yo esta vez no te voy a rescatar.
+
+                        A7           Dm
+Tu crees que eres una bruja consumada
+y lo que pasa es que estas intoxicada
+y eso que dices que ya no tomas nada
+pero me dicen por ahi que si, que si.
+
+Que si, que si, y dicen, y dicen
+                E|---------------||
+                B|---------------||
+                G|-2-0-----------||
+                D|-----3-2-0-----||
+                A|-----------4-0-||
+                E|---------------||
+
+Dicen que tienes veneno en la piel
+y que estas hecha de plástico fino
+dicen que tienes un tacto divino
+y quien te toca se queda con él.
+
+Dicen que yo no soy tu hombre ideal
+Mientras ojeas con soltura una revista
+Y me pregunto si tendrás una pista
+O alguna foto de tu tal para cual
+
+                        A7            Dm
+Tu crees que eres una bruja consumada
+y lo que pasa es que estas intoxicada
+y eso que dices que ya no tomas nada
+pero me dicen por ahi que si, que si.
+Que si, que si, y dicen, y dicen
+
+Dicen que tienes veneno en la piel
+y que estas hecha de plástico fino
+dicen que tienes un tacto divino
+y quien te toca se queda con él.
+
+[INTERMEDIO]x3 y CANTA ARRIBA
+
+Dicen que tienes un tacto divino
+y quien te toca se queda con él
+Dicen que tienes veneno en la piel
+y quien te toca se queda con él
+
+Se queda con él...
+Veneno en la piel...
+----------------------------------------------------------------------------
+
+Cualquier duda escríbanme a gato_bianchi@hotmail.com
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

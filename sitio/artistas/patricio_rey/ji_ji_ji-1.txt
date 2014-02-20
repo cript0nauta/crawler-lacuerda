@@ -1,0 +1,159 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Patricio Rey y sus Redonditos de Ricota                  |
+| CANCION: JI JI JI                                                 |
+| AUTOR:   -?-                                                      |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------TAB-redo0361-+
+| TRANS:   CR15T14N                                                 |
+=====================================================================
+
+Intro: Riff 1 x2
+        REm x2           LA7 x2          MIm7(b5)x2        REm x2
+e|---------------1-|----------------|--------------3-|-------------1-|
+B|---------------3-|--------------2-|--------------2-|-------------3-|
+G|---------------2-|----------------|--------------3-|-------------2-|
+D|-0-0-0-0-0-0-----|-2-2-2-2-2-2--2-|-2-2-2-2-2-2--2-|0-0-0-0-0-0-0--|
+A|-----------------|----------------|----------------|---------------|
+E|-----------------|----------------|----------------|---------------|
+
+Verso 1: Riff 1
+REm                              LA7
+ En este film, velado en blanca noche
+MIm7(b5)                 REm
+ El hijo tenaz de tu enemigo
+REm                        LA7
+El muy verdugo cena distinguido
+MIm7(b5)                           REm   DO5
+Una noche de cristal que se hace añicos
+
+Estribillo:
+
+F5             DO5
+ No lo soñé eeeeeee!
+SIb5                       (Riff 2)
+ se enderezó y brindó a tu suerte
+F5             DO5
+ No lo soñé eeeeeee!
+SIb5                       (Riff 2)
+ y se ofreció mejor que nunca
+SIb5                  FA5
+ no mires por favor, y no prendas la luz
+SOL5                LA5
+ la imagen te desfiguró.
+
+Riff 2:
+e|-----------------|
+B|--6-5------------|
+G|------7-5---5-7--|
+D|----------7------|
+A|-----------------|
+E|-----------------|
+
+Verso 2:(Igual)
+
+REm                         LA7
+Este film da una imagen exquisita.
+MIm7(b5)                   REm
+Esos chicos son como bombas pequeñitas
+REm                         LA7
+el peor camino a la cueva del perico
+MIm7(b5)                    REm        DO5
+para tipos que no duermen por la noche
+
+Estribillo:(Igual)
+FA5            DO5
+ No lo soñé eeeeeee!
+SIb5                  Riff 2
+ ibas corriendo a la deriva
+FA5             DO5
+ No lo soñé eeeeeee!
+SIb5                      Riff 2
+ Los ojos ciegos bien abiertos
+SIb5                  FA5
+ no mires por favor, y no prendas la luz
+SOL5                 LA5
+ la imagen te desfiguró
+
+Corte: Rem - Solm - LA7 x4
+
+Solo de guitarra: Base en (Rem - Lam La - Rem)
+
+e|-----------5-5-5-3L-5L-3L--1-0---|---------------0-(-3-1-0-)x6-|
+B|-----5-6-8---------------------3-|-3-3-3-3-2-2-3---------------|
+G|---7-----------------------------|-----------------------------|
+D|-7-------------------------------|-----------------------------|
+A|---------------------------------|-----------------------------|
+E|---------------------------------|-----------------------------|
+
+e|-------0-1-0---------|----|-------------------------|------------------|
+B|-3-2-3-------3-2-3---|----|-------------------------|------------------|
+G|-------------------x2|-10-|-12-10-9-10-9------------|------------------|
+D|---------------------|----|-------------10-10-12-10-|10-12-10-12-12-12-|
+A|---------------------|----|-------------------------|------------------|
+E|---------------------|----|-------------------------|------------------|
+
+e|--------------10--------10-12(13)/12-|--13L-15L-13L--15-13-12-13-12--|
+B|-----------10----13(15)--------------|-------------------------------|
+G|-10-12(14)---------------------------|-------------------------------|
+D|-------------------------------------|-------------------------------|
+A|-------------------------------------|-------------------------------|
+E|-------------------------------------|-------------------------------|
+
+e|---------------------------------------------------10-------------------|
+B|-13-13-15-13--------------10--------------------10----13----------------|
+G|-----------------10-12-13----12-10----10-12(14)----------12(14)/12L-10L-|
+D|--------------12-------------------12-----------------------------------|
+A|------------------------------------------------------------------------|
+E|------------------------------------------------------------------------|
+
+e|-------------(-15(17)-15(17)-15(17)/15-13-)x2-15-13----13-(-20(22)x3-20-|
+B|----------------------------------------------------15------------------|
+G|-------10---------------------------------------------------------------|
+D|-12-10----12------------------------------------------------------------|
+A|------------------------------------------------------------------------|
+E|------------------------------------------------------------------------|
+
+
+Verso 3:(igual)
+El montaje final es muy curioso
+es en verdad realmente entretenido
+Vas en la oscura multitud desprevenido
+tiranizando a los que te han querido
+
+FA5              DO5                            Riff 3
+ No lo soñé eeeeeeee!                        e|------------------------|
+SIb5                             Riff 3      B|-6-5--------------------|
+ se enderezó y brindó a tu suerte            G|-----7-5---5-7--5---5-7-|
+FA5              DO5                         D|---------7--------7-----|
+  No lo soñé eeeeeeee!                       A|------------------------|
+SIb5                           Riff 3        E|------------------------|
+ y se ofreció mejor que nunca
+FA5              DO5
+ No lo soñé eeeeeeee!
+SIb5                        Riff 3
+ ibas corriendo a la deriva
+FA5              DO5
+ No lo soñé eeeeeeee!
+SIb5                         Riff 3
+ los ojos ciegos bien abiertos
+SIb5                  FA5
+ No mires por favor, y no prendas la luz
+SOL5                   LA5-LA#5 x4
+ La imagen te desfiguró
+
+L: Ligado
+12(14): Estirar la cuerda hacia arriba para llegar ala otra nota.
+
+
+Cualquier pregunta: Cristian77_2008@hotmail.com
+el arte no se aprende se comprende
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

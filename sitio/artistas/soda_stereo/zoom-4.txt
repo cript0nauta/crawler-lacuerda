@@ -1,0 +1,148 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: ZOOM                                                     |
+| AUTOR:   Gustavo Cerati                                           |
+| ALBUM:   Soda Stereo                                              |
++------------------------------------------------------TAB-soda0624-+
+| TRANS:   Jorge                                                    |
+=====================================================================
+
+Armonizado en tono de Mi Mayor a 4/4
+
+Empieza con el teclado de "Twetty" González
+la guitarra toca en el traste 12, haciendo "Palm Mute":
+
+e|| --X---X---X---X-X-X-X-X---X---X-X---X--  ||--X-12/0-|
+B|| --X---X---X---X-X-X-X-X---X---X-X---X--  ||--X-10/0-|
+G||0--X---X---X---X-X-X-X-X---X---X-X---X-- 0||--X------|
+D||0--X---X---X---X-X-X-X-X---X---X-X---X-  0||--X------|
+A|| --X---X---X---X-X-X-X-X---X---X-X---X--  ||--X------|
+E|| --X---X---X---X-X-X-X-X---X---X-X---X-   ||--X------|
+
+Aquí la guitarra sólo hace el slide anterior al final de cada verso,
+el slide dura 1/16
+Antes de los versos va así, mientras de fondo acompaña
+el teclado con la melodía:
+
+a)Toca E dos tiempos, con este ritmo,
+el cual es el ritmo de entre versos:
+1/8., 1/8, Silencio de 1/16, 1/4, 1/4, 1/8
+
+b)Toca A dos tiempos, con el mismo ritmo
+
+c)Esta fórmula se repite dos veces antes de llegar a los versos
+*Los versos van sin teclado pero sigue el slide*
+
+ Verso 1:
+E                  A
+Quiero un zoom anatómico
+E                     A
+Quiero el feel del secreto
+E
+Entre tus labios de plata
+F#m              Am
+Y mi acero inolvidable
+          G||--/7--7/9--7--7/9--7--7/9--|
+          E                           A
+Quiero un loop,                 protagónico
+
+*luego, el teclado toca dos vueltas con la melodía principal*
+
+ Verso 2 (tocan guitarra y teclado):
+
+E                    A
+Pruébame y verás que todos
+        E              A
+Somos adictos a estos fuegos de artificio
+      E
+Voy a hacerte un macro porno intenso
+                     G||--7-7-7-7-7-7-7-9---7(9tr)-- |
+   F#m        Am             E              A
+Lo que seduce nunca suele estar donde se espera, zoom
+
+ Solo (Guitarra & Armónica):
+
+*La guitarra toca Palm Mute en el traste 12*
+*La armónica toca esto:
+
+e||----------------------------------------|
+B||--11b---------------11-11-11b-----------|
+G||----------------------------------------|
+D||----------------------------------------|
+A||----------------------------------------|
+E||---------------------------------------- |  (x2)
+
+e||--0/////////16-|-----------|-----------|----------------|
+B||---------------|-10-12-----|-----------|-------------9--|
+G||---------------|-------11--|---9-------|----------------|
+D||---------------|-----------|-------11--|--------9-11----|
+A||---------------|-----------|-----------|----------------|
+E||---------------|-----------|-----------|----------------|
+
+e||--24///////16-|-----------|----------|-------11////////0|
+B||--------------|-10-12-----|----------|------------------|
+G||--------------|-------11--|---9------|-9----------------|
+D||--------------|-----------|-------11-|----11------------|
+A||--------------|-----------|----------|------------------|
+E||--------------|-----------|----------|------------------|
+
+ Puente:
+*Toca el teclado y la guitarra, sin teclado*
+  G#m                          A          E
+        Por aquí ya estuve, te largas a reir en tus
+           G#m                                B
+e||-----------------------------------------------|
+B||--------16////14////12////10//////////////12---|
+G||-----------------------------------------------|
+D||--------13////11/////9////7////////////////9---|
+A||-----------------------------------------------|
+E||-----------------------------------------------|
+Comisuuuuuuuuuuuuuuuuras,        nena dame un zoom
+                                    A      G#m      E
+e||-----------------------------|-----------------------|
+B||-----------------------------|---10---9----7-----5---|
+G||--8----9-8---9-8---9-8---9-8-|-----------------------|
+D||-----------------------------|----7---6----4-----2---|
+A||-----------------------------|-----------------------|
+E||-----------------------------|-----------------------|
+                                   Luz,  cámara, acción
+
+*el teclado da dos vueltas*
+
+ Solo Final:
+
+*Guitarra haciendo el Palm Mute, la armónica toca el solo,
+ sigue el teclado*
+
+e||-------|-9----9----9----9----9----9-|------|-9----12b---|
+B||--11b--|---11---11---11---11---11---|-11b--|---11-------|
+G||-------|----------------------------|------|------------|
+D||-------|----------------------------|------|------------|
+A||------¬|----------------------------|------|------------|
+E||-------|----------------------------|------|------------|
+
+e||-----9----12----9-|----12-----9---|-12---12----12----9---|
+B||--11---11----11---|-11----11---11-|---11---11----11---11-|
+G||------------------|---------------|----------------------|
+D||------------------|---------------|----------------------|
+A||------------------|---------------|----------------------|
+E||------------------|---------------|----------------------|
+
+e||--12---12---12---12----12----9----12--|--0--|
+B||----11---11---11----11----11---11-----|--0--|
+G||--------------------------------------|--1--|
+D||--------------------------------------|--2--|
+A||--------------------------------------|--2--|
+E||--------------------------------------|--0--|
+
+Gracias, totales!
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,274 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Divididos                                                |
+| CANCION: AMAPOLA DEL ´66                                          |
+| AUTOR:   Arnedo - Mollo                                           |
+| ALBUM:   Amapola del ´66 (2010)                                   |
++------------------------------------------------------TAB-divi1012-+
+| TRANS:   Agustin                                                  |
+=====================================================================
+
+Buenas, aca les traigo una versión de Amapola del '66.-
+Que la disfruten!
+Saludos!
+
+Dedicada para Naty y Ale, a ver cuando nos juntamos a cantar!!
+
+Comentarios o sugerencias: poluxxi@hotmail.com
+
+Importante:
+Los acordes del verso y el coro no están tocados en la forma tradicional
+sino, que se deben dejar las 2 primeras cuerdas al aire, eso le da un
+aire especial a la música del tema.-
+Además, hay que escuchar bien la canción para cazar el ritmo y la forma
+del rasgueo.-
+
+Aca se puede aclarar un poco la situación:
+
+La forma del Acordes quedaría así:
+    F#  A   B   G   F# (final) E   D9
+e/--0---0---0---0---0----------0---0---/
+B/--0---0---0---0---0----------0---3---/
+G/--3---6---8---4---4----------1---2---/
+D/--4---7---9---5---4----------2---0---/
+A/--4---7---9---5---4----------2---x---/
+E/--2---5---7---3---2----------0---x---/
+
+La forma del rasgueo en el intro y en el verso sería así:
+        F#     A     B      A
+e/----,-0----,-0---,-0----,-0---/
+B/----,-0----,-0---,-0----,-0---/
+G/---¡-¡3---¡-¡6--¡-¡8---¡-¡6---/ y se hace una segunda vuelta
+D/---¡-¡4---¡-¡7--¡-¡9---¡-¡7---/ igual pero con un palm mute
+A/---¡-¡4---¡-¡7--¡-¡9---¡-¡7---/ en B y A antes de tocar nuevamente F#.-
+E/---¡-¡2---¡-¡5--¡-¡7---¡-¡5---/ (escuchar la canción para cazar el ritmo)
+
+Donde:
+¡: Indica tocar solo las cuerdas indicadas hacia abajo, y
+,: Indica hacer un pequeño toque hacia arriba (volviendo) solo
+en las cuerdas indicadas.-
+Este rasgueo sería entonces:
+¡ las últimas 4 cuerdas
+, las primeras 2 cuerdas
+¡ nuevamente las últimas 4 cuerdas
+y ahi pasar al siguiente acorde.-
+
+Cuando pasa al puente, engancha B y luego A tocando solamente
+las últimas 4 cuerdas en una secuencia así:
+B  A   B  A   B  A   G  F#
+
+Bueno, con esas aclaraciones pasamos a la canción.-
+
+Denle mucha bola a esto que ayuda a conseguir el clima del tema y
+presten atención al detalle pegado abajo de todo sobre como tocar
+algunas partes!!
+
+
+
+
+Intro:
+F#  A  B  A   x4
+
+
+Verso
+       F#        A      B        A
+  Después de llover, bañaron las aves
+F#       A          B     A
+  Su cansancio de ayer
+F#      A      B       A
+  Sociedad de caras robadas
+F#        A          B    A
+  Te desprenden la piel
+
+  F#        A       B         A
+Siembra poesía de sueños de ayer
+F#           A       B     A
+  Que trasciende al ser
+  F#       A       B         A
+Viejo cristal atrasando mi viaje
+F#      A       B
+  No decide al fin
+
+Coro
+B               A
+  No es re edición
+B           A
+  Es redención
+B            A
+  Ponte de pie
+ G          F#     E (tratando de tocar solo la 6ta cuerda)
+Hombre ilusión
+
+Inter I
+F#  A  B  B
+F#  A  B  B
+
+Verso
+ F#          A            B       A
+Siguen las lluvias de un no ancestral
+F#          A        B
+  Pero el tiempo es hoy
+  F#       A
+Trenes de mimbre
+     B       A
+De sueño de rock
+F#         A     B
+  De esa ingenuidad
+
+ F#        A        B         A
+Todo esta vivo a pesar del dolor
+F#       A          B
+  Si me sonreís
+ F#       A           B        A
+Ríos de cuerdas que vienen de vos
+F#         A      B
+  Justo a mi corazón
+
+Coro
+B               A
+  No es re edición
+B           A
+  Es redención
+B            A
+  Ponte de pie
+ G          F#
+Hombre ilusión
+
+Inter II (ver abajo)
+(con un cambio de ritmo! escuchar!!)
+
+F# (Abierto)  D9         x2
+
+F# (en palm mute PM) D9  x2
+
+(bajada, ver abajo)
+
+
+Puente:
+(aca se toca D con un arpegio casi imperceptible al principio
+que después va aumentando en intensidad hasta explorar cuando
+comienza el solo)
+
+
+D
+Después de tanto andar
+              G     F
+Caí en mí
+D
+Un universo esperándome
+                                   G  F
+No hay fantasma ni desesperación
+D
+Ahora sé que estas ahí
+
+
+D
+Amapola de 66
+
+En qué cuerpo estas hoy
+
+Un alma viaja al sol
+        D  D  D  D (4 compases)
+Al SOL     (solo)
+
+
+Corte
+F# A B B
+F# A B B
+
+
+Verso
+ F#          A            B       A
+Siguen las lluvias de un no ancestral
+F#          A        B
+  Pero el tiempo es hoy
+  F#       A
+Trenes de mimbre
+     B       A
+De sueño de rock
+F#         A     B
+  De esa ingenuidad
+
+ F#        A        B         A
+Todo esta vivo a pesar del dolor
+F#       A          B
+  Si me sonreís
+ F#       A           B        A
+Ríos de cuerdas que vienen de vos
+F#         A      B
+  Justo a mi corazón
+
+Coro
+B               A
+  No es re edición
+B           A
+  Es redención
+B            A
+  Ponte de pie
+ G          F#
+Hombre ilusión
+
+Final
+E             F#
+E             F#
+  Hombre ilusión
+E             F#
+E             F#
+  Hombre ilusión
+E             F#
+E             F#
+  Ohhhh  ohh  ohh
+E             F#
+E             F#
+
+
+Detalle del
+Inter II
+De la siguiente manera:
+
+   /______F#_______//______D9_____/
+e/-------------------------0------/
+B/-----------------------3---3----/
+G/--3-3-3-3-3-3-3-3----2-------2--/
+D/--4-4-4-4-4-4-4-4--0------------/
+A/--4-4-4-4-4-4-4-4---------------/
+E/--2-2-2-2-2-2-2-0---------------/
+
+   /______F#_______//______D9_____/
+e/-----------------------0--------/
+B/-------------------------3------/
+G/--3-3-3-3-3-3-3-3----2----------/
+D/--4-4-4-4-4-4-4-4--0------------/
+A/--4-4-4-4-4-4-4-4---------------/
+E/--2-2-2-2-2-2-2-0---------------/
+
+   /______F#_______//______D9_____/
+e/-----------------------0--------/
+B/-------------------------3------/
+G/--3-3-3-3-3-3-3-3----2-------2--/
+D/--4-4-4-4-4-4-4-4--0------------/
+A/--4-4-4-4-4-4-4-4---------------/
+E/--2-2-2-2-2-2-2-0---------------/
+   /______PM_______/
+
+    /_______F#_______//_____D9______/_________BAJADA en D_________________/
+e/-------------------------0---0------------------------------0-0-----¡2--/
+B/-------------------------------3--------------------------------3---¡3--/
+G/---3-3-3-3-3-3-3-3-----2---2----2/7-7-7---6---5---4---3---3-------3-¡2--/
+D/---4-4-4-4-4-4-4-4---0------------------0---0---0---0---0-----------¡0--/
+A/---4-4-4-4-4-4-4-4------------------------------------------------------/
+E/---2-2-2-2-2-2-2-0------------------------------------------------------/
+     /-----PM------//-----------------------------------------------------/
+
+
+Por Agustin Vega.-
+poluxxi@hotmail.com
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

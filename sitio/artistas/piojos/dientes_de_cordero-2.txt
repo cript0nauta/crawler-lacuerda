@@ -1,0 +1,161 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: los Piojos                                               |
+| CANCION: DIENTES DE CORDERO                                       |
+| AUTOR:   Andres Ciro Martinez                                     |
+| ALBUM:   Maquina de sangre (2003)                                 |
++------------------------------------------------------TAB-pioj0622-+
+| TRANS:   Facundo                                                  |
+=====================================================================
+
+Pongo como vá la estrofa y la agarran, es todo igual.
+
+
+Intro:
+(En realidad son 3 guitarras pero lo paso a 2 y sintetizo los fills en una)
+
+Guitarra 1:
+       Cm              G#                G               F
+e|---------------|---------------|---------------|---------------|--||
+b|---3h4---------|---3h4---------|-------3~~~~~~-|----2~~1~~~~~~-|--||
+g|-------5~------|-------5~------|---4h5---------|---------------|--||
+d|---------------|---------------|---------------|---------------|x2||
+a|---------------|---------------|---------------|---------------|--||
+E|---------------|---------------|---------------|---------------|--||
+Guitarra 2:
+       Cm              G#                G               F
+e|3--------------|4--------------|3--------------|1--------------|--||
+b|4--------------|4--------------|3--------------|1--------------|--||
+g|5--------------|5--------------|4--------------|2--------------|x2||
+d|5---------0h1-0|6---------0h1-0|5--------------|3--------------|--||
+a|3--------------|6--------------|5--------------|3--------------|--||
+E|---------------|4--------------|3---------0-3-0|1--------------|--||
+Bajo:
+(Tónicas)
+
+
+Estrofa 1:
+Guitarra 1:
+        Am               F              G               Am
+e|5--------------|1--------------|3--------------|5--------------|--||
+b|5--------------|1--------------|3--------------|5--------------|--||
+g|5--------------|2--------------|4--------------|5--------------|--||
+d|7--------------|3--------------|5--------------|7--------------|x2||
+a|7--------------|3--------------|5--------------|7--------------|--||
+E|5--------------|1--------------|3--------------|5--------------|--||
+Guitarra 2:
+(Rasgueando)
+e|----|---|---|----|--||
+b|----|---|---|----|--||
+g|-Am-|-F-|-G-|-Am-|--||
+d|----|---|---|----|x2||
+a|----|---|---|----|--||
+E|----|---|---|----|--||
+Bajo:
+(Tónicas)
+
+   Am                      F
+Dientes de cordero, sobre la ciudad
+   G                    Am
+Árboles de fuego, para navidad
+            Am                   F
+Ollas que destellan, en la noche azul
+           G                     Am
+Abollada estrella, vieja cruz del sur
+
+4 1/2 tonos arriba
+
+Guitarra 1:
+       F#m               D              E               F#m
+e|2---------2----|5------5---5---|0---0------0---|2---2---2---2--|
+b|2-------2---2--|7----7---7---7-|0-----0------0-|2-----2---2--2-|
+g|2-----2-------2|7--7-----------|1-------1------|2-------------2|
+d|4--------------|7--------------|2--------------|4--------------|
+a|4--------------|5--------------|2--------------|4--------------|
+E|2--------------|---------------|0--------------|2--------------|
+Bajo:
+(Tónicas)
+
+   F#m                          D
+Los lobos ahora se excitan, tiemblan frente a la TV
+    E                                 F#m
+Aunque el plan sale deprisa, el plan va saliendo bien
+
+
+VUelve:
+(Todo igual)
+
+   Am                   F
+Dientes de cordero, cruzan la ciudad
+     G                   Am
+Gritan su deseo, de justicia y libertad...
+
+(Intro)
+
+Estrofa 2:
+(Igual)
+   Am                           F
+Despertar de un sueño, turco y sin nariz
+      G                      Am
+Carnaval del hambre, se fue la perdiz
+       Am                  F
+Piquetes y horcas, muerte en el corral
+      G                     Am
+El poder es ciego, no puede escuchar...
+
+Estribillo:
+(Todo Igual con el cambio de acordes)
+  C                   Bb
+Me duele la risa, me duele cantar
+        F                  Am
+Basta de cornisas, basta de saltar
+     C                            Bb
+Y ahora quien se viene, y ahora quien se va
+     F                      A
+Dientes de cordero, muerdan sin soltar...
+
+(Intro)
+
+Estrofa 3:
+(Igual)
+     Am                          F
+Sangre en la vereda, en el palacio gris
+     G                                  Am
+Sangre en la escalera en la tuya, bajo tu nariz
+
+         F#m                       D
+Miles de pueblitos villa crecen en el interior
+       E                        F#m
+Feudos medievales donde, te llaman señor
+     Am                      F
+La escuela no abre, cierra el hospital
+    G                        Am
+Sentis el latido lobo, en la yugular...
+
+Estribillo:
+(Igual)
+  C                   Bb
+Me duele la risa, me duele cantar
+        F                  Am
+Basta de cornisas, basta de saltar
+     C                            Bb
+Y ahora quien se viene, y ahora quien se va
+     F                      A
+Dientes de cordero, muerdan sin soltar...
+
+Fin:
+C                 Bb
+Luz de nacimiento sea tu dolor
+F                      Am
+que la noche es larga y como quema el sol!
+C     Bb     F    Am    C
+Ooooohhhhhhhhhhhhhhhh
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

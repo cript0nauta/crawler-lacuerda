@@ -1,0 +1,192 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: EL MAYOR                                                 |
+| AUTOR:   Silvio Rodríguez                                         |
+| ALBUM:   Dias Y Flores: Song of the Nueva Trova Cubana            |
++------------------------------------------------------TAB-srod0544-+
+| TRANS:   Francisco                                                |
+=====================================================================
+
+Una de mis primeras tabs, por fin terminada. (...)=  Resonancia
+(^) y (v) indican dir. de rasgueo (x) al final es rasgueo seco.
+
+
+INTRO y PRIMER VERSO
+
+   RE        RE        RE         LA,SIm
+e+------2---|------2---|-----2---|---------
+B+----------|----------|---------|----3...-
+G+--------2-|--------2-|-------2-|---------
+D+-0...-----|-0....----|-0...----|---------
+A+----------|----------|---------|-0..2...0
+E+----------|----------|---------|---------
+                         e.h.s.h siem-pre
+
+ SOL          RE             LA             SI
+|-------3-3-|---------2-0---|-------0----|-----------
+|-0...--0-0-|-------3-----0-|-----2---^x-|----^-v(rasguea pulgar)
+|-----0-----|-----2---------|---------^--|----^-v----
+|-----------|-0...----------|---------^--|----^-vx---
+|-----------|---------------|-0...-------|-2--^------
+|-3...------|---------------|------------|---------0-
+     detodomateriaaal          devillas señoriaales
+
+ SOL   v          RE            LA       SIm
+|------3-^-v-^|-------2-----0..|-------0---|------------
+|-0...-0-^-v-^|-3---3-----3----|-----2----2|--------3---
+|------0-^-v-^|---2-----2------|-2...---2--|4...--4-----
+|-------------|-0--------------|-----------|----4-------
+|-------------|-------------0..|-0...------|2...------2-
+|-3...--------|----------------|-----------|----2-------
+   o barriomargINAL             todaépoca  fué pieeza de
+
+
+
+   LA            SIm         LA
+|---------------0-|--------------|--------------
+|-----2-------2-2-|----3-----3---|-2...----2----
+|---2-------2-----|--------------|-------2------
+|-------2---------|--4-----------|-----2--------
+0..---------------|2-------2---2-0-----------0h1
+|---------0-------|------2-------|--------------
+        deun rompecabeezas             parasubirla
+
+
+ SOL FA#m MIm          RE       LA
+|---------------|---3-|-----2-|-0---------0-0-----0...^-v-^x
+|-3...2...----0-|-3---|---3---|---2---2-3-------2-----^-v-^
+|-4...2...--0---|-----|-------|-----2---------2-------^-v-^
+|---------------|-----|0...---|-----------------------^----
+|---------------|-----|-------|-0-----------0-----0...-----
+|-3...2...0-----3-----|-------|----------------------------
+ CUEesTA  delgrnReeino  ani  mal                 conunamanon
+
+
+
+
+ SOL    FA#m  MIm    RE           LA         RE
+|-3-----2-----0-----|---------3-0-0----------|----2-------|
+|-----3-|---2-|---0-|---0---3-----|-------2--|------------|
+|---4---|-2---|-0---|-0-----------|-2---2----|------2....-|
+|-------|-----|-----|-----0-------|---2-----2|-0..--------|
+|-------|-----|-----|-------------0----------|------------|
+|-3-----2-----0-----3-------------|----------|------------|
+  EEEE GRAA   y otrablanca   morTAL
+
+
+
+ACOMPAÑAMIENTO (Notas del Bajo adaptadas para Guitarra)
+------------------------------------------------------------------
+
+
+LA SIm SOL
+|--------------------------|
+|--------------------------|
+|--------------------------|
+|-------------0....0-------|
+|0*.2-0--------------------|
+|------3...-3-------5......|    0* = Aquí empieza bajo y orquesta
+-gredientes..
+
+
+|--------------------------     Tres + Bajo traducido. a guitarra
+|---0..3---2...----2-------
+|----------------2---------
+|--------------------------
+|2..-----2-0...------h0h1h2..&gt;&gt;  repite ciclo
+|---2..--------0-----------
+ griima...     suces/comoun
+ preesoo..
+
+
+
+"FILLS"  Notas del Tres Cubano adaptadas a Guitarra -----------
+
+
+ SOL          RE         LA
+|---3---2-------2------------|
+|-3---2---0..-3---3-2-0------|
+|-----------------------2...-|
+|-------------0--------------|
+|-----------------0---0-0...-|
+|-3---2---3..----------------|
+                               trota sobre la espuma...
+
+
+                   LA
+                |-10-10-10-10-10-10-10-10-9-9-9-|
+                |-------------------------------|
+                |--7----7------7-----7----6---6-|
+                |-------------------------------|
+                |-------------------------------|
+                |-------------------------------|
+es más de vida ...
+
+ RE   SOL   LA       RE  SOL  LA
+|-3-2-0-----5-|-(5)-3-2-0-----5-|SOL &gt; FA#m I-2 &gt; MI I-0&gt;RE &gt;IV-0
+|-------3-0---|-----------3-0---|
+|-------------|---------------2-|                         ...(La)
+|-------------|-----------------|
+|-------------|-----------------|
+|-------------|-----------------|
+ Va cabalgando...
+
+
+        |----------------0-2ººººº-|
+FINAL   3----------0--------------|
+.       |-4-2-0------2-0----------|
+.       |-------4----------0ººººº-|
+.       |----------------0--------|
+.       |----------3-2-0----------|
+
+
+Letra y acordes  según Cancionero de S.R. por Zigor A. Calzada
+------------------------------------------------------------------
+
+     RE         LA  SIm(V-0 VI-3)   SOL       RE  LA
+A)El hombre se hizo siempre        de todo material
+           LA  SIm(V-0 VI-3)  SOL        RE  LA
+de villas señoriales         o barrio marginal
+              SIm(V-2 VI-2 V-2)         SIm(V-2 VI-2 V-2)
+toda época fue pieza          de un rompecabezas
+     LA        SOL  FA#m   MIm     SOL   RE  LA
+para subir la cuesta      del gran reino animal
+          SOL  FA#m        MIm    SOL    RE   LA
+con una mano negra         y otra blanca mortal.
+
+A)Mortales ingredientes/ armaron al mayor
+luz de terratenientes  /  y de revolución
+destreza de la esgrima / sucesos como un preso
+Amalia abandonada por la bala, la vergüenza, el amor.
+O un fusilamiento un viejo cuento modelaron su adiós.
+
+ (V-0·2·3)RE  SOL      LA    RE      LA
+B)Va cabalgando    el mayor con su herida
+     SOL          FA#m        MIm      RE   LA
+y mientras mas mortal   el tajo es mas de vida
+(V-0·2·3)  RE
+va cabalgando
+SOL    LA   RE     LA
+sobre una palma escrita
+     SOL    FA#m
+y a la distancia
+   MIm    RE     LA  RE
+de cien años resucita
+
+A)Trota sobre la espuma / seguido por un mar
+de negros en machete / y sin encadenar
+ordena a su corneta / un toque de a degüello
+y a un siglo de distancia / entona nuestra canción
+y con recia garganta canta, espanta lejos la maldición.
+
+B)Va cabalgando..
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

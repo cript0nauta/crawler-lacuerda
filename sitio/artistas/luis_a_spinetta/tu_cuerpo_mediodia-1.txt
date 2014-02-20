@@ -1,0 +1,108 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Luis Alberto Spinetta                                    |
+| CANCION: TU CUERPO MEDIODIA                                       |
+| AUTOR:   Luis alberto spinetta                                    |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------ACO-spin1131-+
+| TRANS:   dario                                                    |
+=====================================================================
+
+Es una correción.
+Los acordes (aunque en realidad el tema está arpegiado y no siempre toca toda las
+notas, por eso veràn que hay notas que estàn marcadas con una cruz y tambièn
+marcadas con un redondel, pertenecen al acorde, pero no a la canciòn...
+El flaco es así.) están adaptados al tema.
+
+
+\X_____/         \X_____/            \_X____/         \X____X/
+1||||O|          1|||OO|             1O|||||          1|O||||
+ ||O|||           ||O|||              ||OO||           ||O|||
+ |O||||           |O||||              |O||||           |||OO|
+ ||||||           ||||||              ||||||           ||||||
+
+ DO                DO5                 FAmaj7           LA#dim
+
+\_X__O_/         \X_____/            \X____O/
+1|||OO|          1|O|||O             1||||||
+ ||||||           ||||O|              |O|O||
+ O|O|||           ||OO||              ||O|O|
+ ||||||           ||||||              ||||||
+
+SOLSIm(b9)         LA#m                Sim(b5)
+
+
+Estos acordes van en la escala Sol Fa2 Fa2 Sol6 Do7add9
+\XXOO__/         \XXOO__/            \XXOOOO/         \X____O/
+1||||||          1||||OO             1||||||          1||||||
+ ||||||           ||||||              ||||||           ||O|||
+ ||||OO           ||||||              ||||||           |O|OO|
+ ||||||           ||||||              ||||||           ||||||
+
+SOL                FA2                SOL6              DO7add9
+
+
+\_X___X/         \_____O/            \X____O/         \XO_O_O/
+3OOOOOO          1OO||||             1|||O||          1||||O|
+ ||||||           |||O||              ||O|||           ||O|||
+ ||||||           ||O|O|              ||||||           ||||||
+ ||||O|           ||||||              O|||||           ||||||
+SSIb7OL           Sib7(b5)            SOL#m6            LAm7
+
+
+
+DO      DO5       FAmaj7
+Oh,      MI      amor
+
+LA#5dim
+imaginé
+
+          SOL7  LA#m  SIm7(b5)
+que no sentía nada más
+
+          SOL-FA2-FA2-SOL6
+y no eras parte
+
+  SIbmaj7O7add9     Sib/G  SibMaj7(b5)
+de mis días
+
+  SOL#m6            LAm7
+y solo existían las flores
+
+Se toca la cuerda mientras con la palma de la mano
+en el puente de la guitarra se 'asordina' cada nota.
+
+SOL#m6           LAm7        SOL#m6  LAm7
+----------------|-----------|-------|-----
+----------------|---1---0-1-|-------|-----
+--------------1-|-----2-----|-------|-----
+----3-232-0-2---|-----2-----|-------|-----
+----------------|-0---------|-------|-----
+--4-------------|-----------|-------|-----
+
+Oh, mi amor
+no me resigno
+a parecer
+así
+entre tu cuerpo melodía
+que se asemeja a un otro mundo...
+
+Y que placer
+cuando no hay nada
+que pueda ver
+y solo invento tu sonrisa
+y apago
+así
+toda agonía...
+
+
+LAm
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

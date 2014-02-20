@@ -1,0 +1,98 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: La Vela Puerca                                           |
+| CANCION: MADRE RESISTENCIA                                        |
+| AUTOR:   La vela Puerca                                           |
+| ALBUM:   Deskarado (1999)                                         |
++------------------------------------------------------ARM-vpue0641-+
+| TRANS:   Lucho                                                    |
+=====================================================================
+
+Soplando y aspirando las mismas celdas para cualquier armonica.
+= preferentemente usen una en C
+
+en la intro se repite esto:
+6(5)5(5)54
+66(5)5(5)6(6)6 -(5)5(5)54
+66(5)5(5)6(6)6 -(5)5(5)54
+66(5)5(5)6(6)6 -(5)5(5)54
+66(5)5(5)6(6)6
+
+ESTROFA
+666666(6)6 (4)5(5)5(4)4
+666(6)6 (4)5(5)5(4)4
+666(6)6 (4)5(5)5(4)4
+666(6)6 (4)5(5)5(4)4
+
+Vientos:
+6(5)5(5)54
+66(5)5(5)6(6)6 -(5)5(5)54
+66(5)5(5)6(6)6
+
+Estrofa
+(5)(5)(5)55555(4)4(4)4
+(5)(5)(5)55555(4)4(4)4
+(5)(5)(5)55555(4)4(4)4
+6666666666(5)(6)6
+
+Vientos:
+6(5)5(5)54
+66(5)5(5)6(6)6 -(5)5(5)54
+66(5)5(5)6(6)6
+
+ESTROFA
+666666(6)6 (4)5(5)5(4)4
+666(6)6 (4)5(5)5(4)4
+666(6)6 (4)5(5)5(4)4
+777(6)7
+
+Vientos:
+4(4)5 5(5)6...(5)5(5)54
+66(5)5(5)6(6)6 -(5)5(5)54
+66(5)5(5)6(6)6
+
+Estrofa
+(5)(5)(5)55555(4)4(4)4
+(5)(5)(5)55555(4)4(4)4
+(5)(5)(5)55555(4)4(4)4
+6666666666(5)(6)6
+
+Vientos - &lt;:arrastrar de una celda a otra sin dejar de solplar:
+3&lt;7&lt;4
+6(5)5(5)54
+66(5)5(5)6(6)6 -(5)5(5)54
+66(5)5(5)6(6)6
+
+Estrofa
+4666666(5)5(5)5
+4666666(5)6
+4666666(5)5(5)5
+4666666(5)6- 66(5)5(4)4
+4666666(5)5(5)5
+4666666(5)6
+4666666(5)5(5)5
+4666666(5)6
+4666666(5)5(5)5
+4666666(5)6
+4666666(5)5(5)5
+4666666(5)6
+
+CODA y termina
+
+los vientos hacen de fondo algo asi como
+3(3)4(4)5(4)4
+
+y la trompeta se manda en algunos momentos subiendo las notas
+
+arrivederci e buona fortuna
+
+arriba la vela!
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,175 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Andrés Calamaro                                          |
+| CANCION: 5 MINUTOS MAS (MINIBAR)                                  |
+| AUTOR:   Andrés Calamaro                                          |
+| ALBUM:   La Lengua Popular (2007)                                 |
++------------------------------------------------------TAB-acal2083-+
+| TRANS:   Quicote                                                  |
+=====================================================================
+
+____ acordes ____________
+|                       |
+|**cejilla en 3er traste|
+|-----------------------|
+| Am:   002210          |
+| A:    002220          |
+| Dm:   000231          |
+| G:    320003          |
+| C:    032010          |
+| F:    133211          |
+| E:    022100          |
+|_______________________|
+
+
+
+[intro]:
+                    Am
+E-||---------------|0--...
+B-||----------0-1-3|---...
+G-||--------2------|---...
+D-||------2--------|---...
+A-||---------------|---...
+E-||---------------|---...
+
+
+Am
+Iba para torero cobarde y artista
+               A              Dm
+y me quedé, en un rincón neutral
+      G                            C
+no importa si todos son cortos de vista
+                 F                    E
+se nos ve el plumero a los dos por igual.
+
+
+Am
+Otra para el cafiolo prudente y cordial
+                A            Dm
+no necesita, pedir perdón jamás
+        G               C
+y así suene muy poco sutil
+           F                      E
+de tu cuadril no me olvido nunca más
+
+
+       Dm
+Tengo cada insensatez
+       Am
+y me puedo equivocar
+      E                  Am
+pero no me equivoqué contigo.
+         Dm
+Tengo abierto el minibar
+      Am
+y cerrado el corazón
+        E                         Am
+y solo late, y solo late por los dos.
+
+
+Am
+Iba para bolero sediento y cerril
+                      A            Dm
+qué mundo hostil, sufrir fue permitido
+         G                    C
+bajo el halo de luz de un parmil
+      F                             E
+no importa, no habrá más pena ni olvido
+
+
+[riff1]:
+                    Am
+E-||----------------|0--...
+B-||-----------0-1-3|---...
+G-||---------2------|---...
+D-||-------2--------|---...
+A-||----------------|---...
+E-||----------------|---...
+
+Am
+Un amigo salió poco de su casa, tiene razón
+                     A          Dm
+allá afuera todo el mundo va armado
+         G                 C
+de este lado tengo el corazón,
+            F                         E
+mi sierra eléctrica no cierra los feriados.
+
+
+
+       Dm
+Tengo cada insensatez
+       Am
+y me puedo equivocar
+      E                  Am
+pero no me equivoqué contigo.
+         Dm
+Tengo abierto el minibar
+      Am
+y cerrado el corazón
+        E                         Am
+y solo late, y solo late por los dos.
+
+
+       Dm
+Tengo cada insensatez
+       Am
+y me puedo equivocar
+       E                   Am
+si pudiera mataría por cinco minutos más.
+         Dm
+Tengo abierto el minibar
+      Am
+y cerrado el corazón
+        E                         Am
+y solo late, y solo late por los dos.
+
+
+[solo]:
+    Dm               Am
+E-||----------------|----------------|
+B-||----------------|----------------|
+G-||8h7h8h7-5-------|5---------------|
+D-||----------7-7--5|--7-7-----5-6-7-|
+A-||----------------|----------------|
+E-||----------------|----------------|
+
+       E                   Am
+si pudiera mataría por cinco minutos más.
+         Dm
+Tengo abierto el minibar
+      Am
+y cerrado el corazón
+        E                         Am
+y solo late, y solo late por los dos.
+
+
+       Dm
+Tengo cada insensatez
+       Am
+y me puedo equivocar
+      E                  Am
+pero no me equivoqué contigo.
+         Dm
+Tengo abierto el minibar
+      Am
+y cerrado el corazón
+        E                         Am
+y solo late, y solo late por los dos.
+
+
+
+###------------------------------###
+### Tablatura de: Enrique Moraño ###
+### Sevilla [España]    NOV-2007 ###
+###      emorano@hotmail.com     ###
+###------------------------------###
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

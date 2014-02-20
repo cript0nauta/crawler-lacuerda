@@ -1,0 +1,150 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: JET SET                                                  |
+| AUTOR:   Gustavo cerati/ficiccia                                  |
+| ALBUM:   Soda stereo (amonimo) (1982)                             |
++------------------------------------------------------ACO-soda0644-+
+| TRANS:   Pelu                                                     |
+=====================================================================
+
+Armonizado en Re mayor
+Tempo 178 bpm
+Ritmo Ska |-X-O-X-O-X-O-X-O-| X silencio, O nota
+
+ACORDES
+
+A    5 7  7  6 5 5
+D    X 5  7  7 7 5
+G    3 5  5  4 3 3
+C    8 10 10 9 8 8
+G*   X 10 9  7 8 X (posición C abierto)
+D9   X 5  4  5 5 X
+C9   X 3  2  3 3 X
+C#9  X 4  3  4 4 X
+D#9  X 6  5  6 6 X
+E9   X 7  6  7 7 X
+Bm   7 9  9  7 7 7
+D   10 1212 111010
+
+INTRO
+
+A  D  G  C , A  D  G  C-G*
+A  D  G  C , A  D  G  C
+
+CORO
+
+A    D
+JetSet
+ G                C       A    D  G  C-G*
+¿Por qué no puedo ser del JetSet?
+A    D
+JetSet
+G              C       A    D  G  C9
+Yo solo quiero ser del JetSet
+
+
+VERSO I
+
+D9                        C9-C#9
+Tengo mi agenda perfumada
+D9                      C9-C#9
+Todas mis noches programadas
+D9                         C9-C#9
+Voy a esos clubes re­privados
+
+D9                              D#9-E9
+Y me alquilé un convertible colorado
+E9                      D9-D#9
+Con esa gente diferente
+E9                             D9-D#9
+Yo me codeo... ¡Qué tipo inteligente!
+E9                          D9-D#9
+Tengo el bolsillo agujereado
+D9
+Pero al menos tengo un Rolex
+
+Lo he robado
+
+
+CORO
+
+A    D
+JetSet
+ G                C       A    D  G  C-G*
+¿Por qué no puedo ser del JetSet?
+A    D
+JetSet
+G              C       A    D  G  C9
+Yo solo quiero ser del JetSet
+
+
+VERSO II
+
+D9                    C9-C#9
+Es el sueño de mi vida
+D9                              C9-C#9
+Que una mujer me espere en la colina
+D9                              C9-C#9
+Labios prohibidos, vestido escotado
+D9                              D#9-E9
+Yo con mi auto, los vidrios empañados
+E9                                   D9-D#9  E9  D9-D#9
+Caviar, champagne, y un solo de saxo sensual
+E9                              D9-D#9
+Y esa piel, ¡Qué nivel! ¡Quiero más!
+E9
+Nene por favor, cambiá de canal
+
+
+
+CORO
+
+A    D
+JetSet
+ G                C       A    D  G  C-G*
+¿Por qué no puedo ser del JetSet?
+A    D
+JetSet
+G              C       A    D  G  A
+Yo solo quiero ser del JetSet
+
+
+PUENTE
+
+Bm             C           D
+El show debe seguir, está todo OK
+Bm                        C
+Y lo que para arriba es excéntrico
+      D
+Para abajo es ridiculez
+
+D|---------------------|-9-9-7-7-----------|-9-9-7-7-----------|
+A|-10-10-9-9-7-7-------|---------10-10-9-9-|---------10-10-9-9-|
+E|- -------------10-10-|-------------------|-------------------|
+
+D|-----------------|
+A|-------------5-5-|
+E|-0-0-4-4-7-7-----|
+
+CORO (se repite 3 veces)
+
+A   D  G  C
+JetSet
+A   D  G  C-G*
+JetSet
+A   D  G  C
+JetSet
+A   D  G  C
+JetSet
+
+termina en A
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

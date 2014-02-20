@@ -1,0 +1,239 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Café Tacuba                                              |
+| CANCION: ERES                                                     |
+| AUTOR:   E. Del Real                                              |
+| ALBUM:   Cuatro Caminos                                           |
++------------------------------------------------------TAB-tacb0547-+
+| TRANS:   Jorge                                                    |
+=====================================================================
+
+ACORDES:
+   Am7  E7   E7*  Dsus
+e|--0----0----0-----3--|
+B|--5----3----3-----3--|
+G|--5----1----1-----2--|
+D|--5----0----2-----0--|
+A|--0----2----2-----X--|
+E|--5----0----0-----X--|
+
+NOTA: Los dos acordes E7 están bien pero para distinguir uno de otro
+le puse el * El primer acorde se utiliza en el arpegio y el otro en el
+rasgueo (en el coro)
+
+INTRO: Am7 - E - Am7 - E
+      Am        C           E           E7
+e|---------|---------|-------------|---------|
+B|-----1---|-----1---|---------0---|-----3---|
+G|---2---2-|---0---0-|-------1---1-|---1---1-| x2
+D|---------|---------|-------------|---------|
+A|-0-------|-3-------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+  Eres                lo que mas quiero en este mundo eso
+      Am        C           E           E7
+e|---------|---------|-------------|---------|
+B|-----1---|-----1---|---------0---|-----3---|
+G|---2---2-|---0---0-|-------1---1-|---1---1-|
+D|---------|---------|-------------|---------|
+A|-0-------|-3-------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+  Eres,               mi pensamiento mas profundo también
+      Am        C           E           E7
+e|---------|---------|-------------|---------|
+B|-----1---|-----1---|---------0---|-----3---|
+G|---2---2-|---0---0-|-------1---1-|---1---1-|
+D|---------|---------|-------------|---------|
+A|-0-------|-3-------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+  Eres,               tan solo dime lo que hago aquí me
+     Dm       Dsus          E           E7
+e|-----1---|-----3---|-------------|---------|
+B|---3---3-|---3---3-|---------0---|-----3---|
+G|---------|---------|-------1---1-|---1---1-|
+D|-0-------|-0-------|-------------|---------|
+A|---------|---------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+  Tienes
+      Am        C           E           E7
+e|---------|---------|-------------|---------|
+B|-----1---|-----1---|---------0---|-----3---|
+G|---2---2-|---0---0-|-------1---1-|---1---1-|
+D|---------|---------|-------------|---------|
+A|-0-------|-3-------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+*****AQUÍ ENTRA LA SEGUNDA GUITARRA RASGUEANDO CON LOS MISMOS ACORDES
+(CONTINÚAN LAS DOS GUITARRAS)
+
+  Eres                cuando despierto lo primero eso
+      Am        C           E           E7
+e|---------|---------|-------------|---------|
+B|-----1---|-----1---|---------0---|-----3---|
+G|---2---2-|---0---0-|-------1---1-|---1---1-|
+D|---------|---------|-------------|---------|
+A|-0-------|-3-------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+  Eres,               lo que a mi vida le hace falta sino
+      Am        C           E           E7
+e|---------|---------|-------------|---------|
+B|-----1---|-----1---|---------0---|-----3---|
+G|---2---2-|---0---0-|-------1---1-|---1---1-|
+D|---------|---------|-------------|---------|
+A|-0-------|-3-------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+  Vienes,             lo único precioso que en mi mente habita
+     Dm       Dsus          E           E7
+e|-----1---|-----3---|-------------|---------|
+B|---3---3-|---3---3-|---------0---|-----3---|
+G|---------|---------|-------1---1-|---1---1-|
+D|-0-------|-0-------|-------------|---------|
+A|---------|---------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+  Hoy
+      Am        C           E           E7
+e|---------|---------|-------------|---------|
+B|-----1---|-----1---|---------0---|-----3---|
+G|---2---2-|---0---0-|-------1---1-|---1---1-|
+D|---------|---------|-------------|---------|
+A|-0-------|-3-------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+*****SE QUEDA SOLO LA SEGUNDA GUITARRA RASGUEANDO
+
+Dm                    E7*                    Am     C
+Que mas puedo decirte tal vez puedo mentirte sin razón
+Dm                     G           E7*
+Pero lo que hoy siento es que sin ti estoy muerto pues
+Am - C - E
+Eres
+
+Lo que más quiero en este mundo eso
+
+  Eres
+      Am        C           E           E7
+e|---------|---------|-------------|-------------|     EN EL ACORDE DE
+B|-----1---|-----1---|---------0---|-----3-------|     E7 SE DAN DOS
+G|---2---2-|---0---0-|-------1---1-|---1---1-----| x2  TOQUES MAS PARA
+D|---------|---------|-------------|-------------|     REGRESAR AL
+A|-0-------|-3-------|-0-1-2-------|-2-------2-1-|     ACORDE DE Am
+E|---------|---------|-------------|-------------|
+
+*****ENTRA LA SEGUNDA GUITARRA RASGUEANDO Am - C - E - E7 Y SE QUEDA
+CON LA PRIMERA GUITARRA, LAS DOS GUITARRAS REPITEN 3 VECES LOS ACORDES
+
+      Am        C           E           E7
+e|---------|---------|-------------|-------------|
+B|-----1---|-----1---|---------0---|-----3-------|
+G|---2---2-|---0---0-|-------1---1-|---1---1-----| x3
+D|---------|---------|-------------|-------------|
+A|-0-------|-3-------|-0-1-2-------|-2-------2-1-|
+E|---------|---------|-------------|-------------|
+
+*****EN LA SIGUIENTE PARTE LA SEGUNDA GUITARRA TOCA TODO CON Am7
+SOLAMENTE, HASTA DONDE CAMBIE A Am
+
+Am7
+Eres el tiempo que comparto eso eres
+Lo que la gente promete cuando se quiere
+Mi salvación, mi esperanza y mi fe
+
+*****AQUÍ LA SEGUNDA GUITARRA CONTINUA RASGUEANDO CON LOS MISMOS
+ACORDES QUE LA PRIMERA GUITARRA (CONTINÚAN LAS DOS GUITARRAS)
+
+  Soy                 el que quererte quiere como nadie
+      Am        C           E           E7
+e|---------|---------|-------------|---------|
+B|-----1---|-----1---|---------0---|-----3---|
+G|---2---2-|---0---0-|-------1---1-|---1---1-|
+D|---------|---------|-------------|---------|
+A|-0-------|-3-------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+  Soy                 el que te llevaría al sustento
+      Am        C           E           E7
+e|---------|---------|-------------|---------|
+B|-----1---|-----1---|---------0---|-----3---|
+G|---2---2-|---0---0-|-------1---1-|---1---1-|
+D|---------|---------|-------------|---------|
+A|-0-------|-3-------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+  Día, día, día, día, el que por ti daría la vida, ese
+     Dm       Dsus          E           E7
+e|-----1---|-----3---|-------------|---------|
+B|---3---3-|---3---3-|---------0---|-----3---|
+G|---------|---------|-------1---1-|---1---1-|
+D|-0-------|-0-------|-------------|---------|
+A|---------|---------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+  Soy
+      Am        C           E           E7
+e|---------|---------|-------------|---------|
+B|-----1---|-----1---|---------0---|-----3---|
+G|---2---2-|---0---0-|-------1---1-|---1---1-|
+D|---------|---------|-------------|---------|
+A|-0-------|-3-------|-0-1-2-------|-2-------|
+E|---------|---------|-------------|---------|
+
+*****SE QUEDA SOLO LA SEGUNDA GUITARRA RASGUEANDO
+
+Dm                   E7*                   Am          C
+Aquí estoy a tu lado y espero aquí sentado hasta el final
+Dm                  G           E7*
+No te has imaginado lo que por ti he esperado pues
+Am - C - E
+Eres
+
+*****AQUI CAMBIA EL "E" POR UN "F" PERO SI NO LES GUSTA
+COMO SUENA PUEDEN DEJARLO EN "E"
+
+                                Am     C
+Lo que yo amo en este mundo eso eres
+F      E7                        Am     C
+Cada minuto en lo que pienso eso eres
+F          E7                      Am - C - F - E7   (x6)   Am
+Lo que mas cuido en este mundo eso eres
+
+
+***************************************************************
+TAMBIEN PUEDEN HACER ESTO EN EL CORO O DEJARLO COMO ESTABA
+
+                                             // AQUÍ SE DA UN RASGUEO
+                                             // CON CEJILLA
+Dm                    E7*                    Gm - Am - Bm - Cm
+Que mas puedo decirte tal vez puedo mentirte sin razón
+Dm                     G           E7*
+Pero lo que hoy siento es que sin ti estoy muerto pues
+Dm - C - B - Am - E   // AQUÍ SE DA UN RASGUEO, EXCEPTO EN "E"
+Eres                  // SOLO "B" ES CON CEJILLA
+
+
+                                           // AQUÍ SE DA UN RASGUEO
+                                           // CON CEJILLA
+Dm                   E7*                   Gm -  Am - Bm - Cm
+Aquí estoy a tu lado y espero aquí sentado hasta el final
+Dm                  G           E7*
+No te has imaginado lo que por ti he esperado pues
+Dm - C - B - Am - E   // AQUÍ SE DA UN RASGUEO, EXCEPTO EN "E"
+Eres                  // SOLO "B" ES CON CEJILLA
+
+
+*****SI TIENEN DUDAS O ALGUN COMENTARIO MI CORREO ES
+jorgpat55@hotmail.com
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

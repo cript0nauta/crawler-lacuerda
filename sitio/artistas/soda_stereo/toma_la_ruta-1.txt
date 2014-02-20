@@ -1,0 +1,160 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: TOMA LA RUTA                                             |
+| AUTOR:   Hector Bosio, Gustavo Cerati, Daniel Melero              |
+| ALBUM:   Dynamo                                                   |
++------------------------------------------------------ACO-soda0571-+
+| TRANS:   Martín                                                   |
+=====================================================================
+
+Correción a los acordes de Toma la Ruta envíados por Sorel Báez
+
+
+Intro:
+[ A F(a) D(r) ] x2
+[ Riff A ] x4
+[ F#(8a) G(8a) A(8a) F#(8a) E(8a) D(8a) ] x2
+
+Em            D(I)   C(I)   Em
+No preguntes mas   por    mi
+       D(II)   C(II)   Em
+Nadie sabe    nada
+      D(I)  C(I) Em
+No estes preocu--pada
+      D(II)  C(II)    A
+Yo la paso   bien
+
+ A    F(a)             D
+[Ahh]   Despues de tanto andar
+             A
+tanto andar
+ A    F(a)          D
+[Ahh]  Estas en el mismo lugar
+
+mismo lugar.
+
+Inter:
+[ F#(8a) G(8a) A(8a) F#(8a) E(8a) D(8a) ] x2
+
+   Em     D(I)   C(I)
+Probaste lu-----na
+Em      D(II)  C(II)
+   y bebiste cielo
+Em             D(I)  C(I)  Em
+   y a veces sueñas con volver
+        D(II)  C(II)    A
+a los viejos   buenos tiempos
+
+      F(a)             D
+[Ahh]   Despues de tanto andar
+             A
+tanto andar
+ A    F(a)          D
+[Ahh]  Estas en el mismo, mismo lugar...
+
+Puente:
+[ G(8a) A(8a) ] x4
+[ Riff B ] x3 [ Bend ]
+[ F(8a) ]
+[ G(8a) A(8a) ] x3
+[ Riff B ]
+[ F(8a) ]
+
+   E(8a)    D(8a)  C(8a)
+  Sal del camino
+           B(8a)
+  Toma la ruta
+         C(8a)
+  Sera diferente
+  C#(8a)
+  Diferente
+  D(8a)     D#(8a)
+  Diferente
+
+ A    F(a)      D
+[Ahh]   Y si despues de tanto andar
+             A
+tanto andar
+ A    F(a)          D
+[Ahh]  Estas en el mismo lugar
+
+mismo lugar
+
+ A    F(a)             D
+[Ahh]   Despues de tanto andar
+             A
+tanto andar
+ A    F(a)          D
+[Ahh]  Estas en el mismo lugar
+
+mismo lugar
+
+Final:
+
+[Em  D(I) C(I) Em  D(II) C(II)] (Hasta desaparecer)
+
+
+
+-----------------------------------------------------------------
+
+Acordes:
+
+        E  A  D  G  B  E
+        ----------------
+A       x  0  2  2  2  0
+F#(8a)  x  9  x  11 x  x
+G(8a)   x  10 x  12 x  x
+A(8a)   x  12 x  14 x  x
+E(8a)   x  7  x  9  x  x
+D(8a)   x  5  x  7  x  x
+Em      x  x  x  9  8  7
+D(I)    x  x  x  11 10 10
+C(I)    x  x  x  9  8  8
+D(II)   x  x  x  7  7  5
+C(II)   x  x  x  5  5  3
+D       x  x  0  2  3  2
+F(8a)   x  8  x  10 x  x
+C(8a)   x  3  x  5  x  x
+B(8a)   x  2  x  4  x  x
+C#      x  4  x  6  x  x
+D#      x  6  x  8  x  x
+
+
+
+Punteos:
+
+F(a)                 D(r)
+e-|-------0--------  e-|----------------------------
+B-|-----1---1------  B-|-7b8r7----7b8r7----7b8r7----
+G-|---2-------2----  G-|-------5--------5--------5--
+D-|-3-----------3--  D-|----------------------------
+A-|----------------  A-|----------------------------
+E-|----------------  E-|----------------------------
+
+
+Riff A
+e-|--------------------------
+B-|-7b9--7b9--7b9--7b9--7b9--
+G-|--------------------------
+D-|--------------------------
+A-|--------------------------
+E-|--------------------------
+
+
+Riff B                               Bend
+e-|-7-----7-----7-----7------------  e-|------
+B-|-10b12-10b12-10b12-10b12r10-8-9-  B-|------
+G-|--------------------------------  G-|------
+D-|--------------------------------  D-|-7b9--
+A-|--------------------------------  A-|------
+E-|--------------------------------  E-|------
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

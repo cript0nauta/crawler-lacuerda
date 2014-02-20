@@ -1,0 +1,297 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: LA GUITARRA DEL JOVEN SOLDADO                            |
+| AUTOR:   Silvio Rodríguez                                         |
+| ALBUM:   Silvio                                                   |
++------------------------------------------------------TAB-srod0962-+
+| TRANS:   Francisco                                                |
+=====================================================================
+
+------------------------------------------------------------------
+RASGUEO  (^)=  h. abajo en esa(s) cuerda(s)
+         (v)=  h. arriba '   '     '
+          Vx, ^x= rasgueo seco al final.  ººº= timbre largo
+ACORDE PULSADO  = p (letra encima del acorde)
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+1.INTRO                    (ritmo básico sin punteo de Guitarra 2)
+------------------------------------------------------------------
+
+1a. (3 VECES y termina con "1b")
+
+
+A      F#m  Bm       Em
+--------¡---------¡-------O-
+----2---¡-2---2---3---O---O-
+----2---¡-2---2---¡---1-----
+--------¡---------¡--------
+--O-----¡---4---2-¡-----2---
+------O-2---:---:-¡-O-------
+        ¡    a  m ¡        Importante: a= anular izq.  m= medio izq.
+        ¡    P  P ¡                    P= pulgar derecho
+        ¡_________¡             ¡_____¡ = Fuerte cejilla durante
+                                          ese fragmento
+
+1b. (1 VEZ)
+
+A      F#m  Bm      Em
+                     ^°x
+---------------------4-|
+----2-----2---2---3--5-|
+----2-----2---2---2--4-|
+---------------------6-|
+--O---------4---2----7-|
+------O-2--------------|
+
+------------------------------------------------------------------
+2. VERSO I
+------------------------------------------------------------------
+
+2a. inicia con la misma melodía del intro y luego cambia a..
+
+2b.
+ D/B              E                   cej
+  [v ^ v]                              ¡       [v ^ v]    [v  ^]
+---2-2-3---2-------O-------------------¡--4----------------2-(2)
+---3-3-3---3-----O---O---O-------2-----¡5--(5)--2-2-2---2--2-(2)
+---2-2-2---2-----1-------1---------2---¡4-------2-2-2---2-------
+-----------------------2-------------2-¡--------------2°°-------
+-2-----------2-----------------O-------¡------------------------
+---------2-----O-----------2-4---------4------2-----------------
+cuando tocan ...                ...puntas los pies ...
+
+
+  [v ^ v]      E              A        G  F#m
+-------------------O------------------------------------0---
+---3-3-3---3-----O---O---O---------2------------------2-----
+---2-2-2---2-----1-------1---------2----------------3-----(3)
+---------------------------------2--------O°°-----2---------
+-2-----------2-----------------O------O---------------------
+---------2-----O-------O---2-4----------3-----3-2-----------
+y en el monte...                         ...y su fé...
+
+
+             D/B     E/C#(C#m7)-F/D(Dm7)  E
+    "PUENTE"----------|--------|-------|---0--
+            ---3------|-5------|-6-----|-O---
+            ---2-2----|-4-4----|-5-5---|-1---&lt;1&gt;*&gt;&gt;&gt; esta nota
+            -------4--|-----6--|-----7-|-------     suena mejor
+            -2--------4--------5-------|-------
+            ----------|--------|-------O-----&lt;0&gt;
+     la gui-tarra   del joven  soldado .....
+
+
+&gt; Vuelve a INTRO ("1a" X 2 y termina con "1b")
+
+------------------------------------------------------------------
+3. VERSO II
+------------------------------------------------------------------
+
+Prácticamente igual a la primera, con estas variaciones
+
+                      cej
+|--------------O---------------(2)(2)-
+|------2-------O------2-2-2---2-(2)(2)
+|--------2------------2-2-2---2-------
+|--------------------------2°°--------
+|----O-----O--------------------------
+|2-4---------4---4---2----------------
+    canciones...
+
+cej.
+-------2--5°°°°(meñique izq.)
+-----2----5°°°°(anular izq.)
+---3------------------------
+----------------------------
+----------------------------
+-2--------------------------
+un acorde mejooor...
+
+
+------------------------------------------------------------------
+4. INTERMEDIO
+------------------------------------------------------------------
+
+Los signos (^) y (v) que aparecen más separados entre sí indican que
+el rasgueo/pulsado es un poco más lento o espaciado
+En la primera ronda los acordes son entre pulsados y rasgueados:
+
+V-0 +( v ^ V ^) -   VI-2 +(v^v^v)  V-2 +(v^v^v^)  V-0 +(v^v^v)
+         A                F#m            Bm             E
+
+
+
+
+Se repiten la secuencia anterior y luego se RASGUEA:
+
+
+[^v^v^-^^]   (^v^v-^ ^)   [^v^v^v^ººx]  (^v^ ^* ^')
+     A           F#m       D/B x24232        E
+
+[^v^v-^*]    (^  ^  ^x)     [^v^v^v]    ( ^ºººººººx)
+     A           F#m       D/B x24232    E7/B [x2213x]
+
+
+^* = en las cuerdas del centro
+^' = hacia las cuerdas I y II
+
+
+------------------------------------------------------------------
+5. VERSO III                                (combo guitarra 1 + 2)
+------------------------------------------------------------------
+
+La guitarra del joven solm
+
+
+ E7 [0x213x]  A[577655]    E/Ab     F#m7[2x2222]
+                         [476454]
+
+-4---4--------|-5ºººp-^-4---4---|-2---2---(2)--2-
+---3---3----3-|-----5-5-|-5---5-|---2---2--:-2---
+------------2-|-----6-6-|-------|----------:-----
+--------------|-----7-7-|-------|----------2ººº--
+--------------|---------|-------|----------------
+-0--------0---4-5ºº-----4---4---|-2--------------
+dado...  eslacelosa amante queloHAde seguir ...
+
+
+en la risa y tambien en llanto,
+pero simepre ayudando a vi-
+
+
+cej.
+-------3--2°°°°
+-----2----
+---3------
+----------
+----------
+-2--------
+viiiiir...
+
+
+&gt; REPITE "PUENTE" DEL VERSO I DURANTE
+ "la guitarra del joven soldado, es su mejor fu-"
+
+ sil..
+V-0 (v^v)
+      A
+
+
+------------------------------------------------------------------
+6. FINAL
+------------------------------------------------------------------
+
+
+------------------------------------------------------------------
+Guitarra 1 (base rítmica)
+------------------------------------------------------------------
+
+
+
+ Bm   (Cm)  (C#m)     E     F/D [xx0211]
+------------------2---0ººº--|-1-1---------------1-*--------
+---5-----4-----3-(3)--0ººº--|-1-1-1--------1----1-1---1----
+---4-----3-----2-(2)--1ººº--|-2-2(2)--2---(2)-2-2-2------2-
+----------------------------0-------0---0-----------0--0---
+-4-----3-----2--------2ººº2-|------------------------------
+----------------------------|------------------------------
+                                es su mejor fusiiiii......
+
+
+ A                 C#m/A [Amaj7]
+---0--0---0------|-7ºººººº
+-^-2--2---2------|-6ºººººº
+-2-2--2-2-2------|-5ºººººº (sugiero terminar como rasgueado)
+-2---------------|-4ºººººº
+-0------------0x-|--------
+------------0----|--------  FIN
+iiil...
+
+------------------------------------------------------------------
+Guitarra 1 + Guit. 2(punteo) [Guit. 1 hace bajos y acordes)
+------------------------------------------------------------------
+
+*                          **
+-4-----3-----2--------0ººº--|-1-5-------5----5ºººººº-
+---5-----4-----3------0ººº--|-1-------6---6----------
+-----------------2----1ººº--|-2-----7----------------
+-------------------4--------0-----7------------------
+-4-----3-----2--------2ººº2-|------------------------
+----------------------------|------------------------
+
+
+
+ A                C#m/A [Amaj7]
+-5----------5(5)-|-7ºººººº
+---5ºº5---5---:--|-6ºººººº
+--------6-----:--|-5ºººººº
+--------------:--|-4ºººººº
+-------------(0x)|--------
+-----------------|-------- FIN
+
+
+Por general empleo solo la secuencia  de la guitarra 2 que va de
+* a ** y termino el resto como la Guitarra 1, pero en fin ,
+pueden combinar como quieran ambos finales..es todo amigos.
+,solo falta uno que otro punteo que considero "secundario".
+
+
+
+
+
+
+
+------------------------------------------------------------------
+LETRA
+------------------------------------------------------------------
+
+
+
+La guitarra del joven soldado
+es pecosa y discreta.
+Es tan tímida que sólo canta
+pasadas las diez.
+
+
+Cuando tocan silencio
+ella espera una hora
+y se escurre de puntas, los pies,
+y en el monte, debajo de un árbol,
+suelta al viento su amor y su fe
+la guitarra del joven soldado
+es recluta también
+
+
+La guitarra del joven soldado
+revela secretos,
+se desata por una mirada
+en arpegios de amor.
+
+Cada instante le pide tonadas y sones,
+canciones que nunca escuchó,
+y buscándolas siempre amanece
+procurando un acorde mejor.
+La guitarra del joven soldado
+hoy tampoco durmió.
+
+La guitarra del joven soldado
+es la celosa amante que lo ha de seguir
+en la dicha y también en el llanto,
+pero siempre ayudando a vivir.
+
+
+La guitarra del joven soldado
+es su mejor fusil
+es su mejor fusil
+es su mejor fusil.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

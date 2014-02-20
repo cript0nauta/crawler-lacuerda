@@ -1,0 +1,84 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Bersuit Vergarabat                                       |
+| CANCION: PIEL DE GALLINA                                          |
+| AUTOR:   -?-                                                      |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------ACO-bers1371-+
+| TRANS:   Eri                                                      |
+=====================================================================
+
+Acordes:
+
+C#/D - xx0121
+Em7/9 - 022032
+F#m7 - 242222
+F#m7/E - 042222
+Ebm7-5 - xx1222
+Bm7 - x24232
+F#m - 244222
+F#m/E - 044222
+Cm7/13 - x35345
+Fm(b5+7)/A - 023100
+A9/C# - x42222
+Dm7 - xx0333
+E/D - xx0100
+G#7/D - xx0112
+B7/C# - x4x445
+
+No se si puse bien los nombres de los acordes,
+Pero la posición es correcta.
+
+Intro: Arpegio en C#/D x 8
+
+        Em7/9       C#/D
+Nací con piel de gallina,
+       Em7/9            C#/D
+y judas entro en mi vida
+     Em7/9      C#/D
+creía en mis mentiras
+       Em7/9            C#/D
+que volaban por los días,
+          Em7/9       C#/D
+colgado en sogas de imperio
+        Em7/9     C#/D
+Narciso reía mejor
+             Em7/9         C#/D
+los pies ya están en la barranca
+              Em7/9       F#m7
+a punto de empezar la función,
+    F#m7/E             Ebm7-5   Bm7
+vago y mi mente en las ruinas
+F#m7        F#m7/E    Ebm7-5   Bm7
+   de lo que ayer construí.
+F#m7        F#m7/E     Cm7/13   Bm7
+   Tu cráter ya no estimula
+F#m7        F#m7/E      Ebm7-5   Bm7
+   soy presa de tu adoración.
+
+A                 Fm(b5+7)/A  (hacer un bend con la cuerda 5, traste 2)
+  Lidero el comando suicida
+A                      Fm(b5+7)/A
+  De los que no quieren sufrir
+A                         Fm(b5+7)/A
+  Nada puede mas que el olvido amor
+A                    Fm(b5+7)/A
+  Solo me salva tu rencor
+
+    Bm         A9/C#         Dm7    E/D
+Del loco es el reino de los sueños
+     Bm          A9/C#       G#7/D
+Del cuerdo es el reino del temor
+
+Final: Em7/9 - G#7/D - Em7/9 - G#7/D
+       Em7/9 - B7/C# - D
+       Em7 (arpegio)
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,109 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Vicentico                                                |
+| CANCION: ALGO CONTIGO                                             |
+| AUTOR:   Chico Novarro                                            |
+| ALBUM:   Vicentico                                                |
++------------------------------------------------------ACO-vice0013-+
+| TRANS:   Diego                                                    |
+=====================================================================
+
+Esta es una corrección de la tercera de las versiones de esta canción, realizada
+por Mariano Mengelatte.  Espero que le sirva a alguien.
+Esta repleta de variaciones de acordes y diferentes inversiones de los mismos.
+
+
+Intro:
+
+e:-------3--------------3-------------3--------------3------|
+B:---------3---3----------3---3---------3---3----------3---3|
+G:----4------4------3/4-----4-------4-----4------3/4-----4--|
+D:----------------------------------------------------------|
+A:----------------------------------------------------------|
+E:----3-------------3---------------3------------3----------|
+
+SOL
+¿HACE FALTA Q TE DIGA
+LAm/FA#            SI          MIm   MIm7 RE#m7 REm7  SOL7/6
+QUE ME MUERO POR TENER ALGO CONTIGO?
+ DOmaj7/9
+¿ES QUE NO TE HAS DADO CUENTA
+      SIm7         MI7/9            LAm7   LAm6
+DE LO MUCHO QUE ME CUESTA SER TU AMIGO?
+
+
+DOmaj7/9                  DOm7/6/4
+YA NO PUEDO ACERCARME A TU BOCA
+      SOL6      FA maj7  MI7/9
+SIN DESEÁRTELA DE UNA MANERA LOCA,
+ LAm7                 LAm6
+NECESITO CONTROLAR TU VIDA,
+              RE7/9            RE5 
+SABER QUIÉN TE BESA Y QUIÉN TE ABRIGA...
+
+
+¿HACE FALTA QUE TE DIGA
+QUE ME MUERO POR TENER ALGO CONTIGO?
+¿ES QUE NO TE HAS DADO CUENTA
+DE LO MUCHO QUE ME CUESTA SER TU AMIGO?
+
+
+DOmaj7/9                  DOm7/6/4
+YA NO PUEDO CONTINUAR ESPIANDO
+            SOL6      FA maj7  MI7/9
+DÍA Y NOCHE TU LLEGAR ADIVINANDO
+   LAm7                 RE7/9
+YA NO Sé CON QUÉ INOCENTE EXCUSA
+  REm7*             SOL7/6
+PASAR POR TU CASA...  OH
+      DOmaj7/9                  DOm7/6/4
+YA ME QUEDAN MUY POCOS CAMINOS
+       SOL6      FA maj7  MI7/9
+Y AUNQUE PUEDA PARECERTE UN DESATINO
+   LAm7                    RE7/9            SOL
+NO QUISIERA YO MORIRME SIN TENER ALGO CONTIGO.
+
+
+¿HACE FALTA QUE TE DIGA
+QUE ME MUERO POR TENER ALGO CONTIGO?
+¿ES QUE NO TE HAS DADO CUENTA
+DE LO MUCHO QUE ME CUESTA SER TU AMIGO?
+
+YA NO PUEDO ACERCARME A TU BOCA
+SIN DESEÁRTELA DE UNA MANERA LOCA,
+NECESITO CONTROLAR TU VIDA,
+SABER QUIÉN TE BESA Y QUIÉN TE ABRIGA
+
+
+YA ME QUEDAN MUY POCOS CAMINOS
+Y AUNQUE PUEDA PARECERTE UN DESATINO
+NO QUISIERA YO MORIRME SIN TENER ALGO CONTIGO.
+
+Final: SOL LAm/FA#  MIm  MIm/RE  DOmaj7  SIm7  LAm7  RE
+
+Acordes
+
+notas                  Eabdge
+Cuerdas            654321
+
+SOL 7/6              3+345+
+DOmaj7/9            +3243+
+SIm7                  7+777+
+LAm7                  5+555+
+LAm6                  5+455+
+DOm7/6/4            +33345
+SOL 6                  3+243+
+FA maj7            1+221+
+MIm7/9            +7677+
+REm7/9            +5455+
+RE7/5             +57576
+REm7*                  +5356+
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

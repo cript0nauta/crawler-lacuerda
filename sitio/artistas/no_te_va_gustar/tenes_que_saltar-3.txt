@@ -1,0 +1,55 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: No Te Va Gustar                                          |
+| CANCION: TENES QUE SALTAR                                         |
+| AUTOR:   Emiliano Brancciari                                      |
+| ALBUM:   Este Fuerte Viento que Sopla (2002)                      |
++------------------------------------------------------ARM-ntvg0523-+
+| TRANS:   Javier                                                   |
+=====================================================================
+
+Esta "partitura" es Para Saxo Tenor y Trompeta, como no se puede
+subir el pdf.
+o no se como, se las voy a intentar de escribir. Si pueden transcribirla mejor.
+Aca les dejo las notas con su figura
+(B, blanca. N, negra. C, corchea. S, semicorchea)...
+(., puntillo, b, bemol y #, sostenido). La partitura esta en 2/4 y en Lab mayo
+
+Esto es la intro de vientos, escuchar bien el tema sobre todo la parte
+de saxo que hace un acompañamiento.
+
+Saxo Tenor: (*, octava. **, doble octaba)
+|Mib*(N.), Fa*(C)|Sol*(N), Re**(C), Do*(C)|
+|Sib*(B)|Sib(N), Re*(N)|
+|Mib*(N.), Fa*(C)| Sol*(N), Re**(C), Do*(C)|
+|Sib*(C), Sib*(S), Sib*(S), Mib*(C), Re*(C)|Mib*(B)|
+|Re*(C), Re*(C), Fa*(C),Re*(C)|Mib*(B)|
+|Re*(C), Re*(C), Fa*(C),Re*(C)|Mib*(B)|
+|Sol*(B)|Fa*(B)|
+|Lab*(N), Sol*(C), Fa*(C)|Mib*(B)|
+|Re*(C), Re*(C), Fa*(C),Re*(C)|Mib*(B)|
+|Fa*(C), Sol*(S), Fa*(S), Mib*(C), Re*(C)|Mib*(B)||
+
+Trompeta: (*, octaba)
+|Do*(N.), Re*(C)|Mib*(N), Fa*(C), Mib*(C)|
+|Re*(B)|Sol(N), Sib(N)|
+|Do*(N.), Re*(C)|Mib*(N), Fa*(C), Mib*(C)|
+|Re*(C), Re*(S), Re*(S), Do*(C), Sib(C)|Do*(B)|
+|Fa*(C), Fa*(C), Lab*(C),Fa*(C)|Sol*(B)|
+|Fa*(C), Fa*(C), Lab*(C),Fa*(C)|Sol*(B)|
+|Mib*(B)|Re*(B)|
+|Fa*(N), Mib*(C), Re*(C)|Do*(B)|
+|Fa*(C), Fa*(C), Lab*(C),Fa*(C)|Sol*(B)|
+|Re*(C), Mib*(S), Re*(S), Do*(C), Sib(C)|DO*(B)||
+
+Espero que lo hayan entendido, no es dificil. Si quieren el Pdf pidanmelo a
+javorossi@hotmail.com, abrazo!
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

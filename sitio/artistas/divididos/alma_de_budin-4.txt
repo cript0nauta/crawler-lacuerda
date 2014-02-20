@@ -1,0 +1,88 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Divididos                                                |
+| CANCION: ALMA DE BUDIN                                            |
+| AUTOR:   Diego Arnedo, Ricardo Mollo                              |
+| ALBUM:   Gol de Mujer                                             |
++------------------------------------------------------BAT-divi0034-+
+| TRANS:   diego                                                    |
+=====================================================================
+
+C: crash 
+S: splash
+H: hi-hat (X: abierto, x: medio cerrado)
+R: ride (X: campana, x: plato)
+t: tacho
+T1: tom 1
+T2: tom 2
+Ch: chancha
+B: bombo 
+
+intro
+C |-x--x-|
+S |------|
+H |------|
+R |------|
+T |------|
+T1|------|
+T2|------|
+Ch|------|
+B |-o--o-|
+
+C |-------------------------|
+S |-------------------------|
+H |--X--X--X--X--X--X--X--X-|
+R |-------------------------|
+T |--------o-----------o----|
+T1|-------------------------|
+T2|-------------------------|
+Ch|-------------------------|
+B |--o--oo-------o--oo---o--|
+
+C |---------|-----------|
+S |---------|-----------|
+H |---------|-----------|
+R |---------|-----------|
+T |-oooooooo|--o--o---o-|
+T1|---------|-----------|
+T2|---------|-----------|
+Ch|-oooooooo|--o--o---o-|
+B |---------|-o--o--o---|
+
+estrofa
+
+sopla el viento dulce... 
+C |-------------------------|
+S |-------------------------|
+H |--X--X--X--X--X--X--X--X-|
+R |-------------------------|
+T |-----o-----o-----o-----o-|
+T1|-------------------------|
+T2|-------------------------|
+Ch|-------------------------|
+B |--o-----o-----o----o--o--|
+Repeti esto hasta va buscando
+Asilo el atontao, que hace
+C |--------|----------|
+S |------X-|----------|
+H |--------|-X--X--X--|
+R |--------|----------|
+T |-oooo---|-o--o--o--|
+T1|--------|----------|
+T2|--------|----------|
+Ch|--------|----------|
+B |------o-|--o--o--o-|
+En va la bala humana sin 
+razon vuelve al ritmo normal
+
+disfruten este temazo!!!!
+AGUANTE LA APLANADORA
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

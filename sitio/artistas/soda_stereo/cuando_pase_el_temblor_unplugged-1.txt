@@ -1,0 +1,167 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: CUANDO PASE EL TEMBLOR (UNPLUGGED)                       |
+| AUTOR:   Gustavo Cerati                                           |
+| ALBUM:   Comfort y Música para Volar (1996)                       |
++------------------------------------------------------ACO-soda0871-+
+| TRANS:   Jorge                                                    |
+=====================================================================
+
+   Versión MTV Unplugged
+   Armonizado en Do Mayor
+
+
+Ritmo, el compás se compone de 8 rasgueos. El primero es hacia abajo
+       (de graves a agudas), el segundo hacia arriba (de agudas a
+       graves), el siguiente es mute hacia abajo y el cuarto es mute
+       hacia arriba.
+       Entonces, el compás completo queda:
+
+                    |-A-A-X-X-A-A-X-X-|
+
+       Durante el coro, los últimos acordes se tocan en un sólo
+       rasgueo hacia abajo.
+
+ Efectos naturales.
+
+x, mute, la nota se toca sin presionar firmemente la cuerda,
+   lo que le da un efecto de sonar "mudo". En esta canción,
+   este efecto es primordial para el ritmo, pues cada dos notas
+   son tocadas en contraparte por dos rasgueos mudos.
+
+Nota: Los acordes acompañados por un paréntesis tienen un número
+      romano, que indica el traste en donde se toca el acorde:
+      G(III), se refiere a tocar acorde sol con cejila en traste 3.
+
+      Al final se encuentra un glosario de acordes.
+
+
+  INTRODUCCIÓN GUITARRA.
+
+  [Am(V), G(III), F(I), Em(VII)]X2
+
+
+  VERSO 1.
+
+ Am(V)G(III)             F(I)    Em(VII)            C(VIII)
+ Yo   caminaré entre las piedras hasta sentir el temblor
+ Cmaj7/F  C(VIII)
+    En mis piernas
+
+ Gm(III)     C7(III)     Gm(III)
+  A veces tengo temor, lo sé
+            D7(V)   F(V)            B7(II)
+ A veces vergüenza, oooooooooooooh, oooooooooooooh.
+
+
+  VERSO 2.
+
+ Am(V) G(III)                  F(I)
+ Estoy sentado en un cráter desierto
+ Em(VII)              C(VIII)Sin acorde           C(VIII)
+ Sigo esperando el temblor,             en tu cuerpo
+
+ Gm(III)   C7(VIII)       Gm(III)
+  Nadie me vió partir, lo sé
+            D7(V) F(V)            B7(II)
+ Nadie me espera, oooooooooooooh, oooooooooooooh.
+
+
+ CORO 1.
+
+ Esus2/Eb  C#5/G  Dmadd9  Dm6
+ Hay una   grieta,        en mi corazón
+ Esus2/Eb  C#5/G  Dmadd9  Dm6        Cmaj7/A
+     Un planeta,          con desilusión
+
+ Bm/A  Cmaj7/A  Bm/A Cmaj13/F
+
+
+ VERSO 3.
+
+ Am(V) G(III)                    F(I)
+ Sé    que te encontraré en esas ruinas
+ Em(VII)               C(VIII) Cmaj7/F C(VIII)
+ Ya no tendremos que hablar...
+
+ Gm(III)   C7(III)              Gm(III)
+    Te besaré en el temblor, lo sé
+         D7(V)         F(V) B7(II)
+ Será un buen momento
+
+
+ CORO 2.
+
+ Esus2/Eb  C#5/G  Dmadd9  Dm6
+
+ Esus2/Eb  C#5/G  Dmadd9  Dm6 Cmaj7/A
+
+ Bm/A  Cmaj7/A  Bm/A  Cmaj13/F
+       Con desilusión...
+
+
+ PUENTE.
+
+ Am(V) G(III)                  F(I)
+       Oh, oh, oh, oh, oh, oh, oh
+ Em(VII)               C(VIII)
+ Oh, oh, oh, oh, el temblor. Despiér-
+
+
+ CORO FINAL.
+
+ C(VIII) Dm(X)       A#(VI)
+  Despiértame cuando pase el tem-
+ C(VIII)      Dm(X)      A#(VI)
+ -blor Despiértame cuando pase el tem-
+ C(VIII)      Dm(X) A#(VI)
+ -blor Despiértaaaaaame
+ C(VIII)  Dm(X) A#(VI)
+   Despiértameeeeeeeeeeeeiiii...
+
+
+ FINAL.
+
+  C/E (con wah y delay)
+
+  Am(V) (aumentan wah y delay)
+
+  D7(V), Am(V)
+
+
+
+ GLOSARIO DE ACORDES.
+
+   Am(V) G(III) F(I) Em(VII) C(VIII) Cmaj7/F  Gm(III) C7(III)
+ e|-5----3------1----7-------8-------8--------3-------3------|
+ B|-5----3------1----8-------8-------8--------3-------5------|
+ G|-5----4------2----9-------9-------10-------3-------3------|
+ D|-7----5------3----9-------10------10-------5-------5------|
+ A|-7----5------3----7-------10------8--------5-------3------|
+ E|-5----3------1------------8-------8--------3--------------|
+
+   D7(V) F(V) B7(II) Esus2/Eb C#5/G Dmadd9 Dm6 Cmaj7/A Bm/A
+ e|-5----5----2------7---------10----5------8---7------7-----|
+ B|-7----6----4------8---------10----7------7---5------7-----|
+ G|-5----5----2------9---------9-----8------8---5------7-----|
+ D|-7----7----4---------------------------------5------7-----|
+ A|-5----8----2---------------------------------0------------|
+ E|----------------------------------------------------------|
+
+   Cmaj13/F Dm(X) A#(VI) C/E
+ e|-0--------10---6------8----|
+ B|-0--------10---6------8----|
+ G|-2--------10---7------9----|
+ D|-3--------12---8-----------|
+ A|-3--------12---8-----------|
+ E|-1--------10---6-----------|
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

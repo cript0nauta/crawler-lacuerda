@@ -1,0 +1,73 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Pappo                                                    |
+| CANCION: TEMA SOLISIMO                                            |
+| AUTOR:   Pappo-medina                                             |
+| ALBUM:   Aeroblues (1976)                                         |
++------------------------------------------------------BAJ-papp0901-+
+| TRANS:   victor                                                   |
+=====================================================================
+
+Atencion: La afinacion del bajo (y de la guitarra tambien por supuesto)
+esta un semitono mas grave.
+Sino en la afinacion mas comun (La440)no suena la tab.Pueden:
+1: afinar el bajo 1 semitono mas grave o
+2: pasar el tema poe un editor de audio(Sony vegas)y usando el
+plug in pitch Shift lo corren ese semitono.
+
+    (4 vueltas)                                         (2 vueltas)      \
+G|-----------------|--------------------------------|-----------------|  |
+D|-----------------|-7--5|7--------5-7--5|7---------|-----------------|  |
+A|-7--5|7--------5-|--------5--6-7----------------5-|-7--5|7--------5-|  |
+E|--------5--6-7---|-----------------------5--6-7---|--------5--6-7---|  |
+                                                                         |Parte
+                                        (2 vueltas)                      |  A
+                                              Estoy muy                |
+G|-----------------|-----------------|-----------------|                 |
+D|-9--7|9--------9-|-7--5|7----------|-----------------|                 |
+A|--------7--8-9---|--------5--6-7-5-|-7--5|7--------5-|                 |
+E|-----------------|-----------------|--------5--6-7---|                 |
+                                                                         /
+Repite parte A 4 veces mas. Despues:
+
+    (3 vueltas)
+1:41               (y termina con esto tocado bien rapido)
+G|----------------|----7---------------------------------------|
+D|----------------|-----9-7-5----------------------------------|
+A|-7--7-7---7-7-7-|7----------7-5------------------------------|
+E|----------------|---------------7-5-3-3h5-3h5-3h5-3h5--------|
+
+G|--------------------------------------------------------------|
+D|--------------------------------------------------------------|
+A|------------------------------------7/d-----------------------|
+E|-0-0-0-0-0-0-0-0-0-0-0-0-0-0---------------------------------|
+
+Notas:
+x|x: por ej 5|7 significa tocar ambas notas consecutivamente rapido
+ /d: slide down
+  h: hammer on (ligado)
+
+Tema solisimo (Pappo - A. Medina)
+
+Estoy muy solo,
+no hay lugar adónde ir;
+estoy muy solo,
+no hay lugar adónde ir,
+después de pensar un poco,
+no me gusta estar así.
+
+Mañana oscura,
+señal de soledad,
+mañana oscura,
+señal de soledad,
+no debo cerrar los ojos,
+debo ver mi voluntad.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

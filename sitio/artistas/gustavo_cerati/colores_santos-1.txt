@@ -1,0 +1,179 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Gustavo Cerati                                           |
+| CANCION: COLORES SANTOS                                           |
+| AUTOR:   Gustavo Cerati                                           |
+| ALBUM:   Colores Santos (1992)                                    |
++------------------------------------------------------TAB-gcer0431-+
+| TRANS:   Yvan                                                     |
+=====================================================================
+
+Hola, este es un tab de la version en vivo q realizo Gustavo
+en el Teatro Argentino de La Plata, Argentina el 20 de junio del 2003
+Busquenlo asi en youtube, asi tendran mas referencia.
+
+El tema va a dedicado a todos esos amores de verano
+que aunque duraron muy poco saben q fue intenso.
+A veces confundimos sentimientos, a caso fue verdadero todo?
+o "quizas no es amor". Tema especial para esas tardes cuando el sol se pone
+----------------------------------------------------------------------------
+
+
+Acordes:
+--------
+Cadd9   x32033
+Bb6     x1x033
+Fadd9   xx3213
+
+C5      x3x55x
+D#5     x6x88x
+D5      x5x77x
+C#5     x4x66x
+
+Am7*    x02213
+
+Dsus2   x579xx
+Fsus2   x-8-10-12-x-x
+
+F#5*    x-9-10-11-x-x
+
+Fm      x-8-10-10-9-x
+
+
+En la version studio, comenzando, hace este pekeño sonido
+
+E |----------------|
+B |-----------13---|
+G |-----9----------|
+D |--------10------|
+A |----------------|
+E |----------------|
+
+Luego, este es el intro:
+En la version en vivo primero entra con el riff, la guitarra sola,
+lo repite 2 veces.
+Luego ya entra toda la banda y procede a repetirlo 4 veces.
+
+
+Riff 1:
+-------
+        Cadd9             Bb6         FAdd9 (SI desean le hacen el bajo en La)
+E |---------------|----------------|-----------3-----3------|
+B |-------3-------|--------3-------|--------1---------------|
+G |----0-----0----|-----0-----0----|-----2--------2--------o|
+D |---------------|----------------|--3--------------------o| x4
+A |-3-------------|--1-------------|------------------------|
+E |---------------|----------------|------------------------|
+
+
+  C5     D#5      D5           C#5
+Heeeeyyy!  Te extraño en las tardes
+
+    C           FAdd9    |
+quizás no es amor        |]] Arpegiar estos acordes
+         Am7*     FAdd9  |
+lo que me hace buscarte  |
+
+
+Dsus2                    Fsus2
+  Las decisiones siempre llegan tarde
+     Dsus2
+las piezas que quedan jamas encajan
+
+
+RIFF 1: x4
+-------
+
+
+  C5    D#5    D5           C#5
+Heeeeyyy!  Viajando en la luz
+      C        FAdd9    |
+te quiero abrazar...    |]] Arpegiar estos acordes
+    Am7*   FAdd9        |
+un beso perfecto        |
+
+
+Dsus2                               Fsus2
+ Envuelto en los sueños de inútiles noches
+   Dsus2
+confusos recuerdos, colores santos
+
+
+RIFF 1: x4 ..Quizás no es amor..
+-------
+
+(luego hacer un llamado con G# y...)
+
+D# C# G#... (pequeño solo)
+
+    D#         C#   G#
+Quizás no es amor
+    D#         C#   G#
+Quizás no es amor
+    D#         C#   G#
+Quizás no es amor
+
+
+(esta parte solo la acompaña el bajo y la baeria, pero si gustan
+pueden ponerle los mismos acordes que los otros versos)
+
+Hey! Yo se muy bien,
+jamas me entendiste y no lo pretendo
+
+Dsus2                             Fsus2
+ Dulce es este viento, sopla en mi corazón
+  F#5*             Fm
+arrastra olvidos y no regresaaaa....
+
+
+RIFF 1: x4 ..Quizás no es amor..
+-------
+
+
+  C5   D#5    D5        C#5
+Heeeyyy!! Cambiar las palabras,
+   C5       D#5 D5   C#5       C5   D#5
+mejor no jurar,    promesas erradas
+    D5       C#5         C5          D#5  D5 C#5
+cambiar las palabras, quizás no es amor
+   C5          D#5  D5 C#5
+quizás no es amor
+   C5          D#5 D5  C#5
+quizás no es amor.   Colores santos.
+
+
+Riff 2: outro
+-------
+
+si desea otra guitarra puede acompañar con estos acordes:
+      C5               D#5               D5              C#5
+----------------|----------------|----------------|----------------||
+----------------|----------------|-----8-8h10-8---|-----8-----8----||
+-----9-9h10-9---|--7--10-7--10---|----------------|--10----9-------||
+--10------------|----------------|--10------------|----------------||
+----------------|----------------|----------------|----------------||
+----------------|----------------|----------------|----------------||
+
+...y finalmente pueden solear en escala de Fm.
+
+*En la version en vivo hace un outro con la ultima parte del tema
+"Ella uso mi cabeza como un revolver" asi:
+
+C5       D#5      D5          C#5       C5
+ No creerias las cosas que he hecho por ella
+G#  G   F#  F
+  ella... ooohhh!!
+
+--------------------------------------------------------------------
+Agradezco infinitamente a Gus por todo lo que he aprendido con su musica,
+su arte, y toda la entrega. Maestro! Despierta ya grande!
+Esta cancion me recuerda al verano del 2012 ;)
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

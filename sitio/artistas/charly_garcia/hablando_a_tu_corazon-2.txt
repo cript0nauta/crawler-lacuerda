@@ -1,0 +1,115 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Charly García                                            |
+| CANCION: HABLANDO A TU CORAZON                                    |
+| AUTOR:   Charly García                                            |
+| ALBUM:   Obras Cumbres, Vol. 1                                    |
++------------------------------------------------------TEC-cgar0212-+
+| TRANS:   Lionel                                                   |
+=====================================================================
+
+Este espectacular tema de Charly, lleva 5 sonidos de
+Teclados diferentes.
+Pero... voy a resumir un poco... en dos teclados no mas.
+Uno es un piano, que es
+la base del tema, el otro es un Brass.. (también suena un String)
+pero a esos dos los voy a escribir juntos.
+
+
+Minúsculas: nota por tecla.
+Mayúsculas: acorde
+/teclas combinadas
+-: nota por tecla
+P: piano (casi todas las notas son blancas) | B: brass
+
+
+
+P0:  |---------|-a4/e5---|
+     |-a2-(x9)-|-a2-(x4)-|
+
+P1: |-a4/e5-------|
+    |-A-----A-A-A-|
+
+    |-g#4/e5------------------|
+    |-G#m#5-G#m#5-G#m#5-G#m#5-| (g#m#5=g#/b/e)
+
+    |-f#m#5-f#m#5-D-D-|         (f#m#5=f#/a/d)
+
+    |-A-A-A-A-|
+
+P2: |-A-----------|-Auag--------|
+    |-a2-a2-a2-a2-|-g2-g2-g2-g2-|
+
+    |-e4/a4----|-A-----|-A/e5--------|
+    |-a2---a2--|-a2-a2-|-a2-a2-a2-a2-|
+
+P3: |-e4/a#4-b4-a4-e4-d4-c#4-b3-| (escalera)
+
+P4: |-e4--e4/a#4--b4--e4/a4--e4| (escalera)
+
+P5: |-d4/f4--f#4-c#4/e4-b3/d4-a3/c#4--f#3/b3-| (esc..)
+
+P6: |-a4/e5/a5(x7 rapido)-| x2
+
+P7: |-c#4-e4-c#4-a3---g4-f#4-e4-c#4--| Varias veces
+    |--A------A-------A----------A-|
+
+B1: |--a4------e5-------a4--|
+
+B2: |-c#4----e4-----a3---a3---a3-|
+B3: |-c#5---C#5-e5-c#5-f#5-c#5-e5-| |-a5-(x6)-a4-(x6)-|
+                                             Aveces hace.
+---------------------------------------------------------------
+P0
+
+P1
+Oh, no puedes ser feliz
+Con tanta gente hablando, hablando a tu alrededor.
+P1
+Oh, dame tu amor a mi
+Estoy hablando, hablando, hablando a tu corazón
+
+P2
+Cuando estas muy solo, sola en la calle
+                 B2
+Con tanta gente hablando, hablando a tu alrededor.
+P2
+Necesitas alguien que te acompañe
+                   B2
+Estoy hablando, hablando, hablando a tu corazón.
+
+P1 + B2
+Oh, no puedes ser feliz
+Con tanta gente hablando, hablando a tu alrededor.
+P1 + B2
+Oh, dame tu amor a mi
+Estoy hablando, hablando, hablando a tu corazón
+
+P2                              P3
+No importa el lenguaje, ni las palabras.
+Ni las fronteras que separan nuestro amor.
+P2                                    P4
+Quiero que me escuches y que te habrás
+Estoy hablando, hablando, hablando a tu corazón P5
+
+Oh, no ... (igual)
+
+B3
+
+P1                                   P6
+Oh, no puede ser feliz.
+P1
+Oh, dame tu amor a mi.
+
+Oh, no.....(igual)
+
+Final con P7
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

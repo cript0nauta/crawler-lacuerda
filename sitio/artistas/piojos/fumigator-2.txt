@@ -1,0 +1,198 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: los Piojos                                               |
+| CANCION: FUMIGATOR                                                |
+| AUTOR:   A. Ciro                                                  |
+| ALBUM:   Ay Ay Ay (1994)                                          |
++------------------------------------------------------TAB-pioj0562-+
+| TRANS:   Facundo                                                  |
+=====================================================================
+
+INTRO:
+
+Entra bateria:
+
+Bajo:
+g|------------------------------|--||
+d|------------------------------|--||
+a|-2-2-2-2-2-2-2-2-2-2-2---0----|x3||
+E|-----------------------2---2--|--||
+
+
+Entra en segunda vuelta de bajo:
+
+Guitarra 1:
+(Riff en B7)
+   B7   A7      A7    A7 B7   A7   A7
+e|-7----5---|-5-5-5--|-5/7-7---5---5-5-5|
+b|-7----5---|-5-5-5--|-5/7-7---5---5-5-5|
+g|-8----6---|-6-6-6--|-6/8-8---6---6-6-6|
+d|-7----5---|-5-5-5--|-5/7-7---5---5-5-5|
+a|----------|--------|------------------|
+E|----------|--------|------------------|
+
+Estrofa 1:
+
+Guitarra 1:
+(Riff de B7)
+e|-7----5---|-5-5-5--|-5/7-7---5---5-5-5|
+b|-7----5---|-5-5-5--|-5/7-7---5---5-5-5|
+g|-8----6---|-6-6-6--|-6/8-8---6---6-6-6|
+d|-7----5---|-5-5-5--|-5/7-7---5---5-5-5|
+a|----------|--------|------------------|
+E|----------|--------|------------------|
+
+
+Guitarra 2:
+(RIFF EN PM)
+e|----------------|
+b|-x-3-4-5-6-x-x--|
+g|----------------|
+d|----------------|
+a|----------------|
+E|----------------|
+PM.................
+
+
+B7
+Yo ya no se, parece amor   (Riff en PM)
+nunca entendi como llegue aca
+Pero ya ves, una por mes..
+Me das el vento y yo te hago tan mal
+
+Corte:
+
+  F#  F#
+e|-2--2-|
+b|-2--2-|
+g|-3--3-|
+d|-4--4-|
+a|-4--4-|
+e|-2--2-|
+
+
+Riff:
+
+e|--7--7---10-10-10--7--7---5--5-5-5----|--|
+b|--7--7---10-10-10--7--7---5--5-5-5----|--|
+g|--------------------------------------|--|
+d|--------------------------------------|x6|
+a|--------------------------------------|--|
+E|--------------------------------------|--|
+
+Estrofa 1(bis):
+
+Guitarra 1:
+(Acordes)
+    B7     A7
+e|-7--7-----5--------|--||
+b|-7--7-----5--------|--||
+g|-8--8-----6--------|--||
+d|-7--7-----5--------|x8||
+a|-9--9-----7--------|--||
+e|-7--7-----5--------|--||
+
+B7      A7   B7      A7
+Yo ya no se, parece amor   (Riff en PM)
+B7      A7   B7      A7
+nunca entendi como llegue aca
+B7        A7 B7       A7
+Pero ya ves, una por mes..
+B7        A7       B7            A7
+Me das el vento y yo te hago tan mal
+
+Estribillo:
+
+B7                 (Riffcito)
+Yo te adoro cucaracha
+                      A7
+cuando bailas mi funk....(x2)
+
+
+Guitarra 2:
+(Riffcito)
+e|----------------|
+b|-x-x 3-5-6-7-x--|
+g|----------------|
+d|----------------|
+a|----------------|
+E|----------------|
+
+Corte:
+
+Riff:
+
+e|--7--7---10-10-10--7--7---5--5-5-5----|--|
+b|--7--7---10-10-10--7--7---5--5-5-5----|--|
+g|--------------------------------------|--|
+d|--------------------------------------|x6|
+a|--------------------------------------|--|
+E|--------------------------------------|--|
+
+
+Estrofa 2:
+
+(Igual que 1)
+
+Asi que ves, bicho con pies
+que ya con vos no puedo yo hablar
+Si esa mujer me paga bien
+tengo que hacerlo y mejor olvidar
+
+Estribillo:
+
+B7                    (Riffcito)
+Yo te adoro cucaracha
+                      A7
+cuando bailas mi funk....(x2)
+
+Yo te adoro cucaracha
+                           B7
+cuando bailas mi... ¡mambo!
+
+Corte:
+Guitarra 2:
+(Riff en Quintas)
+e|--------------|--|
+b|--------------|--|
+g|-4--2--4------|--|
+d|-4--2--4--4-4-|x2|
+a|-2--0--2--4-4-|--|
+E|----------2-2-|--|
+
+Estrofa:
+Guitarra 2:
+(Riff en Quintas)
+e|--------------|---|
+b|--------------|---|
+g|-4--2--4------|---|
+d|-4--2--4--4-4-|x24|
+a|-2--0--2--4-4-|---|
+E|----------2-2-|---|
+
+En la cocina, en la alacena
+en el costado de la chimene'
+bajo la ducha, en el ropero
+bajo la cama y en el lavade'
+
+Solo:
+
+[[Sobre el mismo Riff]]
+
+Coda:
+(Sobre el mismo Riff)
+Donde vas, donde vas
+Donde vas, donde vas x4 (bis)
+
+
+
+Saludos para Pablo!
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

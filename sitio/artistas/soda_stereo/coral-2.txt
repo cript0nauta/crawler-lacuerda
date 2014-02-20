@@ -1,0 +1,85 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: CORAL                                                    |
+| AUTOR:   Gustavo Cerati                                           |
+| ALBUM:   Comfort y Música Para Volar: Unplugged                   |
++------------------------------------------------------ACO-soda0082-+
+| TRANS:   Sergio                                                   |
+=====================================================================
+
+ Hola, esto es nada mas que una version alternativa que es
+ la unica que he visto a Soda tocar en vivo..
+ Son practicamente los mismos acordes del arreglo acustico
+ de Miguel Santiago, pero diferente formas de tocarlos
+ y tambien corregi las letras de ambas versiones que
+ estan incorrectas en algunas palabras..
+ Se que parece un poco rara pero practiquenla,
+ y van a ver que queda espectacular.. preguntas al email please..
+
+ INTRO Acordes:  B  C#  F#  A,   B  C#  D  A  (2x)
+
+Em7   D/F#     B/G#     G
+El reloj........  marco la hora del final,
+D/B     E/C#       C   D/B   Em7
+de otra época vacía
+Em7   D/F#     B/G#     G
+Despertó...... con el perfume embriagador,
+D/B      E/C#          C   D/B    Em7
+de comenzar su nueva vida...
+
+PUENTE 1
+B     C#             F#         A              B  C#  D  A
+El paisaje alrededor..... siente que la abraza.........
+B     C#             F#         A              B  C#  D  A
+Una brisa tropical....... fortalezas de agua.........
+
+
+Em7      D/F#       Em7   D/F#    Em7   D/F#
+Piensa en formas de coral............
+B/G#    G              D/B     E/C#              C       D/B
+No conocía otra razón.. que una razón por cada día.
+     E/C#              C   D/B    Em7
+ y una batalla por las noches
+
+PUENTE 2 (bis puente 1)
+B     C#               F#        A               B  C#  D  A
+Corre y sueña bajo el sol, siente que lo alcanza...........
+B     C#          F#         A                B  C#  D  A
+Liberada del temor, de volver a casa............
+
+Em7     D/F#        Em7   D/F#    Em7   D/F#
+Junta formas  de coral.........................
+
+
+CORO (acordes del INTRO) y SOLO (con distorcion y slide)
+ Gm 4 sustain.................................../33/4/6/4
+Todo aquello que dejo, se hundirá en la arena..............
+ Gm 4.../14..../11/16...../11/14/16......../4........
+El secreto entre los dos, es que nunca volvera...............
+
+ El final es con los acordes del INTRO
+
+ACORDES (importante!!!)
+
+ B:   799800
+ C#:  979800
+ F#:  244300
+ A:   577600 *este acorde lleva un juego medio 5/4/5 en la E baja
+ D:   10|12|12|11|00 *Cerati lo hace 1097700 pero a mi me es mas facil asi
+ Em7:  022030
+ D/F#: 200230 *en realidad es Dsus/F# pero para evitar MAS confusion jeje..
+ B/G#: 4x4440
+ G:    3x5430
+ D/B:  7x7770
+ E/C#: 9x9990
+ C:    8x10|980
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

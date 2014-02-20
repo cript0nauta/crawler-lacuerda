@@ -1,0 +1,85 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: DIENTES DE TIBURON                                       |
+| AUTOR:   -?-                                                      |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------ACO-srod4081-+
+| TRANS:   Cristian                                                 |
+=====================================================================
+
+Afinar 1 tono más bajo
+
+Intro:
+
+    SOL*              DO9*              RE                  SOL*
+MI--3^0-------3^0-3-3-3^0-------3^0---3-------0-3^0---------3---------
+SI--------0-0---------------3-3-----3-------3---------3---3-----3---3-
+SOL-----0-----------------0---------------2---------2---2-----0---0---
+RE--------------------------------------0-----------------------------
+LA--------------------3-----------------------------------------------
+MI--3-------------------------------------------------------3---------
+
+       SOL*
+A.Cuatro mil en un minuto,
+      SOL6/SOL#
+cinco millones por día,
+        MI
+dos mil millones por año,
+         LAm  V-2    V-2  LAm
+diez mil millones en cinco,
+      RE
+por cada mil que se van
+      SOL    VI-2     MIm
+en la tierra queda un muerto
+      LA7         V-2
+a mil dólares por muerto
+V-4    RE                       SOL*
+cuatro veces por minuto está la vida.
+
+          DO       LAm
+B.Nunca han salido baratos
+        RE         SOL
+los dientes de tiburón,
+       LA7          DO
+quizás esto sea una causa,
+       LAm       LA9-LAm-INTRO
+quizás sea una razón.
+
+A.El asunto no es quererse,
+comer el mundo de un golpe,
+el asunto es ver en cuantos
+pedazos hay que partirlo,
+organizar la comida
+a niveles de guerrilla
+y nosotros tener siempre
+un compañero atento
+en la tintorería.
+
+B.Nunca han salido
+
+A.Cada plato de la mesa
+debe usarlo un comensal,
+no debe quedarse un sitio
+sin su boca en su lugar.
+En grandes y chicas cenas
+nos comeremos al mundo,
+no hay vanguardia sin espalda,
+no hay ejército eficaz
+sin retaguardia.
+
+B.Nunca han salido
+
+Final: Intro - LA#*-SOL*
+
+SOL6/SOL#:300100
+LA#*     :650066
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

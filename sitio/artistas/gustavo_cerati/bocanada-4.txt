@@ -1,0 +1,127 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Gustavo Cerati                                           |
+| CANCION: BOCANADA                                                 |
+| AUTOR:   -?-                                                      |
+| ALBUM:   Bocanada (1999)                                          |
++------------------------------------------------------ACO-gcer0104-+
+| TRANS:   Yvan                                                     |
+=====================================================================
+
+Bajar a RE la 6ta cuerda
+para facilitar los acordes.
+
+         DADGBE
+         ------
+AM7/F# = 4x6654
+Bm     = x24432
+GM7/E  = 2x4432
+
+Bm7    = x24232
+
+Bbm7   = x13121[-- esta nota es opcional
+                   para hacer una transición
+                   A Am7.
+Am7    = x02010
+Em9    = 220002 - x75770
+F#m9   = 442224 - x9799x
+
+BbM7/G = 7x7765
+
+
+Intro:  AM7/F# - Bm - AM7/F# ---- GM7/E
+-------
+
+Verso 1:
+---------
+
+AM7/F#               Bm
+   cuando no hay mas que decirnos
+AM7/F#            Bm
+   habla el humo, nada el humo
+AM7/F#             GM7/E
+   y... rema en espiral
+
+AM7/F#                Bm
+   cuando no hay mas que decirnos
+AM7/F#            Bm
+    se abren al aire vacíos
+AM7/F#                 GM7/E
+    que dos no pueden respirar
+
+CORO:
+------
+        Bm7         (Bbm7) Am7
+   para desvanecerse alargando el después
+Em9                   F#m9
+   trayectoria  sin final
+       Bm7         (Bbm7)
+    distante placer
+Am7                        Em9
+    de una mirada frente a otra
+             F#m9
+    Esfumándose
+
+
+Instrumental:   BbM7/G - AM7/F# --- GM7/E
+--------------
+
+Verso 2:
+---------
+
+BbM7/G - AM7/F#                     Bm
+    ........Cuando no hay mas que decirnos
+AM7/F#             Bm
+    me hago uno con el humo
+AM7/F#             GM7/E
+    serpenteando la razón
+
+AM7/F#                Bm
+    De todo aquello decidido
+AM7/F#            Bm
+    se estira el tiempo y me olvido
+AM7/F#         GM7/E
+    me olvido como vos.
+
+Verso 3:
+---------
+           AM7/F#       Bm
+    Y en la espera vagamos
+AM7/F#   Bm
+    indiferentes
+AM7/F#              GM7/E
+    por el espacio que dejo.
+
+
+CORO:
+------
+          Bm7       (Bbm7) Am7
+    para desvanecerse alargando el después
+Em9                   F#m9
+    una historia sin final
+        Bm7      (Bbm7)
+    distante placer...
+Am7                    Em9
+    de una mirada frente a otra
+             F#m9
+    esfumándose
+
+
+Instrumental:   BbM7/G - AM7/F# --- GM7/E
+--------------
+
+--------------------------------------------------------
+Quiero agradecer infinitamente a Gus por todas las
+enseñanzas maestro. Espero despiertes pronto.
+Esta canción me hace recordar las playas
+de Viña del Mar y Valparaíso.
+Y todos los momentos pasados ahi.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

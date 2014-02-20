@@ -1,0 +1,326 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Camila                                                   |
+| CANCION: BESAME                                                   |
+| AUTOR:   Camila                                                   |
+| ALBUM:   Dejarte de amar (2010)                                   |
++------------------------------------------------------TAB-cmla0314-+
+| TRANS:   Jorge                                                    |
+=====================================================================
+
+Ahora les traigo esta rola de camila que esta con todo
+mire unas versiones y la verdad estaban mal,mejor subi
+mi propia trascripcion tiene algunas modificaciones en
+las tabs para que se escuchen mejor al ataccar las
+cuerdas y los acordes  estan modificados con  y otros
+con otros ajustes pero asi son originalmente como los
+ toca las guitarras de fondo(y aveces pablo hurtado)
+Los riffs los hice para acustica ,Espero y les guste :)
+
+
+_____________________________________________________________________________
+
+
+Capo en 2do Traste
+________________________________________________________________________
+Acordes:
+
+          E A D G B E
+
+C       : x/3/2/0/1/0
+C/G     : 3/3/2/0/1/0
+Cadd    : 3/3/2/4/0/0
+Cadd9   : x/3/5/4/5/0
+Cadd9/2 : x/3/2/0/3/3
+Cadd2   : x/3/2/0/0/0
+E       : 0/2/2/1/0/0
+Em      : 0/2/2/0/0/0
+Esus4   : 0/2/2/2/0/0
+Em/G    : 0/2/2/0/3/3
+Em/D    : 0/2/2/0/3/2
+Eadd    : x/5/4/0/0/x
+Eadd9/G : x/5/4/0/5/x
+Asus2   : x/0/2/4/2/0
+Asus    : x/0/2/4/x/x
+Am      : 5/7/5/0/0/x
+A7      : x/0/2/0/2/0
+Bm      : 7/9/7/0/x/x
+B5      : x/2/4/4/x/x
+B7      : x/2/1/0/0/2
+Dsus2/B : x/2/0/2/3/0
+D/B     : x/2/0/2/3/2
+D6/B    : x/2/0/2/0/2
+_________________________________________________________________________
+
+Riffs
+
+Riff 1:
+e---0-----|
+B--0------|
+G-2-------|
+D---------|
+A---------|
+E---------|
+
+Riff 2 :
+e--0-0-2-0---0---|
+B-0-3------3-3/5-|
+G----------------|
+D----------------|
+A----------------|
+E----------------|
+
+Riff 3 :
+e-------------|
+B-------------|
+G-------------|
+D------9/11-9-|
+A-9-12--------|
+E-------------|
+
+
+
+Riff 4 :
+e---0h3-5/7/5-5b(7)r5-3--|
+B-3/5------------------5-|
+G------------------------|
+D------------------------|
+A------------------------|
+E------------------------|
+
+Riff 5:
+e--------|
+B--------|
+G-0h2h0--|
+D--------|
+A--------|
+E--------|
+
+Riff 6:
+e---0--|
+B--0-3-|
+G-3----|
+D------|
+A------|
+E------|
+
+Riff 7:
+e--------------|
+B--------------|
+G----0h2b(4)h0-|
+D-0h2----------|
+A--------------|
+E--------------|
+
+Riff 8:
+e------------|
+B------------|
+G----0-2h0p2-|
+D-2h4--------|
+A------------|
+E------------|
+
+Riff 9:
+e-----0------|
+B----3-3-0h3-|
+G-2h4--------|
+D------------|
+A------------|
+E------------|
+
+Riff 10:
+e-0h3-5h3-3h5p3-5h3-5v--|
+B-5---------------------|
+G-----------------------|
+D-----------------------|
+A-----------------------|
+E-----------------------|
+-
+
+Riff 11:
+e--0-0-0h2-2-|
+B-0-3------3-|
+G----------0-|
+D------------|
+A------------|
+E------------|
+
+
+Riff 12:
+a|-5/7-5------|
+B|------8-7-8-|
+G|------------|
+D|------------|
+A|------------|
+E|------------|
+
+Riff 13:
+
+a|--------------|
+B|-8-7-5--------|
+G|-------7------|
+D|--------4-----|
+A|---------5-7v-|
+E|--------------|
+
+
+
+______________________________________________________________________
+
+
+
+
+(Intro piano pasado a arpegio):
+
+
+
+   C                        Em
+e|-3-----2-----0----------|-3-----2-----0----------|
+B|---3-----0-----0---3----|---0-----0-----0---3h0--|
+G|-----0-----0-----0----0-|-----0-----0-----0----0-|
+D|-------0-----2-----2----|-2-----0----------------|
+A|-3-----0----------------|-------------0----------|
+E|------------------------|-0----------------------|
+
+   C/G         Cadd9        Esus4 - Em
+e|-0-----2-----0----------|-3-----2-----0~-|
+B|-8h0---7h0---5-----3h0--|---0-----0------|
+G|----0-----0---4--0----0-|-0---0-----0----|
+D|---------------5---0----|-5-----0--------|
+A|-3-----------3----------|----------------|
+E|-------7----------------|-0-----------0--|
+
+Intro :
+
+a|-------5/7-7h9v---12h14------------------------------|
+B|-5/7-8-----------------12h14-10h12---10-9h10p9-------|
+G|-------0---------------------------------------9/11v-|
+D|-----------------------------------------------------|
+A|-0---------------------------0-----------------------|
+E|-----------------------------------------------0-----|
+
+
+
+
+
+
+
+
+ C/G - Cadd    Esus4-Em           Cadd9       Em
+Bésame a    destiempo     sin piedad y en silencio...
+
+      (Riff 1)   ( Riff 2)
+    C/G           Esus4-Em     Cadd          Em
+Bésame, frena el tiempo    has crecer lo que siento
+
+
+
+                                   (riff 3)
+    Am     Bm                           Em  -  Dsus2/B
+Bésame como si el mundo se acabara después,
+
+                                        (riff 4)
+    Am      Bm                           Em  -  D/B
+Bésame, y beso a beso por el cielo al revés,
+    Am        B7           Em  -  Em/D  -  Asus2
+Bésame sin razón, porque quiere el corazón,
+C
+Bésame...
+
+
+C   Em   C   Em
+
+
+       C/G      Esus4- Em          Cadd9   Eadd9/G
+Siénteme en el viento, mientras yo muero lento...
+
+        (Riff 5) (Riff 6)  (Riff 7)
+C/G        ESus4-Em         C            Esus4 - E
+Bésame sin motivos     y estaré siempre contigo
+
+
+
+
+                                      (Riff8)
+    Am     Bm                           Esus4 -Em -  Dsus2/B
+Bésame como si el mundo se acabara después
+
+                                      (Riff4)
+   Am      Bm                           Em  -  D/B
+Bésame, y beso a beso por el cielo al revés,
+    ASus      B5          Em/G -  Em/D  - A7
+Bésame sin razón, porque quiere el corazón
+
+Cadd
+Bésame...
+
+
+C   Esus4-Em   C   Esus4-Em7
+
+
+Puente:
+
+
+e-12/-----7/9-------7/9------7/9-7---7-----|
+B--------------7-10-----7-10-------7----10-|
+G------------------------------------------|
+D------------------------------------------|
+A------------------------------------------|
+E------------------------------------------|
+
+
+e----------14-14-14-14-14-14-14-14-14-17/--|
+B-9-10-12----------------------------------|
+G------------------------------------------|
+D------------------------------------------|
+A------------------------------------------|
+E------------------------------------------|
+
+
+
+
+
+Bésame...                                (Riff9)
+    Am     Bm                           Esus4 -  E
+Bésame como si el mundo se acabara después,
+                                         (Riff10)
+    Am      Bm                           Em  -  D/Esus7
+Bésame, y beso a beso por el cielo al revés,
+    Am        B7           Em/G -  Em/D  -  ASus2
+Bésame sin razón, porque quiere el corazón,
+C
+Bésame...
+
+
+
+
+
+
+ C/G
+Bésame así, sin compasión,
+ Eadd9
+Quédate en mí sin condición,
+ Am7                D6/B
+Dame tan sólo un motivo
+            (Riff1)          (Riff11)
+            Cadd/2           ESus4-Em
+Y me quedo yo... y me quedo yo...
+          (Riff12)          (Riff13)
+            Cadd9/2           Eadd
+Y me quedo yo... y me quedo yo...
+
+
+
+
+
+
+Cualquier  duda mi  twitter  es  @IAmJorgeAguiar
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

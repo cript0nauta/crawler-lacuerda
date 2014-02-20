@@ -1,0 +1,51 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: La Vela Puerca                                           |
+| CANCION: CLAROBSCURO                                              |
+| AUTOR:   Sebastian teysera                                        |
+| ALBUM:   A Contraluz (2004)                                       |
++------------------------------------------------------ARM-vpue0324-+
+| TRANS:   Lucho                                                    |
+=====================================================================
+
+Arm en C
+
+Intro:
+(6)(6)7
+
+7(7)6(6)  5(4)5
+
+56(6)(6)7
+
+7(7)6(6)
+
+(7)(7)(6)
+
+665
+
+(4)5(5)
+
+Siguiente intervención de vientos:
+
+(6)6(6)7
+
+7(7)6(6)  5(4)5
+
+56(6)6(6)7
+
+7(7)6(6)
+
+56(6)
+
+las notas de la parte cantada estan bien en la version de la cancion para
+teclado. estan las notas no las celdas pero por ejemplo
+la es la 6 aspirada en una armonica en do asik s puede tocar con eso
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

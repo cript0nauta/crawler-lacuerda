@@ -1,0 +1,133 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: AUNQUE NO ESTE DE MODA                                   |
+| AUTOR:   Silvio Rodríguez                                         |
+| ALBUM:   Al Final De Este Viaje                                   |
++------------------------------------------------------ACO-srod0134-+
+| TRANS:   chitoski                                                 |
+=====================================================================
+
+afinacion en C#
+
+
+Intro:
+
+Am6  Am6*  Adim Am6*  Am6 Dm7  E
+
+       Am               Dm7
+A.- Hoy de mí hacia ti, hoy de ti hacia mí
+   Bm7(-5)      E            F   Em/B
+quiero hacerte un regalo viejo.
+ Dm
+Desempolvemos algo,
+   F# dim      [V-0-2-3]
+las pasiones lejanas
+ C        Em/B*     Am7     C/G
+algo de aquellos sueños sin  ventanas.
+  F                   F# dim
+Vivamos de corrido, sin hacer poesía,
+  C   Em/B*    Am7     C/G
+aprendamos palabras de la vida.
+
+
+
+    F            F# dim
+B.- Desnudémonos pues,
+      C
+como viejos amantes
+  G               Ab dim
+que lo mismo de siempre
+               A*        G*
+nos queda delante.
+ F            F# dim
+Desnudémonos pues
+  C
+como viejos amantes
+ G               Ab dim
+que se apague la luz
+           A*
+y que el sol se levante.
+
+
+     Dm7*             G/B    Em*
+C.- Te quiero salvar de tu desnudez
+   C*     Bm*      A*
+en pleno centro de la soledad.
+Dm7*    F/A       G/B    Em*
+Me quiero salvar haciendo revolución
+   C*     Bm*      E/Ab
+desde tu cuerpo de cristal.
+
+C    c(cej)     G*
+D.- Algo nos está pasando,
+  Am*               E
+ayer te leí una mano
+   F   F# dim     G*    Ab dim   A*   G*
+y cada dibujo al verme me interrogó.
+  C(CEJ)       G*
+Algo no está pasando,
+  Am*            E
+ayer apreté el interruptor
+  F   F# dim     G*    Ab dim   A*    G*   F   Em   Dm   E
+de encender la luz y encendí el sol.
+
+
+
+A.- Hoy de ti hacia mi, hoy de mi hacia ti
+vamos a hablar en voz muy baja.
+Dime lo que te pasa, déjame levantarte,
+déjame darte un beso y curarte.
+Vivamos de corrido, sin hacer poesía,
+aunque no esté de moda en estos días.
+
+B.- Aunque no esté de moda te pido una mano,
+mis entrañas no entienden de estética y cambios.
+Aunque no esté de moda repite conmigo:
+quiero amor, quiero amor,
+quiero amor compartido.
+
+C.- Te quiero salvar de tu desnudez
+en pleno centro de la soledad.
+Me quiero salvar haciendo revolución
+desde tu cuerpo por variar.
+
+D.- Algo nos está pasando,
+un ruido como de pasos
+viene en la oscuridad y se vuelve a ir.
+Algo nos está pasando,
+desde que la gente está empeñada
+en quererse amar y en poder vivir.
+
+
+acordes:
+
+Am6      004210
+Am6*     006430
+Adim     007540
+Bm7(-5)  023230
+Em/B     022000
+Em/B*    020000
+C/G      302010
+F# dim   201212
+Ab dim   403434
+Dm7*     057565
+F/A      587565
+G/B      7 10 9 7 8 7
+Em*      079987
+C*       8 10 10 9 8 8
+Bm*      799777
+E/Ab     476454
+Am*      577555
+
+
+extraido de youtube usuario "ququfato"
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

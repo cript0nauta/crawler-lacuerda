@@ -1,0 +1,278 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Fito Paez                                                |
+| CANCION: MARIPOSA TECKNICOLOR                                     |
+| AUTOR:   Fito Paez                                                |
+| ALBUM:   Circo Beat (Beat Circus) (1994)                          |
++------------------------------------------------------TEC-fito0379-+
+| TRANS:   Marcos                                                   |
+=====================================================================
+
+Mi nombre es Marcos y espero que entiendan mi modo de expresarme,
+de no ser así revisen mi transcripción de la canción 11 y 6 o
+comuniquense conmigo.
+
+___ ___________________________________________________
+ M | TECLAS:                                           |
+ A | las teclas blancas a ser   las teclas negras      |
+ R | tocadas se veran asi:      a ser tocadas se veran |
+ C | | U U | nota D             asi:   | * U | nota C# |
+ O | | |.| |                           | | | |         |
+ S |                                                   |
+___|___________________________________________________|
+Las notas se leen de arriba hacia abajo, tocando las notas que
+esten en el renglón.
+Como ven mas abajo en la Intro en el primer renglon dice:
+               b    d#  f#
+Quiere decir que esas 3 notas se tocan juntas y se sigue leyendo
+siempre hacia abajo
+------------------------------------------------------------------
+
+INTRO (opcional)
+
+  _________________________________________________________
+B | U U | U U U | U * | * U U | U U | * U U | U U | U U U |
+  | | | | | | |.| | | | | | |.| | | | | | |.| | | | | | | |
+               b    d#  f#
+                             b
+                                      f#                |
+                                           b            |x4
+                                      f#                |
+                                                        /
+
+  _________________________________________________________
+A | U U | U U U | U U | U U U | * U | U U U | U U | U U U |
+  | | | | | |.| | | |.| | |.| | |.|.| | | | | | | | | | | |
+             a       e             e
+                                 d
+                                c#
+                                 d
+                                c#
+                           a
+             a       e     a    c# e
+  _________________________________________________________
+  | U U | U U U | U U | U U U | U * | U U U | U U | U U U |
+  | | | | | |.| | | |.| | |.| | |.|.| | | | | | | | | | | |
+             a       e             e
+                                 d
+                                c#
+                                 d
+                                c#
+                           a
+  _________________________________________________________
+G#| U U | U * U | U * | U * U | U * | U U U | U U | U U U |
+  | | | | | | | | | | | | | | |.| | | | | | | | | | | | | |
+            g#      d#    g#   c  d#
+
+  _________________________________________________________
+F#| U U | * U U | * U | * U * | * U | U U U | U U | U U U |
+  | | | | | | | | | | | | | |.| | | | | | | | | | | | | | |
+          f#      c#            c#
+                             b
+                            a#               |
+                             b               |x3
+                            a#               |
+                        f#                   /
+
+-----------------------------------------------------------
+
+MELODÍA
+
+  ___________________________________________________________
+B | U U | U U U | U U | * U U | U U | U U U | U * | * U U | |
+  | | | | | | |.| | | | | | |.| | | | | | | | | |.| | | | | |
+               b        f#   b                      f#
+                                                    f#
+                                                    f#
+                                                    f#
+                                                    f#
+                                                 e
+                                                d#
+                                                 e
+  ___________________________________________________________
+Dm# U U | U U U | U * | U U * | U * | U U U | * * | * U U | |
+  | | | | | | | | | | | | | | | | | | | | |.| | |.| | | | | |
+                    d#      a#    d#                f#
+
+
+                                           b
+                                              c#
+                                                d#
+  ___________________________________________________________
+C#m U U | U U U | * U | U * U | * U | U U U | * * | U U U | |
+  | | | | | | | | | | | | | | | | | | | | | | | |.| | | | | |
+                  c#      g#    c#               e
+                                                 e
+                                                 e
+                                                d#
+                                              c#
+                                                d#
+  ___________________________________________________________
+F#7 U U | * U U | * U | * U U | U U | U U U | U U | U U U | |
+  | | | | | | | | | | | | | | | | | | | | | | | |.| | | | | |
+          f#      c#    f#                       e
+
+
+  ___________________________________________________________
+C#m U U | U U U | * U | U * U | * U | U U U | * * | U U U | |
+  | | | | | | | | | | | | | | | | | | | | |.| | |.| | | | | |
+                  c#      g#    c#               e
+                                                 e
+                                                 e
+                                                 e
+                                                 e
+                                                d#
+                                              c#
+                                           b
+  ___________________________________________________________
+F#7 U U | * U U | * U | * U U | U U | * * * | * U | U U U | |
+  | | | | | | | | | | | | | | | | | | | | | | | |.| | | | | |
+          f#      c#    f#                a#
+                                          a#
+                                          a#
+                                        g#
+                                      f#
+                                          a#
+                                              c#
+                                                 e
+  ___________________________________________________________
+B | U U | U U U | U U | * U U | U U | U U * | * * | U U U | |
+  | | | | | | |.| | | | | | |.| | | | | | |.| | |.| | | | | |
+               b        f#   b                  d#
+                                                d#
+                                                d#
+                                                 e
+                                                d#
+                                              c#
+                                           b
+                                          a#
+  ___________________________________________________________
+E | U U | U U U | U U | U U U | U U | U U U | U U | U U U | |
+  | | |.| | | |.| | |.| | | | | | | | | | |.| | | | | | | | |
+       e       b     e                     b
+
+
+  B                D#m
+Todas las mañanas que viví
+        C#m                  F#7
+todas las calles donde me escondí
+  C#m                 F#7
+el encantamiento de un amor
+             B
+el sacrificio de mis padres,
+               E
+los zapatos de charol.
+
+    B          D#m
+Los domingos en el club
+        C#m                 F#7
+salvo que Cristo sigue allí en la cruz
+     C#m           F#7
+las columnas de la catedral
+                   B
+y la tribuna grita gol,
+                   E
+el lunes por la Capital.
+
+ B      F#    G#m
+Todos yiran y yiran
+ E B C#7 F#7
+todos bajo el sol
+ A#m  D#7   G#m
+se proyecta la vida
+  E         F#
+mariposa tecknicolor.
+
+ B     F#      G#m
+Cada vez que me miras
+ E B C#7 F#7
+cada sensación
+ A#m  D#7   G#m
+se proyecta la vida
+  E         F#
+mariposa tecknicolor.
+
+ B                     D#m
+Vi sus caras de resignación
+        C#m          F#7
+los vi felices, llenos de dolor
+ C#m                  F#7
+ellas cocinaban el arroz, el levantaba
+        B              E
+sus principios de sutil emperador.
+
+ B              D#m
+Todo al fin se sucedió,
+            C#m              F#7
+solo que el tiempo no los esperó
+  C#m              F#7
+la melancolía de morir en este mundo
+    B                E
+y de vivir sin una estúpida razón.
+
+
+ B     F#   G#m
+Todos yiran y yiran
+  E  B  C#7  F#7
+todos bajo el sol
+ A#m  D#7   G#m
+se proyecta la vida
+  E        F#
+mariposa tecknicolor.
+
+ B     F#      G#m
+Cada vez que me miras
+ E B  C#7 F#7
+cada sensación
+ A#m  D#7    G#m
+se proyecta la vida
+ E          F#
+mariposa tecknicolor.
+
+ E      F#       B
+Yo te conozco de antes
+ E      F#       B
+desde antes del ayer
+ E      F#       G#m
+yo te conozco de antes
+          E         F#
+cuando me fui no me alejé.
+
+ E      F#       B
+Llevo la voz cantante
+ E      F#       B
+llevo la luz del tren
+ E      F#       G#m
+llevo un destino errante
+           E           F#
+llevo tus marcas en mi piel.
+
+ E     F#       B     G#m
+Y hoy solo te vuelvo a ver..
+ E     F#       B     G#m
+y hoy solo te vuelvo a ver..
+     E        F#
+y hoy solo te vuelvo
+  B
+a ver..
+
+MELODÍA x 2
+
+Amaj7/#11-  B  x 2
+Amaj7/#11  [b b b b  b c# d# b] (notas del obligado)
+
+G#m7
+
+
+Dudas, consultas, consejos a:
+marcos8_1991@hotmail.com
+Marcos Espinoza
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

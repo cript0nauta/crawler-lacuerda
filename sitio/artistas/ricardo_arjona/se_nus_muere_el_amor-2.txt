@@ -1,0 +1,141 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Ricardo Arjona                                           |
+| CANCION: SE NUS MUERE EL AMOR                                     |
+| AUTOR:   -?-                                                      |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------TEC-rarj0612-+
+| TRANS:   Manolo                                                   |
+=====================================================================
+
+CHORDS USADOS PARA TECLADO DE 5 ESCALAS
+
+MANO IZQUIERDA                  MANO DERECHA
+
+F....(F2-A2-C3)                 F....(F3-A3-C4)
+C....(C2-E2-G2)                 C....(C3-E3-G3)
+C°...(C2#-E2-G2)                C°...(C3#-E3-G3)
+Dm...(D2-F2-A2)                 Dm...(D3-F3-A3)
+Am...(A1-C2-E2)                 Am...(A2-C3-E3)
+A#...(A1#-D2-F2)                A#...(A2#-D3-F3)
+F7...(D2#-A2-C3)                F7...(D3#-A3-C4)
+Am#7.(A1#-C2-E2)
+F*...(F1-A1-C2)
+
+
+INTRO....   MANO IZQUIERDA ARRIBA.....MANO DERECHA ABAJO
+
+F2 C3          F             C             C           Dm       Dm   C   A#           A#
+-----------------------------------------------------------------------------------------------
+       F3 A3# A3 G3# A3   F4 F4 E4 D4# E4 A4# A4 G4 F4 E4 F4 D4   D4  D4    D4 C4 A3# A3 A3# G3
+
+
+F2 C3          F             C            C           Dm       Dm  C   A#          A#
+-----------------------------------------------------------------------------------------------
+       F3 A3# A3 G3# A3   F4 F4 E4 D4 C4 A3# A3 G3 F3 E3 F3 D3     C3  C3 D3 A2#   A2# C3 D3 F3
+
+
+F2 C3          F              F              F             F
+---------------------------------------------------------------------
+       F3 G3  A3# A3 G3 F3   C4 A3# A3 G3   A3# A3 G3 F3   F
+
+
+
+F                C   C°  Dm               Am
+Se nos muere el amor    tiene fiebre de frío
+A#                 F          C°              Dm   Dm C        
+se nos cayo de la cama cuando lo empujo el hastío
+A#                 F      C°                    Dm    Dm C
+y esta enfermo de muerte  el mismo que era tan fuerte
+A#               F          C°          Dm     
+tiene anemia de besos tiene cáncer de olvido
+  A#            F               A#         F
+y por si fuera poco-o-o  tiene ganas de morir
+
+
+F2 C3          F              F              F             F
+---------------------------------------------------------------------
+       F3 G3  A3# A3 G3 F3   C4 A3# A3 G3   A3# A3 G3 F3   F
+
+
+
+F                C   C°  Dm               Am
+se nos muere el amor    se nos mueren las ganas
+A#              F            C°              Dm     Dm C
+las vemos agonizar convulsionando entre las sabanas
+A#                   F     C°                   Dm   Dm C 
+y no existe un vino tinto  que nos reviva el instinto 
+A#               F            C°       Dm   Dm C 
+se nos muere la magia, la pasión la locura
+A#              F      C°              Dm  
+ay amor traicionero    viniste pa´ jorobarnos
+A#                F           A#            F   F7   
+yo sobrevivía sin ella y ella era feliz sin mí
+ 
+
+A#              F            C°      Dm   Dm C
+Ay amor con el tiempo te nos has oxidado
+A#             F         C°     Dm   Dm C 
+Ay amor susceptible ay amor delicado
+A#              F     C°                  Dm   Dm C 
+Ay amor no te mueras  o muérete de un trancazo 
+A#                  F              A#             F   
+Que no hay peor agonía  que la que es de paso en paso
+
+
+F                 C C°  Dm               Am 
+Se nos muere el amor    se le acabo la ternura
+A#           F            C°            Dm     Dm C 
+Y a la libertad la convertimos en dictadura
+A#                 F      C°                  Dm     Dm C
+Se contagio de costumbre  Le falto fuego a la lumbre 
+A#                 F            C°         Dm     Dm C
+Se nos mueren los sueños, los versos, los besos
+A#            F     C°                Dm      
+Ay amor implacable yo ya no sé que prefiero
+A#                  F           A#        F   F7   
+Que me odie de corazón o que me ame sin amor.
+ 
+
+A#              F            C°      Dm   Dm C
+Ay amor con el tiempo te nos has oxidado
+A#             F         C°     Dm   Dm C 
+Ay amor susceptible ay amor delicado
+A#              F     C°                  Dm   Dm C 
+Ay amor no te mueras  o muérete de un trancazo 
+A#                  F              A#             F   F7
+Que no hay peor agonía  que la que es de paso en paso
+
+
+A#              F            C°         Dm   Dm C
+Si todo era tan bello dime amor que nos pasa
+A#                   F          C°      Dm   Dm C 
+Hoy ya no somos ni amigos no cabemos en casa
+A#              F      C°               Dm   Dm C  
+Ay amor tan ingrato   quítame solo una duda
+A#                    F           A#             F    
+Si eres tú el que té mueres o soy yo el que te mato.
+
+
+F2 C3          F             C             C           Dm       Dm   C   A#           A#
+-----------------------------------------------------------------------------------------------
+       F3 A3# A3 G3# A3   F4 F4 E4 D4# E4 A4# A4 G4 F4 E4 F4 D4   D4  D4    D4 C4 A3# A3 A3# G3
+
+
+F2 C3          F             C            C           Dm            C             A#
+-----------------------------------------------------------------------------------------------
+       F3 A3# A3 G3# A3   F4 F4 E4 D4 C4 A3# A3 G3 F3 E3 F3 G3 A3   D3 E3 F3 G3   D3 E3 F3 G3   
+
+
+Am#7            F*
+------------------------------
+F3 E3 C3 A2#    A2 C3 F3 E3 F3
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

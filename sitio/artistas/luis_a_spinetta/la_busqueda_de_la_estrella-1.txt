@@ -1,0 +1,105 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Luis Alberto Spinetta                                    |
+| CANCION: LA BUSQUEDA DE LA ESTRELLA                               |
+| AUTOR:   Luis Alberto Spinetta                                    |
+| ALBUM:   Spinettalandia y sus Amigos (1971)                       |
++------------------------------------------------------ACO-spin2061-+
+| TRANS:   Facundo                                                  |
+=====================================================================
+
+Acordes:
+  Bm  F#   G   A  D/A  F   C  C6  G7  Dsus2/A
+e|-2-|-2-|-3-|-0-|-2-|-1-|-3-|-0-|-1-|-0-|
+b|-3-|-2-|-3-|-2-|-3-|-1-|-1-|-1-|-3-|-3-|
+g|-4-|-3-|-4-|-2-|-2-|-2-|-0-|-2-|-0-|-2-|
+d|-4-|-4-|-5-|-2-|-0-|-3-|-2-|-2-|-0-|-0-|
+a|-2-|-5-|-5-|-0-|-0-|-3-|-3-|-3-|-2-|-0-|
+E|---|-2-|-3-|---|---|-1-|---|---|-3-|---|
+
+Es totalmente necesario que se usen estas inversiones (incluso para
+esos acordes "que ya sabemos") para no perder la musicalidad del
+arreglo del piano, ya que el tema original está casi todo en tríadas.
+
+
+Estrofa:
+Bm
+ Las escaleras bajo
+F# 
+ sin mirar
+G            A            D/A            F    G
+mi mente entonces quiere quedarse las desgracias
+F      G   F      G
+Uh, yeah! Uh, yeah!
+
+Bm
+  Qué hiciste entonces cuando
+F# 
+   todo estaba
+G            A            D/A           F    G
+esta ciudad sólo muestra el sol en las ventanas
+F      G   F      G
+Uh, yeah! Uh, yeah!
+
+
+D                C           G         (Fill)
+ La memoria me resulta complicada
+D                        C           G
+ no me acuerdo ni de las cosas que lei
+
+Fill:
+e|-7--5-||
+b|-7--7-||
+g|-7--7-||
+d|------||
+a|------||
+E|------||
+
+C6
+por favor tu mano al lado
+G7
+toda la música que cuelga,
+Dsus2/A       G
+suena por ti.
+
+Estrofa:
+
+Bm
+ Después de todo tu eres
+F# 
+ la única muralla
+G            A            D/A               F       G
+si no te saltas nunca darás un solo paso
+
+F    G     F    G
+Uh, yeah! Uh...!
+
+Bm
+  Después de todo tu eres
+F# 
+ la única muralla
+G            A            D               F       G
+si no te saltas nunca darás un solo paso
+F      G
+Uh, yeah!
+
+Estribillo:
+D                C           G         Bm - D
+ La memoria me resulta complicada
+D                        C           G
+ no me acuerdo ni de las cosas que lei
+C6
+por favor tu mano al lado
+G7
+toda la música que cuelga,
+Dsus2/A       G
+suena por ti.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

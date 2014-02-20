@@ -1,0 +1,156 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Luis Alberto Spinetta                                    |
+| CANCION: CANCION DE BAJO BELGRANO                                 |
+| AUTOR:   Luis Alberto                                             |
+| ALBUM:   Spinetta jade - bajo Belgrano (1991)                     |
++------------------------------------------------------TAB-spin1241-+
+| TRANS:   Marcos                                                   |
+=====================================================================
+
+E/G#      F#/A#      E/G#              F#/A#
+     La mañana lanza llamas desde su herida, débilmente.
+...                                                    F#/A#   G/B   G#m9
+Caleidoscopio de ciudad; y vos, tan solo: tu ropa esta vacía.
+                  C#13           Gmaj7 F#m7  Em7   Eb13     G#maj7 F#maj7
+Y tan lejos del hogar estás, que todo  sueño puede más...
+            Am7             Fm6     Am     Dm7
+Y ya no hay forma de recomenzar.
+
+Los gorriones se suben a todo, al niño luminoso.
+Tango de caras, organillero distinto sentado en la avenida...
+Y ya nadie te escucha, nunca.
+
+Ojo cerrado, el hombre perdido entre camionetas quemadas.
+En aserrín habrán marcado su mirada, como de una huella.
+Y esta siempre se diluye, como ojos, barro, cielos, ¡ah!...
+
+Cm7                           Abmaj7
+   Bajo Belgrano, amor ascendente.
+Cm7                                         Abmaj7
+   Estrella ¿quién te busca donde vos no estás?
+Am7                           Fmaj7/C  C+maj7
+   Pero toda tu canción persistirá     siempre,
+                                 (Quilombo 1)
+Siempre, y hasta en el turbio río.
+
+Horizonte
+Litera de casas
+Perpetuo remolino y mediodía distante
+Y vos estás tan solo, blanco, iridiscente
+Tu ropa está vacía.
+Y ya nadie te escucha, nunca más...
+
+Cm7                                         Abmaj7
+   Todos dicen que quizás el amor vuelva un día
+Cm7                                  Abmaj7      (Quilombo 2)
+   Si es que este muro se logra derribar...
+
+
+
+-----------------------------------------------------------------------
+ _______________________
+/                        1. Es un tema enroscado.  Sugiero sacarlo con
+| NOTAS DE LA TÍA MOLLY |    la grabacióna mano y escuchando los cambios.
+|                       | 2. El Abmaj7 del estribillo lleva bajo en Eb.
+______________________/     Con guitarra sola suena bastante bien sin
+                             la inversión.
+3. El Fm6 de los intermedios puede ser otra cosa .  Nótese que esas par-
+   tes cambian cada vez. Parece que juega con los acordes Fm6 y Am7.
+4. Los acordes E/G#, F#/A# y G/B son una misma posición transportada dos
+   o tres trastes más arriba. En la versión con teclados llevan novena.
+   Abajo hay dos variantes.
+5. Escribanme si buscan una descripción minuciosa de las rítmicas del
+   tema.
+
+-----------------------------------------------------------------------
+
+
+     Fm6         Fm6         Am7       E/G#(con novena)
+    ______      x_x___      xx____      _xx___
+    oooooo  VII |||o||  VII ||o|||      |||||o
+    ||||||      |o|||o      ||||oo      ||||||
+    |oo|o|      ||||o|      |||o||      o||o||
+    ||||||      ||||||      ||||||      ||||o|
+    ||||||      ||||||      ||||||      ||||||
+
+
+    Fmaj7/C     C+maj7      G#m9        E/G#(tríada)
+    x_____      x_____      x____x      _x___x
+  I ||||o|      |||o||   IX ||o|||      ||o|||
+    |||o||      ||o|||      ||||||      ||||||
+    |oo|||      |o||||      |o|oo|      o||o||
+    ||||||      ||||||      ||||||      ||||o|
+    ||||||      ||||||      ||||||      ||||||
+
+
+
+-------------------------------------------------------------------------
+
+
+Quilombo 1 con cortes...
+
+    B     Bm(maj7) B+maj7  C#/B  B7 B7(5b)/F
+E------------------3-------1-----2----------------------
+B---0-----3--------4-------2-----0--0-------------------
+G---0-----3--------3-------1-----2--2-------------------
+D---1-----4----------------------1--1-------------------
+A---2-----2--------2-------2-----2----------------------
+E-----------------------------------1-------------------
+
+-------------------------------------------------------------------------
+
+Quilombo 2: el cortecito antes de la parte final
+
+     C#maj7/G#  /C#    C#7(5b)/G
+E--------------------------------------
+B----6---------6-------2---------------
+G----5---------5-------4---------------
+D----6---------6-------3---------------
+A--------------4-----------------------
+E----4-----------------3---------------
+
+
+
+Quilombo 2, el final:
+
+     Bmaj7  C#maj7  D#maj7  C#maj7  Bmaj7(con jueguito) G#maj7 etc...
+E-----------------------------------------------------------------------
+B-----------------------------------------------------------------------
+G----8------10------12------10-------8---6---8-----------5--------------
+D----8------10------12------10-------8---6---8-----------5--------------
+A-----------------------------------------------------------------------
+E----7------9-------11------9--------7-------------------4--------------
+
+Acorde final: C7sus4
+        ______
+        ||||||
+   XIII oooooo
+        ||||||
+        |o|o||
+        ||||||
+
+
+-------------------------------------------------------------------------
+
+Disposiciones sugeridas para "tan lejos del hogar estás"
+
+
+    F#/A#  G/B  G#m9  C#13  Gmaj7 F#m7 Em7 Eb13
+E---4------5----6-----6-----10----9----7---8----------
+B---7------8----4-----6-----12----10---9---8----------
+G---6------7----4-----4-----11----9----7---6----------
+D-----------------------------------------------------
+A---------------------4-----10----9----7---6----------
+E---6------7----4-------------------------------------
+
+-------------------------------------------------------------------------
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,76 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Divididos                                                |
+| CANCION: EL ARRIERO                                               |
+| AUTOR:   Atahualpa Yupanqui                                       |
+| ALBUM:   La Era De La Boludez                                     |
++------------------------------------------------------BAT-divi0163-+
+| TRANS:   patiky                                                   |
+=====================================================================
+
+El arriero
+Esta en
+6/8
+
+Intro
+ Base                       1° fill
+   1     2             1     2
+hh:x-x-x-x-x-xx     hh:x-x-x-x-x---
+C :------o--o--     c :------o-oo-
+T1:------------     t1:------------
+T2:------------     t2:------------
+Ch:------------     ch:------------
+B :o---o-------      B:o---o-------
+
+
+2° fill
+   1     2             1     2
+hh:x-x-x-x-----     hh:------------
+C :------oo----     c :o.----------(flam)
+T1:--------oo--     t1:------o.----(flam)
+T2:----------oo     t2:------------
+Ch:------------     ch:---------oo-
+B :o---o-------      B:------------
+
+Verso
+Base                       1° fill
+   1     2             1     2
+Cr:X-----------     Cr:------X-----
+hh:x-x-x-x-x-xx     hh:x-x-x-x-x---
+C :------o--o--     c :------o-oo-
+T1:------------     t1:------------
+T2:------------     t2:------------
+Ch:------------     ch:------------
+B :o---o-------      B:o---o-------
+
+2°fill
+   1     2
+Cr:------X-----
+hh:x-x-x-x-x---
+C :-o-------oo-
+T1:------------
+T2:------------
+Ch:------------
+B :o---o-------
+
+3° fill
+   1     2             1     2
+Cr:X-----------     Cr:X
+hh:x-x-x-x-x-xx     hh:------------
+C :------o--o--     c :------------
+T1:------------     t1:------o.----(flam)
+T2:------------     t2:------------
+Ch:------------     ch:---------oo-
+B :o---o-------      B:o-----------
+
+Esta la base del tema y todos los cortes menos uno
+que es difícil pasarlo las notas. Háganlo por oido.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

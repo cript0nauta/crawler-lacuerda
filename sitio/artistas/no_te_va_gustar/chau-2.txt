@@ -1,0 +1,208 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: No Te Va Gustar                                          |
+| CANCION: CHAU                                                     |
+| AUTOR:   -?-                                                      |
+| ALBUM:   Por lo Menos hoy (2010)                                  |
++------------------------------------------------------TAB-ntvg0802-+
+| TRANS:   Agustin                                                  |
+=====================================================================
+
+TONO: Bm
+
+Intro:
+Bajo:
+G|---------------------------------------|
+D|----------------2----------------------|&lt;-Esto todo el tiempo
+A|--2---0-2-4-5-2--------0---0-2-4-0-4/5-|
+E|-------------------------3-------------|
+
+Gr.
+E|--------------------------------------|
+B|--8-8-8-8-7-5~-----7-7-7-7-5-3~-------|
+G|--9-9-9-9-7-6~-----7-7-7-7-6-4~-------|&lt;-x2
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+Intro: Bm Em A D A   x 2
+
+Verso:
+Bm                    Em
+ Estábamos los dos mirando el mar
+A              D    A
+ cuando la tarde moría
+Bm              Em
+ como moría lo nuestro
+A                 D     A
+ juro que no lo sabia.
+Bm              Em
+ Mire para mi derecha
+  A             D      A
+ vi que desaparecías
+Bm                    Em
+ grite con todas mis fuerzas
+  A               D    A
+ y note que no me oías.
+
+Puente:
+Bm  Em    A                    D      A
+Me quede toda la noche en la arena
+Bm  Em    A                    D      A
+intente que algo valiera la pena
+Bm
+no puedo conseguir
+Em
+cambiar, ni corregir
+G                     F#
+lo que me corre en las venas.
+
+Estribillo:
+Bm    Em
+Corazón,
+A               D    A
+hoy no dejes de latir
+Bm             Em
+te alejaste un día
+G               F#
+ahora decidiste venir.
+
+
+Intro: Bm Em A D A   x 1
+
+Bm                   Em
+Ha pasado mas de un año y vos no estas
+A                    D       A
+por que habría de creerte?
+Bm               Em
+hubiera dado la vida y mucho más
+A                  D       A
+por solo volver a verte.
+
+Bm                 Em
+No podría darme el lujo
+A                  D     A
+de ceder ante tu llanto
+Bm                  Em
+no pienso abrir las heridas
+A                   D     A
+de haberte querido tanto.
+
+Puente:
+Bm     Em
+Escuche
+A                 D       A
+pero deje que se fuera
+Bm     Em
+recordé
+A                 D       A
+todo lo libre que era
+Bm
+No puedo conseguir
+Em
+cambiar, ni corregir
+G                     F#
+lo que me corre en las venas.
+
+
+Estribillo:
+Bm    Em
+Corazón,
+A               D    A
+hoy no dejes de latir
+Bm             Em
+te alejaste un día
+G               F#
+ahora decidiste venir
+
+Bm    Em
+Corazón,
+A               D    A
+hoy no dejes de latir
+Bm              Em
+ te alejaste un día
+G                F#
+ ahora decidiste venir.
+
+Solo/Outro:
+E|--10-9-------------------------------12-----------------|
+B|-------12-10-8---10b12r10---12/14-14---12----10h12-10~--|
+G|------------------------------------------11------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|-------------------------12-14-12-15-15p14-14-14p12-12--|
+B|--15-14-15-14-12---12-15--------------------------------|
+G|--------------------------------------------------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|--15-14-12----------------------------------------------|
+B|-----------15-14-15-14~-12----12-14b15r14p12------------|
+G|---------------------------14---------------------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|--------------17b18~---17-21b22r21-19---17-17-17h19-----|
+B|--12-15b17r15-------------------------------------------|
+G|--------------------------------------------------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+De acá en adelante va mas rapido...
+E|-15p14-14-14p12--------------12-14-12-15-14-12-----------------|
+B|----------------15-12~--12-15------------------15-14-12-14-15--|
+G|---------------------------------------------------------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+E|-----------------------------------------------------------------|
+B|-12-14-12-10~--12h10----10--------------------10-----------------|
+G|---------------------11----119-7--7-7h9-9/11----119-7----------|
+D|-----------------------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+E|------------------------------------|
+B|------------------------------------|
+G|-7h9p76---6/7----------------------|
+D|---------9-----9~-------------------|
+A|------------------------------------|
+E|------------------------------------|
+Fade out...
+
+Entre el Em y el A hay un D pero mas rapido,
+como siguiendo el puenteo del intro.
+Y entre el D y el Bm del siguiente renglon
+hay un A de la sigiendo el punteo otra vez.
+
+El puenteo del final se va callando esta todo en la
+escala (creo que pentatonica) de Bm.
+Puse el principio por que no saque el resto todavia,
+cuando lo saque lo subo pero ya esta casi todo :D
+Suerte;)
+
+Cualquier cosa: agustin_mrgo@hotmail.com
+
+Referencias:
+~ = Vibrato
+/ = Slide hacia adelante
+ = Slide hacia atras
+h = Hammer on
+p = Pull off
+b = Bend (levantar cuerda)
+r = Release (bajar/soltar cuerda)
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

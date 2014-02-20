@@ -1,0 +1,189 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Las Pastillas del Abuelo                                 |
+| CANCION: DONDE ESCONDER TANTAS MANOS?                             |
+| AUTOR:   -?-                                                      |
+| ALBUM:   Crisis.* (2008)                                          |
++------------------------------------------------------TAB-pdab0941-+
+| TRANS:   Martincho                                                |
+=====================================================================
+
+Esta es la versión acústica que la hace sin el capotraste y
+tiene unos acordes bastante "extraños"...
+
+Así es el intro:
+
+   Gsus4/A                       Gsus4
+el-----------------------------------------------------------
+Bl-------3------3-------3--------------3------3-------3------
+Gl-----5----5---------5----5---------5----5---------5----5---
+Dl---5--------5-----5--------5-----5--------5-----5--------5-
+Al-----------------------------------------------------------
+El-5--------------5------------0-3--------------3------------
+
+   Csus2/F                       Csus2         D7
+el-------3------3-------3-----------------3------------------
+Bl-----3----3---------3----3-----------3----3----3-3---------
+Gl---5--------5-----5--------5-------5------5----5-5---------
+Dl-3--------------3----------------5--------5----4-4---------
+Al-----------------------------0-3----------3--5-------------
+El-----------------------------------------------------------
+
+Despues repite el intro pero finaliza arpegiando el D7 así:
+
+   D7
+el---------
+Bl-------3-
+Gl-----5---
+Dl---4-----
+Al-5-------
+El---------
+
+En los versos utiliza los mismos acordes.
+Aqui les muestro cuales son:
+
+   Gsus4/A Gsus4 Csus2/F Csus2   D7    Am    Riff
+el ---x--- --3-- ---3--- --3-- --x-- --5-- ---------
+Bl ---3--- --3-- ---3--- --3-- --3-- --5-- ---------
+Gl ---5--- --5-- ---5--- --5-- --5-- --5-- -4h5p4---
+Dl ---5--- --5-- ---3--- --5-- --4-- --7-- -------5-
+Al ---x--- --5-- ---x--- --3-- --5-- --7-- ---------
+El ---5--- --3-- ---x--- --x-- --x-- --5-- ---------
+
+
+           Gsus4/A
+Que yo no soy, que es él, que yo actué bien y él no.
+             Gsus4
+Ah, no, de acá yo no me muevo.
+              Csus2/F
+Que por cuestión de piel, de sexo, religión,
+         Csus2             D7
+tus zapatos no me los pruebo.
+
+
+            Gsus4/A                           Gsus4
+A quién le vamos a tirar una pared cuando ya no nos quede nadie?
+            Csus2/F                                   Csus2        D7
+Tal vez un perro fiel, a cambio de comer, soporte hasta lo insoportable.
+
+          Gsus4/A                                    Gsus4
+Temiendo ser peor, temiendo ser mejor, temiendo, al fin, siempre temiendo.
+            Csus2/F                                   Csus2          D7
+Viviendo en el ayer, aletargando el hoy, sí, Víctor, sí, sobreviviendo!!!
+
+Am Riff F         G         Am Riff F       G         C
+..   ...Juzgando al por mayor,.. ...te alejás más y más
+        G             Dm (arpegiado)
+del juicio que más importa,
+F-G-Am Riff F              G        Am Riff F               G            C
+..       ...que es el juicio interior,.. ...que es el que hay que afrontar,
+        G             Dm (arpegiado)
+siendo parte de esta torta.
+
+Despues hace un Fa y esto:
+
+el-----------------
+Bl-----------------
+Gl-----------------
+Dl-----------------
+Al-------3---------
+El-0-3-5---5-3-0-5- y lo engancha con el intro...
+
+         Gsus4/A                                         Gsus4
+Le atribuís el groove de un riff ciento por ciento a la paz de la nicotina,
+         Csus2/F                        Csus2       D7
+hipocondría maternal y paternal, hereditaria vitamina.
+
+          Gsus4/A                                   Gsus4
+Los placeres te acortan la correa, y vos que te pensás un indomable.
+              Csus2/F                              Csus2       D7
+¿Qué gracia tiene andar por esta sociedad jactándose de responsable?
+
+Am Riff F        G         Am Riff F          G         C
+..    ...Si como un pulpo vas..  ...tirando piedras no hay
+         G             Dm
+dónde esconder tantas manos.
+F-G-Am Riff F         G   Am Riff F        G       C
+..        ...Es mejor asumir..  ...la cobardía de huir
+      G           Dm          F (silencio)
+a la responsabilidad de vivir...(para dejar de sufrir)
+
+Intermedio:
+    Gsus4/A             Gsus4            Csus2/F           Csus2     D7
+el-----------------------------------------3-----3-3-3-3-----------------
+Bl------3---3---3---3-----3-----3-3-3-3----3-----3-3-3-3-----3-----3-3-3-
+Gl-------5---5---5--5-----5-----5-5-5-5----5-----5-5-5-5-----5-----5-5-5-
+Dl----5---5---5---5-5-----5-----5-5-5-5--3---0-3-------------5-----5-4-4-
+Al----5--------------------------------------------------5-3---0-3---5-5-
+El--5-----------------5-3---0-3------------------------------------------
+
+             Gsus4/A                           Gsus4
+No importa cuánto me puedas alejar de la realidad, yo siempre vuelvo.
+       Csus2/F                                      Csus2             D7
+Sicología infernal, picante, dulce y sal, pero despierto y ya no cuelgo.
+
+           Gsus4/A                                 Gsus4
+Pasado el tiempo al fin el espejo devuelve una imagen más familiar.
+        Csus2/F                                   Csus2          D7
+Hoy eligiendo adusto y alternando, puede haber picante, dulce y sal.
+
+           Gsus4/A                                         Gsus4
+Me bato a duelo con quien diga que voy bien porque hay rachas en esta vida.
+               Csus2/F                                Csus2         D7
+Soy grande y qué, señor, no vaya a confundir la soberbia con autoestima.
+
+          Gsus4/A                              Gsus4
+Que la soberbia mira desde más arriba y no llora penas ajenas.
+            Csus2/F                                    Csus2         D7
+En cambio, la autoestima se transmite y contagia cualquier persona buena.
+
+Am Riff F         G         Am Riff F       G         C
+..    ...Juzgando al por mayor,..  ...te alejás más y más
+        G             Dm
+del juicio que más importa,
+F-G-Am Riff F              G        Am Riff F               G            C
+..       ...que es el juicio interior,.. ...que es el que hay que afrontar,
+        G             Dm
+siendo parte de esta torta.
+
+F-G-Am Riff F        G         Am Riff F          G         C
+..        ...Si como un pulpo vas..  ...tirando piedras no hay
+         G             Dm
+dónde esconder tantas manos.
+F-G-Am Riff F         G   Am Riff F        G       C
+..        ...Es mejor asumir..  ...la cobardía de huir
+      G           Dm          F (silencio)
+a la responsabilidad de vivir...(para dejar de sufrir)
+
+
+Por último, repite la intro 2 veces mas y termina el D7 así:
+
+el--------------------------5-5-5-
+Bl-------3-3/53------------------
+Gl-----5----------4--3---5--------
+Dl---4-------------------7--------
+Al-5------------------------------
+El-----------------------5--------
+
+Notas:
+Para tocar los versos con acordes es muy importante hacer sonar bien
+el bajo del acorde para que se escuche bien como en Gsus4/A y Csus2/F
+
+Tambien puede usarse un G (me parece que queda mejor) en vez
+de un D7 al final de cada verso antes de empezar el estribillo.
+
+En el estribillo escuchen bien la canción para sacar
+los tiempos de los acordes y el riff.
+
+Cualquier duda o crítica consulten a mi mail Martincho_corbalan@hotmail.com
+
+¡Saludos!
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

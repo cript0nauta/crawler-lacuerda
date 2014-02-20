@@ -1,0 +1,54 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: QUE LEVANTE LA MANO LA GUITARRA                          |
+| AUTOR:   Silvio Rodríguez                                         |
+| ALBUM:   Érase que se era (2006)                                  |
++------------------------------------------------------ACO-srod4341-+
+| TRANS:   Carlos                                                   |
+=====================================================================
+
+SOL                DOm
+Sufrir, ¿qué forma tiene, qué cabeza?
+DO#dim               RE7*
+Al dolor, ¿qué matices lo acompañan?
+SOL               DOm
+¿Con qué ojos nos busca la tristeza?
+DO#dim              RE7*
+¿De qué color pintó su paz extraña?
+DO           RE/FA#
+¿Cómo camina la tristeza?
+LAm/FA# SI7             SOL
+Hable  quien conozca su patria.
+MIm              DO*
+Quién la define, dónde vive,
+DO#dim                 RE7*
+¿qué mujer tuvo esas entrañas?
+SOL                     DOm
+¿Qué quiere de nosotros nuestra sombra?
+DO#dim              RE7*  SOL  DOm SOL5dim_SOL* SOL
+Que levante la mano la guitarra.
+
+Sol: 320003
+Dom: X36653
+Do#dim: X4535X
+Re7*: X5453X
+Do: X32010
+Re/Fa#: 2X0232
+Lam/Fa#: 202210
+Si7: X21202
+Mim: 022000
+Do*: 8 10 10 988
+Sol5dim: 32002X
+Sol*: 32003X
+
+Un abrazo, Carlos
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

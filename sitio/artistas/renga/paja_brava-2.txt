@@ -1,0 +1,74 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: la Renga                                                 |
+| CANCION: PAJA BRAVA                                               |
+| AUTOR:   -?-                                                      |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------BAJ-reng0372-+
+| TRANS:   Nicolas                                                  |
+=====================================================================
+
+Intro (despues de 1 vuelta de guitarra)
+G|-----------------------|
+D|-----------------------|
+A|-----------------------|
+E|-3-4-5-----------3-4-5-|
+
+Base
+G|--------------------------|
+D|--------------------------|  X = nota mutada
+A|--------------------------|
+E|-3-4-5-X-5-X-5-X-55-3-4-5-|
+
+Puente
+G|----------|
+D|----------|
+A|-----5-7--|
+E|-5-7------|
+
+Coro (...'el bele¤o y la belladona...')
+              x3                            x2             x2
+G|--------6-----|---------7-6---|--------4-----|-------------|
+D|----6-9---9-6-|----6-9------9-|----4-7---7-4-|-------4-----|
+A|-7-7----------|-7-7-----------|-5-5----------|---4-7---7-4-|
+E|--------------|---------------|--------------|-5-----------|
+
+Riff 1                     Riff 2
+G|--------------------|   |-------------------|-------------------|
+D|--------------------|   |-------------------|-------------------|
+A|--------------------|   |-------------------|-------------------|
+E|-55-00-3-55-00-3-55-|   |-5---5---5---5-3-5-|-5--5--5--5-5-5-5~-|
+
+Ultimo coro
+G|--------6------------9--------------|
+D|----6-9---9-6----6-9---9-6----------|
+A|-7------------7----------------5~---|
+E|------------------------------------|
+
+Orden:
+
+Intro  x1 (despues de 1 vuelta de guitarra)
+Base   x12
+Puente x1
+Coro   x1
+Base   x12
+Puente x1
+Coro   x1
+Base   x4
+---------Break
+Riff 1 (varias veces, creo que 80 veces)
+Riff 2 x1
+---------Break
+Ultimo coro x1
+Base   x4 (termina en E|-5~-|)
+
+Dudas o comentarios a piri_22@hotmail.com
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

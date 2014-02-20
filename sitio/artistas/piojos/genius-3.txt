@@ -1,0 +1,215 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: los Piojos                                               |
+| CANCION: GENIUS                                                   |
+| AUTOR:   Andrés Ciro Martínez                                     |
+| ALBUM:   Azul (1998)                                              |
++------------------------------------------------------TAB-pioj0173-+
+| TRANS:   Facundo                                                  |
+=====================================================================
+
+Versión Azul
+
+Chick!
+Chui!
+
+(????)
+
+Intro:
+  E   Esus4 E4 
+e|-----------------|-------------------|--||
+b|-----------------|-------------------|--||
+g|-1-1-2-1--3--1-2-|-1-1-1-2-1--3--1-2-|--||
+d|-2-2-2-2--2--2-2-|-2-2-2-2-2--2--2-2-|x4||
+a|-2-2-2-2--2--2-2-|-2-2-2-2-2--2--2-2-|--||
+E|-----------------|-------------------|--||
+
+Entra la banda:
+
+Guitarra 1:
+e|------------------|--|
+b|--3p0-3p0-3-5-----|--|
+g|4-----------------|--|
+d|------------------|x8|
+a|------------------|--|
+E|------------------|--|
+  Riff E
+e|-----------0------|--||
+b|-----------0------|--||
+g|-1-1-2-1-3---3/2p1|--||
+d|-2-2-2-2-2---2----|x8||
+a|------------------|--||
+E|------------------|--||
+PM..    ...    .
+Bajo:
+  Riff E
+g|----------|--||
+d|-2--------|--||
+a|----------|x8||
+E|--3-4-5--6|--||
+
+Estrofa 1:
+Guitarra y Bajo:
+(Riff E)
+E7
+No puedo invocar a mi genio
+Nena es tu amor un infierno
+Desde Holanda vino el bohemio
+Y te cruzó en San Telmo allá.
+
+Estribillo:
+Guitarra:
+                Riff E
+e|-----|-----|------------0------|--||
+b|-----|-----|------------0------|--||
+g|--G--|--A--|--1-1-2-1-3---3/2p1|--||
+d|-----|-----|--2-2-2-2-2---2----|x2||
+a|-----|-----|-------------------|--||
+E|-----|-----|-------------------|--||
+Bajo:
+      G            A        E
+g|-----------|----------|--------|--||
+d|-----------|----------|2-------|--||
+a|-2-3-5-3-2-|-4-5-7-5-4|--------|x2||
+E|3---------3|5---------|-3-4-5-6|--||
+G                 A                E
+Oh, cuantas veces arranqué por tu amor
+G                 A                E
+Oh, cuantas veces arranqué por tu amor.
+Estrofa 2:
+Guitarra:
+      Riff E                   C              Riff  E
+e|-----------0------|--|----------------|-----------0------|--||
+b|-----------0------|--|-8-5-8-8--8--12-|-----------0------|--||
+g|-1-1-2-1-3---3/2p1|--|----------------|-1-1-2-1-3---3/2p1|--||
+d|-2-2-2-2-2---2----|x4|----------------|-2-2-2-2-2---2----|x2||
+a|------------------|--|----------------|------------------|--||
+E|------------------|--|----------------|------------------|--||
+Bajo:
+  Riff E               C           Riff E
+g|----------|--|-----------------|----------|--||
+d|-2--------|--|-----------------|-2--------|--||
+a|----------|x4|-3--3-3--3-3--3-3|----------|x2||
+E|--3-4-5--6|--|-----------------|--3-4-5--6|--||
+
+E7
+No sé cómo zafa este lazo
+O si hay que cortarse en pedazos
+C
+Un mercader compró tu vida
+E7
+Y la vendió en los barrios bajos.
+
+Estribillo:
+(Todo igual)
+G                 A                   E
+Oh, cuantas veces arranqué por tu amor
+G                 A                  E
+Oh, cuantas veces arranqué por tu amor.
+
+Puente:
+Guitarra:
+        D                  C                B               A
+e|-----------------|----------------|----------------|------------9--||--||
+b|10----10----10---|8----8-----8----|7----7------7---|---10-12-13----||--||
+g|--11----11----11-|--9----9-----9--|--8----8------8-|---9v----------||--||
+d|-----12---12-----|----10---10-----|----9----9------|---------------||x2||
+a|-----------------|----------------|----------------|---------------||--||
+E|-----------------|----------------|----------------|---------------||--||
+Bajo:
+        D                 C                 B                A
+g|-----------------|----------------|----------------|---------------||--||
+d|-----------------|----------------|----------------|---------------||--||
+a|-5-5-5-5-5-5-5-5-|-3-3-3-3-3-3-3-3|-2-2-2-2-2-2-2-2|0-0-0-0-0-0-0-0||x2||
+E|-----------------|----------------|----------------|---------------||--||
+
+D                              C
+Entre todo el polvo y toda la humedad
+B                              A
+Cúpulas de oro de la vieja Bagdad
+D                               C
+Sesenta mil puertas delante de mí
+B                         A
+Genio, se me cierran, tengo que elegir...
+
+(Riff E)
+Que elegir
+
+Estrofa 3:
+(Riff E)
+No puedo invocar a mi genio
+Nena es tu amor un infierno
+C
+Pero yo te digo, mejor así
+(Riff E)
+Un mundo sin vueltas se abrió para mí.
+
+Estribillo:
+(Todo igual)
+G                 A                   E
+Oh, cuantas veces arranqué por tu amor
+G                 A                  E
+Oh, cuantas veces arranqué por tu amor.
+
+Solo aproximado:
+(Sobre OH oh's (?))
+        E                                 E
+e|-----------------------------------|--------------------------|
+b|-----------------------------------|--------------------------|
+g|-7b--7b-7b-7b-7b-9--7--------------|12--9-9-------------------|
+d|---------------------9-7-----------|--------12-9-7h9p7----7---|
+a|-------------------------9-7-------|-------------------10----7|
+E|----------------------------9-7-0-0|--------------------------|
+         C                                E
+e|----8-6---------------------|-----------------------|
+b|/8------8-6-----------------|-----------------------|
+g|------------8-5-------------|-----------------------|
+d|----------------8-5-8-5-----|--------------------2-5|
+a|------------------------8--3|-----------------2-5---|
+E|----------------------------|3-5-6-3-5-6-3-5-6------|
+
+Ohhh ohhhh
+
+(como estribillo)
+
+Puente:
+(Igual)
+D                              C
+Entre todo el polvo y toda la humedad
+B                              A
+Cúpulas de oro de la vieja Bagdad
+D                               C
+Sesenta mil puertas delante de mí
+B                         A
+Genio, se me cierran, tengo que elegir...
+
+(Riff E)
+Que elegir
+
+Final:
+(Sobre RIff E Y C de las estrofas)
+Voy, voy, como el mendigo del Docke
+Voy, voy, como el mendigo del Docke
+Voy, voy, como el mendigo del Docke
+Voy, voy, como el mendigo del Docke
+Voy, voy, como el mendigo del Docke
+Voy, voy, como el mendigo del Docke
+Voy, voy, como el mendigo del Docke
+Voy, voy, como el mendigo del Docke.
+
+OHhhhhhhhhhhhh ohhhhhhhhhh..
+
+arranque por tu amor!
+
+
+
+Dedicada a Pablo (ajaa)
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

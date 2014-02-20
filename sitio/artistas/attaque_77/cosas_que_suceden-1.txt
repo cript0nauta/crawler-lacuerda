@@ -1,0 +1,221 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Attaque 77                                               |
+| CANCION: COSAS QUE SUCEDEN                                        |
+| AUTOR:   Pertusi, Luciano Scaglione                               |
+| ALBUM:   Radio Insomnio                                           |
++------------------------------------------------------TAB-at770231-+
+| TRANS:   Martin                                                   |
+=====================================================================
+
+Antes que nada, recordamos lo acordes:
+ Bb    C     D     G     Eb    F     Gb    A     C(8a)     
+e--1--|--3--|--5--|--3--|--6--|--1--|--2--|--5--|---8--|
+B--3--|--5--|--7--|--3--|--8--|--1--|--2--|--5--|---8--|
+G--3--|--5--|--7--|--4--|--8--|--2--|--3--|--6--|---9--|
+D--3--|--5--|--7--|--5--|--8--|--3--|--4--|--7--|--10--|
+A--1--|--3--|--5--|--5--|--6--|--3--|--4--|--7--|--10--|
+E-----|-----|-----|--3--|-----|--1--|--2--|--5--|---8--|
+
+O se puede tocar en quintas:
+
+   Bb    C     D     G     Eb    F     Gb     A       C(8a)   
+e-|-----|-----|-----|-----|-----|-----|------|------|------|
+B-|-----|-----|-----|-----|-----|-----|------|------|------|
+G-|--3--|--5--|--7--|-----|--8--|-----|------|------|------|
+D-|--3--|--5--|--7--|--5--|--8--|--3--|--11--|--17--|--10--|
+A-|--1--|--3--|--5--|--5--|--6--|--3--|---9--|--15--|--10--|
+E-|-----|-----|-----|--3--|-----|--1--|------|------|---8--|
+
+INTRO
+e-------------------
+B-------------------
+G----------3-3------
+D-5-5-5-5--3-3-5-5--
+A-5-5-5-5--1-1-5-5--
+E-3-3-3-3------1-1--
+
+BASE
+e----------------------------------
+B----------------------------------
+G----------------------------------
+D-5-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x--
+A-5-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x--
+E-3-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x--
+
+Fill 1
+e--------------
+B--------------
+G--------------
+D---3----------
+A-5---5h3-3----
+E-----------6--
+
+Fill 2
+e---1----------
+B-3---3h1-1----
+G-----------3--
+D--------------
+A--------------
+E--------------
+
+Fill 3
+e------------------------------------
+B------------------------------------
+G------------------------------------
+D------------------------------------
+A-3b4r3-3b4r3-3b4r3-3b4r3-3b4r3-3----
+E---------------------------------1--
+
+SOLO
+
+ G       Bb       C        Bb      C  D
+e----------------------------------------
+B----------------------------------------
+G------3-2--------2----------------------
+D----------3----3---3---3----------------
+A----5--------5-------5----3b4r3b4r3--5--
+E-3--------------------------------------
+ 
+  G      Bb       C          D   Gb A               C
+e--------------------------------------------------------------------
+B--------------------------------------------------------------------
+G------3-2--------2--------------------------------------------------
+D----------3----3---3---3----------------12------12------12------12--
+A----5--------5-------5----0/5-5/9--9h10----9h10----9h10----9h10-----
+E-3------------------------------------------------------------------
+
+INTRO (X4)
+
+(Sobre Base)
+Ellos han logrado reducir el botín
+Ellos le robaron y ahora van a salir
+     Bb        C            (Sobre INTRO)
+A la calle, drogados con el polvo
+
+(Sobre Base)
+El se resistía, no quería perder
+Quiso hacerles frente, muy ingenuo tal vez
+      Bb        C         (Sobre INTRO)
+Y enseguida, sacaron un revolver
+        Bb        C       D
+Y lo demás, lo demás lo sabes...
+Asi es.
+
+INTRO (X4)
+
+(Sobre Base)
+No era el hijo de ese presidente tal vez
+Ni tuvo el sindicato del fotografo aquel
+         Bb        C             (Sobre INTRO)
+'No se olviden del pueblo sin pancartas'
+     Bb         C          D
+Importante a la hora de vender
+
+   G                   
+Lo digno es tan caro 
+       Bb                C              (Fill 1)
+que se hace difícil el camino del bien  
+   G                   
+Pero a pesar de todo
+      Bb                   C            (Fill 2)
+la consigna es vivir, no matar o morir
+G
+Huerfanos de patria,
+     Bb                C              
+no podemos seguir confinados al destino
+Eb              F                 D
+Como resignados a poder decir sin más:
+(S.T.)
+Son cosas que suceden
+
+INTRO (X4)
+
+(Sobre Base)
+Gatillo obligatorio a pedido de un juez
+Suicidios convenientes, estrategia y poder
+    Bb      C                (Fill 3)
+Una bomba mediatica y nos tienen
+   Bb        C         D
+Aterrados, mirando la TV
+
+   G                   
+Lo digno es tan caro 
+       Bb                C              (Fill 1)
+que se hace difícil el camino del bien  
+   G                   
+Pero a pesar de todo
+      Bb                   C            (Fill 2)
+la consigna es vivir, no matar o morir
+G
+Huerfanos de patria,
+     Bb                C              
+no podemos seguir confinados al destino
+Eb              F                 D
+Como resignados a poder decir sin más:
+(S.T.)
+Son cosas que suceden...
+
+SOLO
+
+   G                   
+Lo digno es tan caro 
+       Bb                C              (Fill 1)
+que se hace difícil el camino del bien  
+   G                   
+Pero a pesar de todo
+      Bb                   C            (Fill 2)
+la consigna es vivir, no matar o morir
+G
+Huerfanos de patria,
+     Bb                C              
+no podemos seguir confinados al destino
+Eb              F                 D
+Como resignados a poder decir sin más:
+
+G - Bb - C - (Fill 1)
+G - Bb - C - (Fill 2)
+G - Bb - C - (Fill 3)
+G - Bb - C - G# - C(8a)
+
+Por ultimo, las anotaciones de las tablaturas:
+
+-|--5-x--|-------|---------|-------|-------|
+-|--5-x--|--3b4--|--3b4r3--|--5h3--|--5/9--|
+-|--3-x--|-------|---------|-------|-------|
+    (1)     (2)      (3)      (4)     (5)  
+
+(1)= Palm Muted: Apagar la nota anterior con la muñeca de la mano 
+                 con la que se esta tocando.
+(2)= Bending: Estirar la cuerda en el casillero indicado (En el
+              ejemplo, el 3º) hasta llegar al sonido del casillero
+              indicado (El 4º en el ejemplo)
+(3)= Bend and Release: Efectuar un Bending y soltarlo rapidamente
+                       volviendo al sonido original
+(4)= Hold: Hacer sonar nota siguiente sin volver a tocar la cuerda
+           (En el ejemplo: Hacer sonar la cuerda en el 5º Casillero
+            y luego ,con el dedo ya apoyado, soltar para que suene
+            el siguiente casillero, osea, el 3º)
+(5)= Slide: Tocar la nota y arrastrar el dedo hasta llegar a la siguiente
+            (En el ejemplo: Hacer sonar la cuerda en el 5º Casillero
+            y arrastrarse hasta el 9º)
+            NOTA: Si en el slide aparece como primera nota la cuerda
+                  al aire, hacer sonar la nota, y hacer un Hold en el 
+                  primer casillero arrastrando haste el casillero 
+                  indicado. Ejemplo= 0/5 sería algo como 0h1s5
+
+Realmente, sacar esta canción fue un dolor de huevos. Quisiera ademas
+agradecerle a mi profesor de guitarra, Ramiro Trunsky, que me ayudó a 
+sacar los detalles y la base de la canción.
+
+Esto es todo por ahora, para comentarios, pedidos, puteadas, etc. mandenmen 
+un mail a neotokio3@yahoo.com
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

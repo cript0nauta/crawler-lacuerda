@@ -1,0 +1,199 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Ciro y los Persas                                        |
+| CANCION: MALAMBO PARA LUCA                                        |
+| AUTOR:   -?-                                                      |
+| ALBUM:   Espejos (2010)                                           |
++------------------------------------------------------TAB-cylp0102-+
+| TRANS:   Facundo                                                  |
+=====================================================================
+
+Voy a ir subiendo todos los temas del disco completos completos
+(así como hacía con los de los Piojos)
+
+Intro:
+(con ritmo de malambo)
+Guitarra 1:
+e|---x-----x----x-----x-|--||
+b|---x-----x----x-----x-|--||
+g|---x-----x----x-----x-|x4||
+d|-x---x-x----x---x-x---|--||
+a|-x---x-x----x---x-x---|--||
+E|-x---x-x----x---x-x---|--||
+WH......................
+
+
+Sigue:
+Guitarra 1:
+     G  Gdim        G  Gdim
+e|--------------|---------------|--||
+b|--------------|---------------|--||
+g|--------------|---------------|--||
+d|---9-/12~~----|----14-/9~~----|x2||
+a|--------------|---------------|--||
+E|--------------|---------------|--||
+
+Estrofa 1:
+
+
+Guitarra 1 (adaptado del teclado):
+    G    Gdim        G#  G#dim   G#  G#dim    Eb       D
+e|-----|-----||--||-----|-----|-----|-----|--------|-------|
+b|-----|-----||--||-----|-----|-----|-----|--8--8--|-7--7--|
+g|--4--|--6--||--||--5--|--7--|--5--|--7--|--8--8--|-7--7--|
+d|--5--|--5--||x4||--6--|--6--|--6--|--6--|--8--8--|-7--7--|
+a|--5--|--5--||--||--6--|--6--|--6--|--6--|--6--6--|-5--5--|
+E|--3--|--3--||--||--4--|--4--|--4--|--4--|--------|-------|
+    ^     ^          ^     ^     ^     ^
+Guitarra 2:
+e|-----|-----||--||-----|-----|-----|-----|--------|--------|
+b|-----|-----||--||-----|-----|-----|-----|--------|--------|
+g|----|----||x4||--5~-|-/7--|--5~/|10/7~|8~-10/12|---7~---|
+d|-----|-----||--||-----|-----|-----|-----|--------|--------|
+a|-----|-----||--||-----|-----|-----|-----|--------|--------|
+E|-----|-----||--||-----|-----|-----|-----|--------|--------|
+
+ G               Gdim  G               Gdim
+Hombre del más allá, libertad es tu ley
+ G               Gdim  G               Gdim
+parca te va a soltar, Pampa te va a querer
+
+G#               G#dim  G#               G#dim
+saliendo sale el sol,   cantando canta el Rey
+Eb                   D
+música de la sierra para tu renacer.-
+
+(igual)
+
+ G               Gdim  G               Gdim
+Laberinto sin fin, no se puede escapar
+ G               Gdim  G               Gdim
+libertad es tu ley, hombre del más allá
+G#             G#dim  G#               G#dim
+amante de una mujer, mujer universal,
+Eb                               D
+estallando por siempre, bailando sin bailar
+
+Estribillo:
+Guitarra 1:
+      C        D          G
+e|--------|--------|--------------|--||
+b|--5~----|--7~----|--------------|--||
+g|--5~----|--7~----|--------------|--||
+d|--5~----|--7~----|-----------0h2|x2||
+a|--3~----|--5~----|---0-2--0h2---|--||
+E|--------|--------|-3------------|--||
+
+C   D   G
+Ohhhh Luca!
+
+C   D   G
+Ohhhh Luca!
+
+Puente:
+Guitarra 1:
+     G  Gdim        G  Gdim
+e|--------------|--------------|
+b|--------------|--------------|
+g|--------------|--------------|
+d|---9-/12~~----|----14-/9~~---|
+a|--------------|--------------|
+E|--------------|--------------|
+Guitarra 2:
+Usa un efecto de pedalera que ditorsiona todo el tono
+(que podemos reemplazar con un bending)
+e|--------------|--------------|
+b|--------------|--------------|
+g|--------------|--------------|
+d|--------------|--------------|
+a|--------------|--------------|
+E|3b---3b---3b--|3b---3b---3b--|
+   ///   ///  ///  ///  /// ///
+(punteo de tremolo)
+
+Estrofa 3:
+Guitarra 1:
+   G      Gdim             G        G#dim            Eb       D
+e|-------|-------||--|-----------|-----------||--|-------|---------|
+b|-------|--2----||--|-----------|-----------||--|---8---|---------|
+g|-----0-|---0---||--|-----------|-----------||--|--8-8--|777777777|
+d|---0---|-----0-||x4|6-6-6-6-6-6|6-6-6-6-6-6||x2|-8---8-|777777777|
+a|-------|-------||--|6-6-6-6-6-6|6-6-6-6-6-6||--|6------|555555555|
+E|3------|-------||--|4-4-4-4-4-4|4-4-4-4-4-4||--|-------|---------|
+PM                     .......................
+
+ G               Gdim     G               Gdim
+Vos lo viste todo antes y el viejo nunca te vió
+ G               Gdim       G               Gdim
+hoy sos música en la brisa y tu hermana junto a vos
+G#             G#dim   G#               G#dim
+guerrero y pacifísta, hippie, yonki, punky, actor,
+     Eb                       D
+arrasador de escenario, genial poeta y cantor.-
+
+Estribillo:
+Guitarra 1:
+      C        D          G
+e|--------|--------|--------------|--||
+b|--5~----|--7~----|--------------|--||
+g|--5~----|--7~----|--------------|--||
+d|--5~----|--7~----|-----------0h2|x2||
+a|--3~----|--5~----|---0-2--0h2---|--||
+E|--------|--------|-3------------|--||
+
+C   D   G
+Ohhhh Luca!
+
+C   D   G
+Ohhhh Luca!
+
+
+Puente:
+Guitarra 1:
+     D      F#7      A       E             G      C#7      E       B
+e|-------|-------|-----|---------------|---3---|-------|-------|-----|
+b|-7-----|---2---|5----|---0-----------|---3---|---6---|---0---|-7---|
+g|-7-----|---3---|6----|---1-----------|---4---|---4---|---1---|-8---|
+d|-7-----|---2---|7----|---2-----------|---5---|---6---|---2---|-9---|
+a|-5-----|---4---|7----|---2-----------|---5---|---4---|---2---|-9---|
+E|-------|---2---|5----|---0-----------|---3---|-------|---0---|-7---|
+Guitarra 2:
+e|-------|-------|-----|---------------|-------|-------|-------|-----|
+b|-------|-------|-----|---------------|-------|-------|-------|-----|
+g|-------|-------|-----|---------------|-------|-------|-------|-----|
+d|-------|-------|-----|---------------|--0----|-2-3---|--4-2--|4-1--|
+a|-5~~5/7|-7/9---|9/7~-|7-9/11-9-7-5-4-|-2-----|-------|-------|-----|
+E|-------|-------|-----|---------------|-------|-------|-------|-----|
+
+D                       F#7
+Cuánto dolor hay que sentir
+           A                  E
+para entender que solo vale este latir
+G                  C#7
+entre tanta frivolidad
+           E                       B
+alguien gritaba como yo quería escuchar
+
+
+Roma y Escocia en las venas
+con aquel Sumo infernal
+estallaste en nuestras mentes
+nada, nada volvió a ser igual"
+
+
+(igual)
+G#             G#dim    G#               G#dim
+Viniste desde tan lejos amapolas en la sien
+Eb                          D
+perfume de ginebra te dormiste hecho Gardel.
+
+G
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

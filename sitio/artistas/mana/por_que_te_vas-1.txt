@@ -1,0 +1,156 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Maná                                                     |
+| CANCION: POR QUE TE VAS?                                          |
+| AUTOR:   Sergio vallin                                            |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------TAB-mana0751-+
+| TRANS:   Ernesto                                                  |
+=====================================================================
+
+INTRO:
+  Dsus2 (esta rola se repite 2 veces en el intro)
+e|-----------------------------------------------------
+B|---3-----3-----2-----2-----0-----0-----2-----2------- 
+G|---2-----2-----2-----2-----2-----2-----2-----2-------
+D|------0-----0-----0-----0-----0-----0-----0-----0----
+A|-----------------------------------------------------
+E|-----------------------------------------------------
+
+Verso I: (esta rola se da en todos los versos, pero se da sin 
+otra   acompañacion en el primer verso y después del solo 
+posterior al cuarto verso , en los demás versos va acompañado 
+del rasgueo)
+
+      Dsus2
+e|-----------------------------------------------------
+B|---3-----3-----2-----2-----0-----0-----2-----2------- 
+G|---2-----2-----2-----2-----2-----2-----2-----2-------
+D|------0-----0-----0-----0-----0-----0-----0-----0----
+A|-----------------------------------------------------
+E|-----------------------------------------------------
+      G
+e|-----------------------------------------------------
+B|---3-----3-----3-----3-----3-----3-----3-----3-------
+G|---0-----0-----2-----2-----0-----0-----2-----2-------
+D|------0-----0-----0-----0-----0-----0-----0-----0----
+A|-----------------------------------------------------
+E|-----------------------------------------------------
+      Em/E                        A
+e|-----------------------------------------------------
+B|---0-----0-----0-----0-----2-----2-----2-----2-------
+G|---0-----0-----0-----0-----2-----2-----2-----2-------
+D|------2-----2-----2-----2-----2-----2-----2-----2----
+A|-----------------------------------------------------
+E|-----------------------------------------------------
+
+
+Verso I:
+Dsus2
+Cuanto tiempo sin vernos a la cara
+G
+Si hoy tan solo te pudiera acariciar
+Em/E                  A                  Dsus2
+Ay te extraño tanto tanto corazón que no sabes
+
+Verso II:
+Dsus2
+Todo pasa tan deprisa en estas calles
+G
+En un cerrar de ojos todo termino
+Em/E                  A            Dsus2
+Yo no se porque te fuiste sin decir adiós
+
+Coro:
+D
+¿Por que te vas?
+G
+¿Por que te vas?
+Em                  A      D
+Cuando te quiero de mas
+
+Verso III: 
+(en esta parte, cuando se empieza a tocar cada nota va 
+acompañada por un solo rasgueo de otra guitarra pero 
+eléctrica, la nota opcional esta entre paréntesis al 
+costado de cada nota)
+
+Dsus2 (D5)
+Me hace falta tu calor aquí en mi cama
+G (G5)                        (F#5)
+Sin tu sonrisa el cielo el sol se me apagó
+Em/E (E5)            A (A5)            Dsus2
+Yo no si es mejor morirme de amor no se
+
+Coro:
+D
+¿Por que te vas?
+G
+¿Por que te vas?
+Em                  A      D
+Cuando te quiero de mas
+
+Verso IV:
+G              A            D  Dsus2
+Dile al cielo que no puedo
+G         A              Bm        A
+Dile que no se vivir sin ti
+G            A      D         G
+Eso pasa por quererte de mas
+Em                      A
+Dile que es mejor morirme de amor
+
+Solo:
+Dsus2, G, Em/E, A, D
+
+Coro:
+D
+¿Por que te vas?
+G
+¿Por que te vas?
+Em                  A      D
+Cuando te quiero de mas
+
+
+ 
+---ORDEN---
+INTRO
+Verso I
+Verso II
+Coro
+Verso III
+Coro
+Verso IV
+Solo
+Coro
+
+
+
+
+
+
+---Acordes---
+Dsus2      000230
+G            320033
+Em/E      002000
+A            002220
+D            000232
+Em            022000
+Bm            224432
+D5            x577xx
+G5            355xxx
+F#5            244xxx
+E5            022xxx
+A5            577xxx
+
+ 
+Ernesto
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

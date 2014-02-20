@@ -1,0 +1,171 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: DISCO ETERNO                                             |
+| AUTOR:   Gustavo Cerati, Soda Stereo                              |
+| ALBUM:   Soda Stereo (1995)                                       |
++------------------------------------------------------TAB-soda0143-+
+| TRANS:   Gerardo                                                  |
+=====================================================================
+
+Bueno, aqui esta mi versión de la canción de Soda Stereo
+Disco Eterno. Es la versión del unplugged, y use el video, asi que
+espero sea de su agrado. Segun yo es 100% o un 95% correcta.
+La posición de los acordes son algo extraños, pero pude sacar uno que otro
+si logran descubrir los otros agrdeceria que me informaran a mi correo
+bochogps@hotmail.com, pero la descripión de los acordes se encuentra
+al final de la canción.
+
+Intro1:
+
+Guitarra Electrica
+Con Pedal esta parte
+ e|--3h5-------------8/7|
+ B|---------------------|
+ G|---------------------|
+ D|---------------------|
+ A|---------------------|
+ E|---------------------|
+
+Intro2:
+ e|---------------------|----------------------------|
+ B|---------------------|----------------------------|
+ G|---------------5h4---|---------------------2-0----|
+ D|-----3-3--3----------|-------3-3h5-5h3------------| x4
+ A|-3h5-------5h3-------|-3-3h5-----------5h3--------|
+ E|---------------------|----------------------------|
+
+Riff 1
+ e|---------------------|-------------5-5------------|
+ B|------------6-5-3h5--|-3--0--0-0---3-3-3----------|
+ G|---------------------|-----------5-5-5-4-5h4------|
+ D|-------3-------------|-----------------------5-0--|
+ A|-3-3h5---5-----------|----------------------------|
+ E|--------------------------------------------------|
+
+Riff 2
+ e|---------------------|----------------5---5--------7---|
+ B|------------6-5-3h5--|-3--0--0-0-----------------------|
+ G|---------------------|-----------5--5---5---5--5/7----7|
+ D|-------3-------------|---------------------------------|
+ A|-3-3h5---5-----------|---------------------------------|
+ E|---------------------|---------------------------------|
+
+Intro x2
+
+ e|-------------|
+ B|-------------|
+ G|-------------|
+ D|-------3-----|
+ A|-3-3h5---5---|
+ E|-------------|
+
+
+D9    Fmaj7  Cadd9 Gmaj7
+Me sali
+            D9  Fmaj7  Cadd9  Gmaj7
+Fuera de contexto
+D9    Fmaj7  Cadd9 Gmaj7
+Practicar
+              D9   Fmaj7  Cadd9 Gmaj7
+No te hace perfecto
+D9       Fma7        Cadd9 Gmaj7
+Poner un disco eterno
+D9       Fmaj7  Cadd9 Gmaj7
+Moverme tornasol
+
+
+Coro:
+
+Aadd9     Cadd9
+Un espiritu
+   Aadd9             Cadd9
+A veces seguro otras veces incierto
+Aadd9          Cadd9    Aadd9
+Vengo a descubrir por que este deseo
+Cadd9
+Crece
+
+
+Intro2 x2
+
+ e|-------------|
+ B|-------------|
+ G|-------------|
+ D|-------3/6---|
+ A|-3-3h5-------|
+ E|-------------|
+
+D9         Fmaj7  Cadd9 Gmaj7
+Entre los dos
+             D9   Fmaj7  Cadd9 Gmaj7
+Pasa un meridiano
+D9   Fmaj7  Cadd9 Gmaj7
+Latitud
+             D9   Fmaj7  Cadd9 Gmaj7
+De vidas paralelas
+D9         Fmaj7      Cadd9 Gmaj7
+Abrir el sueño stereo
+D9        Fmaj7
+Crear la dimensión
+
+Aadd9      Cadd9
+Sin disimular
+   Add9               Cadd9
+Me voy desnudando con cada sonido
+Add9        Cadd9   Add9
+Alta fidelidad cuando este deseo
+Cadd9
+Crece
+
+Intro2 x4
+
+ e|-------------|
+ B|-------------|
+ G|-------------|
+ D|-------3-----|
+ A|-3-3h5---5---|
+ E|-------------|
+
+Riff1 x1
+Riff2 x1
+
+Coro:
+
+Aadd9     Cadd9
+Un espiritu
+   Aadd9             Cadd9
+A veces seguro otras veces incierto
+Aadd9          Cadd9    Aadd9
+Vengo a descubrir por que este deseo
+Cadd9
+Crece
+
+Intro1 x1
+
+ e|-------------|
+ B|-------------|
+ G|-------------|
+ D|---15/3------|
+ A|---15/3------|
+ E|---15/3------|
+
+Y sigue tocando el bajo mas y mas...
+Bueno, esto es lo que pude sacar, espero les guste!!!
+
+Acordes:
+
+D9    :XX0320
+Fmaj7 :X33210
+Cadd9 :X35733
+Gmaj7 :X54330
+Add9  :002420
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

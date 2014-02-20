@@ -1,0 +1,382 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: YA NO TE ESPERO                                          |
+| AUTOR:   Silvio Rodríguez                                         |
+| ALBUM:   Mujeres                                                  |
++------------------------------------------------------TAB-srod1852-+
+| TRANS:   Francisco                                                |
+=====================================================================
+
+VERSION COMPLETA                         evoldesign2004@yahoo.com
+
+
+------------------------------------------------------------------
+CONVENCIONES
+------------------------------------------------------------------
+
+IMPORTANTE: Hay pequeños riffs que se repiten en otras partes,
+van en el lapso comprendido entre dos letras entre paréntesis.
+Esos riffs empiezan y terminan exactamente debajo de esas letras
+y debajo de las notas alineadas verticalmente con estos puntos(:)
+Por ejemplo, "[a]&gt;[a'] + " indica que se toca de nuevo
+esa secuencia, el signo "+" indica que se empalma con lo que
+sigue.
+
+------------------------------------------------------------------
+RASGUEO  (^)=  h. abajo en esa(s) cuerda(s)
+         (v)=  h. arriba '   '     '
+          Vx, ^x= rasgueo seco al final.  ººº= timbre largo
+------------------------------------------------------------------
+
+PUNTEO
+.           MANO IZQUIERDA                MANO DERECHA
+.                        p &lt;&lt;  pulgar  &gt;&gt; P
+.                        i &lt;&lt;  indice  &gt;&gt; I
+.                        m &lt;&lt;  medio   &gt;&gt; M
+.                        a &lt;&lt;  anular  &gt;&gt; A
+.                        ñ &lt;&lt;  meñique &gt;&gt; no aplica
+                         - &lt;&lt; "al aire"&gt;&gt; -
+
+
+------------------------------------------------------------------
+1. INTRO
+------------------------------------------------------------------
+
+
+------------------|------------|-----------|-----------
+------------------|-----3-3ººº-|-----------|-----0h2---
+-----2---2--------|---0---0ººº-|-----------|---2-----2-
+---0---4---(4)--4-|-0----(0)---|-----0---0-|-2---------
+-4------------0-:-2------(2)---|---2---4---0-----------
+-:--------------:-|------------0h3---------|-----------
+[a]............[a']                        - i m - m a
+                                           P P I M - I
+
+
+----|---|---|---|--------------|-----------0---1-----2-
+----|---|---|---|--------------|-----0h2h3---3---------
+--2-|-0-|---|---|-----2---- (2)|---2-------------2-2---
+----|---|-4-|-0-|---0---0ººº---|-2-------------0---:---
+4---2---0---|---|-0-----:------0-------------------:---
+:---|---|---3---2-------:------:-------------------:---
+a m i - - a m - I       :     [c]                 [c']
+P I P I P P P I P       :
+:                       :
+[b]....................[b']
+
+
+
+
+
+                                                         ^
+----------------------|-------------------0-            -2-v-
+----------------------|---------------0h2---            -3-v-
+-----2---2------------|---------2---2-------            -2-v-
+---0---4---0---0------|-----0-----2---------            -0-vx
+-4-----------4-:-2ººº-|---2---0-------------            -----
+-:-------------:------0h3------------------- [b]&gt;[b'] + -----
+ a - i ñ i - a - i    - m i - - m i m - m -
+ P P I P I I P I P    P - P I P I P I M - A
+ :             :
+[D]           [d']
+
+
+[c]&gt;[c'] + 23(cuerda II tr.3)
+
+
+
+La parte que parece más difícil, la descifré de este modo:
+( / =deslizar hacia arriba   =deslizar hacia abajo )
+
+
+--------------|--------|-----5----3----2----0----|---
+--------------|---2/---5-----5----3----3----0----3---
+--[d]&gt;[d'] + -|---0/---0-----|-----|----|----|----4---
+--------------|-2-----(5)----|-----|----|----|----:---
+--------------1------4-|--4--|--4--|-2--|-2--|-2--:-2-
+--------------:--------|-----|-----|----|----|----:---
+              :              ñ (cuerda I)         :
+              :              M    "   "           :
+             [E]             A (cuerda II)       [e']
+                             I     "   "
+
+
+              **       **
+--------------|-----3-|-2-----2-|--------0---2---3---
+--------------|---3-3-|-3---3---|----3---3---3---3---
+[e]&gt;[e'] + ---|---4---|----2----|----0---------------
+--------------|-5-----|---------|--2*--2*--2*--2*--2*
+----------2r0-|-------|---------|--------------------
+--------------3-------|-2-------0ººº-----------------
+
+
+** cejilla
+2* esta nota se repite muy rápido y es casi imperceptible
+   así que bien pudiera omitirse.
+
+
+
+-5---------------|---2---|-------------
+-5---------------3---3---|-------------
+---------6---6---2-------|-[a]&gt;[a'] + serie de acordes ...
+-----7---7-----7-|-0---0-|-------------
+---7-------------|-------|-------------
+-5-----5---5-----|-------|-------------
+
+
+
+
+
+Los acordes que siguen no puedo asegurar si son pulsados o rasgueados
+solo con el pulgar, pero sí garantizo que estas son las notas.
+En [h] y afines: Cuando se rasguea abajo, simultáneamente se hace hammer
+en cuerda 2 tr.2 para continuar y distorsionar el acorde que ya venía
+bajando (^ ^), de modo que ahí no hay que devolver la mano.
+
+
+
+                            D
+      ^ ^ v ^ v ^ v    ^ ^ v ^    ^  ^ººvx(^x)
+----^-0-0-0-0-2-2-2-^-0-0-0-2ººº-2--2--2-(2)-----2---
+----0h2-2-2-2-2-2-2-0h2-2-2-3ººº-3--3--3-(3)-------3-
+----0---0-0-0-0-0-0-0---0-0-2ººº-2--2-(2)(2)-0h2---:-
+----0---0-0-0-0-0-0-0---0-:-0----0--:-----:--------:-
+----:---|-----|-----|---|-:-0----0--:-----:--------:--
+-3ºº:---|-----|-----|---|-:-:-------:-----:--------:--
+:   :                     : :       :     :        :
+[F] :                     : :     [F*]    [f']     :
+    :                     :[G]....................[g']
+    :                     :
+   [h] ..................[h']
+
+
+
+&gt; repetir 3 veces [f]&gt;[f']  y seguir con [f]&gt;[f*]
+
+
+------------------------------------------------------------------
+2. VERSO I
+------------------------------------------------------------------
+
+
+  G &gt; D &gt; G &gt; C#m [446454] &gt; F# [244322] &gt; Bm [224432]
+                     "     &gt;       "     &gt; Bm [^^vv]
+
+
+&gt; G  ^ ^  v
+-----2-2-(2)-----------|---------|-----------
+-----2-2-(2)-----------|---------|-----------
+-----0-0-(0)&gt; [g]&gt;[g']-|-[f]&gt;[g]-|  [f]&gt;[f']
+-(0)-0-0--:------------|---------|-----------
+--2-------:------------|---------|-----------
+--3-------:------------|---------|-----------
+ [i]     [i']                        espero..
+
+
+
+------------------------------------------------------------------
+C#m &gt; F# (^ººº ^^v^v) &gt; (F#7)*-Bm(^ººº ^^v^x)
+
+E7 [xx2030] &gt;  E6 [xx2020](^ºº ^v^v (^x)) &gt; Df (^ººº ^v^(vx))
+                                              x
+C#m   &gt;  F# (^ºº ^v^)  &gt; [i]&gt;[i']
+al viento y el aguacero  a la selva al sol ...
+------------------------------------------------------------------
+                                       (F#7)*: xx4320, es opcional
+
+
+
+D^ººº ^ ^ vx           G  [300003] [300033]
+2----2-2-(2)-----2---|-----^-v-^---^-v-^-v--
+3----3-3-(3)-------3-|0ºº--^-v-^---^-v-^-v--
+2----2(2)(2)-0h2-----|-----^-v-^---^-v-^-v--
+0----0---------------|-----^-v-^---^-v-^-vx-
+0----0---------------|----------------------
+---------------------|3ºº-------------------
+                           llegarás    A  Cm
+
+
+------------------------------------------------------------------
+G [244322]  &gt;  G/B [x2003x]     &gt; Em6 [xx2023]*
+(^ººº ^v^)     (^ºº v^v  ^vx)
+
+asa Abier ...   ta...
+------------------------------------------------------------------
+                       *usar meñique izq. para pasar a este acorde
+
+
+
+------------------------------------------------------------------
+2. ESTRIBILLO I
+------------------------------------------------------------------
+
+G &gt; D &gt; G &gt; C#m (^ºº ^v^x)  &gt; F# (^ºº ^v^v^x)
+             domi ...            na
+
+
+------------------------------------------------------------------
+3. VERSO II
+------------------------------------------------------------------
+
+  Bm (^ºº ^v^vºº ^v^v^x
+   Ya no  te    espeee- eero      (El resto es similar al verso 1)
+
+
+------------------------------------------------------------------
+4. FINAL
+------------------------------------------------------------------
+
+
+
+ Bm                  G [355433]
+                    (^ºº ^vx)
+Ya no te espeee- ee  ro,
+
+
+
+ G      Em7[0xx030]A7[x0x020] D
+----2ºº-|-----0---|-----0---|-2---2---2-------2---
+----3---|-----3---|-----2---|-3---3---3---------3-
+--------|---0---0-|---0---0-|---2---2---2-0h2-----
+--------|---------|---------|-0-------------------
+--------|---------|-0-------|---------------------
+----3---|-0-------|---------|---------------------
+ya no te  espee-    eee...    roooo....
+
+
+
+                            D
+      ^ ^ v ^ v ^ v   ^ ^ v ^    ^ (^)
+----^-0-0-0-0-2-2-2-^-0-0-0-2ººº-2-(2)------2---
+-0ºº0h2-2-2-2-2-2-2-0h2-2-2-3ººº-3-(3)--------3-
+-:--0---0-0-0-0-0-0-0---0-0-2ººº-2-(2)-2-0h2----
+-:--0---0-0-0-0-0-0-0---0-:-0----0--------------
+-:------|-----|-----|---|-:-0----0-------------- + [j]&gt;[j']
+-3ºº----|-----|-----|---|-:---------------------
+[j] .................... .[j']
+
+
+ D
+-----0h2------0h2-------0h2-----|--0h2---|---0h2---
+---------3---3----3---3-----3---|------3-|-3-----3-
+-----------2--------2---------2-|-------(0)--------
+-0ººº---------------------------|--------|---------
+--------------------------------|--------|---------
+--------------------------------3ººº----(3)--------
+ -                              m  - i A - A - i A
+ A                              P  A - M I M A - M
+                                         m
+                                         P
+
+
+         [**]       ç       ç*      ç**      A7 [5x5685]
+----------:-------5-0-----0-0-----0-0---1-0-5-----5---------|
+--3---3/6-6-6---6---|---6---|---6---|-3-----|---5---8---8ººº|ES TODO!
+0---3-----:---7-----|-7-----|-7-----|-------|-6-------6-----|
+----------:---------|-------|-------|-------|---------------|
+----------:---------|-------|-------|-------|---------------|
+3---------6---------5-------4-------3-------5---------------|
+- ñ a ñ ñ a m a m i - ñ a - - ñ a - - ñ i - i m i i ñ m ñ ..mano izq
+I M I M - M I P I M A I M A A I M A M I M I A I M A M I M ..  "  izq
+m         m         i       i       m       i ..............MANO DER.
+P         P         P       P       P       P ..............MANO DER.
+         (**)
+
+
+(**): EN ESTE punto es importante ubicar así los dedos para
+      facilitar el final, "O" indica cuerda pisada en ese traste:
+
+
+Tr.5    Tr.7        Tr.5    Tr.7
+---|---|---|        -O-|---|---|
+---|-O-|---|        ---|-O-|---|-
+---|---|-O-|        ---|---|-O-|
+---|---|---|  &gt;&gt;&gt;&gt;  ---|---|---|
+---|---|---|        ---|---|---|
+---|-O-|---|        ---|-O-|---|
+    (**)
+
+
+Guía de acordes raros [pulsados]        Equivalentes aproximados
+-------------------------------------|----------------------------
+[**] = [6xx760] = Dmadd9/B bemol     &gt; [xxx220] = A
+ ç   = [5xx760] = Dmadd9/A o Fmaj13A &gt; [xx0230] = Dsus2
+ ç*  = [4xx760] = Dmadd9/A bemol     &gt; [xxx130] = Dsus2/A bemol
+ ç** = [3xx030] = Em7/G              &gt; [xxx030] = Em7/G
+
+------------------------------------------------------------------
+ACORDES Y LETRA (corrección del cancionero de S.R por Z.A.Calzada)
+------------------------------------------------------------------
+
+     RE       SOL
+A)Ya no te espero
+                     RE
+llegaras, pero mas fuerte
+
+
+SOL               RE
+mas violenta la corriente
+  DO#m   FA#       SIm·LA
+dibujándose en el suelo
+ DO#m     FA#         SIm·LA
+de mi pecho, de mis dedos
+ SOL             RE  SOL·RE
+llegaras con mucha muerte.
+
+
+   RE           DO#m
+B)Ya no te espero
+ FA#                   SIm
+ya eche abajo ayer mis puertas
+ MI7      MI6        RE
+las ventanas bien despiertas
+ DO#            FA#  SIm·LA
+al viento y al aguacero
+ SOL                   RE
+a la selva, al sol al fuego
+ SOL         SOL/SI&gt;MIm6
+llegaras a casa abierta.
+
+
+B)Ya no te espero
+ya ese tiempo que fascina
+ya es bendición que camina
+a manos del desespero
+ya es bestia de los potreros
+saltando a quien la domina.
+
+A)Ya no te espero
+ya estoy regresando solo
+de los tiempos venideros
+ya he besado cada plomo
+con que mato y con que muero
+ya se cuando, quien y como.
+
+B)Ya no te espero
+ya he liberado a tu patria
+hija de una espera larga
+y hay un Primero de Enero
+que funda a sus compañeros
+con la sed de mi garganta.
+
+B)Ya no te espero
+porque de esperarte hay odio
+en una noche de novios
+en los hábitos del cielo
+en madre de un hijo ciego
+ya soy ángel del demonio.
+RE         SOL
+Ya no te espero
+       MIm7 LA7·RE     Arpegiado final (Adaptación)
+ya no te espero.      &gt;&gt; LA&gt;REsus2 &gt; REsus2/LAbem &gt;
+REm7/SOL &gt; LA7
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

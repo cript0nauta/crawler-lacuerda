@@ -1,0 +1,149 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Maná                                                     |
+| CANCION: PERDIDO EN UN BARCO (UNPLUGGED)                          |
+| AUTOR:   Fher Olvera - alex Gonzalez                              |
+| ALBUM:   Mtv Unplugged (1999)                                     |
++------------------------------------------------------ACO-mana1091-+
+| TRANS:   Fernando                                                 |
+=====================================================================
+
+NOTA: Esta es una corrección a mi versión anterior: He colocado los nombres
+correctos para cada acorde... (Gracias, MUMO)
+
+Intro:
+
+
+    A9/F#   D9    D9     A    A    A    A    E9      E9      E9   E9
+e|-0-0-0-0---5-----5-----5----5----5----5----7-------7-------7----7-
+B|-0-0-0-0---5-----5-----5----5----5----5----7-------7-------7----7-
+G|-2-2-2-2---7-----7-----6----6----6----6----9-------9-------9----9-
+D|-2-2-2-2---7-----7-----7----7----7----7----9-------9-------9----9-
+A|-0-0-0-0---5-----5-----7----7----7----7----7-------7-------7----7-
+E|-2-2-2-2---5-----5-----5----5----5----5----7-------7-------7----7-
+
+A9/F#  D9  A  E9
+
+A9/F#       D9             A
+Salgo en crucero hacia el mar;
+E9               (A9/F#  D9  A  E9)
+Destino: El Caribe.
+A9/F#       D9            A
+Pero este barco no es normal:
+E9                (A9/F#  D9  A  E9)
+Está en el alucine.
+ A9/F# D9          A        E9             (A9/F#  D9  A  E9)
+¡Eso es!: Sólo el sexo femenino está presente.
+A9/F#    D9          A         E9          (A9/F#  D9  A  E9)
+A lo mejor, esto es un error o es que tengo suerte...
+Bm        D                       Bm
+Y yo, no sé lo que aquí va a suceder
+     D        E
+con tanta mujer.
+
+
+(ESTRIBILLO):
+
+               A  D  E
+Perdido en un barco.
+    D            A  D  E
+Perdido en sus brazos.
+     D    A        D     E       D   A  D  E
+Con este barco en alta-mar, perdido yo.
+
+(A9/F#  D9  A  E9)
+
+(Guitarras dejan de tocar)
+
+En el aire una sensación
+a coco y piel tostada (¡Uh!)
+Me despierta cierta tentación y salgo de la cama.
+
+¡Conmoción!...
+
+(Trompetas - Guitarras vuelven a tocar con A9/F# D9 A E9)
+
+A9/F#               D9                 (A9/F#  D9  A  E9)
+Las figuras van desnudas, bien bronceadas.
+ A9/F     D9
+¡Excitación!...
+ A                E9        (A9/F#  D9  A  E9)
+Sentimiento visceral acelerado.
+Bm        D                       Bm
+Y yo, no sé lo que aquí va a suceder
+     D        E
+con tanta mujer.
+
+
+(ESTRIBILLO):
+
+               A  D  E
+Perdido en un barco.
+    D            A  D  E
+Perdido en sus brazos.
+     D    A        D     E       D   A  D  E
+Con este barco en alta-mar, perdido yo.
+               A  D  E
+Perdido en un barco.
+    D            A  D  E
+Perdido en sus muslos.
+     D    A        D     E       D   A  D  E
+Con este barco en alta-mar, perdido yo.
+
+(SOLO DE TROMPETAS -ACORDES DEL ESTRIBILLO-)
+
+         D
+Esto es demasiado.
+           C#m
+Me siento devorado.
+           D
+Estoy muy desauseado.
+           C#m         Bm          E
+Mas sé la solución: quedarme yo aquí.
+  A     D    E
+Todas junto a mí...
+    D            A  D  E
+Perdido en sus brazos.
+    D     A        D     E       D   A  D  E
+Con este barco en alta-mar, perdido yo.
+               A  D  E
+Perdido en un barco.
+    D            A  D  E
+Perdido en sus muslos.
+    D     A       D      E       D   A  D  E
+Con este barco en alta-mar, perdido yo.
+
+
+¡Olé, Olá! ¡Oh, no! Perdido en un barco. -&gt; (X4)
+(Usar acordes del Estribillo)
+
+--Luego del "¡Arriba, Miami!" que alienta Fher,
+viene una espectacular combinación melódica entre las
+trompetas y la guitarra; ésta haría algo más o menos así:
+
+G|---------|
+D|---------|
+A|---------|
+E|-5---5---|
+
+Y luego sigue (más o menos así) hasta el final:
+G|----------------|--------------|--------------|--------------|
+D|----------------|--------------|--------------|--------------|
+A|---5-7-7--5-5---|-5-7-7--5-5---|-5-7-7--5-5---|-5-7-7--5-5---|
+E|-5------------5-|------------5-|------------5-|------------5-|
+
+
+Esta parte suena justo al final:
+G|-----|
+D|-----|
+A|-----|
+E|--5--|
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

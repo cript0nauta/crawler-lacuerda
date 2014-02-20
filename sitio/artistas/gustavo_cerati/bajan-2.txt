@@ -1,0 +1,86 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Gustavo Cerati                                           |
+| CANCION: BAJAN                                                    |
+| AUTOR:   Luis Alberto Spinetta                                    |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------ACO-gcer0082-+
+| TRANS:   Claudio                                                  |
+=====================================================================
+
+Intro:       (E x4)   
+  
+   E                          F#  
+E-----0----------0---------I-----0---------0----
+B--------0----2------------I--------0----2------
+G-----------0 -------------I-----------0--------
+D--2-----------------------I--4-----------------
+A--2-----------------------I--4-----------------
+E--0----------------0--^3--I--2-----------------
+           TENGO TIEMPO        PARA SABER
+  
+   (slide)   C#m      C       B           
+E-------2--\--4-------3-------2-----------------
+B-------3--\--5-------5-------4-----------------
+G-------4--\--6-------5-------4-----------------
+D-------4--\--6-------5-------4-----------------
+A-------2--\--4-------3-------2-----------------
+E-------x-----x---------------------------------
+       SI LO QUE SUENO CONCLUYE EN ALGO.
+       
+           E           F#
+       NO TE APURES  YA MAS LOCO
+        
+          C#m         C         B                                                                    
+       PORQUE ES ENTONCES  CUANDO LAS HORAS
+       
+       ***CORO*** 
+         C#m    G#m
+        BAJAN  EL DIA
+           B    C    C#m
+        ES VIDRIO SIN SOL
+        
+        C#m      G#m    
+        BAJAN LA NOCHE
+           B    C    C#m
+        TE OCULTA LA VOZ
+           C
+        Y ADEMAS
+           A   G#m   F#
+        VOS QUERES SOL
+           
+           C#m     C
+        DESPACIO TAMBIEN
+                        
+                      C#m  D#  E    A
+        E--------------x---x---x----5-----------
+        B--------------x---x---x----5-----------
+        G--------------6---8---9----6-----------
+        D--------------6---8---9----7-----------
+        A--------------4---6---7----7-----------
+        E---------------------------5-----------
+        PODES HALLAR LA LUNA.
+      
+        (repite intro)
+        E           F# 
+        VIEJO ROBLE DEL CAMINO
+
+          C#m     C        B
+        TUS HOJAS SIEMPRE SE AGITAN ALGO
+        E         F#   
+        NENA NENA QUE BIEN TE VES
+          C#m     C 
+        CUANTO EN TUS OJOS
+           B 
+        NO IMPORTA SI LAS HORAS
+        
+        ***Coro***
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

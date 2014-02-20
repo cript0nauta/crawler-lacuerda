@@ -1,0 +1,285 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: los Piojos                                               |
+| CANCION: REGGAE ROJO Y NEGRO                                      |
+| AUTOR:   Piti                                                     |
+| ALBUM:   Verde Paisajes del Infierno (2000)                       |
++------------------------------------------------------TAB-pioj0582-+
+| TRANS:   Facundo                                                  |
+=====================================================================
+
+"Me lo dijo macho cuando hablé con el
+nos estan bloqueando con la informacion
+y mucho cuidado deberás tener
+para no ser parte de esta gran traición"
+
+Intro:
+Guitarra:
+    Bb       Gb        Eb      Bb           G
+e|--6--6--|--2--2--|--6--6--|--6--6--|--|---3---||
+b|--6--6--|--2--2--|--8--8--|--6--6--|--|---3---||
+g|--7--7--|--3--3--|--8--8--|--7--7--|--|---4---||
+d|--8--8--|--4--4--|--8--8--|--8--8--|x2|---5---||
+a|--8--8--|--4--4--|--6--6--|--8--8--|--|---5---||
+E|--6--6--|--2--2--|--------|--6--6--|--|---3---||
+Bajo:
+    Bb       Gb        Eb      Bb           G
+g|--------|--------|--------|--------|--|-------||
+d|----0-3-|---4----|-1-1-1--|------3-|--|-------||
+a|1-------|--------|--------|1-1-1--1|x2|-------||
+E|--------|--------|--------|--------|--|---3---||
+
+Bb     Gb
+Oh oh uh oh
+Eb       Bb
+oh uh oh oh
+
+Bb      Gb
+Oh oh uh oh
+Eb       Bb
+oh uh oh oh
+
+G
+Ohhh ohh...
+
+SIGUE ASI:
+Bajo:
+     Bb        Bb       C          G     G
+g|---------|-------|-------------|----|------|
+d|-------3-|---3---|---------5---|----|------|
+a|1-1-1-1-1|-1---1-|-3-3-3-3---3-|-3--|---5--|
+E|---------|-------|-------------|---3|-3---3|
+
+     G         Bb       C              G
+g|---------|-------|-------------|-----------|
+d|---------|----3--|------5----0-|-----------|
+a|-----5---|-1-1--1|-3-3----3----|----------5|
+E|-3-3-----|-------|-------------|-3-3-3-3---|
+
+Estrofa 1:
+
+Guitarra:
+       G           G               Eb        Eb
+e|-3--3--3--3|-3--3--3--3|--|-6--6--6--6-|-6--6--6--6-|||--|
+b|-3--3--3--3|-3--3--3--3|--|-8--8--8--8-|-8--8--8--8-|||--|
+g|-4--4--4--4|-4--4--4--4|--|-8--8--8--8-|-8--8--8--8-|||x2|
+d|-5--5--5--5|-5--5--5--5|x2|-8--8--8--8-|-8--8--8--8-|||--|
+a|-5--5--5--5|-5--5--5--5|--|-6--6--6--6-|-6--6--6--6-|||--|
+E|-3--3--3--3|-3--3--3--3|--|------------|------------|||--|
+Bajo:
+        G              G                       Eb
+g|-------------|-------------------|--|------------------------|||--|
+d|------------5|-------------------|--|0h1-1-1-0h1-1-1-0h1-1-1-|||--|
+a|-----------5-|----------5-5-5-5--|x2|------------------------|||x2|
+E|-3-3-3-3-3---|-3-3-3-3-3--------3|--|------------------------|||--|
+          Eb
+
+
+G
+Una noche que hizo calor
+soñé tu mar azul transparente
+G
+fue tan claro que me acordé
+de la belleza de tu gente
+Eb
+Del don de no ser indiferente
+si hace falta poner el hombro
+G
+y de los huevos que hay que tener
+pa' hacerle frente a la gringada
+Eb                      C
+que se muere de ganas...
+
+Pero vos
+
+Pre-Estribillo:
+
+Guitarra:
+      G        Eb      C         G
+e|--3--3--|--6--6--|--3--3--|--3--3--|--|
+b|--3--3--|--8--8--|--5--5--|--3--3--|--|
+g|--4--4--|--8--8--|--5--5--|--4--4--|--|
+d|--5--5--|--8--8--|--5--5--|--5--5--|x2|
+a|--5--5--|--6--6--|--3--3--|--5--5--|--|
+E|--3--3--|--------|--------|--3--3--|--|
+Bajo:
+g|--------|--------|--------|--------|--|
+d|--------|----8---|-----5--|--------|--|
+a|----5---|6-6---6-|-3-3---3|-----5--|x2|
+E|3-3---3-|--------|--------|3-3----3|--|
+
+G        Eb
+Oh oh uh oh
+C        G
+Oh uh oh oh..
+
+G        Eb
+Oh oh uh oh
+C        G
+Oh uh oh oh..
+
+Estribillo:
+Guitarra 1:
+        D           Db          C             Db
+e|-5--5--5--5-|--||5-4-3||-3--3--3--3-|--||3-4-5||--||
+b|-7--7--7--7-|--||7-6-5||-5--5--5--5-|--||5-6-7||--||
+g|-7--7--7--7-|--||7-6-5||-5--5--5--5-|--||5-6-7||--||
+d|-7--7--7--7-|x2||7-6-5||-5--5--5--5-|x2||5-6-7||x2||
+a|-5--5--5--5-|--||5-4-3||-3--3--3--3-|--||3-4-5||--||
+E|------------|--||-----||------------|--||-----||--||
+Bajo:
+g|------------|--||-----||------------|--||-----||--||
+d|------7-7-7-|x2||-----||-------5-5-5|x2||-----||--||
+a|5-5-5-------|--||5-4-3||-3-3-3------|--||3-4-5||x2||
+E|------------|--||-----||------------|--||-----||--||
+
+
+D                           Db
+Este reggae es rojo y negro
+C                                     Db
+él sabe que el dolor no me hace bueno
+D                           Db
+este reggae es rojo y negro
+C
+él sabe bien mi amor cuánto te quiero
+
+Puente:
+
+Guitarra:
+           Bb                     C
+e|-----------------------|--------------------------|
+b|-----------------------|--------------------------|
+g|-----------------------|--------------------------|
+d|--3-----------3--------|---5-----------5-5--------|
+a|1---1-11-1--1---1-1-1-1|-3--3-3-3-3-3-------------|
+E|-----------------------|--------------------------|
+           G                  Bb          C        G
+e|-----------------------|------------|----------|---||
+b|-----------------------|------------|----------|---||
+g|-----------------------|------------|----------|---||
+d|-----------------------|---3--------|--5-------|---||
+a|---5----------5--------|-1---1-1-1-1|3--3-3-3-3|---||
+E|-3---3-3-3--3---3-3-3-3|------------|----------|-3-||
+
+Estrofa 2:
+Guitarra:
+(Igual a la otra estrofa)
+G
+Hubo una isla meta tambor
+quedaba lejos, lejos de casa
+en la forma que Toni habló
+no encontré hipocresía
+(Entra bajo igual)
+Eb
+Y la historia que escribe la CIA
+yo me la paso por las pelotas
+G
+acá en mi barrio el hambre se nota
+y pasan balas todos los días
+Eb
+y la violencia se pone fría y te espera...
+(C G Eb)
+
+sentadita en el cordón.
+
+
+Pre-Estribillo:
+Guitarra y bajo igual:
+
+G        Eb
+Oh oh uh oh
+C        G
+Oh uh oh oh..
+
+G        Eb
+Oh oh uh oh
+C        G
+Oh uh oh oh..
+
+Estribillo:
+Guitarra y bajo:
+(igual)
+
+
+D                           Db
+Este reggae es rojo y negro
+C                                     Db
+él sabe que el dolor no me hace bueno
+D                           Db
+este reggae es rojo y negro
+C
+él sabe bien mi amor cuánto te quiero
+
+Post-Estribillo:
+(Igual que intro)
+
+Bb       Gb
+Oh oh uh oh
+Eb       Bb
+Oh uh oh oh...
+
+Bb       Gb
+Oh oh uh oh
+Eb       Bb
+Oh uh oh oh...
+
+Solo:
+(No esta exacto, por que como puede escucharse tiene mucho delay
+y se entremezcla, pero se entiende bastante)
+        G                G                G                G
+e|---------------|----------------|-----------------|-----------------|
+b|-----1--------1|----------------|-----------------|-----------------|
+g|-2-4---4--2-4--|-4p2-0---0------|-----------------|-----------------|
+d|---------------|-------3---3-2p0|-3p2-0-2-2h3--0h2|---0-2-3p2--0-2-0|
+a|---------------|----------------|-----------------|-3---------3-----|
+E|---------------|----------------|-----------------|-----------------|
+        G                 G                G                G
+e|---------------|----------------|-----------------|-----------------|
+b|---------------|----------------|-----------------|-----------------|
+g|-----2---------|----------------|-----2-4-2-------|-----------------|
+d|-3-5---5p3-2-3-|-5p3-2-3-5-3----|-3-5-------5-3-2-|-0---------------|
+a|---------------|----------------|-----------------|---3-2-0-2-------|
+E|---------------|----------------|-----------------|-------------3---|
+
+Estribillo:
+(como pre-estribillo)
+G                       Eb
+Me lo dijo Macho cuando hablé con él
+C                           G
+nos están bloqueando con la información
+                    Eb
+y mucho cuidado deberás tener
+C                         G
+para no ser parte de esta gran traición
+
+G                       Eb
+Me lo dijo Macho cuando hablé con él
+C                           G
+nos están bloqueando con la información
+                    Eb
+y mucho cuidado deberás tener
+C                         G
+para no ser parte de esta gran traición
+
+Bb     Gb
+Oh oh uh oh
+Eb       Bb
+oh uh oh oh
+
+Bb      Gb
+Oh oh uh oh
+Eb       Bb
+oh uh oh oh
+
+Temaazo, ojala vuelva a los rituales.
+
+Saludos
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

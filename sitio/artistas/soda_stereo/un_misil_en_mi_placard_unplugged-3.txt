@@ -1,0 +1,139 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: UN MISIL EN MI PLACARD (UNPLUGGED)                       |
+| AUTOR:   Gustavo cerati                                           |
+| ALBUM:   Confort y musica para volar (mtv unplugged) (199)        |
++------------------------------------------------------TAB-soda0813-+
+| TRANS:   Victor, eL                                               |
+=====================================================================
+
+Mi versión no está verificada con ningún video, simplemente con el
+disco, al tocarla en simultáneo con una guitarra bien afinada suena
+bien.
+
+
+Acordes:
+  F#m7add11     Em7  F#m7 Em
+
+|--0-------------0----0----0----|
+|--0-------------0----7----5----|
+|--9-------------7----6----4----|
+|--7-------------5----7----5----|
+|--9-------------7----9----7----|
+|--0-------------0----0----0----|
+
+  Bm   A    G6 o  G6   Bm*
+
+--7----0----0-----0----x-||
+--7----5----3-----0----7-||
+--7----6----4-----7----7-||
+--9----7----5-----9----9-||
+--9----7----5----10----9-||
+--7--------------------x-||
+
+
+
+Intro: (F#m7add11 Em7 F#m7 Em)x3 F#m7add11 Em7 Bm
+
+F#m7add11     Em7             F#m7    Em
+        Refugiados sobre el diván
+F#m7add11     Em7              F#m7    Em
+         Agitados por nuestras formas
+F#m7add11            Em7
+Algo ocurrió, una extraña sensación
+         F#m7          Em
+   Un presentimiento.
+F#m7add11          Em7              Bm
+Tuve que dejar de hacer el amor, en el momento
+
+F#m7add11       Em7      F#m7      Em
+         Fui en busca de un abrigo
+F#m7add11     Em7   F#m7       Em
+         Encendí un cigarrillo
+
+             A
+   Y ahí lo vi
+         G           F#m
+   Un misil en mi placard
+    G
+   Mi placard
+        A                      G           Bm
+   Un modelo para armar, pero nunca para desarmar
+
+Solo:
+-------------------------|
+-------------------------|
+-------------------------|
+-------------------------|
+-------------7----9------|
+-------7h-9-----9--------|
+
+
+-------------------------|-----------------------------|
+-------------------------|-----------------------------|
+-------------------------|-------------11--10--9-----9-|
+-------------------------|--7-7---7h-9------------11---|
+-------------7----9------|-----------------------------|
+-------7h-9-----9--------|-----------------------------|
+
+
+-----------------------------|------------------------|
+-----------------------------|------7---10------------|
+-10-11-11---11---11----------|--9---------------------|
+-----------------------------|------------------------|
+-----------------------------|------------------------|
+-----------------------------|------------------------|
+
+
+                                          Bmadd9
+--------------------------------|---------9------9-9-9-9--9----|
+-------7---10/12-12-12----12----|---------7------7-7-7-7--7----|
+--9-----------------------------|---------7------7-7-7-7--7----|
+--------------------------------|---------7------7-7-7-7--7----|
+--------------------------------|---------9------9-9-9-9--9----|
+--------------------------------|------------------------------|
+
+
+
+--9-9--9-9-9-9-----------|
+--7-7--7-7-7-7-----------|
+--7-7--7-7-7-7-----------|
+--7-7--7-7-7-7-----------|
+--9-9--9-9-9-9-----------|
+--7-7--7-7-7-7-----------|
+
+
+Te mire tristemente
+No hay mas tiempo que perder
+
+Estaba ahí
+Un misil en mi placard
+MI placard
+Un modelo para armar, pero nunca para desarmar
+
+(A G6 Bm* F#m7add11-Em7) x2
+
+          A
+Aquí también,
+G6       Bm*       F#m7add11-Em7
+    o creías que estabas lejos,
+también
+O creías que estabas lejos
+
+Final: D9 Em7
+       0   0
+       3   3
+       2   0
+       0   2
+       x   2
+       x   0
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

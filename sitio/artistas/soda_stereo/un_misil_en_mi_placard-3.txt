@@ -1,0 +1,88 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Soda Stereo                                              |
+| CANCION: UN MISIL EN MI PLACARD                                   |
+| AUTOR:   Gustavo Cerati                                           |
+| ALBUM:   Comfort y Música Para Volar: Unplugged (1984)            |
++------------------------------------------------------ACO-soda0603-+
+| TRANS:   mathias                                                  |
+=====================================================================
+
+Acordes
+      E  A  D  G  B  E
+A':   0  7  7  6  5  0
+G':   0  5  5  4  3  0
+?1:   x  4  4  2  2  x
+Em7:  0  2  2  0  3  0
+Bm:   7  9  9  7  7  7
+?2:   x  9  9  7  7  x
+F#m7: x  9  11 9 10  9
+
+intro: (A' G' ?1 Em7)X3  A' G' Bm(este Bm un tiempo mas)
+A'      G'             ?1   Em7
+Refugiados sobre el divan
+agitados por nuestras formas
+algo ocurrio una extraña sensacion,un presentimiento
+A'                G'                    Bm(un tiempo mas)
+tuve que dejar de hacer el amor en el momento.
+
+A'        G'        ?1   Em7
+Fui en busca de un abrigo
+encendi un cigarrillo...
+
+A'
+y ahi lo vi
+      G'           ?1  G'
+un misil en mi placard,mi placard
+     A'
+un modelo para armar
+      G'           Bm
+pero nunca para desarmar
+
+SOLO
+
+e:---------------------------------
+b:---------------------------------
+g:---------------------------------
+D:-----------------------------4v-- X2
+A:---------5(5.5)----7---(7.)------
+E:-7(7.7.7)------------------------
+
+e:-----------------------------------------5------7-5
+b:----------7-6-5(5.5)-7(7.7)-7(7.)-7---5-7--5-7--7-5
+g:--4------------------------------------------------
+D:-4-4--7-7------------------------------------------
+A:---------------------------------------------------
+E:---------------------------------------------------
+TERMINA EN F#m7
+
+A'   G'          ?1   Em7
+Te mire tristemente
+no hay mas tiempo que perder...
+A'
+Estaba ahi
+      G'            ?1 G'
+un misil en mi placard,mi placard
+     A'
+un modelo para armar
+      G'         Bm
+pero nunca para desarmar
+
+A'(X4)G'
+?2(X4)A'G'
+aqui tambieeeeeeeeeeeeeen
+vos creias que estabas lejos
+tambieeeeenn
+vos creias que estabas lejos
+
+FINAL:
+Em7 F#m7
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

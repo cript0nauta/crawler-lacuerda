@@ -1,0 +1,125 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Attaque 77                                               |
+| CANCION: VIDA MONOTONA                                            |
+| AUTOR:   -?-                                                      |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------TAB-at770922-+
+| TRANS:   Cris77ian                                                |
+=====================================================================
+
+Intro: *C#
+
+  E
+Dios, patria y hogar nos quieren cambiar
+C#m
+con costumbres y moralidad.
+A
+Ellos rigen esta sociedad.
+ B
+la mentira en sus mentes está.
+
+E
+Ay, que pena. No saben que hablar
+    C#m**
+Ay, qué pena. Se sienten muy mal.
+ A
+No se fijan en ellos mismos
+ B
+por prejuicios o por reprimir.
+
+
+ E              C#m      A               B
+No. Ooh! Vida monótona. No. Ooh! Vida monótona.
+No. Ooh! Vida monótona. No. Ooh! Vida monótona.
+
+*Solo (sobre Intro)
+
+  E               B        C#  
+Dios, patria y hogar nos quieren cambiar
+ A                B
+con costumbres y moralidad.
+E      B        C#
+Ellos rigen esta sociedad.
+ A                 B
+la mentira en sus mentes esta.
+
+      E       B      C#
+***   Ay que pena no saben que hablar
+           A           B
+      Ay que pena se sienten muy mal.
+
+         E     B       C#
+****  Y no se fijan en ellos mismos
+       A                  B
+      por prejuicios o por reprimir.
+
+No. Ooh! Vida monótona, No. Ooh! Vida monótona.
+No. Ooh! Vida monótona, No. Ooh! Vida monótona.
+
+Fin (C#  E):
+  C#                          C#                               E (dejar sonando)
+e|---------------------------|    |---------------------------|
+B|----------------------6----|    |-----9-9---------9-9-7-----|
+G|-------6-6-8-6-8--6-8---8--|    |--10-----10-10---------10--|
+D|---6-8---------------------|    |---------------------------|
+A|---------------------------|    |---------------------------|
+E|---------------------------|    |---------------------------|
+
+
+
+================================================================================
+*C#: Se toca en el 9no traste. Primero normal, y despues las primeras cuerdas:
+e--9--- --9--- --9--- --9---
+B--9--- --9--- --9--- --9---
+G--10-- --10-- --10-- --10-- ó sino se toca C# normal y otra guit. toca después
+D--11-- --11-- --11-- --x--- las primeras cuerdas (haciendo C# en el traste 9).
+A--11-- --11-- --x--- --x---
+E--9--- --x--- --x--- --x---
+
+--------------------------------------------------------------------------------
+**:
+e|-----------------------------------|
+B|-----------------------------------|
+G|-----------4--6---------------4--6-|
+D|-----------------------------------|
+  Ay, qué pena. Se sienten muy mal.
+
+--------------------------------------------------------------------------------
+*Solo (sobre Intro):
+  C#                           C#
+e|----------------------------|
+B|------------------6---6-----|
+G|-------6---8-6-8----8----8--|
+D|---6-8----------------------|
+A|----------------------------|
+E|----------------------------|
+
+--------------------------------------------------------------------------------
+***:
+e|---7------------------------------7/9-7\4/7-------------------------7/9\7--|
+B|---------------------------------------------------------------------------|
+G|---------------------------------------------------------------------------|
+     Ay que pena no saben que hablar.   Ay que pena se sienten muy mal.
+
+--------------------------------------------------------------------------------
+****:
+e|-----------------------------------------------------------------|
+B|-------------------------7/9-7\5---------------------------------|
+G|----------------------------------------------------8----6----4--|
+D|-----------------------------------------------------------------|
+  Y no se fijan en ellos mismos por prejuicios o por reprimir.
+
+================================================================================
+/ = Slide up
+\ = Slide down
+x = No se toca la cuerda en que está
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

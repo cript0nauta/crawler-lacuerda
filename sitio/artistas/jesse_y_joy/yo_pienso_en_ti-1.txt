@@ -1,0 +1,201 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Jesse y Joy                                              |
+| CANCION: YO PIENSO EN TI                                          |
+| AUTOR:   Rolando                                                  |
+| ALBUM:   Mdo (2005)                                               |
++------------------------------------------------------TAB-jyjy0151-+
+| TRANS:   Rolando                                                  |
+=====================================================================
+
+La dedico especialmente para ti Karen Ch. porque yo pienso
+en ti a cada Instante, no hay nada que pueda alejarme de ti
+ni un momento porque tu estas metida en mi alma y en mi pensamiento,
+un saludo a todos dedíquenlo al Amor de sus vidas.
+*************************************************************
+Esta en el tono Original, con ayuda de un ordenador.
+
+IMPORTANTE (Digitalmente, la canción tiene varios acordes, así que
+no se asusten trabajen con estos y les saldrá mejor y más fácil
+[Están en el orden en que aparecen]):
+
+    F    A#   C   Dm   Gm   C7   Dm7  Am7  Am   F7
+E) -1-  -1-  -0-  -1-  -3-  -3-  -1-  -3-  -0-  -1-
+B) -1-  -3-  -1-  -3-  -3-  -5-  -1-  -1-  -1-  -1-
+G) -2-  -3-  -0-  -2-  -3-  -3-  -2-  -2-  -2-  -2-
+D) -3-  -3-  -2-  -0-  -5-  -5-  -0-  -2-  -2-  -1-
+A) -3-  -1-  -3-  -X-  -5-  -3-  -X-  -0-  -0-  -3-
+E) -X-  -X-  -X-  -X-  -3-  -X-  -X-  -X-  -X-  -1-
+
+   G#2  A#2   F#   C#  D#m  A#m   B   G#m   D#
+E) -4-  -6-  -2-  -4-  -6-  -1-  -2-  -4-  -3-
+B) -4-  -6-  -2-  -6-  -7-  -2-  -4-  -4-  -4-
+G) -5-  -7-  -3-  -6-  -8-  -3-  -4-  -4-  -3-
+D) -6-  -8-  -4-  -6-  -8-  -3-  -4-  -6-  -1-
+A) -6-  -8-  -4-  -4-  -6-  -1-  -2-  -6-  -X-
+E) -4-  -6-  -X-  -4-  -X-  -X-  -X-  -4-  -X-
+
+Nota: El acorde A#2 es A# en su segunda inversión (La sostenido).
+      El acorde G#2 es G# en su segunda inversión (Sol sostenido)
+INTRO
+e) |-1---1-0------------------|
+B) |-----3-1------1-3---3-1---|
+G) |---2------2-3-------------|
+D) |-0--------------3-----3---|
+A) |------------------0-------|
+E) |--------------------------|
+
+e) |-------------------------------------------6-5-------|
+B) |------------------------------------6-5h-6-----6-----|
+G) |--0-2-3-3/5-3-3-2-2---------------7------5-------5---|
+D) |-3------------------5-5-3-3/5---8------------------7-|
+A) |-----------------------------------------------------|
+E) |-----------------------------------------------------|
+
+       F                  A#
+Si por cada momento que pienso en ti
+     C                     Dm
+Yo ganara un segundo de vida
+     A#                    Gm
+de seguro estoy que no iba a morir
+      C7                        Dm7
+porque yo pienso en ti noche y día.
+
+e) |-5----3-----|
+B) |-6----5-----|
+G) |---5----5---|
+D) |------------|
+A) |------------|
+E) |------------|
+Dm                           Gm
+Si por cada recuerdo que tengo de ti
+       C                 Am7
+yo tuviese un puñado de arena
+       Dm                    Gm
+ni desiertos ni mares habría porque
+    C7                 C
+seria mía toda la tierra.
+
+CORO:
+    F                      C
+Yo pienso en ti mientras duermo
+    Dm                   Am
+Yo pienso en ti como te sueño
+      A#                                         F
+me despierto y sin darme ni cuenta pronuncio tu nombre
+      Gm                                     C7
+luego beso tu foto que esta en mi mesita de noche
+
+    F                      C
+Yo pienso en ti a cada instante
+        Dm              Am
+yo pienso en ti únicamente
+    A#                                            F
+y no hay nada que pueda alejarme de ti ni un momento
+       Gm                                      C
+porque tu estas metida en mi alma y en mi pensamiento
+
+             Dm   Am      A#   F
+Yo pienso en tiiiiii  en tiiiii
+ Gm            C          F7
+solamente pienso       en ti
+
+ G#2            A#2          F
+Aunque estas muy lejos yo siento
+ G#2            A#2    Dm7
+Que estas tan cerca de mí
+      Dm            Am         A#      F
+Vives siempre en mi mente y  en mi corazón
+   Gm               C7
+Yo nunca te voy olvidaaar.
+
+Fade:
+e) |-1-1-5-6-8-8-6-13-12-10-6/8-6-5-5-8-6-6-13h-|
+B) |-1-1-6-6-6-6-6-11-----------------6-6-6-11h-|
+G) |-2------------------------------------------|
+D) |--------------------------------------------|
+A) |--------------------------------------------|
+E) |--------------------------------------------|
+
+       F                  A#
+Si por cada momento que pienso en ti
+     C                     Dm
+yo ganara un segundo de vida
+     A#                      Gm
+de seguro estoy que no iba a morir
+      C7                        Dm7
+porque yo pienso en ti noche y día
+
+Dm                           Gm
+Si por cada recuerdo que tengo de ti
+       C                 Am7
+yo tuviese un puñado de arena
+       A#                    Gm
+Ni desiertos ni mares habría porque
+      C7            C
+Seria mía toda la tierra.
+
+ESTRIBILLO:
+             F#                C#
+Yo pienso en tiii   mientras duermo
+     D#m                  A#m
+Yo pienso en ti como te sueño!
+        B                                        A#m
+Me despierto y sin darme ni cuenta pronuncio tu nombre
+      G#m                                    C#
+luego beso tu foto que esta en mi mesita de noche
+
+******LAS NOTAS EN ESTA ESTROFA SON ARPEGIOS*********
+
+     F#                C#
+e) |--------------------------------------|
+B) |-----2-------2------------------------|
+G) |-------3-------3------6-------6-------|
+D) |---4-------4------------6-------6-----|
+A) |-4-------4----------4-------4---------|
+E) |------------------4-------4-----------|
+Yo pienso en ti a cada instante
+
+     D#m              A#2
+e) |----------------------------------6---|
+B) |-----7-------7--------------------6---|
+G) |-------8-------8--------------7---7---|
+D) |---8-------8----------8---------8-8---|
+A) |-6-------6----------8---8---8---------|
+E) |------------------6-------6-----------|
+Yo pienso en ti únicamente
+
+    B                      A#m
+e) |-----------------------------------------|
+B) |-----4--------4------------2--------2----|
+G) |-------4--------4------------3--------3--|
+D) |---4--------4------------3--------3------|
+A) |-2--------2------------1--------1--------|
+E) |-----------------------------------------|
+y no hay nada que pueda alejarme de ti ni un momento
+
+      G#m                  C#
+e) |-----------------------------------------|
+B) |-----4-------4---------------------------|
+G) |-------4-------4-----6-------6-----------|
+D) |---6-------6-----------6-------6---------|
+A) |-6-------6---------4-------4-------------|
+E) |-----------------4-------4---------------|
+Porque tu estas metida en mi alma y en mi pensamiento
+
+********Rasgueo suave****************
+             D#m  C#     B   A#m
+Yo pienso en tiiii   en  tiiiii
+    G#m      C#           D#
+solamente pienso       en tiii...
+
+Cualquier duda solo escríbanme Rolando(RolM4Alex@hotmail.com)
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

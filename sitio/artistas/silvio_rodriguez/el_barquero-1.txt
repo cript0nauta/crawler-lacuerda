@@ -1,0 +1,100 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: EL BARQUERO                                              |
+| AUTOR:   Silvio Rodríguez                                         |
+| ALBUM:   Érase que se era (2006)                                  |
++------------------------------------------------------ACO-srod4321-+
+| TRANS:   Carlos                                                   |
+=====================================================================
+
+Int.: Lam (B-III-II-0-1) 2v Re/Fa# 2v (BIS) La
+
+En la primera estrofa los acordes La, Sol y Fa se tocan
+superponiéndoles distintos bajos, que se indican seguido de
+una /
+
+   LA/MI   /Fa#/Mib   SOL#       SOL
+A) Un buen día quizás un barquero
+/RE      /MI     /DO# FA#        FA
+se lanzo tras el mar  del recuerdo
+/DO          /RE  /SI MI
+Era un barco pequeño  en el tiempo
+          LAm
+pero había fe,
+                       RE/FA#
+pero había un raro esplendor en sus ojos,
+                       FA            MI
+pero había un místico afán de por que,
+LAm        RE/FA#
+pero había fe.
+
+A1) Una dársena es solo una entraña;
+mar de invierno es tal vez la mañana;
+barco chico es quizás alma clara;
+y aunque haya fe,
+y aunque haya un flujo de amor en mi frente,
+tanto se hunde mi rostro en la gente,
+          RE/FA# LAm RE LA
+que ya no se.
+
+  RE    SOL      DO#7    FA#
+B)Ya me canso de tanto hablar,
+        SIm   /LA           RE
+si esta dicho todo hasta el fin.
+MIm     SIm          DO     RE
+Que mas ruido que el de escuchar
+MIm   SIm     DO       FA LA
+de la vida, todo el trajín.
+
+B1) Tanto espacio entre mi voz
+y el oído que ha de esperar.
+Nada tengo que decir yo
+                       FA RE/FA#
+miren todo y me escucharan.
+
+A2) Un buen día quizás un barquero
+se lanzo tras el mar del recuerdo
+De su barco, entre grito y silencio
+aun no se sabe
+cual de las tantas ha sido su suerte:
+si hallo la vida o se fue con la muerte
+                    LAm RE/FA#
+o simplemente se perdió.
+      LAm RE/FA# LA
+Se perdió.
+
+Lam: X02210
+Re/Fa#: 2X0232
+La: X02220
+La/Mi: XX2220
+La/Fa#: XX4220
+La/Mib: XX1220
+Sol#: 466544
+Sol: 320003
+Sol/Re: XX0003
+Sol/Mi: XX2003
+Sol/Do#: X40003
+Fa#: 244322
+Fa: 133211
+Fa/Do: X33211
+Fa/Re: XX0211
+Fa/Si: X23211
+Mi: 022100
+Re: XX0232
+Do#7: X46464
+Sim: X24432
+Sim/La: X04432
+Mim: 022000
+Do: X32010
+
+Un abrazo, Carlos.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

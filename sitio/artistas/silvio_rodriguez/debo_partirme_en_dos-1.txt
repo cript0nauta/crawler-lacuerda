@@ -1,0 +1,177 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Silvio Rodriguez                                         |
+| CANCION: DEBO PARTIRME EN DOS                                     |
+| AUTOR:   Silvio Rodríguez                                         |
+| ALBUM:   Al Final De Este Viaje                                   |
++------------------------------------------------------ACO-srod0411-+
+| TRANS:   Ramon                                                    |
+=====================================================================
+
++ Servidor FTP de la Universidad de Leon        +
++ ftp://est.unileon.es/pub/musica/acordes/esp/  +
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Acordes:
+   Am   Dm    E   G\B   C    G    F
+E|--0----1----0----0----0----3----1---
+B|--1----3----0----3----1----0----1---
+G|--2----2----1----0----0----0----2---
+D|--2----0----2----0----2----0----3---
+A|--0---------2----2----3----2----3---
+E|------------0---------0----3----1---
+
+
+Intro.:
+E|--0--------------1-----------1--0--
+B|--1--1--1--0-----3--0--1--3-----0--
+G|--2-----------2--2--------------1--
+D|--2--------------0--------------2--
+A|--0-----------------------------2--
+E|--------------------------------0--
+
+     Am              Dm         E
+     No se crean que es majadería.
+
+E|--------------1--0-----0-----------
+B|-----0--1--3--------3-----1--0-----
+G|--2-----------------------------1--
+D|-----------------------------------
+A|-----------------------------------
+E|-----------------------------------
+
+     Am                 Dm            E
+     Que nadie se levante aunque me ría.
+     Am       G\B    C                 G
+     Hace rato que vengo lidiando con gente
+     Am          G\B   C                G
+     que dice que yo canto cosas indecentes.
+          C           Am
+     Te quiero, mi amor,
+     F             G
+     no me dejes solo.
+          C             Am
+     No puedo estar sin ti
+     F    (F#)      G
+     mira que yo lloro.
+     Am                 Dm
+     ¿No ven?, ya soy decente:
+               E    
+     me fue fácil.
+     Am                  Dm               E
+     Que el público se agrupe y que me aclame.
+     Am            G\B     C
+     Que se acerquen los niños,
+                       G
+     los amantes del ritmo.
+     Am           G\B   C                G
+     Que se queden sentados los intelectuales.
+            F
+     Debo partirme en dos.
+            E
+     Debo partirme en dos.
+                       Am
+     Unos dicen que aquí,
+                       F
+     otros dicen que allá
+                     Am
+     y sólo quiero decir,
+                     F
+     sólo quiero cantar
+                        Dm
+     y no importa la suerte
+                  C
+     que pueda correr
+              G
+     una canción.
+     E                Am
+     Unos dicen que aquí,
+                      F
+     otros dicen que allá
+                     Am
+     y sólo quiero decir,
+                     F
+     sólo quiero cantar,
+                        Dm
+     y no importa que luego
+             C            G     E
+     me suspendan la función.
+
+E|--0-----------------0-----------------
+B|--1-----------------0-----------------
+G|--2-----------------1-----------------
+D|--2--0--2--0--2--0--2-----------------
+A|--0-----------------2--0--2--0--2--0--
+E|--------------------0-----------------
+
+
+(*** En los proximos versos se repiten los acordes de arriba ***)
+
+     Yo también canté en tonos menores.
+     Yo también padecí de esos dolores.
+     Yo también parecía cantar como un santo.
+     Yo también repetí en millones de cantos:
+
+     Te quiero, mi amor,
+     no me dejes solo.
+     No puedo estar sin ti
+     mira que yo lloro.
+
+     Pero me fui enredando en más asuntos
+     y aparecieron cosas de este mundo:
+     «Fusil contra fusil», «La canción de la Trova»
+     y «la era pariendo» se puso de moda.
+     Debo partirme en dos.
+
+     Unos dicen que aquí,
+     otros dicen que allá
+     y sólo quiero decir,
+     sólo quiero cantar
+     y no importa la suerte
+     que pueda correr
+     una canción.
+     Unos dicen que aquí,
+     otros dicen que allá
+     y sólo quiero decir,
+     sólo quiero cantar,
+     y no importa que luego
+     me suspendan la función.
+
+     Yo quería cantar encapuchado
+     y después confundirme a vuestro lado
+     aunque así no tuviera amigos y citas
+     y algún que otro favor de una chica bonita.
+
+     Te quiero, mi amor,
+     no me dejes solo.
+     No puedo estar sin ti
+     mira que yo lloro.
+
+     No voy a repetir ese estribillo.
+     Algunos ojos miran con mal brillo
+     y estoy temiendo ahora no ser interpretado:
+     casi siempre sucede que se piensa algo malo.
+     Debo partirme en dos.
+
+     Unos dicen que aquí,
+     otros dicen que allá
+     y sólo quiero decir,
+     sólo quiero cantar
+     y no importa la suerte
+     que pueda correr
+     una canción.
+     Unos dicen que aquí,
+     otros dicen que allá
+     y sólo quiero decir,
+     sólo quiero cantar,
+     y no importa que luego
+     me suspendan la función.
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

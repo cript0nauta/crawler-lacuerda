@@ -1,0 +1,109 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Luis Alberto Spinetta                                    |
+| CANCION: DOS MURCIELAGOS                                          |
+| AUTOR:   Luis Alberto Spinetta                                    |
+| ALBUM:   Para los árboles (2003)                                  |
++------------------------------------------------------ACO-spin1901-+
+| TRANS:   Roberto                                                  |
+=====================================================================
+
+Versión corregida, señores,
+igual no es exacta pero creo que suena aceptablemente bien..:
+
+          D       F#m7/11  A6/4
+  Yo no escribo, no soy un hombre
+             D      Gmaj7      Em7            A
+  pero en mi bruma conozco muy bien la inmensidad;
+          D         F#m7/11     Gmaj7 F#(b9)
+  son mis ramas, mis aguas, mis antepasados
+          G/A    F#m7/11        Cmaj7   D
+  y qué feliz la verdad de este sueño fugaz.
+        D            F#m7/11    A6/4
+  Yo te digo que te escucho cuando me hablás;
+        D             Gmaj7      Em7        A
+  la distancia es tan grande que no sirve mirar,
+          D        F#m7/11      Gmaj7      F#(b9)
+  sólo sentir las estrellas y saber que se mueven
+          G/A    F#m7/11        Cmaj7   D
+  y qué feliz la verdad de este sueño fugaz...
+D4         Dmaj7/b5    D2
+  La vida como un carrillón
+           Dm7     Em7/#9   Am7
+  que se enciende una nueva vez;
+  Fmaj7        Fmaj7/13          G#m7/11
+  sólo en la canción tendrás un espejo en vano
+   Gm7/11         F#7/#11   Fmaj7
+  abierto sobre un cuerpo rosa
+          F#m7/11         A
+  que se entrega en su destino...
+
+        D   F#m7/11    Gmaj7
+  En la vida siempre será
+         D*      Gmaj7* Gmaj7/13    F#m7/11 - (Em7)
+  el corazón de amor  hasta el amanecer
+          D        F#m7/11      Gmaj7      F#(b9)
+  sólo sentir las estrellas y saber que se mueven
+          G/A    F#m7/11        Cmaj7    D
+  y qué feliz la verdad de este mundo ideal,
+        Ebmaj7 F#m7/11        Cmaj7   D
+  qué feliz la verdad de este sueño fugaz.
+     D      F#m7/11      Gmaj7
+  Yo vivo pidiéndote que vueles más alto
+           D*         Gmaj7* Gmaj7/13       F#m7/11 - (Em7)
+  y los halcones te esperan  junto al despertar,
+              D       F#m7/11                Gmaj7       F#(b9)
+  ya no hay amparo ni sombras ni soles ni un tiempo alcanzado
+          G/A    F#m7/11        Cmaj7    D
+  y qué feliz la verdad de este mundo ideal,
+        Ebmaj7 F#m7/11        Cmaj7   D
+  qué feliz la verdad de este sueño fugaz,
+        Ebmaj7   F#m7/11        Cmaj7    D
+  y qué feliz la verdad de este mundo ideal;
+        Ebmaj7        F#m7/11  Cmaj7   D
+  qué feliz, feliz, feliz este sueño fugaz...
+D4         Dmaj7/b5    D2
+  La vida como un carrillón
+           Dm7     Em7/#9   Am7
+  que se enciende una nueva vez...
+
+
+--------------------------------------------------------
+
+ACORDES:
+
+       D: xx0232
+ F#m7/11: 2x220x
+    A6/4: x04230
+   Gmaj7: 3x443x
+     Em7: 022030
+       A: x02220  ...no estoy seguro en el 1er verso de cada estrofa
+  F#(b9): 245322
+     G/A: 5x543x  ...tampoco estoy seguro
+   Cmaj7: x32000
+
+      D4: xx0233
+Dmaj7/b5: xx0122
+      D2: xx0230
+     Dm7: xx0211
+  Em7/#9: xx2033
+     Am7: x02010
+   Fmaj7: 1x221x
+Fmaj7/13: 1x223x
+ G#m7/11: 4x442x
+  Gm7/11: 3x331x
+ F#7/#11: 2x231x
+
+      D*: x54232
+  Gmaj7*: xx4432
+Gmaj7/13: 3x445x
+  Ebmaj7: x65333
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

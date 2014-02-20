@@ -1,0 +1,141 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Ricardo Arjona                                           |
+| CANCION: DAME                                                     |
+| AUTOR:   Ricardo Arjona                                           |
+| ALBUM:   Santo Pecado (2002)                                      |
++------------------------------------------------------TAB-rarj0984-+
+| TRANS:   Jose                                                     |
+=====================================================================
+
+Esta cancion se la dedico a la persona mas especial
+en mi vida...  Aury... TQ...
+
+
+  *---------------------*
+  | h :hammer on        |__________
+  |( ):notas que se tocan muy suave|
+  | ~ :vibrato          |¯¯¯¯¯¯¯¯¯¯
+  | x :palm mute        |
+  | p :pull off         |____
+  | _ :notas que se extienden|
+  *---------------------*¯¯¯¯
+
+*Intro:
+          D         Em
+F#]---------0h2--------0--]
+C#]-------3-----2------0--]
+A ]-----2--------------0--] <-----------------------------------------------------------.
+E ]--0--------------------]                                                             |
+B ]----------------2------]                                                             |
+F#]-----------------------]                                                             |
+                                                                                        |
+*Versos:                                                                                |
+          D           Em            Em               D   A/C#      Bm          G        |
+F#]---------0h2----------0-------------0----------]--2----0-----x------2------(5)--]    |
+C#]-------3-----2------(0)--0--------(0)--0-------]----3---(2)--x--3-----3---------]    |
+A ]-----2---------------------0-------------0-----]-----2----------(4)-----4-------]    |
+E ]--0------------(0)----------(0)-----------(0)--]--0-------------------------5---]    |
+B ]------------------2-------------2--------------]-------4-----x--2-----------5---]    |
+F#]-----------------------------------------------]--------------------------------]    |
+        Dame   tus huellas para  usarlas de  za...                                      |
+ ..patosdame   tus dudas   para hacerme una  puls..                      (aqui va la Intro)
+ ..sera     usa mis manos  para hacerte una   escalera    hastalasnubes y volara donde sea
+
+
+        Mienteme un poco   para   mantenerme a..
+  ..tentohazme unahamaca conel menguante de la lun..
+   ..a      dame tu risa para     los tiempos en vela   quitate el peso delos besos que te
+        D                C/D               G                               D
+F#]------------------------(0)________-------3_________----------------------2_________--]
+C#]------3-----------------3_________-------3_________----------------------3_________---]
+A ]----2---2--------------0_________-------4_________----------------------2_________----]
+E ]--0-------------------2_________-------5_________----------------------4_________-----]
+B ]---------------------3_________-------5_________---------------------(5)________------]
+F#]--------------------------------------------------------------------------------------]
+      sobren es tan difiicil respirar el aire en que no estas es tan dificil
+
+
+*Coro
+
+G            D             F#7         Bm
+  Dame tus sueños, para hacerte una diadema.
+G            D          F#7            Bm
+  dame el pasado, para no quitarte el tiempo,
+           G                 D
+  que lo que te está sobrando,
+        C             D
+  a mí me salva la vida.
+
+G           D            F#7         Bm 
+  Dame tu llanto, para llorarlo contigo.
+G             D            F#7           Bm
+  dame el misterio, de tus ojos cuando duermes.
+          G                 D  
+  dame el aire cuando exhalas,
+        C              D
+  para ver si te respiro.   *Intro.
+
+(esto va con la tab de *Versos)
+  ponle mi nombre, al lunar de tu mejilla.
+  dile a tu oído, que me escuche cuando miro.
+  salva mis manos, con el roce de tu espalda.
+  dame el remedio para no curarme nunca.
+  es que es tan fácil respirar,
+  el aire cuando estás... siempre es tan fácil. 
+
+*Coro...
+
+ahora viene lo mismo del intro pero con palm-mute en unas notas...
+
+         D           Em             D            Em
+F#]---------0h2x-----------0-----------0h2x-----------5--]
+C#]-------3----------------0---------3----------------3--]
+A ]-----2------------------0-------2------------------0--]
+E ]--x------------------(2)-----x------------------------]
+B ]---------------2~~~~----------------------2~~~~-------]
+F#]------------------------------------------------------]
+
+F#]---------0h2x-----------0-----------0h2x-----------0--]
+C#]-------3----------------0---------3----------------0--]
+A ]-----2------------------0-------2---------------------]
+E ]--x------------------(2)-----x-----------------(2)----]
+B ]---------------2~~~~----------------------2~~~~-------]
+F#]------------------------------------------------------]
+
+ Esta es la mejor parte...
+               D                A     A/Bb   Bm
+F#]--------------5--3-0h2p0-----0-----0h2-3----2--------]
+C#]-------------7-----------3p2-2-2-3-2-------3--3-2-0--]
+A ]------------7----------------2------------4---4-2-0--]
+E ]-----------0-----------------------------------------]
+B ]-----------------------------0-----1-----2-----------]
+F#]-----------------------------------------------------]
+   Quitame un beso        pontelo donde prefieras
+
+     D                      A  A/Bb      Bm   A    
+F#]-----3-2h3p2-----2-------0-----0----------0-0--]
+C#]---3---------3-------------2----------3---2-2--]
+A ]-2-------------2----------------------4---2-2--]
+E ]--------------------------------------4---2-2--]
+B ]-------------------------0---1--------2---0-0--]
+F#]-----------------------------------------------]
+    dame un pretexto para reestrenar mi vida
+
+          G              D
+    dame lo que quieras darme
+          C               D
+    quitame lo que tu quieras   Intro...
+
+A/Bb: x12320
+A/C#: x42220
+F#7 : 242352 o 242322
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

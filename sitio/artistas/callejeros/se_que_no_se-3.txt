@@ -1,0 +1,144 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Callejeros                                               |
+| CANCION: SE QUE NO SE                                             |
+| AUTOR:   Callejeros, Djerfy, Rogello Santos                       |
+| ALBUM:   Rocanroles Sin Destino (2004)                            |
++------------------------------------------------------TAB-call0523-+
+| TRANS:   Santiago                                                 |
+=====================================================================
+
+(Los acordes no los dejo porque ya están bien en otra tablatura)
+
+
+Intro
+
+F# x 4
+
+   F#                     B    C#   F#    E
+e|----------------------------------------0---|
+B|----------------------------------------0---|
+G|----------------------------------------1---|
+D|----------------------------------------2---|
+A|------------2-4-4-6-7-6-4-6---4---------2---|
+E|--2-2-4-6-6------------------------2----0---|
+
+Se perdió la llave de otro paraíso (riff 1)
+Se pudieron escapar los prisioneros de la razón (riff 2)
+Se convirtieron en demonios los angeles que nadie quiso (riff 1)
+Se regalaron los besos que nadie vendió
+
+Se levanto al fin el sol a la luna pero on se ven nunca (riff 1)
+Se mudo al centro la abuelita del cuento con el lobo feroz (riff 2)
+Se ve por el alcohol y en alguna que es mas linda de nunca (riff 1)
+Se dice que prenderse mucho a la tuca te consume la voz
+
+          (riff 3)
+Se hizo emoción la inocencia, cuando pego esa sensación
+Quedamos en presencia de la ausencia del dolor (riff 4)
+
+Se juntan a internetear conventillos los amigos de Judas (riff 1)
+Se opta mucho mas por figurar que por tener decisión (riff 2)
+Se desbordo con certezas amargas el gran mar de las dudas (riff 1)
+Se puso más careta que un cura la cultura del rock
+
+Se ve que la escalera más sincera es la que va para abajo (riff 1)
+Se pone menos falso todas las cosas son como son (riff 2)
+Se fue perdiendo mucho más en mi tierra que la paz y el trabajo (riff 1)
+Se repartieron más panfletos del cielo de la contradicción
+
+          (riff 3)
+Se hizo emoción la inocencia, cuando pego esa sensación
+Quedamos en presencia de la ausencia del dolor (riff 4)
+
+Se que no se pero siempre, siempre opino igual
+Escribo sin escuchar, si lo que hago yo mismo esta bien o mal
+
+Solo 1
+Base: E x 4
+
+e|------------------------------------------------|
+B|------------------------------------------------|
+G|--2s4-4-4-4-4-4-4-4-4-4-4--2s4-4-4-4-4-4-4-4-4--|
+D|------------------------------------------------|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+e|--s12-12-12-12-12-12----12-12----12-12-----------------12-12-12-12-|
+B|---------------------12-------12-------12--s12-s12-s12-------------|
+G|-------------------------------------------------------------------|
+D|-------------------------------------------------------------------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+          (riff 3)
+Se hizo emoción la inocencia, cuando pego esa sensación
+Quedamos en presencia de la ausencia del dolor (riff 4)
+
+          (riff 3)
+Se hizo emoción la inocencia, cuando pego esa sensación
+Quedamos en presencia de la ausencia del dolor (riff 4)
+
+Solo 2
+Base: A - E - A - B - A - E - D - B
+
+e|--------------------------------------------|
+B|----2-4-5-5-5-4-2--4--5-5-------------------|
+G|--4-----------------------4--1-2-4-2-1------|
+D|---------------------------------------4-2--|
+A|--------------------------------------------|
+E|--------------------------------------------|
+
+e|-------------------------------------|
+B|--5-5-4-2--4-5-------5-7-7brp5---5~--|
+G|---------------4-4s6-----------6-----|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+e|-------------------------------------|
+B|--5-5-4-2--4-5-5-4-------5-4-2-2s4~--|
+G|--------------------2--2-------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+
+                Riff 1                  Riff 2
+e|----------------------------------|------------|
+B|------5-----5-----5-----5-----5---|------------|
+G|--4h6---4h6---4h6---4h6---4h6-----|------------|
+D|----------------------------------|---2-4br-2--|
+A|----------------------------------|-4----------|
+E|----------------------------------|------------|
+
+    Riff 3
+e|--------------------------------------------------------|
+B|---------------------------------5-7br-5----------------|
+G|------------------------------s6-------------2-4-2------|
+D|----2-4br-2--4--4-6-4-6p4------------------4-------4s6--|
+A|--4-----------------------7-----------------------------|
+E|--------------------------------------------------------|
+
+    Riff 4
+e|--------------------|
+B|--5-4------5-4------|
+G|--------------------|
+D|------6-4------6h4--|
+A|--------------------|
+E|--------------------|
+
+b: bending
+h: hammer on
+p: pull of
+r: release
+brp: bending + release + pull off
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

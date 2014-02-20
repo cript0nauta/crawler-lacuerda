@@ -1,0 +1,135 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Gustavo Cerati                                           |
+| CANCION: UNO ENTRE MIL                                            |
+| AUTOR:   Gustavo Cerati - Richar Coleman                          |
+| ALBUM:   Ahí Vamos (2006)                                         |
++------------------------------------------------------ACO-gcer0532-+
+| TRANS:   Jeremías                                                 |
+=====================================================================
+
+UNO ENTRE 1000.
+
+
+INTRO:  Linea de bajo sobre E5 - G5 [x4]
+
+
+(1er estrofa igual que intro)
+Suspendida
+parece hibernar
+Algún día
+ella despertará
+
+C9       D9       E9       G9
+Mientras tanto
+C9       D9
+yo me encargo de evitarlo.
+
+REPITE INTRO
+
+SOBRE RIFF:
+Solo endivias
+como manjar
+LA delicia
+nada más criminal
+
+INTER:   F#5 - A5 (x4)
+
+Si las larvas
+pueden ser dulces
+mal vecino
+las exterminará
+
+REPITE INTER
+
+B       A        D      E
+Cuando lo crea oportuno
+Abrir
+B       A        D      E
+abrir un hueco en el futuro
+fundir
+B       A        D      E
+fundir mi sueño con el tuyo
+por fin
+B       A        D      E
+y que por fin seamos uno
+D   E
+uno
+D   E       E7
+uno entre mil
+
+
+SOLO SOBRE INTER
+
+
+B       A        D      E
+Cuando lo crea oportuno
+Abrir
+B       A        D      E
+abrir un hueco en el futuro
+fundir
+B       A        D      E
+fundir mi sueño con el tuyo
+por fin
+B       A        D      E
+y que por fin seamos uno
+D   E
+uno
+D   E       C9 - D9 (x5)
+uno entre mil
+
+C9       D9      E9     G9
+Mientras tanto
+C9       D9       bajo: E
+yo me encargo de evitarlo
+
+
+RIFF:
+
+E||----------------------------------|
+A||----------------------------------|
+D||--1^2-------2-0-------------------|
+G||-------0^1--------0^1-2-----------|
+B||----------------------------------|
+e||----------------------------------|
+
+
+
+ACORDES:
+
+Nota: las cuerdas marcadas con "x" no hay que tocarlas.
+
+      E5            G5             C9             D9
+       xxx           xxx
+    ||||||        ||||||         ||||||         ||||||
+    |oo|||        o||||| [III]   oooooo [III]   oooooo [V]
+    ||||||        ||||||         ||||||         ||||||
+    ||||||        |oo|||         ||oo||         ||oo||
+    ||||||        ||||||         ||||||         ||||||
+
+
+      E9             G9            F#5           A5
+                                    xxx           xxx
+    ||||||         ||||||        ||||||        ||||||
+    oooooo [VII]   oooooo [X]    o|||||        o||||| [V]
+    ||||||         ||||||        ||||||        ||||||
+    ||oo||         ||oo||        |oo|||        |oo|||
+    ||||||         ||||||        ||||||        ||||||
+
+
+      E7
+
+    ||||||
+    ||||o|
+    ||o|||
+    |o|o|| (VII)
+    ||||||
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

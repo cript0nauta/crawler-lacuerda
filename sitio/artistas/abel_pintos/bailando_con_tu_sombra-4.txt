@@ -1,0 +1,111 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Abel Pintos                                              |
+| CANCION: BAILANDO CON TU SOMBRA                                   |
+| AUTOR:   Victor heredia                                           |
+| ALBUM:   Sentidos (2004)                                          |
++------------------------------------------------------TEC-apin0064-+
+| TRANS:   denis                                                    |
+=====================================================================
+
+c = do             # es un sostenido implica un semitono mayor
+d = re
+e = mi              - o + en las notas indican si son de una escala
+f = fa              superior(+) o inferior(-) solo en los casos que
+g = sol             se pueda generar confusión.
+a = la
+b = si
+
+Si bien se toca con SI mayor, es más armonico con SIm
+
+SI                      LA
+Quien podrá quererte como yo te quiero, amor
+d   d d   d  f#   f#  e    d  c# c# c# c#  e
+
+ SOL                RE
+Quien, pregunto quién, podrá quererte como yo
+b  b    b    b  d  d    c#    b a  g  f# g  a
+
+ SI                      LA
+Siempre lo decías y me atabas a tu piel
+d    d  d   d  f# f# e d d  c#4    e
+
+     SOL                    RE
+Con ramos de besos y escuchábamos caer
+b  b  b  b    d d   c# b a  g  f# g  a
+
+LA         SOL       RE
+Sobre los techos de zinc,
+a  e   b  g  d    g   f#-
+
+LA         SOL       RE
+Lluvias de otoño en abril.
+a  e   b  g  d    g   f#-
+
+Coro....
+FA#                     SI
+Tengo esa nostalgia de domingo por llover,
+c#  c#    d  e e     d c#  d d  d   d  f#
+
+   FA#                 SI
+De guitarra rota, de oxidado carrusel
+c#  c#    d  e e     d c#  d d  d   d  f#
+
+SOL   RE       SOL    RE
+Ay, Alelí... pobre de mí.
+d   d b a    b   g  d- e-
+
+[DE ACA REPITE]
+
+SI                   LA
+Yo te desnudaba para ver cómo era el mar,
+  SOL                                 RE
+Y el mar se enredaba a mis deseos de volar.
+ SI                       LA
+Íbamos tan lejos que olvidábamos volver
+SOL                       RE
+Nos traía el ángel ciego del amanecer
+LA      SOL          RE
+Y se acostaba a tus pies
+LA         SOL     RE
+Como una gatito siamés.
+
+FA#                       SI
+Tengo esa nostalgia de domingo por llover,
+FA#                             SI
+De guitarra rota, de oxidado carrusel
+SOL   RE     SOL      RE
+Ay, Alelí... pobre de mí.
+
+SI                      LA
+Esta noche quiero que bailemos otra vez
+SOL                              RE
+La canción que el viento nos cantaba en el ayer.
+SI                         LA
+Ya sabría el infierno cómo hacer para aceptar
+SOL                          RE
+Que baile en mi celda con tu sombra sin parar
+LA       SOL     RE
+Cómo he podido matar,
+LA        SOL     RE
+A quien me hacía soñar.
+
+FA#                       SI
+Tengo esa nostalgia de domingo por llover,
+FA#                             SI
+De guitarra rota, de oxidado carrusel
+SOL   RE     SOL      RE
+Ay, Alelí... pobre de mí.
+
+Saludos desde Cordoba Argentina!
+
+Este es para vos Denise! mi último regalo :)
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================

@@ -1,0 +1,152 @@
+=====================================================================
+|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
++-------------------------- lacuerda.net ---------------------------+
+| ARTISTA: Attaque 77                                               |
+| CANCION: SETENTISTAS                                              |
+| AUTOR:   Pertusi / Martínez                                       |
+| ALBUM:   -?-                                                      |
++------------------------------------------------------TAB-at771413-+
+| TRANS:   Lei77o                                                   |
+=====================================================================
+
+*Versión Corregida*
+(Le agregué los arreglitos y una nota que había escrito mal)
+
+
+Bueno, este solo quedó con una notación bastante complicada...
+En realidad el solo no es difícil, pero para que suene lo más parecido
+posible al tema hay que usar una serie de ligados y por eso de la
+notación.
+Las referencias abajo de todo.
+Saludos
+
+
+======================================================================
+
+Attaque 77
+Setentistas
+
+
+SOLO:
+====
+
+   1:47
+                                                  q        s
+e|--------------------------------------------------------------------|
+B|----12---10---9-------12---10---9-------10~-------10-12-9b-9--------|
+G|--9----9----9---9-9-9----9----9---9-9-9-----9~-9b------------9------|
+D|---------------------------------------------------------------9~~--|
+A|--------------------------------------------------------------------|
+E|--------------------------------------------------------------------|
+
+                           f  s          f  f  f      s
+e|--------------------------------------------------------------------|
+B|-------------------------------------12b12b12brp9-------------------|
+G|------9--------------9-11b~~brp9-------------------11br~~-----------|
+D|-9h11---9h11~---9-11-------------9~---------------------------------|
+A|--------------------------------------------------------------------|
+E|--------------------------------------------------------------------|
+
+
+
+ARREGLOS:
+========
+
+
+                                  1:06
+
+... Deciles que no les sirve luchar
+                                        f
+                                 e|----------------------|
+                                 B|----------------------|
+                                 G|----------------------|
+                                 D|----------------------|
+                                 A|-------2-4-2-0-2------|
+                                 E|-5-4-5----------------|
+
+
+
+                                  2:11
+
+... Deciles que no les sirve luchar
+                                        f
+                                 e|----------------------|
+                                 B|--------12------------|
+                                 G|--9-11b~~~~11r-9------|
+                                 D|----------------------|
+                                 A|----------------------|
+                                 E|----------------------|
+
+
+                 2:41
+... No te metás
+                      f f f
+              e|----------------------|
+              B|----------------------|  Acá hay que estirar y soltar
+              G|-9-11brbrbrp9----9~---|  sin volver a tocar en el 11
+              D|--------------11------|
+              A|----------------------|
+              E|----------------------|
+
+
+Después del arreglo anterior, empieza un riff que se repite durante
+el tiempo indicado:
+
+        2:43 Repetir hasta 3:01
+        e|----------------------|
+        B|------12--------------|
+        G|--9-9-----------------|
+        D|----------------------|
+        A|----------------------|
+        E|----------------------|
+
+
+                 3:05
+... No te metás
+                   f      f
+              e|----------------------|
+              B|----------------------|
+              G|-11brp9-11brp9---11~~-|
+              D|---------------9------|
+              A|----------------------|
+              E|----------------------|
+
+
+Y termina con fade out repitiendo el riff anterior:
+
+         3:08
+        e|----------------------|
+        B|------12--------------|
+        G|--9-9-----------------|
+        D|----------------------|
+        A|----------------------|
+        E|----------------------|
+
+
+======================================================================
+
+Referencias:
+===========
+
+b: Bend. Estirar la cuerda para que suene como:
+         si hay una "q" sobre la b, significa estirar un cuarto
+         de tono,
+         si hay una "s" es un semitono (1 traste),
+         si hay una "f" estirar un tono completo (2 trastes).
+~: Dejar Sonar.
+h: Ligado Ascendente (Hamme On).
+p: Ligado Descendente (Pull Off).
+r: Release. Después de una estirada, volver a la nota original.
+
+** Todo lo que se encuentra en la tab,
+es combinación de lo explicado arriba **
+
+=================================================================
+
+
+=========================== lacuerda.net ============================
+Este fichero es trabajo propio de su transcriptor y representa su    
+interpretación personal de la canción. El material contenido en      
+esta página es para exclusivo uso privado, por lo que se prohibe su  
+reproducción o retransmisión, así como su uso para fines comerciales.
+=========================== lacuerda.net ============================
