@@ -3,6 +3,10 @@
 {% block title %}{{ titulo }} ({{ nombre_artista }}) - Acordes y tablaturas{% endblock %}
 
 {% block body %}
+<h1>cache</h1>
+    {% if (versiones|count) == 1 %}
+        <meta http-equiv="refresh" content="0; url=/artistas/{{ slug_artista }}/{{ slug_cancion }}-1.html" />
+    {% endif %}
     <a href="/artistas/{{ slug_artista }}/">Más canciones de {{ nombre_artista }}</a>
     <h3>{{ titulo }}</h3>
     <ul>
