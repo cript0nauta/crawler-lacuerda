@@ -7,6 +7,8 @@ import argparse
 import json
 from progressbar import ProgressBar
 from jinja2 import Environment, PackageLoader
+from pyquery import PyQuery as P
+from crawler import get_pq
 
 default_out = os.path.join(os.path.dirname(__file__), 'sitio/')
 default_db = os.path.join(os.path.dirname(__file__), 'db.db')
@@ -20,6 +22,7 @@ args = parser.parse_args()
 con = sqlite3.connect(args.db_file)
 con.row_factory = sqlite3.Row # Puedo ver los resultados de consultas como dict
 cur = con.cursor()
+env = Environment(loader=PackageLoader('templates','.'))
 
 # Genero un JSON con los nombres y slugs de artistas
 print 'Generando JSON de artistas...'
@@ -31,7 +34,42 @@ f = open(args.output + '/artistas.json', 'w')
 json.dump(artistas, f)
 f.close()
 
-env = Environment(loader=PackageLoader('templates','.'))
+
+# Genero el index
+print 'Generando index.html....'
+pq = get_pq('/')
+pq_artpop = pq('.cPop li a em').parent()
+pq_artpop.find('em').text('') # borro el tabs
+
+# Artistas populares
+artpop = []
+for e in pq_artpop:
+    artista = P(e)
+    split = artista.attr('href').split('/')
+    slug = split[-1] or split[-2] # Por la barra al final
+    nombre = artista.text()
+    artpop.append((slug, nombre))
+
+# Canciones populares
+pq_cpop = pq('.cPop a i').parent()
+cpop = []
+for e in pq_cpop:
+    cancion = P(e)
+    nombre_artista = cancion.find('i').text()
+    cancion.find('i').text('') 
+    titulo = cancion.text()[:-1] # Saco la coma al final
+    href = cancion.attr('href')
+    slug_artista, slug_cancion = href.split('/')[-2:]
+    cpop.append((titulo, slug_cancion, slug_artista, nombre_artista))
+
+f = open(os.path.join(args.output, 'index.html'), 'w')
+template_index = env.get_template('index.html')
+render = template_index.render(cpop = cpop, artpop = artpop)
+f.write(render.encode('utf8'))
+f.close()
+
+
+# Genero HTMLs para los artistas
 template_artista = env.get_template('artista.html')
 pbar = ProgressBar()
 pbar.widgets.insert(0, 'Generando HTMLs para los artistas ... ')
@@ -57,6 +95,7 @@ for slug, nombre in pbar(cur.execute(q).fetchall()):
     f = open(os.path.join(args.output, 'artistas', slug, 'index.html'), 'w')
     f.write(render.encode('utf8'))
     f.close()
+
 
 pbar = ProgressBar()
 pbar.widgets.insert(0, 'Generando HTMLs para las canciones ... ')
