@@ -108,34 +108,22 @@ for c in pbar(cur.execute(q).fetchall()):
      pbar.update(c['rowid'])
 
 
-template_version = env.get_template('version.html')
 total_versiones = cur.execute('SELECT count(*) FROM version').fetchone()[0]
 pbar = ProgressBar(maxval = total_versiones)
-pbar.widgets.insert(0, 'Generando HTMLs para las versiones ... ')
+pbar.widgets.insert(0, 'Generando TXTs para las versiones ... ')
 q = """
 select
 	a.slug as slug_artista,
-	a.nombre as nombre_artista,
-	c.slug as slug_cancion,
-	c.titulo,
-	version,
-	formato as id_formato,
-	f.descripcion as formato,
-	puntaje,
-	votos,
     contenido,
-	(c.slug || '-' || version || '.html') as filename
+	(c.slug || '-' || version || '.txt') as filename
 from version
 join cancion as c on
 	c.rowid = id_cancion
 join artista as a on
 	c.slug_artista = a.slug
-join formato as f on
-	formato = f.id
 """
 for version in pbar(cur.execute(q)):
-    render = template_version.render(**version)
     f = open(os.path.join(args.output, 'artistas', version['slug_artista'],
         version['filename']), 'w')
-    f.write(render.encode('utf8'))
+    f.write(version['contenido'].encode('utf8'))
     f.close()
