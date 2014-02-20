@@ -1,95 +1,0 @@
-=====================================================================
-|             TABLATURAS Y ACORDES DE MÚSICA EN ESPAÑOL             |
-+-------------------------- lacuerda.net ---------------------------+
-| ARTISTA: La Vela Puerca                                           |
-| CANCION: EL PROFETA                                               |
-| AUTOR:   Sebastián Teysera                                        |
-| ALBUM:   De Bichos Y Flores                                       |
-+------------------------------------------------------ARM-vpue0174-+
-| TRANS:   Lucho                                                    |
-=====================================================================
-
-Armonica en C
-
-Intro:
-5(5)54
-65(5)5(4)4(4)4
-65(5)5(4)4(4)4
-
-Estrofas:
-55555(4)455(4)4
-(5)(5)5(4)4(3)4
-55555(4)455(4)4
-(5)(5)5(4)4(3)4
-
-(3)(--3)(--3)55(4)4(3)4(4)5
-43355(4)4(3)4
-(3)(--3)(--3)55(4)4(3)4(4)5
-(5)(5)(5)5(4)4(3)4
-
-55555(4)455(4)4
-(5)(5)5(4)4(3)4
-55555(4)455(4)4
-(5)(5)5(4)4(3)4
-
-(3)(--3)(--3)55(4)4(3)4(4)5
-43355(4)4(3)4
-(3)(--3)(--3)55(4)4(3)4(4)5
-(5)(5)(5)5(4)4(3)4
-
-[Puente de guitarra]
-
-Estrofa:
-(3)(--3)(--3)55(4)4(3)4(4)5
-43355(4)4(3)4
-(3)(--3)(--3)55(4)4(3)4(4)5
-(5)(5)(5)5(4)4(3)4
-
-León Gieco y su magia con la armónica. El más indica qe hay un acorde
-entre la celda que hace la nota (puesta primera) más (+)
-la que acompaña (puesta segunda).
-Si están entre paréntesis hay qe aspirar las celdas, si no y que soplarlas.
-También Gieco mete trémolos en algunas partes:
-4+3&lt;7+6(6+5) 6+5 (6+5) 6+5 (5+4) 5+4. 4+3(4+3) 4+3 (4+3) 4+3
-4+3&lt;7+6(6+5) 6+5 (6+5) 6+5 (5+4) 5+4. 4+3(4+3) 4+3 (4+3) 4+3
-
-Vientos Veleros:
-5555(4)45(4)455(4)4
-4(4)5(5)(5)5(4)4(3)4
-55(4)5
-(4)5 (4)5 (4)5 (4)5 (4)44(4)(4)(4)4(3)4
-
-Estrofas:
-(3)(--3)(--3)55(4)4(3)4(4)5
-43355(4)4(3)4
-(3)(--3)(--3)55(4)4(3)4(4)5
-(5)(5)(5)5(4)4(3)4
-
-55555(4)455(4)4
-(5)(5)5(4)4(3)4
-55555(4)455(4)4
-(5)(5)5(4)4(3)4
-
-(3)(--3)(--3)55(4)4(3)4(4)5
-43355(4)4(3)4
-(3)(--3)(--3)55(4)4(3)4(4)5
-(5)(5)(5)5(4)4(3)4
-
-(5)(5)(5)5(4)4(3)4
-(5)(5)(5)5(4)4(3)4
-(5)(5)(5)5(4)4(3)7
-
-Coda (parte final)
-4(4)45(5)566(5)54
-34(4)45(5)566(5)5  (5)5(5)6567
-
-
-Arriba la Vela!
-
-
-=========================== lacuerda.net ============================
-Este fichero es trabajo propio de su transcriptor y representa su    
-interpretación personal de la canción. El material contenido en      
-esta página es para exclusivo uso privado, por lo que se prohibe su  
-reproducción o retransmisión, así como su uso para fines comerciales.
-=========================== lacuerda.net ============================
